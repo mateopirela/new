@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ht="https://trends.google.com/trending/rss">
+<channel>
+  <title>Tendencias de búsqueda diarias</title>
+  <item>
+    <title>audífonos inalámbricos</title>
+    <ht:approx_traffic>50.000+</ht:approx_traffic>
+    <description>audífonos inalámbricos</description>
+    <ht:picture>https://example.com/pic1.jpg</ht:picture>
+    <ht:news_item>
+      <ht:news_item_title>Los mejores audífonos bluetooth baratos de 2026 y dónde comprar</ht:news_item_title>
+      <ht:news_item_url>https://news.example.com/audifonos</ht:news_item_url>
+      <ht:news_item_source>TecnoReview</ht:news_item_source>
+    </ht:news_item>
+  </item>
+  <item>
+    <title>freidora de aire</title>
+    <ht:approx_traffic>20.000+</ht:approx_traffic>
+    <description>freidora de aire</description>
+    <ht:news_item>
+      <ht:news_item_title>Receta viral en freidora de aire que arrasa en redes</ht:news_item_title>
+      <ht:news_item_url>https://news.example.com/airfryer</ht:news_item_url>
+      <ht:news_item_source>CocinaHoy</ht:news_item_source>
+    </ht:news_item>
+  </item>
+  <item>
+    <title>Nacional vs Millonarios</title>
+    <ht:approx_traffic>200.000+</ht:approx_traffic>
+    <description>Nacional vs Millonarios</description>
+    <ht:news_item>
+      <ht:news_item_title>Nacional vs Millonarios: alineaciones del partido de hoy</ht:news_item_title>
+      <ht:news_item_url>https://news.example.com/futbol</ht:news_item_url>
+      <ht:news_item_source>Deportes</ht:news_item_source>
+    </ht:news_item>
+  </item>
+  <item>
+    <title>dólar hoy</title>
+    <ht:approx_traffic>100.000+</ht:approx_traffic>
+    <description>dólar hoy</description>
+    <ht:news_item>
+      <ht:news_item_title>El dólar sube tras anuncio del gobierno</ht:news_item_title>
+      <ht:news_item_url>https://news.example.com/dolar</ht:news_item_url>
+      <ht:news_item_source>Economía</ht:news_item_source>
+    </ht:news_item>
+  </item>
+  <item>
+    <title>serum facial vitamina c</title>
+    <ht:approx_traffic>10.000+</ht:approx_traffic>
+    <description>serum facial vitamina c</description>
+    <ht:news_item>
+      <ht:news_item_title>Por qué el serum de vitamina C es la rutina de skincare más buscada</ht:news_item_title>
+      <ht:news_item_url>https://news.example.com/serum</ht:news_item_url>
+      <ht:news_item_source>BellezaMag</ht:news_item_source>
+    </ht:news_item>
+  </item>
+</channel>
+</rss>

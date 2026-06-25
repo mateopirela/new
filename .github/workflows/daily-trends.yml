@@ -1,0 +1,52 @@
+name: Informe diario de tendencias
+
+on:
+  schedule:
+    # 12:00 UTC = 07:00 en Colombia (UTC-5). Ajusta a tu gusto.
+    - cron: "0 12 * * *"
+  workflow_dispatch:        # permite lanzarlo manualmente desde la pestaña Actions
+    inputs:
+      regions:
+        description: "Regiones separadas por coma (ej. CO,MX)"
+        required: false
+        default: "CO"
+
+permissions:
+  contents: write           # necesario para commitear el informe generado
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generar informe
+        env:
+          # Regiones: usa el input manual o el valor por defecto del cron.
+          TRENDS_REGIONS: ${{ github.event.inputs.regions || 'CO' }}
+          # Opcional: define ANTHROPIC_API_KEY como secret del repo para el análisis con IA.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m trends_agent.main
+
+      - name: Commit y push del informe
+        run: |
+          git config user.name "trends-agent[bot]"
+          git config user.email "actions@github.com"
+          git add reports/
+          if git diff --cached --quiet; then
+            echo "Sin cambios en los informes."
+          else
+            git commit -m "Informe de tendencias $(date -u +%Y-%m-%d)"
+            git push
+          fi
