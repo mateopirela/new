@@ -1,0 +1,24 @@
+---
+import '../styles/global.css';
+export interface Props {
+  title: string;
+  description?: string;
+  brand?: string;   // color de marca para esta página
+  accent?: string;  // color de acento
+}
+const { title, description = '', brand = '#0f172a', accent = '#6366f1' } = Astro.props;
+---
+<!doctype html>
+<html lang="es" style={`--brand:${brand};--accent:${accent}`}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <meta name="theme-color" content={brand} />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

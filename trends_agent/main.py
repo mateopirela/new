@@ -8,6 +8,7 @@ Uso:
 from __future__ import annotations
 
 import datetime as dt
+import json
 import os
 import sys
 
@@ -36,18 +37,23 @@ def run(date_str: str | None = None, settings: Settings | None = None) -> str:
         per_region.append((region_data, analyses, insight))
 
     md = report.build_report(date_str, per_region)
+    payload = report.report_payload(date_str, per_region)
 
     os.makedirs(settings.output_dir, exist_ok=True)
     out_path = os.path.join(settings.output_dir, f"{date_str}.md")
+    json_path = os.path.join(settings.output_dir, f"{date_str}.json")
     with open(out_path, "w", encoding="utf-8") as fh:
         fh.write(md)
+    with open(json_path, "w", encoding="utf-8") as fh:
+        json.dump(payload, fh, ensure_ascii=False, indent=2)
 
-    # Copia "latest" siempre apuntando al informe más reciente.
-    latest_path = os.path.join(settings.output_dir, "latest.md")
-    with open(latest_path, "w", encoding="utf-8") as fh:
+    # Copias "latest" siempre apuntando al informe más reciente.
+    with open(os.path.join(settings.output_dir, "latest.md"), "w", encoding="utf-8") as fh:
         fh.write(md)
+    with open(os.path.join(settings.output_dir, "latest.json"), "w", encoding="utf-8") as fh:
+        json.dump(payload, fh, ensure_ascii=False, indent=2)
 
-    print(f"[trends] Informe escrito en {out_path}", file=sys.stderr)
+    print(f"[trends] Informe escrito en {out_path} (+ JSON)", file=sys.stderr)
     return out_path
 
 

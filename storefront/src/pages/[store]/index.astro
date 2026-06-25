@@ -1,0 +1,55 @@
+---
+import Base from '../../layouts/Base.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import { getStores, getReportDate } from '../../lib/stores';
+import { config } from '../../lib/config';
+
+export function getStaticPaths() {
+  return getStores().map((store) => ({ params: { store: store.slug }, props: { store } }));
+}
+
+const { store } = Astro.props;
+const date = getReportDate();
+const waMsg = encodeURIComponent(`¡Hola ${store.name}! 👋 Quiero más información sobre sus productos.`);
+const waLink = `https://wa.me/${config.whatsappNumber}?text=${waMsg}`;
+const geoEntries = Object.entries(store.geo);
+---
+<Base title={`${store.name} — ${store.meta.tagline}`} description={store.rationale} brand={store.meta.color} accent={store.meta.accent}>
+  <Header name={store.name} emoji={store.meta.emoji} cta={waLink} home="./" />
+
+  <section class="hero">
+    <div class="container">
+      <span class="badge">🔥 En tendencia · {store.approxTraffic || 's/d'} búsquedas</span>
+      <h1>{store.meta.tagline}</h1>
+      <p>Los productos más buscados relacionados con <strong>{store.term}</strong>, listos para pedir por WhatsApp.</p>
+    </div>
+  </section>
+
+  <div class="benefits">
+    <div class="container">
+      {store.meta.benefits.map((b) => <span>✓ {b}</span>)}
+    </div>
+  </div>
+
+  <main class="container">
+    <h2 class="section-title">Catálogo</h2>
+    <p class="section-sub">{store.products.length} productos seleccionados por su demanda actual.</p>
+    <div class="grid">
+      {store.products.map((product) => <ProductCard product={product} store={store} />)}
+    </div>
+
+    {geoEntries.length > 0 && (
+      <div class="geo">
+        <h4>🗺️ Dónde se busca más</h4>
+        <p class="section-sub" style="margin:0 0 8px">Interés relativo por región (0–100):</p>
+        <ul>
+          {geoEntries.map(([reg, val]) => <li>{reg}: {val}</li>)}
+        </ul>
+      </div>
+    )}
+  </main>
+
+  <Footer name={store.name} date={date} />
+</Base>

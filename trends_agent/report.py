@@ -1,8 +1,56 @@
-"""Generación del informe diario en Markdown."""
+"""Generación del informe diario en Markdown y su versión estructurada (JSON)."""
 from __future__ import annotations
 
 from .analyze import Analysis, top_opportunities
 from .collect import RegionData
+
+
+def report_payload(
+    date_str: str,
+    per_region: list[tuple[RegionData, list[Analysis], str | None]],
+) -> dict:
+    """Versión estructurada del informe, pensada para consumirla por otros agentes.
+
+    El agente constructor de e-commerce lee este JSON (no el Markdown).
+    """
+    regions_out = []
+    for region_data, analyses, insight in per_region:
+        opps = top_opportunities(analyses, limit=50)
+        regions_out.append({
+            "code": region_data.region.code,
+            "name": region_data.region.name,
+            "insight": insight,
+            "trends": [
+                {
+                    "rank": a.trend.rank,
+                    "term": a.trend.term,
+                    "approx_traffic": a.trend.approx_traffic,
+                    "traffic_value": a.trend.traffic_value,
+                    "category_key": a.category.key,
+                    "category_label": a.category.label,
+                    "score": a.score,
+                    "is_opportunity": a.is_opportunity,
+                    "geo_breakdown": a.trend.geo_breakdown,
+                    "news_titles": a.trend.news_titles[:3],
+                }
+                for a in analyses
+            ],
+            "opportunities": [
+                {
+                    "term": a.trend.term,
+                    "category_key": a.category.key,
+                    "category_label": a.category.label,
+                    "score": a.score,
+                    "approx_traffic": a.trend.approx_traffic,
+                    "rationale": a.rationale,
+                    "product_ideas": list(a.product_ideas),
+                    "related_queries": list(a.trend.related_queries),
+                    "geo_breakdown": a.trend.geo_breakdown,
+                }
+                for a in opps
+            ],
+        })
+    return {"date": date_str, "regions": regions_out}
 
 
 def _emoji_for_score(score: int) -> str:

@@ -104,8 +104,73 @@ reports/        informes generados (AAAA-MM-DD.md + latest.md)
 tests/          pruebas offline + fixtures
 ```
 
+---
+
+## 🏪 Agente 2 — Constructor de tiendas (Astro)
+
+Un segundo agente lee el informe estructurado (`reports/latest.json`) y genera,
+**con una plantilla de framework (Astro)**, una **tienda e-commerce por cada
+oportunidad** de dropshipping, con **pedido por WhatsApp**.
+
+```
+reports/latest.json  ──►  storefront/ (Astro)  ──►  dist/
+                                                     ├─ index.html              (directorio de tiendas)
+                                                     ├─ audifonos-inalambricos/ (tienda autocontenida)
+                                                     │    ├─ index.html
+                                                     │    └─ <producto>/index.html
+                                                     ├─ serum-facial-vitamina-c/...
+                                                     └─ freidora-de-aire/...
+```
+
+Cada oportunidad se convierte en una mini-tienda de nicho:
+- **Marca y estética por categoría** (color, emoji, tagline).
+- **Productos** derivados de las ideas del informe, con **precio en COP**
+  (determinista), precio tachado y % de descuento.
+- **Imágenes** SVG autocontenidas (sin peticiones externas).
+- **Botón "Pedir por WhatsApp"** con mensaje prellenado (producto + precio).
+- **Bloque geográfico** con dónde se busca más cada término.
+
+Cada carpeta `dist/<slug>/` es un **sub-sitio independiente**: puedes desplegar
+todo `dist/` junto o copiar una sola tienda a su propio dominio.
+
+### Construir las tiendas (local)
+
+```bash
+cd storefront
+npm install
+STORE_WHATSAPP=573001112233 STORE_BRAND_SUFFIX="Store" npm run build
+npm run preview          # vista previa local
+```
+
+### Configuración (entorno)
+
+| Variable | Por defecto | Descripción |
+|----------|-------------|-------------|
+| `STORE_WHATSAPP` | `573000000000` | Número de WhatsApp (formato internacional, solo dígitos). |
+| `STORE_BRAND_SUFFIX` | `Store` | Sufijo del nombre de cada tienda. |
+| `STORE_MAX` | `10` | Nº máximo de tiendas a generar. |
+| `STORE_REGION` | (1ª del informe) | Código de región del informe a usar. |
+| `SITE_BASE` / `SITE_URL` | `/` | Base/URL para el despliegue (las pone GitHub Pages). |
+
+### Despliegue automático (GitHub Pages)
+
+[`.github/workflows/build-stores.yml`](.github/workflows/build-stores.yml) se
+dispara cuando el agente 1 actualiza `reports/`, construye las tiendas y las
+publica en **GitHub Pages**. Para activarlo:
+
+1. *Settings → Pages → Source: GitHub Actions*.
+2. *Settings → Variables → Actions*: define `STORE_WHATSAPP`, `STORE_BRAND_SUFFIX`, etc.
+
+> Conexión con **Shopify**: la arquitectura deja la puerta abierta. Se puede
+> añadir un exportador CSV (importable en *Shopify → Productos → Importar*) o un
+> sincronizador vía Shopify Admin API como paso adicional del agente 2.
+
+---
+
 ## Próximos pasos sugeridos
 
 - Añadir más regiones y comparativas entre países.
 - Cruzar con catálogos de proveedores (AliExpress/CJ) para validar disponibilidad.
+- **Conector Shopify** (CSV o Admin API) para el agente 2.
+- Copys de producto generados con IA (Claude) por tienda.
 - Enviar el informe por email o publicarlo vía Metricool/n8n.

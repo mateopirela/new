@@ -1,0 +1,157 @@
+{
+  "date": "2026-06-25",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "audífonos inalámbricos",
+          "approx_traffic": "50.000+",
+          "traffic_value": 50000,
+          "category_key": "tech",
+          "category_label": "Tecnología y gadgets",
+          "score": 95,
+          "is_opportunity": true,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Antioquia": 78,
+            "Valle del Cauca": 64,
+            "Atlántico": 51
+          },
+          "news_titles": [
+            "Los mejores audífonos bluetooth baratos de 2026 y dónde comprar"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "freidora de aire",
+          "approx_traffic": "20.000+",
+          "traffic_value": 20000,
+          "category_key": "home",
+          "category_label": "Hogar y cocina",
+          "score": 82,
+          "is_opportunity": true,
+          "geo_breakdown": {
+            "Antioquia": 100,
+            "Bogotá": 90,
+            "Santander": 60
+          },
+          "news_titles": [
+            "Receta viral en freidora de aire que arrasa en redes"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "Nacional vs Millonarios",
+          "approx_traffic": "200.000+",
+          "traffic_value": 200000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 50,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Nacional vs Millonarios: alineaciones del partido de hoy"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "dólar hoy",
+          "approx_traffic": "100.000+",
+          "traffic_value": 100000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 15,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "El dólar sube tras anuncio del gobierno"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "serum facial vitamina c",
+          "approx_traffic": "10.000+",
+          "traffic_value": 10000,
+          "category_key": "beauty",
+          "category_label": "Belleza y cuidado personal",
+          "score": 88,
+          "is_opportunity": true,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Por qué el serum de vitamina C es la rutina de skincare más buscada"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "term": "audífonos inalámbricos",
+          "category_key": "tech",
+          "category_label": "Tecnología y gadgets",
+          "score": 95,
+          "approx_traffic": "50.000+",
+          "rationale": "Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~50.000+).",
+          "product_ideas": [
+            "Audífonos inalámbricos / TWS",
+            "Smartwatch económico",
+            "Cargadores y power banks",
+            "Soportes y accesorios para celular",
+            "Mini proyectores y parlantes bluetooth"
+          ],
+          "related_queries": [
+            "audífonos bluetooth baratos",
+            "audífonos deportivos",
+            "airpods"
+          ],
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Antioquia": 78,
+            "Valle del Cauca": 64,
+            "Atlántico": 51
+          }
+        },
+        {
+          "term": "serum facial vitamina c",
+          "category_key": "beauty",
+          "category_label": "Belleza y cuidado personal",
+          "score": 88,
+          "approx_traffic": "10.000+",
+          "rationale": "Categoría 'Belleza y cuidado personal' con buena traducción a producto físico y demanda visible (tráfico ~10.000+).",
+          "product_ideas": [
+            "Rizadores / alisadores de cabello",
+            "Sets de skincare y serums",
+            "Organizadores de maquillaje",
+            "Dispositivos de limpieza facial",
+            "Kits de manicura"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {}
+        },
+        {
+          "term": "freidora de aire",
+          "category_key": "home",
+          "category_label": "Hogar y cocina",
+          "score": 82,
+          "approx_traffic": "20.000+",
+          "rationale": "Categoría 'Hogar y cocina' con buena traducción a producto físico y demanda visible (tráfico ~20.000+).",
+          "product_ideas": [
+            "Freidoras de aire y accesorios",
+            "Organizadores de cocina y closet",
+            "Lámparas LED decorativas",
+            "Gadgets de limpieza para el hogar",
+            "Textiles: sábanas / cojines"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {
+            "Antioquia": 100,
+            "Bogotá": 90,
+            "Santander": 60
+          }
+        }
+      ]
+    }
+  ]
+}
