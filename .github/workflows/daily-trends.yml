@@ -31,7 +31,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Generar informe
+      - name: Generar informe (agente 1)
         env:
           # Regiones: usa el input manual o el valor por defecto del cron.
           TRENDS_REGIONS: ${{ github.event.inputs.regions || 'CO' }}
@@ -39,14 +39,30 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python -m trends_agent.main
 
-      - name: Commit y push del informe
+      - name: Exportar a Shopify (agente 2)
+        env:
+          SHOPIFY_VENDOR: ${{ vars.SHOPIFY_VENDOR || 'Tendencias CO' }}
+          SHOPIFY_PRODUCT_STATUS: ${{ vars.SHOPIFY_PRODUCT_STATUS || 'draft' }}
+          STORE_REGION: ${{ vars.STORE_REGION || 'CO' }}
+          # Sync automático por Admin API: solo se activa si defines estos secrets.
+          SHOPIFY_STORE: ${{ secrets.SHOPIFY_STORE }}
+          SHOPIFY_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ACCESS_TOKEN }}
+        run: |
+          # Si hay credenciales de Shopify, además del CSV se sincroniza vía API.
+          if [ -n "$SHOPIFY_STORE" ] && [ -n "$SHOPIFY_ACCESS_TOKEN" ]; then
+            python -m shopify_export.main --sync
+          else
+            python -m shopify_export.main
+          fi
+
+      - name: Commit y push (informe + CSV de Shopify)
         run: |
           git config user.name "trends-agent[bot]"
           git config user.email "actions@github.com"
-          git add reports/
+          git add reports/ shopify/
           if git diff --cached --quiet; then
-            echo "Sin cambios en los informes."
+            echo "Sin cambios."
           else
-            git commit -m "Informe de tendencias $(date -u +%Y-%m-%d)"
+            git commit -m "Tendencias + export Shopify $(date -u +%Y-%m-%d)"
             git push
           fi

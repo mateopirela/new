@@ -99,78 +99,86 @@ trends_agent/
   llm.py        análisis estratégico opcional con Claude
   report.py     generación del informe Markdown
   main.py       orquestación / entrypoint
-.github/workflows/daily-trends.yml   cron diario
-reports/        informes generados (AAAA-MM-DD.md + latest.md)
+shopify_export/
+  config.py     ajustes (vendor, estado, credenciales API)
+  products.py   oportunidades -> colecciones y productos (precios COP)
+  csv_export.py CSV importables en Shopify
+  admin_api.py  sync opcional vía Shopify Admin API
+  main.py       orquestación / entrypoint
+.github/workflows/daily-trends.yml   cron diario (agente 1 + agente 2)
+reports/        informes generados (AAAA-MM-DD.md + .json + latest.*)
+shopify/        CSV generados (productos.csv + uno por colección)
 tests/          pruebas offline + fixtures
 ```
 
 ---
 
-## 🏪 Agente 2 — Constructor de tiendas (Astro)
+## 🛍️ Agente 2 — Exportador a Shopify
 
-Un segundo agente lee el informe estructurado (`reports/latest.json`) y genera,
-**con una plantilla de framework (Astro)**, una **tienda e-commerce por cada
-oportunidad** de dropshipping, con **pedido por WhatsApp**.
+Un segundo agente lee el informe estructurado (`reports/latest.json`) y vuelca
+las oportunidades a **Shopify**: cada **oportunidad** se convierte en una
+**colección** y cada **idea de producto** en un **producto** con su precio en COP.
 
 ```
-reports/latest.json  ──►  storefront/ (Astro)  ──►  dist/
-                                                     ├─ index.html              (directorio de tiendas)
-                                                     ├─ audifonos-inalambricos/ (tienda autocontenida)
-                                                     │    ├─ index.html
-                                                     │    └─ <producto>/index.html
-                                                     ├─ serum-facial-vitamina-c/...
-                                                     └─ freidora-de-aire/...
+reports/latest.json  ──►  shopify_export  ──►  shopify/productos.csv      (importable en Shopify)
+                                               shopify/<oportunidad>.csv   (un CSV por colección)
+                                          └──► (opcional) Admin API: crea colecciones + productos
 ```
 
-Cada oportunidad se convierte en una mini-tienda de nicho:
-- **Marca y estética por categoría** (color, emoji, tagline).
-- **Productos** derivados de las ideas del informe, con **precio en COP**
-  (determinista), precio tachado y % de descuento.
-- **Imágenes** SVG autocontenidas (sin peticiones externas).
-- **Botón "Pedir por WhatsApp"** con mensaje prellenado (producto + precio).
-- **Bloque geográfico** con dónde se busca más cada término.
+Dos vías, según lo que tengas listo:
 
-Cada carpeta `dist/<slug>/` es un **sub-sitio independiente**: puedes desplegar
-todo `dist/` junto o copiar una sola tienda a su propio dominio.
+| Vía | Requiere | Cuándo |
+|-----|----------|--------|
+| **CSV de importación** | nada | Empezar ya: *Shopify → Productos → Importar*. |
+| **Admin API (auto)** | `SHOPIFY_STORE` + `SHOPIFY_ACCESS_TOKEN` | Sync diario sin intervención. |
 
-### Construir las tiendas (local)
+### Generar los CSV (local)
 
 ```bash
-cd storefront
-npm install
-STORE_WHATSAPP=573001112233 STORE_BRAND_SUFFIX="Store" npm run build
-npm run preview          # vista previa local
+pip install -r requirements.txt
+python -m shopify_export.main            # genera shopify/*.csv
+python -m shopify_export.main --sync     # además crea todo vía Admin API
 ```
 
-### Configuración (entorno)
+### Configuración (entorno / Variables y Secrets del repo)
 
 | Variable | Por defecto | Descripción |
 |----------|-------------|-------------|
-| `STORE_WHATSAPP` | `573000000000` | Número de WhatsApp (formato internacional, solo dígitos). |
-| `STORE_BRAND_SUFFIX` | `Store` | Sufijo del nombre de cada tienda. |
-| `STORE_MAX` | `10` | Nº máximo de tiendas a generar. |
-| `STORE_REGION` | (1ª del informe) | Código de región del informe a usar. |
-| `SITE_BASE` / `SITE_URL` | `/` | Base/URL para el despliegue (las pone GitHub Pages). |
+| `SHOPIFY_VENDOR` | `Tendencias CO` | Nombre del *vendor* en Shopify. |
+| `SHOPIFY_PRODUCT_STATUS` | `draft` | `draft` o `active` al importar/crear. |
+| `SHOPIFY_INVENTORY_QTY` | `100` | Inventario inicial por producto. |
+| `SHOPIFY_MAX_COLLECTIONS` | `10` | Máx. oportunidades a exportar. |
+| `STORE_REGION` | (1ª del informe) | Región del informe a usar. |
+| `SHOPIFY_STORE` *(secret)* | — | Dominio `mitienda.myshopify.com` (para `--sync`). |
+| `SHOPIFY_ACCESS_TOKEN` *(secret)* | — | Token de Admin API (para `--sync`). |
 
-### Despliegue automático (GitHub Pages)
+### Cómo obtener el token de Admin API
 
-[`.github/workflows/build-stores.yml`](.github/workflows/build-stores.yml) se
-dispara cuando el agente 1 actualiza `reports/`, construye las tiendas y las
-publica en **GitHub Pages**. Para activarlo:
+1. En Shopify: *Configuración → Aplicaciones y canales de venta → Desarrollar apps*.
+2. *Crear una app* → *Configurar Admin API scopes*: marca `write_products`,
+   `write_inventory` y `write_publications` (colecciones).
+3. *Instalar app* y copia el **Admin API access token**.
+4. Guárdalo como secret del repo `SHOPIFY_ACCESS_TOKEN` y el dominio como `SHOPIFY_STORE`.
 
-1. *Settings → Pages → Source: GitHub Actions*.
-2. *Settings → Variables → Actions*: define `STORE_WHATSAPP`, `STORE_BRAND_SUFFIX`, etc.
+> **Colecciones en el CSV:** el import nativo de Shopify no asigna colecciones,
+> así que cada producto lleva la etiqueta `coleccion:<handle>` y el nombre de la
+> oportunidad en *Tags*. Crea **colecciones automáticas por etiqueta** en 2 clics,
+> o usa `--sync` (la Admin API sí crea las colecciones).
+>
+> **Imágenes:** el CSV deja `Image Src` vacío (no hay imagen real de proveedor).
+> Añádelas en Shopify o conecta un proveedor (ver próximos pasos).
 
-> Conexión con **Shopify**: la arquitectura deja la puerta abierta. Se puede
-> añadir un exportador CSV (importable en *Shopify → Productos → Importar*) o un
-> sincronizador vía Shopify Admin API como paso adicional del agente 2.
+### Automático (GitHub Actions)
+
+El workflow [`daily-trends.yml`](.github/workflows/daily-trends.yml) ejecuta el
+agente 1 y, a continuación, el agente 2: genera los CSV y los commitea. Si defines
+los secrets `SHOPIFY_STORE` y `SHOPIFY_ACCESS_TOKEN`, además sincroniza por API.
 
 ---
 
 ## Próximos pasos sugeridos
 
 - Añadir más regiones y comparativas entre países.
-- Cruzar con catálogos de proveedores (AliExpress/CJ) para validar disponibilidad.
-- **Conector Shopify** (CSV o Admin API) para el agente 2.
-- Copys de producto generados con IA (Claude) por tienda.
+- Cruzar con catálogos de proveedores (AliExpress/CJ) para **imágenes y stock reales**.
+- Copys de producto generados con IA (Claude) por colección.
 - Enviar el informe por email o publicarlo vía Metricool/n8n.
