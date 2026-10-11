@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "regions": [
     {
       "code": "CO",
@@ -8,204 +8,203 @@
       "trends": [
         {
           "rank": 1,
-          "term": "gabriel jesus",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Huila": 100,
-            "Bolívar": 95,
-            "Atlántico": 51,
-            "Valle del Cauca": 45,
-            "Bogotá": 35
-          },
-          "news_titles": [
-            "Barcelona have specific plan for Gabriel Jesus as Hansi Flick prepares Getafe starting lineup",
-            "Barca skipper Raphinha out against Getafe and Galatasaray",
-            "Barcelona boss Flick hails Spain counterpart Luis de la Fuente"
-          ]
-        },
-        {
-          "rank": 2,
-          "term": "rb leipzig - frankfurt",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bolívar": 100,
-            "Antioquia": 26,
-            "Bogotá": 23
-          },
-          "news_titles": [
-            "Bundesliga im Liveticker: RB Leipzig gegen Eintracht Frankfurt",
-            "Topspiel gegen Leipzig: Collins und Knauff in der Startelf",
-            "Eintracht Frankfurt News-Ticker: Ebnoutalib auf der Bank, Knauff auf rechts"
-          ]
-        },
-        {
-          "rank": 3,
-          "term": "juan david tejada el agropecuario",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Cauca": 100,
-            "Chocó": 89,
-            "Huila": 77,
-            "Caquetá": 67,
-            "Casanare": 66
-          },
-          "news_titles": [
-            "El Agropecuario debutó en el contenido para adultos y dejó memes y miles de reacciones en las redes: “Ni yuca tiene”",
-            "Yina Calderón reaccionó al contenido para adultos de Juan David Tejada, El Agropecuario: “está mal orientado”",
-            "“En un reality lo hizo delante de todo el mundo”: El Agropecuario le respondió a Aída Victoria"
-          ]
-        },
-        {
-          "rank": 4,
-          "term": "anthony gordon",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Córdoba": 100,
-            "Bolívar": 67,
-            "Atlántico": 60,
-            "Antioquia": 47,
-            "Cundinamarca": 45
-          },
-          "news_titles": [
-            "Anthony Gordon facing gruelling work as Barcelona insider confirms Hansi Flick rumours",
-            "Former Barcelona player: I used to leave Flick's training sessions feeling dizzy",
-            "Former Barcelona forward reveals brutal reality of Hansi Flick's training sessions: 'I used to leave feeling dizzy'"
-          ]
-        },
-        {
-          "rank": 5,
-          "term": "espn",
+          "term": "betis vs osasuna",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 35,
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "La Guajira": 100,
-            "Bolívar": 77,
-            "Atlántico": 65,
-            "Córdoba": 64,
-            "Risaralda": 58
+            "Meta": 100,
+            "Magdalena": 99,
+            "Cundinamarca": 30,
+            "Antioquia": 29,
+            "Bogotá": 27
           },
           "news_titles": [
-            "Record ratings, record matchup: ‘College GameDay’ takes a historic trip to Tuscaloosa",
-            "Bryce Young, Nick Saban, ESPN's College GameDay Make Picks For Alabama-Georgia",
-            "ESPN 'College GameDay' predictions for Week 6"
+            "Preview: Real Betis vs Osasuna - prediction, team news, lineups",
+            "Real Betis v Osasuna LIVE 11/10/2026 | Football",
+            "Real Betis vs CA Osasuna, LaLiga in Seville | Tickets"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "pep guardiola",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Nariño": 100,
+            "Cundinamarca": 86,
+            "Bogotá": 68,
+            "Bolívar": 60,
+            "Antioquia": 59
+          },
+          "news_titles": [
+            "Fichar a Haaland por 60 millones sí que fue 'ilegal'",
+            "Arteta asegura tener la conciencia tranquila tras fallo contra City",
+            "Maresca: \"Todos confiamos en ganar la apelación\""
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "america vs medellin",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Valle del Cauca": 100,
+            "Cauca": 47,
+            "Risaralda": 14,
+            "Antioquia": 14,
+            "Nariño": 12
+          },
+          "news_titles": [
+            "América, por la clasificación: David González convocó a 20 jugadores para recibir al DIM",
+            "Duelo de rojos promete sacar chispas: América recibe al Medellín",
+            "A qué hora juega HOY América vs. Medellín y dónde ver por TV el partido de Liga BetPlay II-2026"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "r.c.d. mallorca - u. d. las palmas",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100
+          },
+          "news_titles": [
+            "Mallorca vs Las Palmas Pronóstico y Apuestas | 11/10/2026",
+            "Una cita para rehabilitar la figura",
+            "Luis García se pone fatalista: \"Cuando pierdes hay que echar al entrenador, al director deportivo y el propietario debe vender\""
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "empresario",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Amazonas": 100,
+            "Boyacá": 22,
+            "Huila": 22,
+            "Meta": 21,
+            "Santander": 21
+          },
+          "news_titles": [
+            "¡Atención! DEA acaba de sacar de Caracas a Álvaro Pulido, amigo y socio colombiano de Álex Saab: tiene dos procesos abiertos en corte de Florida",
+            "El colombiano Álvaro Pulido, socio de Álex Saab, fue sacado por la DEA de su prisión en Caracas y estaría siendo trasladado a EE. UU. | El Colombiano",
+            "Extraditan desde Caracas a Álvaro Pulido: él era el amigo y socio de Alex Saab"
           ]
         },
         {
           "rank": 6,
-          "term": "alineaciones de fc barcelona contra getafe cf",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
+          "term": "rande gerber",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bolívar": 100,
-            "Cundinamarca": 33,
-            "Antioquia": 20,
-            "Bogotá": 14
+            "Antioquia": 100,
+            "Bogotá": 81
           },
           "news_titles": [
-            "Barcelona: Flick anuncia baja de Raphinha y confirma dos titulares",
-            "Gabriel Jesus, la primera apuesta goleadora de Flick ante la baja de Raphinha",
-            "Raphinha, descartado ante Getafe y Galatasaray y Joan Garcia, listo"
+            "VIDEO | George Clooney auf die Frage nach dem Tod von Cindy Crawfords Sohn: „Es ist eines der schwersten Dinge, die unserer Familie je widerfahren sind.“",
+            "Cindy Crawford zeigt Trauer mit Rande Gerber in Malibu",
+            "George Clooney spricht über Presley Gerbers (†27) Tod"
           ]
         },
         {
           "rank": 7,
-          "term": "rizespor - fenerbahçe",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
+          "term": "vigilancia",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Caldas": 100,
-            "Cundinamarca": 18,
-            "Bogotá": 11
+            "Amazonas": 100,
+            "Bogotá": 56,
+            "Boyacá": 53,
+            "Cundinamarca": 53,
+            "Casanare": 52
           },
           "news_titles": [
-            "Fenerbahçe’nin yıldızı Asensio golle döndü! Rize’de açılışı yaptı...",
-            "Kartal, Rizespor maçında ilk 11’de tek değişiklik yaptı",
-            "İsmail Kartal'dan Marco Asensio sözleri: Bu hafta iyi çalıştı ve kendisine formayı verdik"
+            "Freno en seco para los vigilantes de seguridad: ley pone fin a práctica común de estos trabajadores en conjuntos residenciales",
+            "Advierten a vigilantes en Colombia: ley obliga a las empresas a cumplir un derecho que algunos trabajadores desconocen",
+            "Fortalece Torreón proximidad social con canales de contacto y monocasetas móviles"
           ]
         },
         {
           "rank": 8,
-          "term": "inter vs",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
-          "score": 45,
+          "term": "benfica - guimarães",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Caldas": 100,
-            "Atlántico": 81,
-            "Bolívar": 71,
-            "Nariño": 66,
-            "Norte de Santander": 61
+            "Guaviare": 100,
+            "Sucre": 13,
+            "Córdoba": 9,
+            "Cesar": 9,
+            "Meta": 8
           },
           "news_titles": [
-            "Serie A: Inter vs. Parma – probable line-ups, where to watch on TV",
-            "++!!DIRETTA LIVE¡] Internazionale-Parma Dove vedere la Coppa Italia in tv e streaming gratis",
-            "Licensable picture: Serie A - Inter Milan v Parma"
+            "Palpite para Benfica x Vitória SC: Vantagem no confronto direto.",
+            "Margarido aponta à vitória na Luz: \"O Vitória entra sempre para ganhar\"",
+            "Marco Silva confirma baixas frente ao Vitória SC"
           ]
         },
         {
           "rank": 9,
-          "term": "poncho zuleta",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
+          "term": "real betis - osasuna",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Betis - Osasuna en directo: LaLiga EA Sports hoy, en vivo",
+            "Betis vs Osasuna: Pronósticos de Apuestas y Alineaciones 11/10/26",
+            "EN VIVO: Betis gana 1 a 0 en el Estadio de La Cartuja"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "crunchyroll",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Poncho Zuleta descansa por recomendación médica y se prepara para su show en Phoenix junto a ‘Cocha’ Molina",
-            "Poncho Zuleta suspendió su agenda por una fuerte gripa"
-          ]
-        },
-        {
-          "rank": 10,
-          "term": "miss universe colombia 2026",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 35,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Miss Universo Colombia 2026: dónde ver la coronación y quiénes son las candidatas",
-            "Esta noche se elige en Barranquilla a la Miss Universe Colombia 2026",
-            "Miss Universe Colombia: dos ganadoras a Miss influencer y elegancia"
+            "The Saddest Anime On Crunchyroll, Ranked",
+            "New SSS-Class Revival Hunter Trailer Readies for 2027 Crunchyroll Debut – Watch",
+            "SSS-Class Revival Hunter Anime Reveals 8 More Cast, 2nd Promo Video, Ending Theme Artists"
           ]
         }
       ],

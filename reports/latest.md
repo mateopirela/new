@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-10-10
+# 📊 Informe de tendencias y dropshipping — 2026-10-11
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,29 +10,29 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | gabriel jesus | 200+ | Otros | 🔴 30 |
-| 2 | rb leipzig - frankfurt | 200+ | Otros | 🔴 30 |
-| 3 | juan david tejada el agropecuario | 100+ | Otros | 🔴 30 |
-| 4 | anthony gordon | 200+ | Otros | 🔴 30 |
-| 5 | espn | 200+ | Deporte / evento | 🔴 35 |
-| 6 | alineaciones de fc barcelona contra getafe cf | 200+ | Otros | 🔴 30 |
-| 7 | rizespor - fenerbahçe | 100+ | Otros | 🔴 30 |
-| 8 | inter vs | 500+ | Entretenimiento / farándula | 🔴 45 |
-| 9 | poncho zuleta | 100+ | Otros | 🔴 30 |
-| 10 | miss universe colombia 2026 | 100+ | Otros | 🔴 35 |
+| 1 | betis vs osasuna | 200+ | Deporte / evento | 🔴 40 |
+| 2 | pep guardiola | 100+ | Otros | 🔴 30 |
+| 3 | america vs medellin | 1000+ | Deporte / evento | 🔴 40 |
+| 4 | r.c.d. mallorca - u. d. las palmas | 100+ | Deporte / evento | 🔴 40 |
+| 5 | empresario | 500+ | Otros | 🔴 30 |
+| 6 | rande gerber | 100+ | Otros | 🔴 30 |
+| 7 | vigilancia | 500+ | Otros | 🔴 30 |
+| 8 | benfica - guimarães | 1000+ | Otros | 🔴 30 |
+| 9 | real betis - osasuna | 5000+ | Deporte / evento | 🔴 40 |
+| 10 | crunchyroll | 500+ | Otros | 🔴 30 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **gabriel jesus** → Huila (100), Bolívar (95), Atlántico (51), Valle del Cauca (45), Bogotá (35)
-- **rb leipzig - frankfurt** → Bolívar (100), Antioquia (26), Bogotá (23)
-- **juan david tejada el agropecuario** → Cauca (100), Chocó (89), Huila (77), Caquetá (67), Casanare (66)
-- **anthony gordon** → Córdoba (100), Bolívar (67), Atlántico (60), Antioquia (47), Cundinamarca (45)
-- **espn** → La Guajira (100), Bolívar (77), Atlántico (65), Córdoba (64), Risaralda (58)
-- **alineaciones de fc barcelona contra getafe cf** → Bolívar (100), Cundinamarca (33), Antioquia (20), Bogotá (14)
-- **rizespor - fenerbahçe** → Caldas (100), Cundinamarca (18), Bogotá (11)
-- **inter vs** → Caldas (100), Atlántico (81), Bolívar (71), Nariño (66), Norte de Santander (61)
+- **betis vs osasuna** → Meta (100), Magdalena (99), Cundinamarca (30), Antioquia (29), Bogotá (27)
+- **pep guardiola** → Nariño (100), Cundinamarca (86), Bogotá (68), Bolívar (60), Antioquia (59)
+- **america vs medellin** → Valle del Cauca (100), Cauca (47), Risaralda (14), Antioquia (14), Nariño (12)
+- **r.c.d. mallorca - u. d. las palmas** → Bolívar (100)
+- **empresario** → Amazonas (100), Boyacá (22), Huila (22), Meta (21), Santander (21)
+- **rande gerber** → Antioquia (100), Bogotá (81)
+- **vigilancia** → Amazonas (100), Bogotá (56), Boyacá (53), Cundinamarca (53), Casanare (52)
+- **benfica - guimarães** → Guaviare (100), Sucre (13), Córdoba (9), Cesar (9), Meta (8)
 
 ### 🛒 Oportunidades de dropshipping
 
