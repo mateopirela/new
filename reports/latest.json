@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "regions": [
     {
       "code": "CO",
@@ -8,91 +8,125 @@
       "trends": [
         {
           "rank": 1,
-          "term": "betis vs osasuna",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "girona fc",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Meta": 100,
-            "Magdalena": 99,
-            "Cundinamarca": 30,
-            "Antioquia": 29,
-            "Bogotá": 27
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "Preview: Real Betis vs Osasuna - prediction, team news, lineups",
-            "Real Betis v Osasuna LIVE 11/10/2026 | Football",
-            "Real Betis vs CA Osasuna, LaLiga in Seville | Tickets"
+            "Tenerife",
+            "Available Locations for #TenerifeGirona",
+            "Tenerife Equalizes Against Girona Through Enric Gallego Header"
           ]
         },
         {
           "rank": 2,
-          "term": "pep guardiola",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "breaking bad",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Nariño": 100,
-            "Cundinamarca": 86,
-            "Bogotá": 68,
-            "Bolívar": 60,
-            "Antioquia": 59
+            "Atlántico": 100,
+            "Risaralda": 97,
+            "Bogotá": 96,
+            "Quindío": 95,
+            "Cundinamarca": 89
           },
           "news_titles": [
-            "Fichar a Haaland por 60 millones sí que fue 'ilegal'",
-            "Arteta asegura tener la conciencia tranquila tras fallo contra City",
-            "Maresca: \"Todos confiamos en ganar la apelación\""
+            "'Breaking Bad' Star RJ Mitte Dead at 34",
+            "RJ Mitte Dies: ‘Breaking Bad’ Actor Was 34",
+            "RJ Mitte's Last Appearance Was 12 Days Before His Death, Promoting New Movie 'Talking to Strangers': How to Watch"
           ]
         },
         {
           "rank": 3,
-          "term": "america vs medellin",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "cataratas del iguazú",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Valle del Cauca": 100,
-            "Cauca": 47,
-            "Risaralda": 14,
-            "Antioquia": 14,
-            "Nariño": 12
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "América, por la clasificación: David González convocó a 20 jugadores para recibir al DIM",
-            "Duelo de rojos promete sacar chispas: América recibe al Medellín",
-            "A qué hora juega HOY América vs. Medellín y dónde ver por TV el partido de Liga BetPlay II-2026"
+            "Efecto de El Niño: el caudal de las Cataratas del Iguazú se triplicó en menos de 48 horas y tuvieron que cerrar el Parque Nacional",
+            "Cerraron los circuitos de las Cataratas del Iguazú por la impactante crecida del río",
+            "Clima extremo: El Niño obliga a reescribir los protocolos de seguridad en las Cataratas y continúa el alerta en la región"
           ]
         },
         {
           "rank": 4,
-          "term": "r.c.d. mallorca - u. d. las palmas",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "rj mitte",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bolívar": 100
+            "Quindío": 100,
+            "Risaralda": 99,
+            "Bogotá": 93,
+            "Antioquia": 82,
+            "Atlántico": 78
           },
           "news_titles": [
-            "Mallorca vs Las Palmas Pronóstico y Apuestas | 11/10/2026",
-            "Una cita para rehabilitar la figura",
-            "Luis García se pone fatalista: \"Cuando pierdes hay que echar al entrenador, al director deportivo y el propietario debe vender\""
+            "«Breaking Bad»-Star stirbt mit nur 34",
+            "„Breaking Bad“-Star RJ Mitte ist tot",
+            "Bekannt aus „Breaking Bad“: RJ Mitte stirbt mit nur 34 Jahren"
           ]
         },
         {
           "rank": 5,
-          "term": "empresario",
+          "term": "selma blair",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Cundinamarca": 87,
+            "Antioquia": 64
+          },
+          "news_titles": [
+            "Selma Blair Arrested, Attacks Flight Crew In Mid-Air",
+            "US actress Selma Blair arrested after allegedly attacking attendants on flight",
+            "Selma Blair Arrested After Allegedly Biting Flight Attendant and Trying to Open Plane Door; Rep Says She Suffered ‘Medical Emergency’"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "millonarios fútbol club",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Cundinamarca": 95,
+            "Boyacá": 57,
+            "Meta": 55,
+            "Chocó": 49
+          },
+          "news_titles": [
+            "Millonarios confirmó sus convocados para enfrentar a Once Caldas",
+            "Cuándo juegan Millonarios vs Once Caldas por fecha 13 de la Liga BetPlay: equipo, fecha, hora y TV en vivo",
+            "Once Caldas viaja a Bogotá con novedades para enfrentar a Millonarios, Dayro Moreno vuelve a ser noticia"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "orsomarso - boca juniors de cali",
           "approx_traffic": "500+",
           "traffic_value": 500,
           "category_key": "other",
@@ -100,21 +134,21 @@
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Amazonas": 100,
-            "Boyacá": 22,
-            "Huila": 22,
-            "Meta": 21,
-            "Santander": 21
+            "La Guajira": 100,
+            "Bolívar": 63,
+            "Magdalena": 54,
+            "Valle del Cauca": 30,
+            "Cundinamarca": 16
           },
           "news_titles": [
-            "¡Atención! DEA acaba de sacar de Caracas a Álvaro Pulido, amigo y socio colombiano de Álex Saab: tiene dos procesos abiertos en corte de Florida",
-            "El colombiano Álvaro Pulido, socio de Álex Saab, fue sacado por la DEA de su prisión en Caracas y estaría siendo trasladado a EE. UU. | El Colombiano",
-            "Extraditan desde Caracas a Álvaro Pulido: él era el amigo y socio de Alex Saab"
+            "🔴EN VIVO: Orsomarso 0-0 Boca Juniors ¡Rueda el balón en Yumbo!",
+            "Este lunes termina la quinta fecha del Torneo de Ascenso",
+            "Orsomarso SC - Boca Juniors de Cali | pronósticos + mejores cuotas | 12.10.2026"
           ]
         },
         {
-          "rank": 6,
-          "term": "rande gerber",
+          "rank": 8,
+          "term": "leonor de borbón",
           "approx_traffic": "100+",
           "traffic_value": 100,
           "category_key": "other",
@@ -122,89 +156,48 @@
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Antioquia": 100,
-            "Bogotá": 81
+            "Bolívar": 100,
+            "Bogotá": 97,
+            "Antioquia": 86,
+            "Valle del Cauca": 75,
+            "Cundinamarca": 60
           },
           "news_titles": [
-            "VIDEO | George Clooney auf die Frage nach dem Tod von Cindy Crawfords Sohn: „Es ist eines der schwersten Dinge, die unserer Familie je widerfahren sind.“",
-            "Cindy Crawford zeigt Trauer mit Rande Gerber in Malibu",
-            "George Clooney spricht über Presley Gerbers (†27) Tod"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "vigilancia",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Amazonas": 100,
-            "Bogotá": 56,
-            "Boyacá": 53,
-            "Cundinamarca": 53,
-            "Casanare": 52
-          },
-          "news_titles": [
-            "Freno en seco para los vigilantes de seguridad: ley pone fin a práctica común de estos trabajadores en conjuntos residenciales",
-            "Advierten a vigilantes en Colombia: ley obliga a las empresas a cumplir un derecho que algunos trabajadores desconocen",
-            "Fortalece Torreón proximidad social con canales de contacto y monocasetas móviles"
-          ]
-        },
-        {
-          "rank": 8,
-          "term": "benfica - guimarães",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Guaviare": 100,
-            "Sucre": 13,
-            "Córdoba": 9,
-            "Cesar": 9,
-            "Meta": 8
-          },
-          "news_titles": [
-            "Palpite para Benfica x Vitória SC: Vantagem no confronto direto.",
-            "Margarido aponta à vitória na Luz: \"O Vitória entra sempre para ganhar\"",
-            "Marco Silva confirma baixas frente ao Vitória SC"
+            "La princesa Leonor, en apuros durante el desfile del 12-O: pierde el Toisón de Oro y así lo ha solventado",
+            "La princesa Leonor hereda la tradición de su padre, el rey Felipe, y vuelve al uniforme de gala del Ejército de Tierra",
+            "Los diez momentos clave del Día de la Hispanidad: de la cabra Babieca al Toisón de Leonor"
           ]
         },
         {
           "rank": 9,
-          "term": "real betis - osasuna",
-          "approx_traffic": "5000+",
-          "traffic_value": 5000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Betis - Osasuna en directo: LaLiga EA Sports hoy, en vivo",
-            "Betis vs Osasuna: Pronósticos de Apuestas y Alineaciones 11/10/26",
-            "EN VIVO: Betis gana 1 a 0 en el Estadio de La Cartuja"
-          ]
-        },
-        {
-          "rank": 10,
-          "term": "crunchyroll",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
+          "term": "pep guardiola",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "The Saddest Anime On Crunchyroll, Ranked",
-            "New SSS-Class Revival Hunter Trailer Readies for 2027 Crunchyroll Debut – Watch",
-            "SSS-Class Revival Hunter Anime Reveals 8 More Cast, 2nd Promo Video, Ending Theme Artists"
+            "Guardiola se siente culpable",
+            "La decisión que tomó Guardiola tras el escándalo financiero de Manchester City",
+            "Pep Guardiola toma una gran decisión"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "deportivo pasto",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "La inestabilidad de los técnicos en la Liga BetPlay: el equipo que cambió de entrenador, en promedio, cada 13 partidos",
+            "Diego Merino regresa al FPC: club lo anunció como nuevo DT",
+            "Diego Merino Rivera es el nuevo técnico del Pasto"
           ]
         }
       ],
