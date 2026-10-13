@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "regions": [
     {
       "code": "CO",
@@ -8,103 +8,92 @@
       "trends": [
         {
           "rank": 1,
-          "term": "girona fc",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "disney plus",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Cundinamarca": 86,
+            "Risaralda": 75,
+            "Quindío": 74,
+            "Arauca": 72
+          },
           "news_titles": [
-            "Tenerife",
-            "Available Locations for #TenerifeGirona",
-            "Tenerife Equalizes Against Girona Through Enric Gallego Header"
+            "Ultron Gets Inside Vision’s Head In Marvel Television's VisionQuest",
+            "‘VisionQuest’ Review: Paul Bettany Is Electric in Marvel’s Silly but Worthy ‘WandaVision’ Saga Conclusion",
+            "'VisionQuest' Watch Guide: Every MCU Movie And Show To Catch Up On Before The Premiere"
           ]
         },
         {
           "rank": 2,
-          "term": "breaking bad",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
-          "score": 40,
+          "term": "cotización",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Atlántico": 100,
-            "Risaralda": 97,
-            "Bogotá": 96,
-            "Quindío": 95,
-            "Cundinamarca": 89
+            "Valle del Cauca": 100,
+            "Quindío": 96,
+            "Caldas": 96,
+            "Arauca": 95,
+            "Antioquia": 90
           },
           "news_titles": [
-            "'Breaking Bad' Star RJ Mitte Dead at 34",
-            "RJ Mitte Dies: ‘Breaking Bad’ Actor Was 34",
-            "RJ Mitte's Last Appearance Was 12 Days Before His Death, Promoting New Movie 'Talking to Strangers': How to Watch"
+            "El dólar sube en Uruguay, mientras el gobierno no convalida tasa y adjudica un monto menor al previsto en emisión en UI",
+            "Así abre la cotización del dólar hoy lunes 12 de octubre de 2026 en Uruguay",
+            "Dólar hoy: esta es la cotización del martes 13 de octubre, según el BROU"
           ]
         },
         {
           "rank": 3,
-          "term": "cataratas del iguazú",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
+          "term": "wolves - bolton wanderers",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Antioquia": 95
+          },
           "news_titles": [
-            "Efecto de El Niño: el caudal de las Cataratas del Iguazú se triplicó en menos de 48 horas y tuvieron que cerrar el Parque Nacional",
-            "Cerraron los circuitos de las Cataratas del Iguazú por la impactante crecida del río",
-            "Clima extremo: El Niño obliga a reescribir los protocolos de seguridad en las Cataratas y continúa el alerta en la región"
+            "TEAM NEWS | Steven Schumacher gives update on key defender Chris Forino",
+            "Wolves team news as Jordan James handed first Championship start and Lopez returns",
+            "Wolverhampton vs Bolton prediction and betting tips 13 October 2026"
           ]
         },
         {
           "rank": 4,
-          "term": "rj mitte",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
+          "term": "atletico de madrid",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Quindío": 100,
-            "Risaralda": 99,
-            "Bogotá": 93,
-            "Antioquia": 82,
-            "Atlántico": 78
+            "Chocó": 100,
+            "Norte de Santander": 57,
+            "Cesar": 55,
+            "Casanare": 55,
+            "Bolívar": 55
           },
           "news_titles": [
-            "«Breaking Bad»-Star stirbt mit nur 34",
-            "„Breaking Bad“-Star RJ Mitte ist tot",
-            "Bekannt aus „Breaking Bad“: RJ Mitte stirbt mit nur 34 Jahren"
+            "Atlético - Manchester United, en directo: última hora de la Champions League, hoy en vivo",
+            "Pronósticos Atlético vs Manchester United: Duelo de gigantes en Madrid",
+            "Simeone respaldó a Julián Álvarez y advirtió antes de enfrentar a Manchester United: “Necesitamos puntos”"
           ]
         },
         {
           "rank": 5,
-          "term": "selma blair",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bogotá": 100,
-            "Cundinamarca": 87,
-            "Antioquia": 64
-          },
-          "news_titles": [
-            "Selma Blair Arrested, Attacks Flight Crew In Mid-Air",
-            "US actress Selma Blair arrested after allegedly attacking attendants on flight",
-            "Selma Blair Arrested After Allegedly Biting Flight Attendant and Trying to Open Plane Door; Rep Says She Suffered ‘Medical Emergency’"
-          ]
-        },
-        {
-          "rank": 6,
-          "term": "millonarios fútbol club",
+          "term": "barcelona hoy",
           "approx_traffic": "1000+",
           "traffic_value": 1000,
           "category_key": "sports_event",
@@ -112,92 +101,107 @@
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bogotá": 100,
-            "Cundinamarca": 95,
-            "Boyacá": 57,
-            "Meta": 55,
-            "Chocó": 49
+            "Chocó": 100,
+            "La Guajira": 82,
+            "Bolívar": 79,
+            "Sucre": 55,
+            "Córdoba": 50
           },
           "news_titles": [
-            "Millonarios confirmó sus convocados para enfrentar a Once Caldas",
-            "Cuándo juegan Millonarios vs Once Caldas por fecha 13 de la Liga BetPlay: equipo, fecha, hora y TV en vivo",
-            "Once Caldas viaja a Bogotá con novedades para enfrentar a Millonarios, Dayro Moreno vuelve a ser noticia"
+            "Galatasaray - Barcelona hoy, en directo: fase liga de Champions League, última hora en vivo",
+            "Hansi Flick: \"Es un privilegio vivir este momento, pero en el fútbol las cosas pueden cambiar muy rápido\"",
+            "¡Escándalo en la previa del Galatasaray - Barça: nueve detenidos por la reventa de entradas!"
           ]
         },
         {
-          "rank": 7,
-          "term": "orsomarso - boca juniors de cali",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "La Guajira": 100,
-            "Bolívar": 63,
-            "Magdalena": 54,
-            "Valle del Cauca": 30,
-            "Cundinamarca": 16
-          },
-          "news_titles": [
-            "🔴EN VIVO: Orsomarso 0-0 Boca Juniors ¡Rueda el balón en Yumbo!",
-            "Este lunes termina la quinta fecha del Torneo de Ascenso",
-            "Orsomarso SC - Boca Juniors de Cali | pronósticos + mejores cuotas | 12.10.2026"
-          ]
-        },
-        {
-          "rank": 8,
-          "term": "leonor de borbón",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bolívar": 100,
-            "Bogotá": 97,
-            "Antioquia": 86,
-            "Valle del Cauca": 75,
-            "Cundinamarca": 60
-          },
-          "news_titles": [
-            "La princesa Leonor, en apuros durante el desfile del 12-O: pierde el Toisón de Oro y así lo ha solventado",
-            "La princesa Leonor hereda la tradición de su padre, el rey Felipe, y vuelve al uniforme de gala del Ejército de Tierra",
-            "Los diez momentos clave del Día de la Hispanidad: de la cabra Babieca al Toisón de Leonor"
-          ]
-        },
-        {
-          "rank": 9,
-          "term": "pep guardiola",
+          "rank": 6,
+          "term": "posiciones de al-sadd contra al hilal",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Guardiola se siente culpable",
-            "La decisión que tomó Guardiola tras el escándalo financiero de Manchester City",
-            "Pep Guardiola toma una gran decisión"
-          ]
-        },
-        {
-          "rank": 10,
-          "term": "deportivo pasto",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 35,
           "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100
+          },
+          "news_titles": [
+            "Watkins scores on Asian debut to make Al Hilal history",
+            "Al-Hilal Conclude Preparations for Al-Sadd match",
+            "AFC Champions League Elite: Al Sadd Coach Seeks Victory Against Al Hilal"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "sporting clube de portugal",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Valle del Cauca": 92,
+            "Antioquia": 43,
+            "Bogotá": 23
+          },
+          "news_titles": [
+            "Sporting vence Lens (0x2) na Champions League, Luis Suárez faz história",
+            "Passaram de Peugeot a Mercedes mas continuam com o mesmo motor Ferrari na frente (a crónica do Lens-Sporting)",
+            "Rui Borges explica Kaique na baliza frente ao Lens: «Tem a ver com o momento em si...»"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "al ittihad - shabab al-ahli",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Valle del Cauca": 100,
+            "Antioquia": 87,
+            "Bogotá": 80
+          },
+          "news_titles": [
+            "Why did Vesic leave out the Al-Ittihad player from the Shabab Al-Ahli clash?",
+            "Shabab Al Ahli faces a tough test against Al Ittihad of Saudi Arabia in an Asian summit clash in Jeddah",
+            "Al Ittihad vs Shabab Al-Ahli match lineup | AFC Champions League Elite · 13 Oct 2026"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "galatasaray - barcelona",
+          "approx_traffic": "20000+",
+          "traffic_value": 20000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "La inestabilidad de los técnicos en la Liga BetPlay: el equipo que cambió de entrenador, en promedio, cada 13 partidos",
-            "Diego Merino regresa al FPC: club lo anunció como nuevo DT",
-            "Diego Merino Rivera es el nuevo técnico del Pasto"
+            "Marmaray sefer saatleri 13 Ekim 2026: Marmaray saatleri değişti mi, Marmaray bugün kaça kadar açık? | Özgün Haberleri",
+            "Pau Cubarsi: Yamal, dünyanın en iyisi",
+            "Victor Osimhen: Barcelona’ya karşı oynamak muhteşem olacak"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "viking - bayern",
+          "approx_traffic": "20000+",
+          "traffic_value": 20000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Preview: Viking vs. Bayern, Champions League Matchday 2",
+            "\"You have to put in your mind that he's a pretty ordinary striker\" – Viking defender explains why he'd rather face Kane than Haaland",
+            "Bayern Munich boss wants team to show mentality vs. Viking"
           ]
         }
       ],
