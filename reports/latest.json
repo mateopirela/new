@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "regions": [
     {
       "code": "CO",
@@ -8,29 +8,67 @@
       "trends": [
         {
           "rank": 1,
-          "term": "disney plus",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
-          "score": 45,
+          "term": "como vs",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bogotá": 100,
-            "Cundinamarca": 86,
-            "Risaralda": 75,
-            "Quindío": 74,
-            "Arauca": 72
+            "Bolívar": 100,
+            "Cesar": 90,
+            "Atlántico": 83,
+            "Norte de Santander": 82,
+            "Córdoba": 82
           },
           "news_titles": [
-            "Ultron Gets Inside Vision’s Head In Marvel Television's VisionQuest",
-            "‘VisionQuest’ Review: Paul Bettany Is Electric in Marvel’s Silly but Worthy ‘WandaVision’ Saga Conclusion",
-            "'VisionQuest' Watch Guide: Every MCU Movie And Show To Catch Up On Before The Premiere"
+            "Feyenoord vs Como: UEFA Champions League stats & head-to-head",
+            "Fabregas: ‘Como find way to hurt Feyenoord, Champions League is unforgiving’",
+            "!+[LIVE@STREAMs]FREE!] Feyenoord Rotterdam football 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ match 14 october 2026"
           ]
         },
         {
           "rank": 2,
-          "term": "cotización",
+          "term": "miguel uribe turbay",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "María Claudia Tarazona dice que “orden de asesinar a Miguel Uribe salió del Congreso” y entregó pruebas a Fiscalía | El Colombiano",
+            "Familia de Miguel Uribe Turbay cada vez entrega reveladoras pistas detrás del asesinato del entonces precandidato: “La orden vino del Congreso”",
+            "“La orden salió desde el Congreso”: viuda de Miguel Uribe señala a partido Comunes"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "el país",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Caquetá": 100,
+            "Vichada": 100,
+            "Cesar": 88,
+            "Arauca": 88,
+            "Chocó": 85
+          },
+          "news_titles": [
+            "Colombia inaugura embajada en Jerusalén en un \"paso decisivo\" de relación con Israel",
+            "Colombia fortalece su relación con Israel: Canciller Omar Bula liderará agenda para impulsar cooperación, inversión e innovación en beneficio del país",
+            "De la Espriella convierte Colombia en el mayor país latinoamericano con embajada en Jerusalén"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "jorge rodríguez",
           "approx_traffic": "500+",
           "traffic_value": 500,
           "category_key": "news",
@@ -38,170 +76,134 @@
           "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Valle del Cauca": 100,
-            "Quindío": 96,
-            "Caldas": 96,
-            "Arauca": 95,
-            "Antioquia": 90
+            "Cauca": 100,
+            "Norte de Santander": 54,
+            "Antioquia": 39,
+            "Bogotá": 37,
+            "Santander": 24
           },
           "news_titles": [
-            "El dólar sube en Uruguay, mientras el gobierno no convalida tasa y adjudica un monto menor al previsto en emisión en UI",
-            "Así abre la cotización del dólar hoy lunes 12 de octubre de 2026 en Uruguay",
-            "Dólar hoy: esta es la cotización del martes 13 de octubre, según el BROU"
-          ]
-        },
-        {
-          "rank": 3,
-          "term": "wolves - bolton wanderers",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bogotá": 100,
-            "Antioquia": 95
-          },
-          "news_titles": [
-            "TEAM NEWS | Steven Schumacher gives update on key defender Chris Forino",
-            "Wolves team news as Jordan James handed first Championship start and Lopez returns",
-            "Wolverhampton vs Bolton prediction and betting tips 13 October 2026"
-          ]
-        },
-        {
-          "rank": 4,
-          "term": "atletico de madrid",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Chocó": 100,
-            "Norte de Santander": 57,
-            "Cesar": 55,
-            "Casanare": 55,
-            "Bolívar": 55
-          },
-          "news_titles": [
-            "Atlético - Manchester United, en directo: última hora de la Champions League, hoy en vivo",
-            "Pronósticos Atlético vs Manchester United: Duelo de gigantes en Madrid",
-            "Simeone respaldó a Julián Álvarez y advirtió antes de enfrentar a Manchester United: “Necesitamos puntos”"
+            "Estados Unidos levanta sanciones contra Jorge Rodríguez, presidente de la Asamblea de Venezuela y hermano de Delcy Rodríguez: lo retiró de lista OFAC",
+            "EE. UU. levanta las sanciones contra Jorge Rodríguez, líder del Parlamento venezolano",
+            "Estados Unidos sacó de la lista Ofac a Jorge Rodríguez, aliado de Nicolás Maduro y hermano de Delcy Rodríguez"
           ]
         },
         {
           "rank": 5,
-          "term": "barcelona hoy",
+          "term": "feyenoord - como",
           "approx_traffic": "1000+",
           "traffic_value": 1000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 40,
+          "score": 35,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Chocó": 100,
-            "La Guajira": 82,
-            "Bolívar": 79,
-            "Sucre": 55,
-            "Córdoba": 50
+            "Sucre": 100,
+            "Bolívar": 98,
+            "La Guajira": 91,
+            "Magdalena": 70,
+            "Atlántico": 69
           },
           "news_titles": [
-            "Galatasaray - Barcelona hoy, en directo: fase liga de Champions League, última hora en vivo",
-            "Hansi Flick: \"Es un privilegio vivir este momento, pero en el fútbol las cosas pueden cambiar muy rápido\"",
-            "¡Escándalo en la previa del Galatasaray - Barça: nueve detenidos por la reventa de entradas!"
+            "Feyenoord - Como en directo: UEFA Champions League hoy, en vivo",
+            "Segundo test europeo para el Como de Cesc Fàbregas",
+            "Giovanni van Bronckhorst no prepara ninguna sorpresa para el duelo contra el Como"
           ]
         },
         {
           "rank": 6,
-          "term": "posiciones de al-sadd contra al hilal",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
+          "term": "lask - liverpool",
+          "approx_traffic": "10000+",
+          "traffic_value": 10000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 35,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bogotá": 100
+            "Chocó": 100,
+            "La Guajira": 72,
+            "Bolívar": 72,
+            "Arauca": 70,
+            "Sucre": 60
           },
           "news_titles": [
-            "Watkins scores on Asian debut to make Al Hilal history",
-            "Al-Hilal Conclude Preparations for Al-Sadd match",
-            "AFC Champions League Elite: Al Sadd Coach Seeks Victory Against Al Hilal"
+            "Team news: Confirmed Liverpool line-up v LASK",
+            "How to watch LASK v Liverpool: Live stream, TV channel and kick-off time",
+            "Liverpool's Alexander Isak, Cody Gakpo, Dominik Szoboszlai to miss Champions League clash with LASK"
           ]
         },
         {
           "rank": 7,
-          "term": "sporting clube de portugal",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
+          "term": "epicentro temblor hoy",
+          "approx_traffic": "50000+",
+          "traffic_value": 50000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 15,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bolívar": 100,
-            "Valle del Cauca": 92,
-            "Antioquia": 43,
-            "Bogotá": 23
+            "Chocó": 100,
+            "San Andrés y Providencia": 46,
+            "Antioquia": 44,
+            "Santander": 41,
+            "Risaralda": 41
           },
           "news_titles": [
-            "Sporting vence Lens (0x2) na Champions League, Luis Suárez faz história",
-            "Passaram de Peugeot a Mercedes mas continuam com o mesmo motor Ferrari na frente (a crónica do Lens-Sporting)",
-            "Rui Borges explica Kaique na baliza frente ao Lens: «Tem a ver com o momento em si...»"
+            "Fuerte temblor en Colombia este 13 de octubre: reportan sismo de magnitud 5,0 e internautas aseguran haberlo sentido en Bucaramanga y otras ciudades",
+            "Terremoto de magnitud 5.0 sacudió a Los Santos, Santander",
+            "Temblor en Colombia EN VIVO | Magnitud, epicentro y profundidad del sismo más reciente este miércoles 14 de octubre"
           ]
         },
         {
           "rank": 8,
-          "term": "al ittihad - shabab al-ahli",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "air india",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Valle del Cauca": 100,
-            "Antioquia": 87,
-            "Bogotá": 80
+            "Bogotá": 100,
+            "Cundinamarca": 70,
+            "Antioquia": 36
           },
           "news_titles": [
-            "Why did Vesic leave out the Al-Ittihad player from the Shabab Al-Ahli clash?",
-            "Shabab Al Ahli faces a tough test against Al Ittihad of Saudi Arabia in an Asian summit clash in Jeddah",
-            "Al Ittihad vs Shabab Al-Ahli match lineup | AFC Champions League Elite · 13 Oct 2026"
+            "'Were told can't land in Delhi due to security reasons': Frankfurt-Delhi Air India passengers recall hijacking scare | India News",
+            "Air India AI2030: 787 Diverted to Jaipur After a Squawk 7500 Alert",
+            "Air India flight reports hijacking"
           ]
         },
         {
           "rank": 9,
-          "term": "galatasaray - barcelona",
-          "approx_traffic": "20000+",
-          "traffic_value": 20000,
+          "term": "rené higuita",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Marmaray sefer saatleri 13 Ekim 2026: Marmaray saatleri değişti mi, Marmaray bugün kaça kadar açık? | Özgün Haberleri",
-            "Pau Cubarsi: Yamal, dünyanın en iyisi",
-            "Victor Osimhen: Barcelona’ya karşı oynamak muhteşem olacak"
+            "¿Qué pasó con el mono? Pibe Valderrama se hizo un cambio radical de look: “hoy es el día” | El Colombiano",
+            "\"El Pibe\" Valderrama, irreconocible: se cortó el pelo y sorprendió con su nueva imagen",
+            "Mira cómo el Pibe Valderrama se despide de su histórica melena"
           ]
         },
         {
           "rank": 10,
-          "term": "viking - bayern",
-          "approx_traffic": "20000+",
-          "traffic_value": 20000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "pronóstico",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Preview: Viking vs. Bayern, Champions League Matchday 2",
-            "\"You have to put in your mind that he's a pretty ordinary striker\" – Viking defender explains why he'd rather face Kane than Haaland",
-            "Bayern Munich boss wants team to show mentality vs. Viking"
+            "Prepárese antes de salir: Este es el pronóstico del clima en Medellín este 14 de octubre",
+            "Clima hoy en Medellín, Colombia: el pronóstico del tiempo para este miércoles 14 octubre de 2026",
+            "Medellín: la previsión meteorológica para este 13 de octubre"
           ]
         }
       ],
