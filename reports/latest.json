@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "regions": [
     {
       "code": "CO",
@@ -8,7 +8,45 @@
       "trends": [
         {
           "rank": 1,
-          "term": "como vs",
+          "term": "conference league",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Santander": 100,
+            "Meta": 96,
+            "Risaralda": 88,
+            "Bogotá": 76,
+            "Valle del Cauca": 74
+          },
+          "news_titles": [
+            "Preview: Hajduk Split vs Ajax - prediction, team news, lineups",
+            "Míchel Sánchez has surprise first-time starter lined up for Ajax’s clash with Hajduk Split",
+            "Licensable picture: Corteo of Torcida, supporters of Hajduk Split"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "uefa europa league",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "'Chanting' Sturm Graz supporters to march through Bournemouth",
+            "AFC Bournemouth handed major Vitality Stadium redevelopment boost on eve of historic European debut",
+            "Big boost for Cherries as Kluivert and Adli set to return for Graz visit"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "cska sofia - mónaco",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "sports_event",
@@ -16,194 +54,155 @@
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bolívar": 100,
-            "Cesar": 90,
-            "Atlántico": 83,
-            "Norte de Santander": 82,
-            "Córdoba": 82
+            "Vichada": 100,
+            "Valle del Cauca": 1
           },
           "news_titles": [
-            "Feyenoord vs Como: UEFA Champions League stats & head-to-head",
-            "Fabregas: ‘Como find way to hurt Feyenoord, Champions League is unforgiving’",
-            "!+[LIVE@STREAMs]FREE!] Feyenoord Rotterdam football 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ match 14 october 2026"
+            "Preview: CSKA Sofia vs Monaco - prediction, team news, lineups",
+            "Licensable picture: BULGARIA-SOFIA-CSKA-SOFIA-AS-MONACO-PRE-MATCH-ACTIVITIES-14-10-2026",
+            "AS Monaco seek strong start in Sofia as Filipe Luis urges humility"
           ]
         },
         {
-          "rank": 2,
-          "term": "miguel uribe turbay",
+          "rank": 4,
+          "term": "lech poznań - leverkusen",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "María Claudia Tarazona dice que “orden de asesinar a Miguel Uribe salió del Congreso” y entregó pruebas a Fiscalía | El Colombiano",
-            "Familia de Miguel Uribe Turbay cada vez entrega reveladoras pistas detrás del asesinato del entonces precandidato: “La orden vino del Congreso”",
-            "“La orden salió desde el Congreso”: viuda de Miguel Uribe señala a partido Comunes"
-          ]
-        },
-        {
-          "rank": 3,
-          "term": "el país",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Caquetá": 100,
-            "Vichada": 100,
-            "Cesar": 88,
-            "Arauca": 88,
-            "Chocó": 85
+            "Tolima": 100,
+            "Norte de Santander": 99,
+            "Atlántico": 72,
+            "Bogotá": 30,
+            "Antioquia": 20
           },
           "news_titles": [
-            "Colombia inaugura embajada en Jerusalén en un \"paso decisivo\" de relación con Israel",
-            "Colombia fortalece su relación con Israel: Canciller Omar Bula liderará agenda para impulsar cooperación, inversión e innovación en beneficio del país",
-            "De la Espriella convierte Colombia en el mayor país latinoamericano con embajada en Jerusalén"
-          ]
-        },
-        {
-          "rank": 4,
-          "term": "jorge rodríguez",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Cauca": 100,
-            "Norte de Santander": 54,
-            "Antioquia": 39,
-            "Bogotá": 37,
-            "Santander": 24
-          },
-          "news_titles": [
-            "Estados Unidos levanta sanciones contra Jorge Rodríguez, presidente de la Asamblea de Venezuela y hermano de Delcy Rodríguez: lo retiró de lista OFAC",
-            "EE. UU. levanta las sanciones contra Jorge Rodríguez, líder del Parlamento venezolano",
-            "Estados Unidos sacó de la lista Ofac a Jorge Rodríguez, aliado de Nicolás Maduro y hermano de Delcy Rodríguez"
+            "Szczyt kariery osiągnął w Leverkusen, tak ocenia Lecha. \"Zderzenie dwóch światów\"",
+            "Rossoneri z szansą na rehabilitację! Salzburg – Milan [LIVE]",
+            "Artur Wichniarek o decyzji trenera Lecha. Piłkarz odsunięty za spóźnienie"
           ]
         },
         {
           "rank": 5,
-          "term": "feyenoord - como",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
+          "term": "union saint-gilloise - real sociedad",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 35,
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Sucre": 100,
-            "Bolívar": 98,
-            "La Guajira": 91,
-            "Magdalena": 70,
-            "Atlántico": 69
+            "Córdoba": 100,
+            "Atlántico": 67,
+            "Bolívar": 57,
+            "Santander": 44,
+            "Valle del Cauca": 44
           },
           "news_titles": [
-            "Feyenoord - Como en directo: UEFA Champions League hoy, en vivo",
-            "Segundo test europeo para el Como de Cesc Fàbregas",
-            "Giovanni van Bronckhorst no prepara ninguna sorpresa para el duelo contra el Como"
+            "St.Gilloise vs Sociedad match lineup | UEFA Europa League · 15 Oct 2026",
+            "🚨 Real Sociedad XI in Leuven: plenty of quality on the bench",
+            "#√☯️[[ESPN!!FREE+!]] Union vs Real Sociedad 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ"
           ]
         },
         {
           "rank": 6,
-          "term": "lask - liverpool",
-          "approx_traffic": "10000+",
-          "traffic_value": 10000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
+          "term": "charlie sheen",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Chocó": 100,
-            "La Guajira": 72,
-            "Bolívar": 72,
-            "Arauca": 70,
-            "Sucre": 60
+            "Quindío": 100,
+            "Bogotá": 78,
+            "Cundinamarca": 72,
+            "Antioquia": 68,
+            "Atlántico": 62
           },
           "news_titles": [
-            "Team news: Confirmed Liverpool line-up v LASK",
-            "How to watch LASK v Liverpool: Live stream, TV channel and kick-off time",
-            "Liverpool's Alexander Isak, Cody Gakpo, Dominik Szoboszlai to miss Champions League clash with LASK"
+            "Chuck Lorre lasted ‘two days’ in the Scientology Sea Org, signed billion-year contract for their ‘insane f—ing mission’",
+            "Chuck Lorre's \"Sitcom: A Memoir\" details the \"Two and a Half Men\" co-creator's TV life.",
+            "Chuck Lorre Tells All: His 10 Years in Scientology, Clashes With Stars Like Roseanne and Brett Butler, and How ‘The Big Bang Theory’ Cast Shocked Him"
           ]
         },
         {
           "rank": 7,
-          "term": "epicentro temblor hoy",
-          "approx_traffic": "50000+",
-          "traffic_value": 50000,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 15,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Chocó": 100,
-            "San Andrés y Providencia": 46,
-            "Antioquia": 44,
-            "Santander": 41,
-            "Risaralda": 41
-          },
-          "news_titles": [
-            "Fuerte temblor en Colombia este 13 de octubre: reportan sismo de magnitud 5,0 e internautas aseguran haberlo sentido en Bucaramanga y otras ciudades",
-            "Terremoto de magnitud 5.0 sacudió a Los Santos, Santander",
-            "Temblor en Colombia EN VIVO | Magnitud, epicentro y profundidad del sismo más reciente este miércoles 14 de octubre"
-          ]
-        },
-        {
-          "rank": 8,
-          "term": "air india",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
+          "term": "marcos calarca",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
             "Bogotá": 100,
-            "Cundinamarca": 70,
-            "Antioquia": 36
+            "Cundinamarca": 67,
+            "Atlántico": 59,
+            "Santander": 56,
+            "Antioquia": 51
           },
           "news_titles": [
-            "'Were told can't land in Delhi due to security reasons': Frankfurt-Delhi Air India passengers recall hijacking scare | India News",
-            "Air India AI2030: 787 Diverted to Jaipur After a Squawk 7500 Alert",
-            "Air India flight reports hijacking"
+            "¿Qué se sabe de la afirmación de María Claudia Tarazona de que la orden para asesinar a Miguel Uribe salió del Congreso?",
+            "María Claudia Tarazona pide esclarecer nuevas pistas sobre el asesinato de Miguel Uribe Turbay",
+            "Magnicidio de Miguel Uribe: Fiscalía investiga los chats y correos entregados por María C. Tarazona"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "simulacro nacional de respuesta a emergencias 2026",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Cundinamarca": 100,
+            "Bogotá": 96,
+            "Boyacá": 93,
+            "Santander": 73,
+            "Valle del Cauca": 50
+          },
+          "news_titles": [
+            "Convocan a la ciudadanía a participar en el simulacro de respuesta a emergencias en Córdoba",
+            "10 cosas que debes saber sobre el Simulacro Bogotá 2026 de este miércoles 21 de octubre",
+            "Bogotá se prepara para el Simulacro 2026: cómo participar y fortalecer la respuesta ante emergencias y El Niño"
           ]
         },
         {
           "rank": 9,
-          "term": "rené higuita",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
+          "term": "déficit presupuestario",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "¿Qué pasó con el mono? Pibe Valderrama se hizo un cambio radical de look: “hoy es el día” | El Colombiano",
-            "\"El Pibe\" Valderrama, irreconocible: se cortó el pelo y sorprendió con su nueva imagen",
-            "Mira cómo el Pibe Valderrama se despide de su histórica melena"
+            "El regreso de las tasas largas",
+            "Rendimientos del Tesoro y déficit retan a EE. UU.",
+            "Estados Unidos, condenado a crecer"
           ]
         },
         {
           "rank": 10,
-          "term": "pronóstico",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
+          "term": "iga świątek",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Prepárese antes de salir: Este es el pronóstico del clima en Medellín este 14 de octubre",
-            "Clima hoy en Medellín, Colombia: el pronóstico del tiempo para este miércoles 14 octubre de 2026",
-            "Medellín: la previsión meteorológica para este 13 de octubre"
+            "Wiadomo, kiedy Świątek i Chwalińska zagrają o półfinał. Świetne wieści",
+            "Świątek skreczowała i zalała się łzami. Dramat w trzecim secie. Rewanż w Wuhanie",
+            "Świątek jest niemożliwa. Tego nie było od 25 lat"
           ]
         }
       ],
