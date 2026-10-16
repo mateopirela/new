@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "regions": [
     {
       "code": "CO",
@@ -8,201 +8,168 @@
       "trends": [
         {
           "rank": 1,
-          "term": "conference league",
+          "term": "encuesta",
           "approx_traffic": "100+",
           "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Santander": 100,
-            "Meta": 96,
-            "Risaralda": 88,
-            "Bogotá": 76,
-            "Valle del Cauca": 74
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "Preview: Hajduk Split vs Ajax - prediction, team news, lineups",
-            "Míchel Sánchez has surprise first-time starter lined up for Ajax’s clash with Hajduk Split",
-            "Licensable picture: Corteo of Torcida, supporters of Hajduk Split"
+            "Lula recorta a dos puntos la ventaja de Flávio Bolsonaro, pero siguen en empate técnico a poco más de una semana de la elección",
+            "Brasil y la imaginación",
+            "Bolsonaro y Lula en empate técnico, según nuevo sondeo"
           ]
         },
         {
           "rank": 2,
-          "term": "uefa europa league",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "rodolfo sancho",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "'Chanting' Sturm Graz supporters to march through Bournemouth",
-            "AFC Bournemouth handed major Vitality Stadium redevelopment boost on eve of historic European debut",
-            "Big boost for Cherries as Kluivert and Adli set to return for Graz visit"
+            "Rodolfo Sancho se refugia en el trabajo tras negarse a dar 100.000 euros a su hijo Daniel para salir de la cárcel",
+            "Roberto Álamo el atracador que robó a Esther Koplowitz, en 'Casper'",
+            "La historia real de “Casper”, la nueva serie de RTVE: un botín de 18 millones, 19 cuadros de Koplowitz y 200 kilos de droga"
           ]
         },
         {
           "rank": 3,
-          "term": "cska sofia - mónaco",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "milwaukee brewers contra dodgers",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Vichada": 100,
-            "Valle del Cauca": 1
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "Preview: CSKA Sofia vs Monaco - prediction, team news, lineups",
-            "Licensable picture: BULGARIA-SOFIA-CSKA-SOFIA-AS-MONACO-PRE-MATCH-ACTIVITIES-14-10-2026",
-            "AS Monaco seek strong start in Sofia as Filipe Luis urges humility"
+            "Brewers end Dodgers' three-peat bid with an NLCS sweep of their own",
+            "Brewers stun Dodgers with back-to-back homers in 7th inning and ride 6-2 win to 3-0 lead in NLCS",
+            "Tazza: The Song of Beelzebub FullMovie +!Online Free (4K) Available"
           ]
         },
         {
           "rank": 4,
-          "term": "lech poznań - leverkusen",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "servicio geológico colombiano",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Tolima": 100,
-            "Norte de Santander": 99,
-            "Atlántico": 72,
-            "Bogotá": 30,
-            "Antioquia": 20
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "Szczyt kariery osiągnął w Leverkusen, tak ocenia Lecha. \"Zderzenie dwóch światów\"",
-            "Rossoneri z szansą na rehabilitację! Salzburg – Milan [LIVE]",
-            "Artur Wichniarek o decyzji trenera Lecha. Piłkarz odsunięty za spóźnienie"
+            "Temblor hoy en Colombia | Reportan nuevo sismo de 4,1 de magnitud en Chocó la mañana de este viernes 16 de octubre: profundidad, epicentro y detalles",
+            "Volvió a temblar en Colombia hoy: sismo fue de más de 4.0 y SGC dijo cuál fue el epicentro",
+            "Temblor en Colombia EN VIVO | Epicentro, magnitud y profundidad del sismo este más reciente jueves 15 de octubre"
           ]
         },
         {
           "rank": 5,
-          "term": "union saint-gilloise - real sociedad",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
+          "term": "defensores de la patria",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 40,
+          "score": 35,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Córdoba": 100,
-            "Atlántico": 67,
-            "Bolívar": 57,
-            "Santander": 44,
-            "Valle del Cauca": 44
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "St.Gilloise vs Sociedad match lineup | UEFA Europa League · 15 Oct 2026",
-            "🚨 Real Sociedad XI in Leuven: plenty of quality on the bench",
-            "#√☯️[[ESPN!!FREE+!]] Union vs Real Sociedad 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ"
+            "Consejo de Estado niega la suspensión provisional de la personeria jurídica de Defensores de la Patria",
+            "Se salvó el partido de Abelardo: Consejo de Estado negó la suspensión provisional de su personería jurídica | El Colombiano",
+            "Consejo de Estado negó la suspensión provisional de Defensores de la Patria, el partido de Abelardo De La Espriella"
           ]
         },
         {
           "rank": 6,
-          "term": "charlie sheen",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "último sorteo lotería de bogotá",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Quindío": 100,
-            "Bogotá": 78,
-            "Cundinamarca": 72,
-            "Antioquia": 68,
-            "Atlántico": 62
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "Chuck Lorre lasted ‘two days’ in the Scientology Sea Org, signed billion-year contract for their ‘insane f—ing mission’",
-            "Chuck Lorre's \"Sitcom: A Memoir\" details the \"Two and a Half Men\" co-creator's TV life.",
-            "Chuck Lorre Tells All: His 10 Years in Scientology, Clashes With Stars Like Roseanne and Brett Butler, and How ‘The Big Bang Theory’ Cast Shocked Him"
+            "Resultados de la Lotería de Bogotá anoche, último sorteo jueves 15 de octubre de 2026",
+            "Lotería del Quindío del jueves 15 de octubre de 2026: resultado, número ganador y premios del sorteo de hoy",
+            "Hoy jueves 15 de octubre juega la Lotería de Bogotá y gana $ 12.000 millones"
           ]
         },
         {
           "rank": 7,
-          "term": "marcos calarca",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
+          "term": "maría corina machado",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Bogotá": 100,
-            "Cundinamarca": 67,
-            "Atlántico": 59,
-            "Santander": 56,
-            "Antioquia": 51
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "¿Qué se sabe de la afirmación de María Claudia Tarazona de que la orden para asesinar a Miguel Uribe salió del Congreso?",
-            "María Claudia Tarazona pide esclarecer nuevas pistas sobre el asesinato de Miguel Uribe Turbay",
-            "Magnicidio de Miguel Uribe: Fiscalía investiga los chats y correos entregados por María C. Tarazona"
+            "María Corina Machado denuncia que EE.UU. la ha excluido de las negociaciones sobre Venezuela",
+            "María Corina Machado califica de corrupto al socio petrolero de Trump",
+            "María Corina Machado, en entrevista, califica de corrupto al nuevo socio petrolero de Trump"
           ]
         },
         {
           "rank": 8,
-          "term": "simulacro nacional de respuesta a emergencias 2026",
+          "term": "fonseca",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Bogotá": 10,
+            "Cesar": 9,
+            "Boyacá": 9,
+            "Cundinamarca": 8
+          },
+          "news_titles": [
+            "Concierto de Fonseca ya no se hará en El Campín, el Vive Claro recibirá el espectáculo mientras se recupera la gramilla para Millonarios Vs. Jaguares",
+            "Sencia pide cambiar fecha o escenario del próximo concierto en El Campín",
+            "Comunicado oficial de Sencia sobre el concierto de Fonseca y el partido Millonarios vs. Jaguares"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "antonio de la rúa",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Cundinamarca": 100,
-            "Bogotá": 96,
-            "Boyacá": 93,
-            "Santander": 73,
-            "Valle del Cauca": 50
-          },
-          "news_titles": [
-            "Convocan a la ciudadanía a participar en el simulacro de respuesta a emergencias en Córdoba",
-            "10 cosas que debes saber sobre el Simulacro Bogotá 2026 de este miércoles 21 de octubre",
-            "Bogotá se prepara para el Simulacro 2026: cómo participar y fortalecer la respuesta ante emergencias y El Niño"
-          ]
-        },
-        {
-          "rank": 9,
-          "term": "déficit presupuestario",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "El regreso de las tasas largas",
-            "Rendimientos del Tesoro y déficit retan a EE. UU.",
-            "Estados Unidos, condenado a crecer"
+            "Shakira comparte fotografía junto a su expareja Antonio de la Rúa y agradece su apoyo durante su gira",
+            "Shakira sorprende con dedicatoria a Antonio de la Rúa en último show: “Fue mi compañero”",
+            "Shakira concluyó su residencia en España con un mensaje para su ex y récord de asistentes"
           ]
         },
         {
           "rank": 10,
-          "term": "iga świątek",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
+          "term": "fondo monetario internacional",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Wiadomo, kiedy Świątek i Chwalińska zagrają o półfinał. Świetne wieści",
-            "Świątek skreczowała i zalała się łzami. Dramat w trzecim secie. Rewanż w Wuhanie",
-            "Świątek jest niemożliwa. Tego nie było od 25 lat"
+            "'No es sostenible ni viable': FMI prende las alarmas por la deuda y el déficit fiscal de Colombia",
+            "Colombia gasta más de lo que recibe y ya no es sostenible: la grave alerta del FMI por déficit de Colombia | El Colombiano",
+            "El Fondo Monetario Internacional hizo fuerte pronunciamiento sobre las finanzas públicas de Colombia: “Esta situación no es sostenible ni viable”"
           ]
         }
       ],

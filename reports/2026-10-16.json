@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-16",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "encuesta",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Lula recorta a dos puntos la ventaja de Flávio Bolsonaro, pero siguen en empate técnico a poco más de una semana de la elección",
+            "Brasil y la imaginación",
+            "Bolsonaro y Lula en empate técnico, según nuevo sondeo"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "rodolfo sancho",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Rodolfo Sancho se refugia en el trabajo tras negarse a dar 100.000 euros a su hijo Daniel para salir de la cárcel",
+            "Roberto Álamo el atracador que robó a Esther Koplowitz, en 'Casper'",
+            "La historia real de “Casper”, la nueva serie de RTVE: un botín de 18 millones, 19 cuadros de Koplowitz y 200 kilos de droga"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "milwaukee brewers contra dodgers",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Brewers end Dodgers' three-peat bid with an NLCS sweep of their own",
+            "Brewers stun Dodgers with back-to-back homers in 7th inning and ride 6-2 win to 3-0 lead in NLCS",
+            "Tazza: The Song of Beelzebub FullMovie +!Online Free (4K) Available"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "servicio geológico colombiano",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Temblor hoy en Colombia | Reportan nuevo sismo de 4,1 de magnitud en Chocó la mañana de este viernes 16 de octubre: profundidad, epicentro y detalles",
+            "Volvió a temblar en Colombia hoy: sismo fue de más de 4.0 y SGC dijo cuál fue el epicentro",
+            "Temblor en Colombia EN VIVO | Epicentro, magnitud y profundidad del sismo este más reciente jueves 15 de octubre"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "defensores de la patria",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Consejo de Estado niega la suspensión provisional de la personeria jurídica de Defensores de la Patria",
+            "Se salvó el partido de Abelardo: Consejo de Estado negó la suspensión provisional de su personería jurídica | El Colombiano",
+            "Consejo de Estado negó la suspensión provisional de Defensores de la Patria, el partido de Abelardo De La Espriella"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "último sorteo lotería de bogotá",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Resultados de la Lotería de Bogotá anoche, último sorteo jueves 15 de octubre de 2026",
+            "Lotería del Quindío del jueves 15 de octubre de 2026: resultado, número ganador y premios del sorteo de hoy",
+            "Hoy jueves 15 de octubre juega la Lotería de Bogotá y gana $ 12.000 millones"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "maría corina machado",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "María Corina Machado denuncia que EE.UU. la ha excluido de las negociaciones sobre Venezuela",
+            "María Corina Machado califica de corrupto al socio petrolero de Trump",
+            "María Corina Machado, en entrevista, califica de corrupto al nuevo socio petrolero de Trump"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "fonseca",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Bogotá": 10,
+            "Cesar": 9,
+            "Boyacá": 9,
+            "Cundinamarca": 8
+          },
+          "news_titles": [
+            "Concierto de Fonseca ya no se hará en El Campín, el Vive Claro recibirá el espectáculo mientras se recupera la gramilla para Millonarios Vs. Jaguares",
+            "Sencia pide cambiar fecha o escenario del próximo concierto en El Campín",
+            "Comunicado oficial de Sencia sobre el concierto de Fonseca y el partido Millonarios vs. Jaguares"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "antonio de la rúa",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Shakira comparte fotografía junto a su expareja Antonio de la Rúa y agradece su apoyo durante su gira",
+            "Shakira sorprende con dedicatoria a Antonio de la Rúa en último show: “Fue mi compañero”",
+            "Shakira concluyó su residencia en España con un mensaje para su ex y récord de asistentes"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "fondo monetario internacional",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "'No es sostenible ni viable': FMI prende las alarmas por la deuda y el déficit fiscal de Colombia",
+            "Colombia gasta más de lo que recibe y ya no es sostenible: la grave alerta del FMI por déficit de Colombia | El Colombiano",
+            "El Fondo Monetario Internacional hizo fuerte pronunciamiento sobre las finanzas públicas de Colombia: “Esta situación no es sostenible ni viable”"
+          ]
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}
