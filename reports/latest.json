@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "regions": [
     {
       "code": "CO",
@@ -8,168 +8,209 @@
       "trends": [
         {
           "rank": 1,
-          "term": "encuesta",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "liverpool fc",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Bolívar": 94,
+            "Chocó": 92,
+            "La Guajira": 77,
+            "Córdoba": 77
+          },
           "news_titles": [
-            "Lula recorta a dos puntos la ventaja de Flávio Bolsonaro, pero siguen en empate técnico a poco más de una semana de la elección",
-            "Brasil y la imaginación",
-            "Bolsonaro y Lula en empate técnico, según nuevo sondeo"
+            "Team news: Confirmed Liverpool U21s line-up v Reading",
+            "Brentford vs Liverpool: Premier League preview, team news, stats & head-to-head",
+            "Team news: Confirmed Liverpool line-up v Brentford"
           ]
         },
         {
           "rank": 2,
-          "term": "rodolfo sancho",
+          "term": "city",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Magdalena": 98,
+            "Chocó": 97,
+            "Sucre": 90,
+            "La Guajira": 89
+          },
           "news_titles": [
-            "Rodolfo Sancho se refugia en el trabajo tras negarse a dar 100.000 euros a su hijo Daniel para salir de la cárcel",
-            "Roberto Álamo el atracador que robó a Esther Koplowitz, en 'Casper'",
-            "La historia real de “Casper”, la nueva serie de RTVE: un botín de 18 millones, 19 cuadros de Koplowitz y 200 kilos de droga"
+            "Manchester City y su peor miedo: diáspora de jugadores",
+            "La UEFA podría expulsar de 7 a 10 años al Manchester City de sus competiciones | El Colombiano",
+            "Steven Gerrard critica las sanciones al Manchester City por infracciones financieras"
           ]
         },
         {
           "rank": 3,
-          "term": "milwaukee brewers contra dodgers",
+          "term": "villarreal vs",
           "approx_traffic": "100+",
           "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Magdalena": 89,
+            "Bolívar": 88,
+            "Chocó": 87,
+            "Córdoba": 86
+          },
           "news_titles": [
-            "Brewers end Dodgers' three-peat bid with an NLCS sweep of their own",
-            "Brewers stun Dodgers with back-to-back homers in 7th inning and ride 6-2 win to 3-0 lead in NLCS",
-            "Tazza: The Song of Beelzebub FullMovie +!Online Free (4K) Available"
+            "Licensable picture: Soccer 2026: LaLiga: Villarreal CF - Elche",
+            "Villareal vs. Elche prediction, odds, La Liga picks [10/17/2026]",
+            "PREVIEW | Villarreal CF vs Elche CF: team news, lineups, predictions (La Liga 17/10)"
           ]
         },
         {
           "rank": 4,
-          "term": "servicio geológico colombiano",
-          "approx_traffic": "5000+",
-          "traffic_value": 5000,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
+          "term": "betis vs barcelona",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Magdalena": 95,
+            "Atlántico": 85,
+            "Córdoba": 76,
+            "La Guajira": 71
+          },
           "news_titles": [
-            "Temblor hoy en Colombia | Reportan nuevo sismo de 4,1 de magnitud en Chocó la mañana de este viernes 16 de octubre: profundidad, epicentro y detalles",
-            "Volvió a temblar en Colombia hoy: sismo fue de más de 4.0 y SGC dijo cuál fue el epicentro",
-            "Temblor en Colombia EN VIVO | Epicentro, magnitud y profundidad del sismo este más reciente jueves 15 de octubre"
+            "Flick cambia la rutina del Barça en una semana de órdago",
+            "El dato que amenaza al Betis: 3,2 goles por partido",
+            "El “Cucho” Hernández y Deossa van contra el Barcelona de Flick; ¿a qué hora y dónde ver el partido?"
           ]
         },
         {
           "rank": 5,
-          "term": "defensores de la patria",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
+          "term": "city vs",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 35,
+          "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Amazonas": 97,
+            "Atlántico": 90,
+            "Córdoba": 85,
+            "Magdalena": 78
+          },
           "news_titles": [
-            "Consejo de Estado niega la suspensión provisional de la personeria jurídica de Defensores de la Patria",
-            "Se salvó el partido de Abelardo: Consejo de Estado negó la suspensión provisional de su personería jurídica | El Colombiano",
-            "Consejo de Estado negó la suspensión provisional de Defensores de la Patria, el partido de Abelardo De La Espriella"
+            "Video: Haaland metió un doblete para acercar a Manchester City ante PSG",
+            "PSG vence al Manchester City por la Champions League: Resumen y goles del partidazo",
+            "Manchester City vs. PSG, el choque de dos colosos millonarios en la Champions League: siga acá el minuto a minuto del partidazo"
           ]
         },
         {
           "rank": 6,
-          "term": "último sorteo lotería de bogotá",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
+          "term": "swansea - west ham",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Tolima": 100,
+            "Atlántico": 46,
+            "Bogotá": 22,
+            "Antioquia": 21
+          },
           "news_titles": [
-            "Resultados de la Lotería de Bogotá anoche, último sorteo jueves 15 de octubre de 2026",
-            "Lotería del Quindío del jueves 15 de octubre de 2026: resultado, número ganador y premios del sorteo de hoy",
-            "Hoy jueves 15 de octubre juega la Lotería de Bogotá y gana $ 12.000 millones"
+            "Preview | Swansea City v West Ham United",
+            "Why Jarrod Bowen and Konstantinos Mavropanos are carrying West Ham as prediction made vs Swansea",
+            "Talking Points | Nuno on Lincoln reflections, Souček's return to the scoresheet and stopping the Swans"
           ]
         },
         {
           "rank": 7,
-          "term": "maría corina machado",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "schalke 04 - mainz 05",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Boyacá": 100,
+            "Bolívar": 53,
+            "Cundinamarca": 22,
+            "Bogotá": 13,
+            "Antioquia": 11
+          },
           "news_titles": [
-            "María Corina Machado denuncia que EE.UU. la ha excluido de las negociaciones sobre Venezuela",
-            "María Corina Machado califica de corrupto al socio petrolero de Trump",
-            "María Corina Machado, en entrevista, califica de corrupto al nuevo socio petrolero de Trump"
+            "[ＬＩＶＥ ＡＮＳＥＨＥＮ]KOSTENLOS!]!` Mainz 05 vs Schalke 04 𝐋𝐈𝐕𝐄 Ｋｏｓｔｅｎｌｏｓｅ Ｕ̈ｂｅｒｔｒａｇｕｎｇｅｎ ＡＵＦ ＤＥＭ ＴＶ-ＫＡＮＡＬ Spiel am 17. Oktober 2026. HD26",
+            "Dzeko startet - Adamu auf der Bank: Unser S04-Live-Ticker zum Spiel gegen Mainz 05",
+            "Fussball: Bundesliga"
           ]
         },
         {
           "rank": 8,
-          "term": "fonseca",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
-          "score": 45,
+          "term": "posiciones de rcd espanyol de barcelona contra atlético de madrid",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "La Guajira": 100,
-            "Bogotá": 10,
-            "Cesar": 9,
-            "Boyacá": 9,
-            "Cundinamarca": 8
+            "Chocó": 100,
+            "Sucre": 83,
+            "Bolívar": 72,
+            "Magdalena": 69,
+            "Córdoba": 63
           },
           "news_titles": [
-            "Concierto de Fonseca ya no se hará en El Campín, el Vive Claro recibirá el espectáculo mientras se recupera la gramilla para Millonarios Vs. Jaguares",
-            "Sencia pide cambiar fecha o escenario del próximo concierto en El Campín",
-            "Comunicado oficial de Sencia sobre el concierto de Fonseca y el partido Millonarios vs. Jaguares"
+            "Espanyol vs Atletico Madrid: Spanish La Liga stats & head-to-head",
+            "European football: Baena late strike for Atlético puts pressure on Barcelona",
+            "Espanyol vs. Atletico Madrid - Game Highlights"
           ]
         },
         {
           "rank": 9,
-          "term": "antonio de la rúa",
+          "term": "napoli vs",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Shakira comparte fotografía junto a su expareja Antonio de la Rúa y agradece su apoyo durante su gira",
-            "Shakira sorprende con dedicatoria a Antonio de la Rúa en último show: “Fue mi compañero”",
-            "Shakira concluyó su residencia en España con un mensaje para su ex y récord de asistentes"
+            "Preview: Venezia vs Napoli - prediction, team news, lineups",
+            "Licensable picture: Venezia Vs Napoli - Italian Serie A Enilive Football Championship 2026/2027",
+            "Napoli 'need to find solutions to the problems', says Allegri"
           ]
         },
         {
           "rank": 10,
-          "term": "fondo monetario internacional",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "brentford vs liverpool",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "'No es sostenible ni viable': FMI prende las alarmas por la deuda y el déficit fiscal de Colombia",
-            "Colombia gasta más de lo que recibe y ya no es sostenible: la grave alerta del FMI por déficit de Colombia | El Colombiano",
-            "El Fondo Monetario Internacional hizo fuerte pronunciamiento sobre las finanzas públicas de Colombia: “Esta situación no es sostenible ni viable”"
+            "Brentford vs Liverpool: Premier League preview, team news, stats & head-to-head",
+            "Team news: Confirmed Liverpool line-up v Brentford",
+            "Andrews on returning trio, 'vital' Ouattara and 'interesting stat'"
           ]
         }
       ],

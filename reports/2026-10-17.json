@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-17",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "liverpool fc",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Bolívar": 94,
+            "Chocó": 92,
+            "La Guajira": 77,
+            "Córdoba": 77
+          },
+          "news_titles": [
+            "Team news: Confirmed Liverpool U21s line-up v Reading",
+            "Brentford vs Liverpool: Premier League preview, team news, stats & head-to-head",
+            "Team news: Confirmed Liverpool line-up v Brentford"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "city",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Magdalena": 98,
+            "Chocó": 97,
+            "Sucre": 90,
+            "La Guajira": 89
+          },
+          "news_titles": [
+            "Manchester City y su peor miedo: diáspora de jugadores",
+            "La UEFA podría expulsar de 7 a 10 años al Manchester City de sus competiciones | El Colombiano",
+            "Steven Gerrard critica las sanciones al Manchester City por infracciones financieras"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "villarreal vs",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Magdalena": 89,
+            "Bolívar": 88,
+            "Chocó": 87,
+            "Córdoba": 86
+          },
+          "news_titles": [
+            "Licensable picture: Soccer 2026: LaLiga: Villarreal CF - Elche",
+            "Villareal vs. Elche prediction, odds, La Liga picks [10/17/2026]",
+            "PREVIEW | Villarreal CF vs Elche CF: team news, lineups, predictions (La Liga 17/10)"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "betis vs barcelona",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Magdalena": 95,
+            "Atlántico": 85,
+            "Córdoba": 76,
+            "La Guajira": 71
+          },
+          "news_titles": [
+            "Flick cambia la rutina del Barça en una semana de órdago",
+            "El dato que amenaza al Betis: 3,2 goles por partido",
+            "El “Cucho” Hernández y Deossa van contra el Barcelona de Flick; ¿a qué hora y dónde ver el partido?"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "city vs",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Amazonas": 97,
+            "Atlántico": 90,
+            "Córdoba": 85,
+            "Magdalena": 78
+          },
+          "news_titles": [
+            "Video: Haaland metió un doblete para acercar a Manchester City ante PSG",
+            "PSG vence al Manchester City por la Champions League: Resumen y goles del partidazo",
+            "Manchester City vs. PSG, el choque de dos colosos millonarios en la Champions League: siga acá el minuto a minuto del partidazo"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "swansea - west ham",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Tolima": 100,
+            "Atlántico": 46,
+            "Bogotá": 22,
+            "Antioquia": 21
+          },
+          "news_titles": [
+            "Preview | Swansea City v West Ham United",
+            "Why Jarrod Bowen and Konstantinos Mavropanos are carrying West Ham as prediction made vs Swansea",
+            "Talking Points | Nuno on Lincoln reflections, Souček's return to the scoresheet and stopping the Swans"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "schalke 04 - mainz 05",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Boyacá": 100,
+            "Bolívar": 53,
+            "Cundinamarca": 22,
+            "Bogotá": 13,
+            "Antioquia": 11
+          },
+          "news_titles": [
+            "[ＬＩＶＥ ＡＮＳＥＨＥＮ]KOSTENLOS!]!` Mainz 05 vs Schalke 04 𝐋𝐈𝐕𝐄 Ｋｏｓｔｅｎｌｏｓｅ Ｕ̈ｂｅｒｔｒａｇｕｎｇｅｎ ＡＵＦ ＤＥＭ ＴＶ-ＫＡＮＡＬ Spiel am 17. Oktober 2026. HD26",
+            "Dzeko startet - Adamu auf der Bank: Unser S04-Live-Ticker zum Spiel gegen Mainz 05",
+            "Fussball: Bundesliga"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "posiciones de rcd espanyol de barcelona contra atlético de madrid",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Chocó": 100,
+            "Sucre": 83,
+            "Bolívar": 72,
+            "Magdalena": 69,
+            "Córdoba": 63
+          },
+          "news_titles": [
+            "Espanyol vs Atletico Madrid: Spanish La Liga stats & head-to-head",
+            "European football: Baena late strike for Atlético puts pressure on Barcelona",
+            "Espanyol vs. Atletico Madrid - Game Highlights"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "napoli vs",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Preview: Venezia vs Napoli - prediction, team news, lineups",
+            "Licensable picture: Venezia Vs Napoli - Italian Serie A Enilive Football Championship 2026/2027",
+            "Napoli 'need to find solutions to the problems', says Allegri"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "brentford vs liverpool",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Brentford vs Liverpool: Premier League preview, team news, stats & head-to-head",
+            "Team news: Confirmed Liverpool line-up v Brentford",
+            "Andrews on returning trio, 'vital' Ouattara and 'interesting stat'"
+          ]
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}

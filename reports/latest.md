@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-10-16
+# 📊 Informe de tendencias y dropshipping — 2026-10-17
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,39 +10,33 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | encuesta | 100+ | Otros | 🔴 30 |
-| 2 | rodolfo sancho | 200+ | Entretenimiento / farándula | 🔴 40 |
-| 3 | milwaukee brewers contra dodgers | 100+ | Otros | 🔴 30 |
-| 4 | servicio geológico colombiano | 5000+ | Noticias / actualidad | 🔴 10 |
-| 5 | defensores de la patria | 1000+ | Deporte / evento | 🔴 35 |
-| 6 | último sorteo lotería de bogotá | 2000+ | Entretenimiento / farándula | 🔴 40 |
-| 7 | maría corina machado | 500+ | Otros | 🔴 30 |
-| 8 | fonseca | 100+ | Entretenimiento / farándula | 🔴 45 |
-| 9 | antonio de la rúa | 200+ | Otros | 🔴 30 |
-| 10 | fondo monetario internacional | 200+ | Otros | 🔴 30 |
+| 1 | liverpool fc | 200+ | Deporte / evento | 🔴 40 |
+| 2 | city | 200+ | Deporte / evento | 🔴 40 |
+| 3 | villarreal vs | 100+ | Deporte / evento | 🔴 40 |
+| 4 | betis vs barcelona | 100+ | Deporte / evento | 🔴 40 |
+| 5 | city vs | 200+ | Deporte / evento | 🔴 40 |
+| 6 | swansea - west ham | 100+ | Deporte / evento | 🔴 40 |
+| 7 | schalke 04 - mainz 05 | 100+ | Deporte / evento | 🔴 40 |
+| 8 | posiciones de rcd espanyol de barcelona contra atlético de madrid | 5000+ | Deporte / evento | 🔴 40 |
+| 9 | napoli vs | 200+ | Entretenimiento / farándula | 🔴 45 |
+| 10 | brentford vs liverpool | 500+ | Deporte / evento | 🔴 40 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **fonseca** → La Guajira (100), Bogotá (10), Cesar (9), Boyacá (9), Cundinamarca (8)
+- **liverpool fc** → Sucre (100), Bolívar (94), Chocó (92), La Guajira (77), Córdoba (77)
+- **city** → Bolívar (100), Magdalena (98), Chocó (97), Sucre (90), La Guajira (89)
+- **villarreal vs** → La Guajira (100), Magdalena (89), Bolívar (88), Chocó (87), Córdoba (86)
+- **betis vs barcelona** → Bolívar (100), Magdalena (95), Atlántico (85), Córdoba (76), La Guajira (71)
+- **city vs** → Bolívar (100), Amazonas (97), Atlántico (90), Córdoba (85), Magdalena (78)
+- **swansea - west ham** → Tolima (100), Atlántico (46), Bogotá (22), Antioquia (21)
+- **schalke 04 - mainz 05** → Boyacá (100), Bolívar (53), Cundinamarca (22), Bogotá (13), Antioquia (11)
+- **posiciones de rcd espanyol de barcelona contra atlético de madrid** → Chocó (100), Sucre (83), Bolívar (72), Magdalena (69), Córdoba (63)
 
 ### 🛒 Oportunidades de dropshipping
 
 _Hoy las tendencias son mayormente noticias/eventos con baja intención de compra directa. Poco encaje para producto físico._
-
-<details><summary>⚠️ Avisos técnicos no fatales</summary>
-
-- geo/related 'encuesta': The request failed: Google returned a response with code 429
-- geo/related 'rodolfo sancho': The request failed: Google returned a response with code 429
-- geo/related 'milwaukee brewers contra dodgers': The request failed: Google returned a response with code 429
-- geo/related 'servicio geológico colombiano': The request failed: Google returned a response with code 429
-- geo/related 'defensores de la patria': The request failed: Google returned a response with code 429
-- geo/related 'último sorteo lotería de bogotá': The request failed: Google returned a response with code 429
-- geo/related 'maría corina machado': The request failed: Google returned a response with code 429
-- geo/related 'fonseca': The request failed: Google returned a response with code 429
-
-</details>
 
 ---
 
