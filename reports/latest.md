@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-10-17
+# 📊 Informe de tendencias y dropshipping — 2026-10-18
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,33 +10,44 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | liverpool fc | 200+ | Deporte / evento | 🔴 40 |
-| 2 | city | 200+ | Deporte / evento | 🔴 40 |
-| 3 | villarreal vs | 100+ | Deporte / evento | 🔴 40 |
-| 4 | betis vs barcelona | 100+ | Deporte / evento | 🔴 40 |
-| 5 | city vs | 200+ | Deporte / evento | 🔴 40 |
-| 6 | swansea - west ham | 100+ | Deporte / evento | 🔴 40 |
-| 7 | schalke 04 - mainz 05 | 100+ | Deporte / evento | 🔴 40 |
-| 8 | posiciones de rcd espanyol de barcelona contra atlético de madrid | 5000+ | Deporte / evento | 🔴 40 |
-| 9 | napoli vs | 200+ | Entretenimiento / farándula | 🔴 45 |
-| 10 | brentford vs liverpool | 500+ | Deporte / evento | 🔴 40 |
+| 1 | ucrania | 100+ | Noticias / actualidad | 🔴 10 |
+| 2 | united vs | 100+ | Deporte / evento | 🔴 40 |
+| 3 | posiciones de brighton & hove albion football club contra crystal palace | 1000+ | Otros | 🔴 30 |
+| 4 | milan - atalanta | 500+ | Otros | 🔴 30 |
+| 5 | bayer leverkusen vs | 100+ | Deporte / evento | 🔴 40 |
+| 6 | nottm forest vs arsenal | 200+ | Deporte / evento | 🔴 40 |
+| 7 | nottingham forest - arsenal | 2000+ | Gaming | 🟢 77 |
+| 8 | lorient - mónaco | 500+ | Otros | 🔴 30 |
+| 9 | posiciones de osasuna contra racing de santander | 500+ | Deporte / evento | 🔴 40 |
+| 10 | como vs | 200+ | Entretenimiento / farándula | 🔴 45 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **liverpool fc** → Sucre (100), Bolívar (94), Chocó (92), La Guajira (77), Córdoba (77)
-- **city** → Bolívar (100), Magdalena (98), Chocó (97), Sucre (90), La Guajira (89)
-- **villarreal vs** → La Guajira (100), Magdalena (89), Bolívar (88), Chocó (87), Córdoba (86)
-- **betis vs barcelona** → Bolívar (100), Magdalena (95), Atlántico (85), Córdoba (76), La Guajira (71)
-- **city vs** → Bolívar (100), Amazonas (97), Atlántico (90), Córdoba (85), Magdalena (78)
-- **swansea - west ham** → Tolima (100), Atlántico (46), Bogotá (22), Antioquia (21)
-- **schalke 04 - mainz 05** → Boyacá (100), Bolívar (53), Cundinamarca (22), Bogotá (13), Antioquia (11)
-- **posiciones de rcd espanyol de barcelona contra atlético de madrid** → Chocó (100), Sucre (83), Bolívar (72), Magdalena (69), Córdoba (63)
+- **ucrania** → Huila (100), Meta (91), Casanare (89), Caquetá (86), Arauca (85)
+- **united vs** → Atlántico (100), Córdoba (100), Bolívar (95), Magdalena (94), Norte de Santander (93)
+- **posiciones de brighton & hove albion football club contra crystal palace** → Cesar (100), Antioquia (14), Bogotá (11)
+- **milan - atalanta** → Atlántico (100), Cesar (85), Magdalena (83), Cundinamarca (60), Bolívar (55)
+- **bayer leverkusen vs** → Guainía (100), Atlántico (3), Valle del Cauca (2), Caldas (2), Bolívar (2)
+- **nottm forest vs arsenal** → Atlántico (100), Antioquia (71), Bogotá (31)
+- **nottingham forest - arsenal** → Chocó (100), Putumayo (99), Nariño (80), Sucre (79), Córdoba (79)
+- **lorient - mónaco** → Bolívar (100), Boyacá (47), Atlántico (31), Cundinamarca (21), Valle del Cauca (17)
 
 ### 🛒 Oportunidades de dropshipping
 
-_Hoy las tendencias son mayormente noticias/eventos con baja intención de compra directa. Poco encaje para producto físico._
+#### 🟢 nottingham forest - arsenal  ·  _Gaming_  ·  potencial 77/100
+
+Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~2000+).
+
+**Productos sugeridos:**
+- Periféricos gamer (mouse/teclado)
+- Sillas y soportes para setup
+- Luces RGB
+- Controles y accesorios de consola
+- Merchandising de juegos populares
+
+_Búsquedas relacionadas:_ leeds manchester united
 
 ---
 

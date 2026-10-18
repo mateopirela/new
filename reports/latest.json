@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "regions": [
     {
       "code": "CO",
@@ -8,198 +8,179 @@
       "trends": [
         {
           "rank": 1,
-          "term": "liverpool fc",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "ucrania",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Sucre": 100,
-            "Bolívar": 94,
-            "Chocó": 92,
-            "La Guajira": 77,
-            "Córdoba": 77
+            "Huila": 100,
+            "Meta": 91,
+            "Casanare": 89,
+            "Caquetá": 86,
+            "Arauca": 85
           },
           "news_titles": [
-            "Team news: Confirmed Liverpool U21s line-up v Reading",
-            "Brentford vs Liverpool: Premier League preview, team news, stats & head-to-head",
-            "Team news: Confirmed Liverpool line-up v Brentford"
+            "Ucrania desafía a Trump y lanza uno de sus mayores ataques con drones contra Rusia este año",
+            "Ucrania lanza contra San Petersburgo uno de los mayores ataques con drones de la guerra",
+            "Ucrania lanzó uno de los mayores ataques con drones de la guerra contra San Petersburgo, Rusia: una persona murió y cinco resultaron heridas"
           ]
         },
         {
           "rank": 2,
-          "term": "city",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
+          "term": "united vs",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bolívar": 100,
-            "Magdalena": 98,
-            "Chocó": 97,
-            "Sucre": 90,
-            "La Guajira": 89
+            "Atlántico": 100,
+            "Córdoba": 100,
+            "Bolívar": 95,
+            "Magdalena": 94,
+            "Norte de Santander": 93
           },
           "news_titles": [
-            "Manchester City y su peor miedo: diáspora de jugadores",
-            "La UEFA podría expulsar de 7 a 10 años al Manchester City de sus competiciones | El Colombiano",
-            "Steven Gerrard critica las sanciones al Manchester City por infracciones financieras"
+            "Leeds United vs Manchester United: Premier League preview, team news, stats & head-to-head",
+            "Man Utd Issue Injury Update As Michael Carrick Confirms Kobbie Mainoo Latest",
+            "‘We Have Done That’—Carrick Explains Martinez Decision After Transfer Tantrum"
           ]
         },
         {
           "rank": 3,
-          "term": "villarreal vs",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "posiciones de brighton & hove albion football club contra crystal palace",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "La Guajira": 100,
-            "Magdalena": 89,
-            "Bolívar": 88,
-            "Chocó": 87,
-            "Córdoba": 86
+            "Cesar": 100,
+            "Antioquia": 14,
+            "Bogotá": 11
           },
           "news_titles": [
-            "Licensable picture: Soccer 2026: LaLiga: Villarreal CF - Elche",
-            "Villareal vs. Elche prediction, odds, La Liga picks [10/17/2026]",
-            "PREVIEW | Villarreal CF vs Elche CF: team news, lineups, predictions (La Liga 17/10)"
+            "Premier League: Brighton put five past Palace, Leeds & Man Utd draw, Bournemouth lead",
+            "Gómez halfway-line wondergoal sparks Brighton’s 5-0 thrashing of sorry Crystal Palace",
+            "Brighton's Diego Gómez scores longest-range Premier League goal since 2017"
           ]
         },
         {
           "rank": 4,
-          "term": "betis vs barcelona",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "milan - atalanta",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bolívar": 100,
-            "Magdalena": 95,
-            "Atlántico": 85,
-            "Córdoba": 76,
-            "La Guajira": 71
+            "Atlántico": 100,
+            "Cesar": 85,
+            "Magdalena": 83,
+            "Cundinamarca": 60,
+            "Bolívar": 55
           },
           "news_titles": [
-            "Flick cambia la rutina del Barça en una semana de órdago",
-            "El dato que amenaza al Betis: 3,2 goles por partido",
-            "El “Cucho” Hernández y Deossa van contra el Barcelona de Flick; ¿a qué hora y dónde ver el partido?"
+            "[DIRETTA LIVE!]+ Milan Atalanta in Diretta Streaming 26 luglio 2026",
+            "Pazzini: \"Ecco perché l'Inter va spesso sotto nel punteggio. E occhio a questa statistica\"",
+            "Milan-Atalanta, le formazioni ufficiali: Pasalic in mediana, Samardzic trequartista nel 4-2-3-1"
           ]
         },
         {
           "rank": 5,
-          "term": "city vs",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
+          "term": "bayer leverkusen vs",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bolívar": 100,
-            "Amazonas": 97,
-            "Atlántico": 90,
-            "Córdoba": 85,
-            "Magdalena": 78
+            "Guainía": 100,
+            "Atlántico": 3,
+            "Valle del Cauca": 2,
+            "Caldas": 2,
+            "Bolívar": 2
           },
           "news_titles": [
-            "Video: Haaland metió un doblete para acercar a Manchester City ante PSG",
-            "PSG vence al Manchester City por la Champions League: Resumen y goles del partidazo",
-            "Manchester City vs. PSG, el choque de dos colosos millonarios en la Champions League: siga acá el minuto a minuto del partidazo"
+            "13 points and a +10 goal difference: Freiburg's dream start meets its biggest test in Leverkusen Vs Freiburg",
+            "Licensable picture: Football Bundesliga 2026 - 2027 Bayer 04 Leverkusen-SC Freiburg",
+            "“Fan culture trampled underfoot!” SC Freiburg fans cause a stoppage in play with tennis balls in Leverkusen"
           ]
         },
         {
           "rank": 6,
-          "term": "swansea - west ham",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
+          "term": "nottm forest vs arsenal",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Tolima": 100,
-            "Atlántico": 46,
-            "Bogotá": 22,
-            "Antioquia": 21
+            "Atlántico": 100,
+            "Antioquia": 71,
+            "Bogotá": 31
           },
           "news_titles": [
-            "Preview | Swansea City v West Ham United",
-            "Why Jarrod Bowen and Konstantinos Mavropanos are carrying West Ham as prediction made vs Swansea",
-            "Talking Points | Nuno on Lincoln reflections, Souček's return to the scoresheet and stopping the Swans"
+            "Nottingham Forest vs Arsenal: Premier League preview, team news, stats & head-to-head",
+            "Nottingham Forest vs Arsenal LIVE! Premier League match updates, news and score",
+            "Nottingham Forest vs. Arsenal: Preview, Predictions and Lineups"
           ]
         },
         {
           "rank": 7,
-          "term": "schalke 04 - mainz 05",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
+          "term": "nottingham forest - arsenal",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "is_opportunity": true,
           "geo_breakdown": {
-            "Boyacá": 100,
-            "Bolívar": 53,
-            "Cundinamarca": 22,
-            "Bogotá": 13,
-            "Antioquia": 11
+            "Chocó": 100,
+            "Putumayo": 99,
+            "Nariño": 80,
+            "Sucre": 79,
+            "Córdoba": 79
           },
           "news_titles": [
-            "[ＬＩＶＥ ＡＮＳＥＨＥＮ]KOSTENLOS!]!` Mainz 05 vs Schalke 04 𝐋𝐈𝐕𝐄 Ｋｏｓｔｅｎｌｏｓｅ Ｕ̈ｂｅｒｔｒａｇｕｎｇｅｎ ＡＵＦ ＤＥＭ ＴＶ-ＫＡＮＡＬ Spiel am 17. Oktober 2026. HD26",
-            "Dzeko startet - Adamu auf der Bank: Unser S04-Live-Ticker zum Spiel gegen Mainz 05",
-            "Fussball: Bundesliga"
+            "𝚆𝙰𝚃𝙲𝙷 Arsenal vs. Nottingham Forest 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ!PREMIER™LEAGUE",
+            "[[[ABC^Sports]] Arsenal Nottingham Forest Live Free HS Football 2026",
+            "+FIFA+[#!LIVESTREAMs!]™ Arsenal EPL vs Nottingham Forest Live Reddit"
           ]
         },
         {
           "rank": 8,
-          "term": "posiciones de rcd espanyol de barcelona contra atlético de madrid",
-          "approx_traffic": "5000+",
-          "traffic_value": 5000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "lorient - mónaco",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Chocó": 100,
-            "Sucre": 83,
-            "Bolívar": 72,
-            "Magdalena": 69,
-            "Córdoba": 63
+            "Bolívar": 100,
+            "Boyacá": 47,
+            "Atlántico": 31,
+            "Cundinamarca": 21,
+            "Valle del Cauca": 17
           },
           "news_titles": [
-            "Espanyol vs Atletico Madrid: Spanish La Liga stats & head-to-head",
-            "European football: Baena late strike for Atlético puts pressure on Barcelona",
-            "Espanyol vs. Atletico Madrid - Game Highlights"
+            "[L1-J7] Le RC Lens revient sur les places européennes, Lille patine à domicile",
+            "EN DIRECT - Multiplex Ligue 1 : Monaco veut reprendre les commandes, le Paris FC vise le podium",
+            "Angers/OM - La compo de Genesio avec Kondogbia en défense centrale !"
           ]
         },
         {
           "rank": 9,
-          "term": "napoli vs",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
-          "score": 45,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Preview: Venezia vs Napoli - prediction, team news, lineups",
-            "Licensable picture: Venezia Vs Napoli - Italian Serie A Enilive Football Championship 2026/2027",
-            "Napoli 'need to find solutions to the problems', says Allegri"
-          ]
-        },
-        {
-          "rank": 10,
-          "term": "brentford vs liverpool",
+          "term": "posiciones de osasuna contra racing de santander",
           "approx_traffic": "500+",
           "traffic_value": 500,
           "category_key": "sports_event",
@@ -208,13 +189,55 @@
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Brentford vs Liverpool: Premier League preview, team news, stats & head-to-head",
-            "Team news: Confirmed Liverpool line-up v Brentford",
-            "Andrews on returning trio, 'vital' Ouattara and 'interesting stat'"
+            "Osasuna vs Racing de Santander: Spanish La Liga stats & head-to-head",
+            "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
+            "Tickets for CA Osasuna vs Racing de Santander — LaLiga"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "como vs",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Serie A Liveblog: Fiorentina-Como, Milan-Atalanta, Juventus-Lazio",
+            "!$>[LIVE!#ON TV]* ACF Fiorentina-Como 1907: UEFA Nations League Live Score",
+            "Licensable picture: ACF Fiorentina v Como 1907 - Serie A Enilive"
           ]
         }
       ],
-      "opportunities": []
+      "opportunities": [
+        {
+          "term": "nottingham forest - arsenal",
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "approx_traffic": "2000+",
+          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~2000+).",
+          "product_ideas": [
+            "Periféricos gamer (mouse/teclado)",
+            "Sillas y soportes para setup",
+            "Luces RGB",
+            "Controles y accesorios de consola",
+            "Merchandising de juegos populares"
+          ],
+          "related_queries": [
+            "leeds manchester united"
+          ],
+          "geo_breakdown": {
+            "Chocó": 100,
+            "Putumayo": 99,
+            "Nariño": 80,
+            "Sucre": 79,
+            "Córdoba": 79
+          }
+        }
+      ]
     }
   ]
 }
