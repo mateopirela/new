@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "regions": [
     {
       "code": "CO",
@@ -8,236 +8,184 @@
       "trends": [
         {
           "rank": 1,
-          "term": "ucrania",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Huila": 100,
-            "Meta": 91,
-            "Casanare": 89,
-            "Caquetá": 86,
-            "Arauca": 85
-          },
-          "news_titles": [
-            "Ucrania desafía a Trump y lanza uno de sus mayores ataques con drones contra Rusia este año",
-            "Ucrania lanza contra San Petersburgo uno de los mayores ataques con drones de la guerra",
-            "Ucrania lanzó uno de los mayores ataques con drones de la guerra contra San Petersburgo, Rusia: una persona murió y cinco resultaron heridas"
-          ]
-        },
-        {
-          "rank": 2,
-          "term": "united vs",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
+          "term": "tottenham - coventry city",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Atlántico": 100,
-            "Córdoba": 100,
-            "Bolívar": 95,
-            "Magdalena": 94,
-            "Norte de Santander": 93
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "Leeds United vs Manchester United: Premier League preview, team news, stats & head-to-head",
-            "Man Utd Issue Injury Update As Michael Carrick Confirms Kobbie Mainoo Latest",
-            "‘We Have Done That’—Carrick Explains Martinez Decision After Transfer Tantrum"
+            "Preview: Tottenham Hotspur vs Coventry City - prediction, team news, lineups",
+            "Football Bet of the Day for Monday, October 19: Henry Hardwicke is banking on goals at the Tottenham Hotspur Stadium",
+            "MFT 10 – 1000 Betting Challenge: Corner count for Spurs as Coventry arrive for Monday night football."
           ]
         },
         {
-          "rank": 3,
-          "term": "posiciones de brighton & hove albion football club contra crystal palace",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
+          "rank": 2,
+          "term": "getafe - rayo vallecano",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
             "Cesar": 100,
-            "Antioquia": 14,
-            "Bogotá": 11
+            "Meta": 68,
+            "Magdalena": 63,
+            "Nariño": 60,
+            "Bolívar": 47
           },
           "news_titles": [
-            "Premier League: Brighton put five past Palace, Leeds & Man Utd draw, Bournemouth lead",
-            "Gómez halfway-line wondergoal sparks Brighton’s 5-0 thrashing of sorry Crystal Palace",
-            "Brighton's Diego Gómez scores longest-range Premier League goal since 2017"
+            "Alineaciones de Getafe y Rayo Vallecano por la LaLiga: formaciones probables",
+            "149 días desde el 'último' Dani Carvajal: \"Está preparado\"",
+            "LaLiga EA Sports 2026/27, en directo: Sigue la información en vivo del Getafe-Rayo Vallecano – Jornada 9 - Resultado y marcador hoy"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "tesla cybertruck",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Huila": 100,
+            "Antioquia": 74,
+            "Risaralda": 72,
+            "Bogotá": 48,
+            "Cundinamarca": 35
+          },
+          "news_titles": [
+            "Camioneta Cybertruck terminó “llevándose por delante” un poste en Rionegro | El Colombiano",
+            "VIDEO | Camioneta Cybertruck de Tesla, avaluada en más de 600 millones de pesos, chocó contra un poste de luz en el Oriente de Antioquia",
+            "Un vehículo Tesla Cybertruck chocó contra un poste de energía en la vía Llanogrande, Rionegro"
           ]
         },
         {
           "rank": 4,
-          "term": "milan - atalanta",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
+          "term": "raul castro",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Atlántico": 100,
-            "Cesar": 85,
-            "Magdalena": 83,
-            "Cundinamarca": 60,
-            "Bolívar": 55
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "[DIRETTA LIVE!]+ Milan Atalanta in Diretta Streaming 26 luglio 2026",
-            "Pazzini: \"Ecco perché l'Inter va spesso sotto nel punteggio. E occhio a questa statistica\"",
-            "Milan-Atalanta, le formazioni ufficiali: Pasalic in mediana, Samardzic trequartista nel 4-2-3-1"
+            "Una jueza de Miami firma una orden de arresto contra Raúl Castro por el derribo de las avionetas de Hermanos al Rescate",
+            "Juez de EE. UU. firmó orden de arresto contra Raúl Castro por conspiración en asesinato",
+            "Fiscalía de Florida emite orden de arresto contra el expresidente de Cuba Raúl Castro por derribo de avionetas de Estados Unidos: cargos en su contra"
           ]
         },
         {
           "rank": 5,
-          "term": "bayer leverkusen vs",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "daniel sancho",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Guainía": 100,
-            "Atlántico": 3,
-            "Valle del Cauca": 2,
-            "Caldas": 2,
-            "Bolívar": 2
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "13 points and a +10 goal difference: Freiburg's dream start meets its biggest test in Leverkusen Vs Freiburg",
-            "Licensable picture: Football Bundesliga 2026 - 2027 Bayer 04 Leverkusen-SC Freiburg",
-            "“Fan culture trampled underfoot!” SC Freiburg fans cause a stoppage in play with tennis balls in Leverkusen"
+            "Daniel Sancho recibe 3.000 euros mensuales en prisión y hay un gasto que llama la atención",
+            "3.000 euros en baños de hielo, varias horas de Muay Thai y arroz con pollo: la nueva rutina de Daniel Sancho mientras cumple condena en Tailandia",
+            "Los abogados de la familia Arrieta, sobre los 3.000 euros que Daniel Sancho gastaría en comida y hielo: \"Nos gustaría que esos fondos se bloquearan\""
           ]
         },
         {
           "rank": 6,
-          "term": "nottm forest vs arsenal",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "gobernador",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Atlántico": 100,
-            "Antioquia": 71,
-            "Bogotá": 31
+            "Guaviare": 100,
+            "Arauca": 94,
+            "San Andrés y Providencia": 89,
+            "Nariño": 53,
+            "Caquetá": 51
           },
           "news_titles": [
-            "Nottingham Forest vs Arsenal: Premier League preview, team news, stats & head-to-head",
-            "Nottingham Forest vs Arsenal LIVE! Premier League match updates, news and score",
-            "Nottingham Forest vs. Arsenal: Preview, Predictions and Lineups"
+            "Gobernadora de San Andrés y representante a la Cámara se pronunciaron tras duro careo del presidente De La Espriella: 'Lo reto para que investigue'",
+            "Los negocios de Norbert Vonblon, el esposo de la congresista de San Andrés, señalado por De la Espriella",
+            "Radiografía de la crisis en San Andrés: ¿qué está pasando en la isla?"
           ]
         },
         {
           "rank": 7,
-          "term": "nottingham forest - arsenal",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
-          "category_key": "gaming",
-          "category_label": "Gaming",
-          "score": 77,
-          "is_opportunity": true,
-          "geo_breakdown": {
-            "Chocó": 100,
-            "Putumayo": 99,
-            "Nariño": 80,
-            "Sucre": 79,
-            "Córdoba": 79
-          },
+          "term": "iván rené valenciano",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
           "news_titles": [
-            "𝚆𝙰𝚃𝙲𝙷 Arsenal vs. Nottingham Forest 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ!PREMIER™LEAGUE",
-            "[[[ABC^Sports]] Arsenal Nottingham Forest Live Free HS Football 2026",
-            "+FIFA+[#!LIVESTREAMs!]™ Arsenal EPL vs Nottingham Forest Live Reddit"
+            "Iván René Valenciano habló de acercar a Jhon Durán a la Selección Colombia, pero criticó sus actitudes: 'Tal vez no tenga nada en la cabeza'",
+            "“Mucho talento, tal vez no tenga nada en la cabeza”: la opinión de Iván René Valenciano sobre Jhon Jader Durán | El Colombiano",
+            "Iván René Valenciano pide que Colombia dé otra oportunidad a Jhon Durán"
           ]
         },
         {
           "rank": 8,
-          "term": "lorient - mónaco",
+          "term": "al hilal - al-hazm",
           "approx_traffic": "500+",
           "traffic_value": 500,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Bolívar": 100,
-            "Boyacá": 47,
-            "Atlántico": 31,
-            "Cundinamarca": 21,
-            "Valle del Cauca": 17
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "[L1-J7] Le RC Lens revient sur les places européennes, Lille patine à domicile",
-            "EN DIRECT - Multiplex Ligue 1 : Monaco veut reprendre les commandes, le Paris FC vise le podium",
-            "Angers/OM - La compo de Genesio avec Kondogbia en défense centrale !"
+            "Al-Hilal against Al-Hazem: Savic returns to the starting line-up and Salem on the bench",
+            "Inzaghi reveals Salem Al-Dawsari's status for the mat…",
+            "Salem Al-Dawsari returns to Al-Hilal training after Clasico setback"
           ]
         },
         {
           "rank": 9,
-          "term": "posiciones de osasuna contra racing de santander",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "donovan balanta",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Osasuna vs Racing de Santander: Spanish La Liga stats & head-to-head",
-            "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
-            "Tickets for CA Osasuna vs Racing de Santander — LaLiga"
+            "Capturan a cuatro policías por presunta implicación en la muerte de Donovan Balanta en el sur de Bogotá: esto reveló la Fiscalía",
+            "Capturan a cuatro policías por asesinato del Donovan Balanta en Soacha (Cundinamarca)",
+            "Fiscalía captura a cuatro policías en Soacha por presunto homicidio y tortura de Donovan Balanta Paz"
           ]
         },
         {
           "rank": 10,
-          "term": "como vs",
+          "term": "guerra",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
-          "score": 45,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Serie A Liveblog: Fiorentina-Como, Milan-Atalanta, Juventus-Lazio",
-            "!$>[LIVE!#ON TV]* ACF Fiorentina-Como 1907: UEFA Nations League Live Score",
-            "Licensable picture: ACF Fiorentina v Como 1907 - Serie A Enilive"
+            "\"El mundo quedará asombrado\": los comandantes de Irán se preparan para prolongar la guerra",
+            "Irán.- La Guardia Revolucionaria de Irán afirma que EEUU \"no tiene la capacidad militar\" para abrir un nuevo conflicto",
+            "Irán advierte que destruirá infraestructura energética de sus agresores"
           ]
         }
       ],
-      "opportunities": [
-        {
-          "term": "nottingham forest - arsenal",
-          "category_key": "gaming",
-          "category_label": "Gaming",
-          "score": 77,
-          "approx_traffic": "2000+",
-          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~2000+).",
-          "product_ideas": [
-            "Periféricos gamer (mouse/teclado)",
-            "Sillas y soportes para setup",
-            "Luces RGB",
-            "Controles y accesorios de consola",
-            "Merchandising de juegos populares"
-          ],
-          "related_queries": [
-            "leeds manchester united"
-          ],
-          "geo_breakdown": {
-            "Chocó": 100,
-            "Putumayo": 99,
-            "Nariño": 80,
-            "Sucre": 79,
-            "Córdoba": 79
-          }
-        }
-      ]
+      "opportunities": []
     }
   ]
 }
