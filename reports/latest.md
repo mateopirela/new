@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-10-19
+# 📊 Informe de tendencias y dropshipping — 2026-10-20
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,39 +10,51 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | tottenham - coventry city | 1000+ | Deporte / evento | 🔴 40 |
-| 2 | getafe - rayo vallecano | 500+ | Otros | 🔴 30 |
-| 3 | tesla cybertruck | 200+ | Otros | 🔴 30 |
-| 4 | raul castro | 200+ | Otros | 🔴 30 |
-| 5 | daniel sancho | 200+ | Otros | 🔴 30 |
-| 6 | gobernador | 1000+ | Noticias / actualidad | 🔴 10 |
-| 7 | iván rené valenciano | 100+ | Deporte / evento | 🔴 35 |
-| 8 | al hilal - al-hazm | 500+ | Otros | 🔴 30 |
-| 9 | donovan balanta | 200+ | Otros | 🔴 30 |
-| 10 | guerra | 200+ | Otros | 🔴 30 |
-
-### 🗺️ Distribución geográfica interna
-
-Dónde se busca más cada término (interés relativo 0–100 por región):
-
-- **getafe - rayo vallecano** → Cesar (100), Meta (68), Magdalena (63), Nariño (60), Bolívar (47)
-- **tesla cybertruck** → Huila (100), Antioquia (74), Risaralda (72), Bogotá (48), Cundinamarca (35)
-- **gobernador** → Guaviare (100), Arauca (94), San Andrés y Providencia (89), Nariño (53), Caquetá (51)
+| 1 | selección femenina de fútbol de colombia | 200+ | Deporte / evento | 🔴 35 |
+| 2 | conmebol libertadores | 5000+ | Deporte / evento | 🔴 35 |
+| 3 | corte suprema | 1000+ | Otros | 🔴 30 |
+| 4 | recompensa | 1000+ | Otros | 🔴 30 |
+| 5 | apple iphone duo | 100+ | Tecnología y gadgets | 🟢 85 |
+| 6 | vincent kompany | 1000+ | Deporte / evento | 🔴 35 |
+| 7 | falsificación | 200+ | Otros | 🔴 30 |
+| 8 | simulacro distrital 2026 | 1000+ | Fitness y bienestar | 🟢 80 |
+| 9 | raúl castro | 200+ | Noticias / actualidad | 🔴 10 |
+| 10 | dávinson sánchez | 1000+ | Otros | 🔴 35 |
 
 ### 🛒 Oportunidades de dropshipping
 
-_Hoy las tendencias son mayormente noticias/eventos con baja intención de compra directa. Poco encaje para producto físico._
+#### 🟢 apple iphone duo  ·  _Tecnología y gadgets_  ·  potencial 85/100
+
+Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~100+).
+
+**Productos sugeridos:**
+- Audífonos inalámbricos / TWS
+- Smartwatch económico
+- Cargadores y power banks
+- Soportes y accesorios para celular
+- Mini proyectores y parlantes bluetooth
+
+#### 🟢 simulacro distrital 2026  ·  _Fitness y bienestar_  ·  potencial 80/100
+
+Categoría 'Fitness y bienestar' con buena traducción a producto físico y demanda visible (tráfico ~1000+).
+
+**Productos sugeridos:**
+- Bandas y mini equipos de resistencia
+- Botellas y shakers
+- Ropa deportiva / leggings
+- Smart bands para actividad
+- Esterillas de yoga
 
 <details><summary>⚠️ Avisos técnicos no fatales</summary>
 
-- geo/related 'tottenham - coventry city': The request failed: Google returned a response with code 429
-- geo/related 'getafe - rayo vallecano': The request failed: Google returned a response with code 429
-- geo/related 'tesla cybertruck': The request failed: Google returned a response with code 429
-- geo/related 'raul castro': The request failed: Google returned a response with code 429
-- geo/related 'daniel sancho': The request failed: Google returned a response with code 429
-- geo/related 'gobernador': The request failed: Google returned a response with code 429
-- geo/related 'iván rené valenciano': The request failed: Google returned a response with code 429
-- geo/related 'al hilal - al-hazm': The request failed: Google returned a response with code 429
+- geo/related 'selección femenina de fútbol de colombia': The request failed: Google returned a response with code 429
+- geo/related 'conmebol libertadores': The request failed: Google returned a response with code 429
+- geo/related 'corte suprema': The request failed: Google returned a response with code 429
+- geo/related 'recompensa': The request failed: Google returned a response with code 429
+- geo/related 'apple iphone duo': The request failed: Google returned a response with code 429
+- geo/related 'vincent kompany': The request failed: Google returned a response with code 429
+- geo/related 'falsificación': The request failed: Google returned a response with code 429
+- geo/related 'simulacro distrital 2026': The request failed: Google returned a response with code 429
 
 </details>
 

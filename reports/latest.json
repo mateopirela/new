@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "regions": [
     {
       "code": "CO",
@@ -8,184 +8,201 @@
       "trends": [
         {
           "rank": 1,
-          "term": "tottenham - coventry city",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Preview: Tottenham Hotspur vs Coventry City - prediction, team news, lineups",
-            "Football Bet of the Day for Monday, October 19: Henry Hardwicke is banking on goals at the Tottenham Hotspur Stadium",
-            "MFT 10 – 1000 Betting Challenge: Corner count for Spurs as Coventry arrive for Monday night football."
-          ]
-        },
-        {
-          "rank": 2,
-          "term": "getafe - rayo vallecano",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Cesar": 100,
-            "Meta": 68,
-            "Magdalena": 63,
-            "Nariño": 60,
-            "Bolívar": 47
-          },
-          "news_titles": [
-            "Alineaciones de Getafe y Rayo Vallecano por la LaLiga: formaciones probables",
-            "149 días desde el 'último' Dani Carvajal: \"Está preparado\"",
-            "LaLiga EA Sports 2026/27, en directo: Sigue la información en vivo del Getafe-Rayo Vallecano – Jornada 9 - Resultado y marcador hoy"
-          ]
-        },
-        {
-          "rank": 3,
-          "term": "tesla cybertruck",
+          "term": "selección femenina de fútbol de colombia",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Huila": 100,
-            "Antioquia": 74,
-            "Risaralda": 72,
-            "Bogotá": 48,
-            "Cundinamarca": 35
-          },
-          "news_titles": [
-            "Camioneta Cybertruck terminó “llevándose por delante” un poste en Rionegro | El Colombiano",
-            "VIDEO | Camioneta Cybertruck de Tesla, avaluada en más de 600 millones de pesos, chocó contra un poste de luz en el Oriente de Antioquia",
-            "Un vehículo Tesla Cybertruck chocó contra un poste de energía en la vía Llanogrande, Rionegro"
-          ]
-        },
-        {
-          "rank": 4,
-          "term": "raul castro",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Una jueza de Miami firma una orden de arresto contra Raúl Castro por el derribo de las avionetas de Hermanos al Rescate",
-            "Juez de EE. UU. firmó orden de arresto contra Raúl Castro por conspiración en asesinato",
-            "Fiscalía de Florida emite orden de arresto contra el expresidente de Cuba Raúl Castro por derribo de avionetas de Estados Unidos: cargos en su contra"
-          ]
-        },
-        {
-          "rank": 5,
-          "term": "daniel sancho",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Daniel Sancho recibe 3.000 euros mensuales en prisión y hay un gasto que llama la atención",
-            "3.000 euros en baños de hielo, varias horas de Muay Thai y arroz con pollo: la nueva rutina de Daniel Sancho mientras cumple condena en Tailandia",
-            "Los abogados de la familia Arrieta, sobre los 3.000 euros que Daniel Sancho gastaría en comida y hielo: \"Nos gustaría que esos fondos se bloquearan\""
-          ]
-        },
-        {
-          "rank": 6,
-          "term": "gobernador",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Guaviare": 100,
-            "Arauca": 94,
-            "San Andrés y Providencia": 89,
-            "Nariño": 53,
-            "Caquetá": 51
-          },
-          "news_titles": [
-            "Gobernadora de San Andrés y representante a la Cámara se pronunciaron tras duro careo del presidente De La Espriella: 'Lo reto para que investigue'",
-            "Los negocios de Norbert Vonblon, el esposo de la congresista de San Andrés, señalado por De la Espriella",
-            "Radiografía de la crisis en San Andrés: ¿qué está pasando en la isla?"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "iván rené valenciano",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 35,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Iván René Valenciano habló de acercar a Jhon Durán a la Selección Colombia, pero criticó sus actitudes: 'Tal vez no tenga nada en la cabeza'",
-            "“Mucho talento, tal vez no tenga nada en la cabeza”: la opinión de Iván René Valenciano sobre Jhon Jader Durán | El Colombiano",
-            "Iván René Valenciano pide que Colombia dé otra oportunidad a Jhon Durán"
+            "Selección Colombia Femenina sube un puesto en el Ranking FIFA",
+            "La Selección Colombia Femenina escaló en el ranking Fifa tras sus amistosos contra Venezuela: España sigue como líder mundial",
+            "Ranking FIFA Femenino: España se consolida en el primer puesto"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "conmebol libertadores",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Suspenden el partido del Deportivo Cali contra Nacional de Uruguay en la Copa Libertadores Femenina: acá los detalles",
+            "Deportivo Cali casi anota ante Nacional en la Libertadores",
+            "Deportivo Cali Femenino venció a Nacional y se acerca a la clasificación en la Copa Libertadores"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "corte suprema",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Caso cartel de la toga: ¿qué sigue para el exmagistrado Camilo Tarquino tras fallo de la Corte Suprema?",
+            "Corte dejó en firme condena de 6 años de prisión contra el exmagistrado Camilo Humberto Tarquino",
+            "Primicia: CTI capturó a Camilo Tarquino, expresidente de la Corte Suprema por el cartel de la toga"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "recompensa",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Gobernación de La Guajira ofrece recompensa de hasta $50 millones por información sobre hechos violentos",
+            "Ofrecen $ 50 millones de recompensa por atentado con explosivos en Popayán que dejó dos heridos",
+            "Dos civiles heridos por explosión en la Variante Norte de Popayán; reportan evacuaciones en el centro histórico"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "apple iphone duo",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "tech",
+          "category_label": "Tecnología y gadgets",
+          "score": 85,
+          "is_opportunity": true,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+            "Apple adds American suppliers: Here's what you need to know",
+            "Apple commits up to $100 million for US titanium in domestic manufacturing push"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "vincent kompany",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Vincent Kompany to miss Bayern’s clash with Arsenal due to legs-affecting virus",
+            "Kimmich misses Bayern Munich training before Arsenal clash as new footage released",
+            "Bayern Fitness Concerns Deepen Before Arsenal Champions League Clash"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "falsificación",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Aprehenden a 23 personas señaladas de integrar una presunta red de falsificación y venta de diplomas en Panamá",
+            "Capturan a 18 personas por presunta venta de plazas docentes y falsificación de diplomas",
+            "Procuraduría General de la Nación ejecuta la operación Credenciales 2.0 en cinco provincias del país"
           ]
         },
         {
           "rank": 8,
-          "term": "al hilal - al-hazm",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
+          "term": "simulacro distrital 2026",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "fitness",
+          "category_label": "Fitness y bienestar",
+          "score": 80,
+          "is_opportunity": true,
           "geo_breakdown": {},
           "news_titles": [
-            "Al-Hilal against Al-Hazem: Savic returns to the starting line-up and Salem on the bench",
-            "Inzaghi reveals Salem Al-Dawsari's status for the mat…",
-            "Salem Al-Dawsari returns to Al-Hilal training after Clasico setback"
+            "10 cosas que debes saber sobre el Simulacro Bogotá 2026 de este miércoles 21 de octubre",
+            "Simulacro Nacional de Emergencias: ¿sabe cómo actuar ante una situación de riesgo?",
+            "Autoridades convocan a organizaciones para inscribirse en el ejercicio de evacuación"
           ]
         },
         {
           "rank": 9,
-          "term": "donovan balanta",
+          "term": "raúl castro",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Capturan a cuatro policías por presunta implicación en la muerte de Donovan Balanta en el sur de Bogotá: esto reveló la Fiscalía",
-            "Capturan a cuatro policías por asesinato del Donovan Balanta en Soacha (Cundinamarca)",
-            "Fiscalía captura a cuatro policías en Soacha por presunto homicidio y tortura de Donovan Balanta Paz"
+            "Jueza de Florida emite orden de arresto contra Raúl Castro por el derribo de dos avionetas de Hermanos al Rescate en 1996",
+            "Juez de EE. UU. firmó orden de arresto contra Raúl Castro por conspiración en asesinato",
+            "Cuba rechaza la orden de arresto contra Raúl Castro por parte de Estados Unidos: el presidente Díaz-Canel lo califica como 'patético circo miamense'"
           ]
         },
         {
           "rank": 10,
-          "term": "guerra",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
+          "term": "dávinson sánchez",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
           "category_key": "other",
           "category_label": "Otros",
-          "score": 30,
+          "score": 35,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "\"El mundo quedará asombrado\": los comandantes de Irán se preparan para prolongar la guerra",
-            "Irán.- La Guardia Revolucionaria de Irán afirma que EEUU \"no tiene la capacidad militar\" para abrir un nuevo conflicto",
-            "Irán advierte que destruirá infraestructura energética de sus agresores"
+            "Dávinson Sánchez podría salir del Galatasaray: un gigante de Europa prepara una oferta por el colombiano",
+            "Davinsón Sánchez ficharía con grande de Europa: Carlos Antonio Vélez se refirió al trato",
+            "Benfica estaría pensando en Davinson para el siguiente mercado de fichajes"
           ]
         }
       ],
-      "opportunities": []
+      "opportunities": [
+        {
+          "term": "apple iphone duo",
+          "category_key": "tech",
+          "category_label": "Tecnología y gadgets",
+          "score": 85,
+          "approx_traffic": "100+",
+          "rationale": "Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~100+).",
+          "product_ideas": [
+            "Audífonos inalámbricos / TWS",
+            "Smartwatch económico",
+            "Cargadores y power banks",
+            "Soportes y accesorios para celular",
+            "Mini proyectores y parlantes bluetooth"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {}
+        },
+        {
+          "term": "simulacro distrital 2026",
+          "category_key": "fitness",
+          "category_label": "Fitness y bienestar",
+          "score": 80,
+          "approx_traffic": "1000+",
+          "rationale": "Categoría 'Fitness y bienestar' con buena traducción a producto físico y demanda visible (tráfico ~1000+).",
+          "product_ideas": [
+            "Bandas y mini equipos de resistencia",
+            "Botellas y shakers",
+            "Ropa deportiva / leggings",
+            "Smart bands para actividad",
+            "Esterillas de yoga"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {}
+        }
+      ]
     }
   ]
 }

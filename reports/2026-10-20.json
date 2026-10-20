@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-20",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "selección femenina de fútbol de colombia",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Selección Colombia Femenina sube un puesto en el Ranking FIFA",
+            "La Selección Colombia Femenina escaló en el ranking Fifa tras sus amistosos contra Venezuela: España sigue como líder mundial",
+            "Ranking FIFA Femenino: España se consolida en el primer puesto"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "conmebol libertadores",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Suspenden el partido del Deportivo Cali contra Nacional de Uruguay en la Copa Libertadores Femenina: acá los detalles",
+            "Deportivo Cali casi anota ante Nacional en la Libertadores",
+            "Deportivo Cali Femenino venció a Nacional y se acerca a la clasificación en la Copa Libertadores"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "corte suprema",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Caso cartel de la toga: ¿qué sigue para el exmagistrado Camilo Tarquino tras fallo de la Corte Suprema?",
+            "Corte dejó en firme condena de 6 años de prisión contra el exmagistrado Camilo Humberto Tarquino",
+            "Primicia: CTI capturó a Camilo Tarquino, expresidente de la Corte Suprema por el cartel de la toga"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "recompensa",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Gobernación de La Guajira ofrece recompensa de hasta $50 millones por información sobre hechos violentos",
+            "Ofrecen $ 50 millones de recompensa por atentado con explosivos en Popayán que dejó dos heridos",
+            "Dos civiles heridos por explosión en la Variante Norte de Popayán; reportan evacuaciones en el centro histórico"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "apple iphone duo",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "tech",
+          "category_label": "Tecnología y gadgets",
+          "score": 85,
+          "is_opportunity": true,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+            "Apple adds American suppliers: Here's what you need to know",
+            "Apple commits up to $100 million for US titanium in domestic manufacturing push"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "vincent kompany",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Vincent Kompany to miss Bayern’s clash with Arsenal due to legs-affecting virus",
+            "Kimmich misses Bayern Munich training before Arsenal clash as new footage released",
+            "Bayern Fitness Concerns Deepen Before Arsenal Champions League Clash"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "falsificación",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Aprehenden a 23 personas señaladas de integrar una presunta red de falsificación y venta de diplomas en Panamá",
+            "Capturan a 18 personas por presunta venta de plazas docentes y falsificación de diplomas",
+            "Procuraduría General de la Nación ejecuta la operación Credenciales 2.0 en cinco provincias del país"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "simulacro distrital 2026",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "fitness",
+          "category_label": "Fitness y bienestar",
+          "score": 80,
+          "is_opportunity": true,
+          "geo_breakdown": {},
+          "news_titles": [
+            "10 cosas que debes saber sobre el Simulacro Bogotá 2026 de este miércoles 21 de octubre",
+            "Simulacro Nacional de Emergencias: ¿sabe cómo actuar ante una situación de riesgo?",
+            "Autoridades convocan a organizaciones para inscribirse en el ejercicio de evacuación"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "raúl castro",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Jueza de Florida emite orden de arresto contra Raúl Castro por el derribo de dos avionetas de Hermanos al Rescate en 1996",
+            "Juez de EE. UU. firmó orden de arresto contra Raúl Castro por conspiración en asesinato",
+            "Cuba rechaza la orden de arresto contra Raúl Castro por parte de Estados Unidos: el presidente Díaz-Canel lo califica como 'patético circo miamense'"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "dávinson sánchez",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Dávinson Sánchez podría salir del Galatasaray: un gigante de Europa prepara una oferta por el colombiano",
+            "Davinsón Sánchez ficharía con grande de Europa: Carlos Antonio Vélez se refirió al trato",
+            "Benfica estaría pensando en Davinson para el siguiente mercado de fichajes"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "term": "apple iphone duo",
+          "category_key": "tech",
+          "category_label": "Tecnología y gadgets",
+          "score": 85,
+          "approx_traffic": "100+",
+          "rationale": "Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~100+).",
+          "product_ideas": [
+            "Audífonos inalámbricos / TWS",
+            "Smartwatch económico",
+            "Cargadores y power banks",
+            "Soportes y accesorios para celular",
+            "Mini proyectores y parlantes bluetooth"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {}
+        },
+        {
+          "term": "simulacro distrital 2026",
+          "category_key": "fitness",
+          "category_label": "Fitness y bienestar",
+          "score": 80,
+          "approx_traffic": "1000+",
+          "rationale": "Categoría 'Fitness y bienestar' con buena traducción a producto físico y demanda visible (tráfico ~1000+).",
+          "product_ideas": [
+            "Bandas y mini equipos de resistencia",
+            "Botellas y shakers",
+            "Ropa deportiva / leggings",
+            "Smart bands para actividad",
+            "Esterillas de yoga"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {}
+        }
+      ]
+    }
+  ]
+}
