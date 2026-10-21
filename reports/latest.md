@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-10-20
+# 📊 Informe de tendencias y dropshipping — 2026-10-21
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,33 +10,22 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | selección femenina de fútbol de colombia | 200+ | Deporte / evento | 🔴 35 |
-| 2 | conmebol libertadores | 5000+ | Deporte / evento | 🔴 35 |
-| 3 | corte suprema | 1000+ | Otros | 🔴 30 |
-| 4 | recompensa | 1000+ | Otros | 🔴 30 |
-| 5 | apple iphone duo | 100+ | Tecnología y gadgets | 🟢 85 |
-| 6 | vincent kompany | 1000+ | Deporte / evento | 🔴 35 |
-| 7 | falsificación | 200+ | Otros | 🔴 30 |
-| 8 | simulacro distrital 2026 | 1000+ | Fitness y bienestar | 🟢 80 |
-| 9 | raúl castro | 200+ | Noticias / actualidad | 🔴 10 |
-| 10 | dávinson sánchez | 1000+ | Otros | 🔴 35 |
+| 1 | galatasaray vs | 100+ | Deporte / evento | 🔴 40 |
+| 2 | como vs manchester united | 100+ | Deporte / evento | 🔴 40 |
+| 3 | joshua kimmich | 100+ | Deporte / evento | 🔴 40 |
+| 4 | como - manchester united | 10000+ | Deporte / evento | 🔴 40 |
+| 5 | php | 200+ | Otros | 🔴 30 |
+| 6 | mateusz chmura | 200+ | Otros | 🔴 30 |
+| 7 | asesinato | 500+ | Otros | 🔴 30 |
+| 8 | discurso | 100+ | Otros | 🔴 30 |
+| 9 | juan cuadrado | 500+ | Fitness y bienestar | 🟢 80 |
+| 10 | red+ | 1000+ | Otros | 🔴 30 |
 
 ### 🛒 Oportunidades de dropshipping
 
-#### 🟢 apple iphone duo  ·  _Tecnología y gadgets_  ·  potencial 85/100
+#### 🟢 juan cuadrado  ·  _Fitness y bienestar_  ·  potencial 80/100
 
-Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~100+).
-
-**Productos sugeridos:**
-- Audífonos inalámbricos / TWS
-- Smartwatch económico
-- Cargadores y power banks
-- Soportes y accesorios para celular
-- Mini proyectores y parlantes bluetooth
-
-#### 🟢 simulacro distrital 2026  ·  _Fitness y bienestar_  ·  potencial 80/100
-
-Categoría 'Fitness y bienestar' con buena traducción a producto físico y demanda visible (tráfico ~1000+).
+Categoría 'Fitness y bienestar' con buena traducción a producto físico y demanda visible (tráfico ~500+).
 
 **Productos sugeridos:**
 - Bandas y mini equipos de resistencia
@@ -47,14 +36,14 @@ Categoría 'Fitness y bienestar' con buena traducción a producto físico y dema
 
 <details><summary>⚠️ Avisos técnicos no fatales</summary>
 
-- geo/related 'selección femenina de fútbol de colombia': The request failed: Google returned a response with code 429
-- geo/related 'conmebol libertadores': The request failed: Google returned a response with code 429
-- geo/related 'corte suprema': The request failed: Google returned a response with code 429
-- geo/related 'recompensa': The request failed: Google returned a response with code 429
-- geo/related 'apple iphone duo': The request failed: Google returned a response with code 429
-- geo/related 'vincent kompany': The request failed: Google returned a response with code 429
-- geo/related 'falsificación': The request failed: Google returned a response with code 429
-- geo/related 'simulacro distrital 2026': The request failed: Google returned a response with code 429
+- geo/related 'galatasaray vs': The request failed: Google returned a response with code 429
+- geo/related 'como vs manchester united': The request failed: Google returned a response with code 429
+- geo/related 'joshua kimmich': The request failed: Google returned a response with code 429
+- geo/related 'como - manchester united': The request failed: Google returned a response with code 429
+- geo/related 'php': The request failed: Google returned a response with code 429
+- geo/related 'mateusz chmura': The request failed: Google returned a response with code 429
+- geo/related 'asesinato': The request failed: Google returned a response with code 429
+- geo/related 'discurso': The request failed: Google returned a response with code 429
 
 </details>
 

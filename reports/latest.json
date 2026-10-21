@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "regions": [
     {
       "code": "CO",
@@ -8,103 +8,71 @@
       "trends": [
         {
           "rank": 1,
-          "term": "selección femenina de fútbol de colombia",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
+          "term": "galatasaray vs",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 35,
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Selección Colombia Femenina sube un puesto en el Ranking FIFA",
-            "La Selección Colombia Femenina escaló en el ranking Fifa tras sus amistosos contra Venezuela: España sigue como líder mundial",
-            "Ranking FIFA Femenino: España se consolida en el primer puesto"
+            "Preview: Lille vs Galatasaray - prediction, team news, lineups",
+            "Licensable picture: LOSC Lille training session ahead of UEFA Champions League match against Galatasaray",
+            "UCL: Lille Defender Alexsandro Ready For Osimhen Battle"
           ]
         },
         {
           "rank": 2,
-          "term": "conmebol libertadores",
-          "approx_traffic": "5000+",
-          "traffic_value": 5000,
+          "term": "como vs manchester united",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 35,
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Suspenden el partido del Deportivo Cali contra Nacional de Uruguay en la Copa Libertadores Femenina: acá los detalles",
-            "Deportivo Cali casi anota ante Nacional en la Libertadores",
-            "Deportivo Cali Femenino venció a Nacional y se acerca a la clasificación en la Copa Libertadores"
+            "Champions League: Cesc Fabregas and Como prepare for historic Man Utd tie",
+            "New Como vs Man United update amid risk of European clash being postponed",
+            "UEFA Champions League Live Updates, Scores, Highlights and Standings (10/21)"
           ]
         },
         {
           "rank": 3,
-          "term": "corte suprema",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "joshua kimmich",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Caso cartel de la toga: ¿qué sigue para el exmagistrado Camilo Tarquino tras fallo de la Corte Suprema?",
-            "Corte dejó en firme condena de 6 años de prisión contra el exmagistrado Camilo Humberto Tarquino",
-            "Primicia: CTI capturó a Camilo Tarquino, expresidente de la Corte Suprema por el cartel de la toga"
+            "Tom Bischof expected to fill somber void left by Joshua Kimmich vs. Arsenal",
+            "Bayern Munich handed huge boost ahead of Arsenal clash tonight",
+            "Joshua Kimmich to miss Bayern Munich-Arsenal match due to death in family"
           ]
         },
         {
           "rank": 4,
-          "term": "recompensa",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "como - manchester united",
+          "approx_traffic": "10000+",
+          "traffic_value": 10000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Gobernación de La Guajira ofrece recompensa de hasta $50 millones por información sobre hechos violentos",
-            "Ofrecen $ 50 millones de recompensa por atentado con explosivos en Popayán que dejó dos heridos",
-            "Dos civiles heridos por explosión en la Variante Norte de Popayán; reportan evacuaciones en el centro histórico"
+            "Como - Manchester United en directo: Champions League hoy, en vivo",
+            "Cuándo juegan Como vs. Manchester United por la UEFA Champions League: equipo, fecha, hora y TV en vivo",
+            "Como 1907 vs Manchester United: Duelo inédito en Champions League por escalar posiciones"
           ]
         },
         {
           "rank": 5,
-          "term": "apple iphone duo",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "tech",
-          "category_label": "Tecnología y gadgets",
-          "score": 85,
-          "is_opportunity": true,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Apple announces American Manufacturing Program partners for latest iPhone lineup",
-            "Apple adds American suppliers: Here's what you need to know",
-            "Apple commits up to $100 million for US titanium in domestic manufacturing push"
-          ]
-        },
-        {
-          "rank": 6,
-          "term": "vincent kompany",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Vincent Kompany to miss Bayern’s clash with Arsenal due to legs-affecting virus",
-            "Kimmich misses Bayern Munich training before Arsenal clash as new footage released",
-            "Bayern Fitness Concerns Deepen Before Arsenal Champions League Clash"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "falsificación",
+          "term": "php",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "other",
@@ -113,85 +81,100 @@
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Aprehenden a 23 personas señaladas de integrar una presunta red de falsificación y venta de diplomas en Panamá",
-            "Capturan a 18 personas por presunta venta de plazas docentes y falsificación de diplomas",
-            "Procuraduría General de la Nación ejecuta la operación Credenciales 2.0 en cinco provincias del país"
+            "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+            "Critical security issue affecting PHP",
+            "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "mateusz chmura",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Mateusz Chmura nie żyje. Żona zabrała głos. Poruszające słowa",
+            "Nie żyje polski kulturysta, miał 33 lata. Dramat na scenie",
+            "Wzruszające słowa przyjaciela po śmierci Mateusza Chmury. Łzy cisną się do oczu"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "asesinato",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Misterio e indignación en Cundinamarca por brutal asesinato de una pareja en una finca de Suesca: 'Fue una muerte muy tenaz'",
+            "Asesinaron a una pareja en un ataque a su finca en Suesca, Cundinamarca: trataron de huir y murieron en plena vía",
+            "Los perros dejaron de ladrar: así fue como un vecino descubrió que una pareja había sido asesinada en su finca de Suesca"
           ]
         },
         {
           "rank": 8,
-          "term": "simulacro distrital 2026",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
+          "term": "discurso",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Santiago Ortiz, el joven que puso a pensar al país en un discurso viral",
+            "Este fue el emotivo discurso de graduación de egresado de Los Andes que se viralizó en redes: “Vivamos una vida con el privilegio de estar satisfechos”",
+            "¿Discurso del año? Estudiante de los Andes sorprendió con reflexión del éxito y plata para profesionales"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "juan cuadrado",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
           "category_key": "fitness",
           "category_label": "Fitness y bienestar",
           "score": 80,
           "is_opportunity": true,
           "geo_breakdown": {},
           "news_titles": [
-            "10 cosas que debes saber sobre el Simulacro Bogotá 2026 de este miércoles 21 de octubre",
-            "Simulacro Nacional de Emergencias: ¿sabe cómo actuar ante una situación de riesgo?",
-            "Autoridades convocan a organizaciones para inscribirse en el ejercicio de evacuación"
-          ]
-        },
-        {
-          "rank": 9,
-          "term": "raúl castro",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Jueza de Florida emite orden de arresto contra Raúl Castro por el derribo de dos avionetas de Hermanos al Rescate en 1996",
-            "Juez de EE. UU. firmó orden de arresto contra Raúl Castro por conspiración en asesinato",
-            "Cuba rechaza la orden de arresto contra Raúl Castro por parte de Estados Unidos: el presidente Díaz-Canel lo califica como 'patético circo miamense'"
+            "Cuadrado: “El profe me dijo que aquí tengo que correr o me saca”",
+            "Juan Guillermo Cuadrado habló de la advertencia que le hizo Gamero en Millonarios",
+            "Juan Guillermo Cuadrado: \"con los futbolistas que hay, podemos jugar mejor\""
           ]
         },
         {
           "rank": 10,
-          "term": "dávinson sánchez",
+          "term": "red+",
           "approx_traffic": "1000+",
           "traffic_value": 1000,
           "category_key": "other",
           "category_label": "Otros",
-          "score": 35,
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Dávinson Sánchez podría salir del Galatasaray: un gigante de Europa prepara una oferta por el colombiano",
-            "Davinsón Sánchez ficharía con grande de Europa: Carlos Antonio Vélez se refirió al trato",
-            "Benfica estaría pensando en Davinson para el siguiente mercado de fichajes"
+            "Quinta semana de racionamiento en Medellín: así están los embalses y los municipios en riesgo",
+            "Embalses alcanzaron el 87 % de la meta de ahorro de agua el pasado domingo en el Valle de Aburrá",
+            "Un mes de cortes de agua en Medellín y los embalses siguen sin recuperarse: EPM pide a usuarios redoblar esfuerzos"
           ]
         }
       ],
       "opportunities": [
         {
-          "term": "apple iphone duo",
-          "category_key": "tech",
-          "category_label": "Tecnología y gadgets",
-          "score": 85,
-          "approx_traffic": "100+",
-          "rationale": "Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~100+).",
-          "product_ideas": [
-            "Audífonos inalámbricos / TWS",
-            "Smartwatch económico",
-            "Cargadores y power banks",
-            "Soportes y accesorios para celular",
-            "Mini proyectores y parlantes bluetooth"
-          ],
-          "related_queries": [],
-          "geo_breakdown": {}
-        },
-        {
-          "term": "simulacro distrital 2026",
+          "term": "juan cuadrado",
           "category_key": "fitness",
           "category_label": "Fitness y bienestar",
           "score": 80,
-          "approx_traffic": "1000+",
-          "rationale": "Categoría 'Fitness y bienestar' con buena traducción a producto físico y demanda visible (tráfico ~1000+).",
+          "approx_traffic": "500+",
+          "rationale": "Categoría 'Fitness y bienestar' con buena traducción a producto físico y demanda visible (tráfico ~500+).",
           "product_ideas": [
             "Bandas y mini equipos de resistencia",
             "Botellas y shakers",
