@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-22",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "ofi - leverkusen",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Bolívar": 99,
+            "Bogotá": 57,
+            "Valle del Cauca": 46,
+            "Antioquia": 36
+          },
+          "news_titles": [
+            "OFI vs. Bayer Leverkusen preview: Team news & predicted lineups – Europa League 2026",
+            "Juventus vs Rennes - Odds, Live Scores and Detailed Stats",
+            "OFI Crete vs Bayer Leverkusen: Lineups, Prediction, Odds & Bet Builder Tip"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "lech poznań - sunderland afc",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Cesar": 100,
+            "Cundinamarca": 29,
+            "Atlántico": 28,
+            "Bogotá": 25,
+            "Antioquia": 20
+          },
+          "news_titles": [
+            "Jaga pójdzie za ciosem? Jagiellonia – Anderlecht [RELACJA NA ŻYWO]",
+            "Piłkarz Lecha Poznań marzy o zagranicznym transferze",
+            "(NA ŻYWO) Lech Poznań – Sunderland w telewizji HS Football 2026"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "davivienda",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Quindío": 100,
+            "Bogotá": 99,
+            "San Andrés y Providencia": 82,
+            "Arauca": 80,
+            "Cundinamarca": 77
+          },
+          "news_titles": [
+            "Davivienda tiró alerta a sus clientes por caso que es muy común en Colombia: \"Puede ser fraude\"",
+            "Citi advierte que la inflación persistente en Colombia mantiene altas las tasas de interés",
+            "Citi alerta por inflación en Colombia y ve una desaceleración de la economía nacional en 2027"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "getafe - lugano",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Córdoba": 83,
+            "Nariño": 73,
+            "Bolívar": 66,
+            "Norte de Santander": 61
+          },
+          "news_titles": [
+            "Getafe vs. Lugano; hora y dónde ver EN VIVO POR TV el partido de Johan Mojica, en Conference League"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "ejército de liberación nacional",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Casanare": 100,
+            "Boyacá": 95,
+            "Norte de Santander": 92,
+            "Caldas": 76,
+            "Quindío": 75
+          },
+          "news_titles": [
+            "Los detalles del quinto bombardeo del gobierno De La Espriella: este es el cabecilla del Eln que habría caído en la operación aérea",
+            "Fuerzas militares bombardean campamento del ELN en zona rural de Nariño | El Colombiano",
+            "Abelardo de la Espriella ordenó bombardear al ELN en Nariño: van 8 guerrilleros muertos, según reporte preliminar"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "jablonec - brighton",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Córdoba": 100,
+            "Bolívar": 76,
+            "Atlántico": 33,
+            "Valle del Cauca": 33,
+            "Antioquia": 31
+          },
+          "news_titles": [
+            "Jablonec vs Brighton & Hove Albion: UEFA Conference League stats & head-to-head",
+            "Thursday best bets: Europa League and Conference League tips for October 22 2026",
+            "Jablonec vs Brighton super boost: NOW 7/4 Brighton to win, most corners and most SOT's with bet365"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "juventus - rennes",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Arauca": 100,
+            "La Guajira": 52,
+            "Sucre": 50,
+            "Casanare": 47,
+            "Bolívar": 43
+          },
+          "news_titles": [
+            "Europa League Matchday 3 briefing: Tough tasks for Beşiktaş, Juventus, Milan and Crystal Palace",
+            "Europa League Liveblog: Juventus-Rennes, Bournemouth-Milan, Ajax-Atalanta",
+            "UEFA Europa League: Besiktas to face Crystal Palace, Juventus to take on Rennes"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "virus shamonda",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Valle del Cauca": 100,
+            "Bogotá": 82,
+            "Atlántico": 75,
+            "Antioquia": 69,
+            "Santander": 68
+          },
+          "news_titles": [
+            "Murió el primer humano por virus shamonda en Francia, hasta ahora solo detectado en animales | El Colombiano",
+            "Esto es lo que se sabe sobre el primer contagio humano en Francia del virus Shamonda, una infección que solo afectaba al ganado",
+            "Muere en Francia primer ser humano en el mundo en contraer el virus Shamonda"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "resultado baloto revancha",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Baloto y Baloto Revancha: conozca aquí los resultados del último sorteo del miércoles 21 de octubre de 2026",
+            "Último sorteo del Baloto y Revancha: números ganadores de anoche del 21 de octubre de 2026",
+            "Baloto hoy, miércoles 21 de octubre: números ganadores del sorteo y resultado de la Revancha"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "salario mínimo",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Salario mínimo: $533.026 distancian las propuestas técnica y sindical para el ajuste de 2027",
+            "Subir el salario mínimo 38% en 2027, como dicen los sindicatos, costaría $11 billones al Estado | El Colombiano",
+            "Corfi propone incremento del mínimo de 8% y evaluar diferenciación por regiones"
+          ]
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}

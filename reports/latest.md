@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-10-21
+# 📊 Informe de tendencias y dropshipping — 2026-10-22
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,42 +10,33 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | galatasaray vs | 100+ | Deporte / evento | 🔴 40 |
-| 2 | como vs manchester united | 100+ | Deporte / evento | 🔴 40 |
-| 3 | joshua kimmich | 100+ | Deporte / evento | 🔴 40 |
-| 4 | como - manchester united | 10000+ | Deporte / evento | 🔴 40 |
-| 5 | php | 200+ | Otros | 🔴 30 |
-| 6 | mateusz chmura | 200+ | Otros | 🔴 30 |
-| 7 | asesinato | 500+ | Otros | 🔴 30 |
-| 8 | discurso | 100+ | Otros | 🔴 30 |
-| 9 | juan cuadrado | 500+ | Fitness y bienestar | 🟢 80 |
-| 10 | red+ | 1000+ | Otros | 🔴 30 |
+| 1 | ofi - leverkusen | 2000+ | Deporte / evento | 🔴 40 |
+| 2 | lech poznań - sunderland afc | 200+ | Otros | 🔴 30 |
+| 3 | davivienda | 5000+ | Noticias / actualidad | 🔴 10 |
+| 4 | getafe - lugano | 1000+ | Deporte / evento | 🔴 40 |
+| 5 | ejército de liberación nacional | 2000+ | Noticias / actualidad | 🔴 10 |
+| 6 | jablonec - brighton | 500+ | Deporte / evento | 🔴 40 |
+| 7 | juventus - rennes | 2000+ | Otros | 🔴 30 |
+| 8 | virus shamonda | 500+ | Noticias / actualidad | 🔴 10 |
+| 9 | resultado baloto revancha | 200+ | Otros | 🔴 30 |
+| 10 | salario mínimo | 1000+ | Otros | 🔴 30 |
+
+### 🗺️ Distribución geográfica interna
+
+Dónde se busca más cada término (interés relativo 0–100 por región):
+
+- **ofi - leverkusen** → Atlántico (100), Bolívar (99), Bogotá (57), Valle del Cauca (46), Antioquia (36)
+- **lech poznań - sunderland afc** → Cesar (100), Cundinamarca (29), Atlántico (28), Bogotá (25), Antioquia (20)
+- **davivienda** → Quindío (100), Bogotá (99), San Andrés y Providencia (82), Arauca (80), Cundinamarca (77)
+- **getafe - lugano** → Sucre (100), Córdoba (83), Nariño (73), Bolívar (66), Norte de Santander (61)
+- **ejército de liberación nacional** → Casanare (100), Boyacá (95), Norte de Santander (92), Caldas (76), Quindío (75)
+- **jablonec - brighton** → Córdoba (100), Bolívar (76), Atlántico (33), Valle del Cauca (33), Antioquia (31)
+- **juventus - rennes** → Arauca (100), La Guajira (52), Sucre (50), Casanare (47), Bolívar (43)
+- **virus shamonda** → Valle del Cauca (100), Bogotá (82), Atlántico (75), Antioquia (69), Santander (68)
 
 ### 🛒 Oportunidades de dropshipping
 
-#### 🟢 juan cuadrado  ·  _Fitness y bienestar_  ·  potencial 80/100
-
-Categoría 'Fitness y bienestar' con buena traducción a producto físico y demanda visible (tráfico ~500+).
-
-**Productos sugeridos:**
-- Bandas y mini equipos de resistencia
-- Botellas y shakers
-- Ropa deportiva / leggings
-- Smart bands para actividad
-- Esterillas de yoga
-
-<details><summary>⚠️ Avisos técnicos no fatales</summary>
-
-- geo/related 'galatasaray vs': The request failed: Google returned a response with code 429
-- geo/related 'como vs manchester united': The request failed: Google returned a response with code 429
-- geo/related 'joshua kimmich': The request failed: Google returned a response with code 429
-- geo/related 'como - manchester united': The request failed: Google returned a response with code 429
-- geo/related 'php': The request failed: Google returned a response with code 429
-- geo/related 'mateusz chmura': The request failed: Google returned a response with code 429
-- geo/related 'asesinato': The request failed: Google returned a response with code 429
-- geo/related 'discurso': The request failed: Google returned a response with code 429
-
-</details>
+_Hoy las tendencias son mayormente noticias/eventos con baja intención de compra directa. Poco encaje para producto físico._
 
 ---
 
