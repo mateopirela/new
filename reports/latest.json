@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "regions": [
     {
       "code": "CO",
@@ -8,233 +8,212 @@
       "trends": [
         {
           "rank": 1,
-          "term": "avengers doomsday",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
+          "term": "metro de bogotá",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "San Andrés y Providencia": 100,
-            "Arauca": 19,
-            "Cesar": 18,
-            "Bogotá": 17,
-            "Cundinamarca": 17
+            "Bogotá": 100,
+            "Cundinamarca": 66,
+            "Quindío": 33,
+            "Meta": 24,
+            "Santander": 8
           },
           "news_titles": [
-            "Marvel Splits the Fanbase With First Poster for Avengers: Doomsday's Main Superheroes",
-            "Marvel's Avengers: Doomsday trailer quietly confirms major MCU death",
-            "Avengers: Doctor Doom to Appear at Baseball - Marvel Prepares a Surprise for the Start of the World Series"
+            "Ascensores, botones de ayuda y señalética: estos serán los elementos que tendrá el metro de Bogotá que lo convertirán en un transporte accesible",
+            "El Metro de Bogotá y la tarea de garantizar un acceso universal",
+            "Acceso universal en el metro de Bogotá: desafíos y avances para personas con discapacidad en el nuevo sistema de transporte"
           ]
         },
         {
           "rank": 2,
-          "term": "ituango",
+          "term": "clasico",
           "approx_traffic": "100+",
           "traffic_value": 100,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Tolima": 100,
+            "Caldas": 96,
+            "Quindío": 93,
+            "Risaralda": 88,
+            "Antioquia": 86
+          },
           "news_titles": [
-            "Fuerte temblor sacudió a Colombia cerca de la medianoche de este jueves y despertó a ciudadanos",
-            "Temblor en Colombia EN VIVO | Magnitud, epicentro y profundidad del sismo más reciente este viernes 23 de octubre",
-            "SGC reporta temblor en Chaparral, Tolima, hoy jueves 22 de octubre. Esta fue la magnitud"
+            "Barcelona - Real Madrid, en directo: rueda de prensa de Mourinho y Flick, última hora del Clásico, en vivo",
+            "Mourinho: \"¿Prueba del algodón mañana? No, el Madrid con Mourinho gana títulos\"",
+            "Barcelona vs. Real Madrid, ¿decisivo para Mourinho y Florentino?"
           ]
         },
         {
           "rank": 3,
-          "term": "delcy rodríguez",
+          "term": "napoli - roma",
           "approx_traffic": "1000+",
           "traffic_value": 1000,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Cesar": 100,
+            "Bolívar": 95,
+            "Córdoba": 92,
+            "Sucre": 85,
+            "Atlántico": 78
+          },
+          "news_titles": [
+            "Serie A, oggi Napoli-Roma – Diretta",
+            "Napoli-Roma, le probabili formazioni: Gasperini schiera subito Cristante",
+            "VIDEO NM - Napoli-Roma, ecco i tifosi all’esterno dello Stadio Maradona"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "arsenal vs",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Guaviare": 97,
+            "Bolívar": 97,
+            "Córdoba": 95,
+            "Chocó": 93
+          },
+          "news_titles": [
+            "BBC journalist reveals what left David Moyes furious during Arsenal vs Everton",
+            "'What a load of rubbish!' – David Moyes slams past Mikel Arteta criticism as Arsenal prepare for Everton clash",
+            "Arsenal vs Everton: Team News and Confirmed Lineups for October 24"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "mainz 05 - werder bremen",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Valle del Cauca": 92,
+            "Antioquia": 64,
+            "Bogotá": 49
+          },
+          "news_titles": [
+            "Bundesliga im Liveticker: SC Paderborn 07 gegen Hamburger SV",
+            "!@*+^+*[>!ＬＩＶＥ~IM>]+! Bremen gegen Mainz heute live im TV. Sie die Partie live im TV 24. Oktober 2026",
+            "Völler! Klose! Basler!: Niclas Füllkrug jagt die Werder-Legenden"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "ufc hoy",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Quindío": 86,
+            "Bolívar": 85,
+            "Atlántico": 82,
+            "Antioquia": 76
+          },
+          "news_titles": [
+            "Alexander Volkanovski y Movsar Evloev protagonizan el combate estelar del UFC 333: la cartelera",
+            "UFC 333: Claves y predicciones para Volkanovski-Evloev, Yan- Dvalishvili 3"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "barca vs real madrid",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "La Guajira": 100,
+            "Valle del Cauca": 88,
+            "Norte de Santander": 86,
+            "Cundinamarca": 82
+          },
+          "news_titles": [
+            "Jules Kounde tries unusual recovery method in bid to make Barcelona’s El Clasico squad",
+            "Flick rules Koundé out of the Clásico as Olmo faces a month out",
+            "Rodri needed a rest for Barcelona ahead of Clasico, says Flick"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "chocó",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Chocó": 100,
+            "Risaralda": 3,
+            "Antioquia": 3,
+            "Valle del Cauca": 2,
+            "Caldas": 2
+          },
+          "news_titles": [
+            "Temblor hoy en Colombia | Reportan sismo de magnitud 3,9 durante la noche de este viernes 23 de octubre: se sintió en Cali, Medellín y otras ciudades",
+            "Temblor en Colombia EN VIVO | Magnitud, epicentro y profundidad del sismo más reciente este sábado 24 de octubre",
+            "Doble temblor en Colombia sacudió la noche de este viernes; último se sintió en varias zonas"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "clima cartagena",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
           "category_key": "news",
           "category_label": "Noticias / actualidad",
           "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Chavismo y oposición cierran tercer ciclo de diálogo en Venezuela, mientras manifestantes insisten en realizar elecciones",
-            "Presidenta de Venezuela recibe a jefa opositora en el diálogo político",
-            "EE.UU. dice celebrar los avances en las conversaciones de reconciliación política en Venezuela"
-          ]
-        },
-        {
-          "rank": 4,
-          "term": "al-faisaly vs al-nassr",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Guaviare": 100,
-            "Bogotá": 4,
-            "Cundinamarca": 3,
-            "Antioquia": 3,
-            "Atlántico": 2
-          },
-          "news_titles": [
-            "Al Faisaly vs Al Nassr: Saudi Pro League stats & head-to-head",
-            "Video: Abdullah Al-Hamdan rewards Postecoglou against Al-Faisaly",
-            "Is Cristiano Ronaldo starting for Al Nassr vs Al Faisaly in Saudi Pro League?"
-          ]
-        },
-        {
-          "rank": 5,
-          "term": "primera división de arabia saudita",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Sucre": 100,
-            "Norte de Santander": 55,
-            "Bolívar": 50,
-            "Córdoba": 47,
-            "Nariño": 35
-          },
-          "news_titles": [
-            "Al Faisaly vs Al Nassr: Saudi Pro League stats & head-to-head",
-            "Video: Abdullah Al-Hamdan rewards Postecoglou against Al-Faisaly",
-            "Is Cristiano Ronaldo starting for Al Nassr vs Al Faisaly in Saudi Pro League?"
-          ]
-        },
-        {
-          "rank": 6,
-          "term": "incendio en gran estacion bogota",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Santander": 100,
-            "Bogotá": 82,
-            "Atlántico": 67,
-            "Cundinamarca": 61,
-            "Antioquia": 60
-          },
-          "news_titles": [
-            "Video | Reportan incendio en ducto del Centro Comercial Gran Estación en inmediaciones de avenida El Dorado, en Bogotá: Bomberos atienden emergencia",
-            "Gran Parrilla Boyacense reportó una emergencia en el ducto de extracción de su sede en Gran Estación",
-            "Revelan lo que pasó detrás del incendio en Gran Estación: restaurante respondió"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "elena rybakina",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Cundinamarca": 100,
-            "Bogotá": 90,
-            "Valle del Cauca": 75,
-            "Santander": 72,
-            "Antioquia": 57
-          },
-          "news_titles": [
-            "Top-ranked Elena Rybakina avoids upset at Ningbo Open",
-            "No. 1 Rybakina Returns to Ningbo Semifinals",
-            "Kawa to play Rybakina in the WTA 500 quarterfinals in Ningbo — Interia Sport"
-          ]
-        },
-        {
-          "rank": 8,
-          "term": "iphone duo",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "tech",
-          "category_label": "Tecnología y gadgets",
-          "score": 90,
-          "is_opportunity": true,
-          "geo_breakdown": {
-            "Bogotá": 100,
-            "Cundinamarca": 82,
-            "Risaralda": 81,
-            "Antioquia": 71,
-            "Atlántico": 70
-          },
-          "news_titles": [
-            "Llegó el iPhone Duo a Colombia: ¿vale la pena comprarlo?",
-            "iPhone Duo revela sus limitaciones en las primeras pruebas",
-            "El iPhone plegable se agotó en minutos y ya hay lista de espera hasta el 2027. En Colombia cuesta desde 10,8 millones de pesos"
-          ]
-        },
-        {
-          "rank": 9,
-          "term": "sorteo lotería de bogotá",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Lotería de Bogotá del jueves 22 de octubre de 2026: resultado, número ganador y premios del sorteo de hoy",
-            "Revisa los resultados de la Lotería de Bogotá del jueves 22 de octubre de 2026 ¡Mucha suerte!",
-            "Resultado Lotería de Bogotá, Quindío y ColorLoto HOY 22 de octubre 2026: ganadores y premios"
+            "¿Va a llover hoy en Cartagena? Este es el pronóstico del clima para el 23 de octubre",
+            "El estado del tiempo en Colombia cambia constantemente, por eso es importante mantenerse actualizado y estar preparado ante las adversidades atmosféricas de este día",
+            "Clima en Cartagena para hoy 18 de octubre: Adiós a la incertidumbre así estará el clima en la arenosa"
           ]
         },
         {
           "rank": 10,
-          "term": "epicentro",
-          "approx_traffic": "5000+",
-          "traffic_value": 5000,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 15,
+          "term": "leipzig",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Temblor en Colombia EN VIVO hoy, martes 20 de octubre 2026: hora exacta, magnitud y dónde fue el epicentro del último sismo, según el SGC",
-            "Tembló duro en Colombia durante la madrugada de este sábado: \"Se sintió fuerte\"",
-            "¡Tembló en Chaparral! Nuevo sismo sacudió al Tolima este miércoles"
+            "Angriff auf Büro von Bundestagsabgeordneten der Grünen in Leipzig",
+            "Scheibe aus dem Rahmen geschlagen: Attacke auf Wahlkreisbüro der Grünen in Leipzig",
+            "Angriff auf Wahlkreisbüro: Grünen-Wahlkreisbüro in Leipzig beschädigt"
           ]
         }
       ],
-      "opportunities": [
-        {
-          "term": "iphone duo",
-          "category_key": "tech",
-          "category_label": "Tecnología y gadgets",
-          "score": 90,
-          "approx_traffic": "500+",
-          "rationale": "Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~500+).",
-          "product_ideas": [
-            "Audífonos inalámbricos / TWS",
-            "Smartwatch económico",
-            "Cargadores y power banks",
-            "Soportes y accesorios para celular",
-            "Mini proyectores y parlantes bluetooth"
-          ],
-          "related_queries": [
-            "iphone duo colombia",
-            "apple",
-            "iphone duo apple",
-            "apple duo",
-            "iphone duo precio",
-            "iphone 18"
-          ],
-          "geo_breakdown": {
-            "Bogotá": 100,
-            "Cundinamarca": 82,
-            "Risaralda": 81,
-            "Antioquia": 71,
-            "Atlántico": 70
-          }
-        }
-      ]
+      "opportunities": []
     }
   ]
 }
