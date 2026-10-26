@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "regions": [
     {
       "code": "CO",
@@ -8,241 +8,214 @@
       "trends": [
         {
           "rank": 1,
-          "term": "friburgo - bayern",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "bill gates",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Sucre": 100,
-            "La Guajira": 87,
-            "Bolívar": 80,
-            "Córdoba": 68,
-            "Cesar": 59
+            "Magdalena": 100,
+            "Bogotá": 75,
+            "Valle del Cauca": 70,
+            "Atlántico": 70,
+            "Antioquia": 70
           },
           "news_titles": [
-            "Cuándo juegan Friburgo vs Bayern por fecha 7 de Bundesliga: equipo, fecha, hora y TV en vivo"
+            "Bill Gates predicts 20 years of turmoil before AI creates 'true abundance'",
+            "‘Hire the Robot, Fire the Human And Don't Look Back’: Bill Gates’s Chilling Warning of a Jobs Crisis Gove",
+            "Gates: AI to Surpass Humans in Math and Biology Within 20 Years, Ushering in 'Tumultuous' Transition"
           ]
         },
         {
           "rank": 2,
-          "term": "united vs",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "santa clara - benfica",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Córdoba": 100,
-            "Atlántico": 98,
-            "Norte de Santander": 91,
-            "Bolívar": 91,
-            "Magdalena": 91
+            "La Guajira": 100,
+            "Córdoba": 70,
+            "Bolívar": 69,
+            "Cauca": 51,
+            "Magdalena": 48
           },
           "news_titles": [
-            "Man United vs. Bournemouth live score, result, highlights, stats as Rayan, Tavernier pile misery on Carrick",
-            "🤬 \"Sack him NOW!“: Carrick under fire after dire Man United half",
-            "Man United suffer another PL setback as torrid stat emerges 📉"
+            "Atenção, Benfica: após chuva de manhã... tudo «limpo» para o jogo",
+            "Benfica obrigado a vencer para se manter no encalce do FC Porto",
+            "As imagens da chegada do autocarro do Benfica ao estádio em Ponta Delgada"
           ]
         },
         {
           "rank": 3,
-          "term": "los danieles",
+          "term": "el niño",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
-          "score": 45,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Caquetá": 100,
-            "Bogotá": 48,
-            "Cundinamarca": 36,
-            "Valle del Cauca": 32,
-            "Antioquia": 31
+            "Vaupés": 100,
+            "Huila": 87,
+            "Sucre": 84,
+            "Norte de Santander": 81,
+            "Guainía": 81
           },
           "news_titles": [
-            "NETFLIX ES MÁS BARATO",
-            "EL PODEROSO SUÁREZ",
-            "LA FACHA MILAGRO"
+            "Inti Bonomo, experto en Ciencias Ambientales, sobre el avance del fenómeno del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
+            "No hay infraestructura que pueda afrontar a El Niño",
+            "Llega un «El Niño» histórico y el plan nacional para enfrentarlo no tiene fondos propios"
           ]
         },
         {
           "rank": 4,
-          "term": "psv",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "galatasaray - fenerbahçe",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Chocó": 100,
-            "Nariño": 85,
-            "Bolívar": 84,
-            "Sucre": 83,
-            "La Guajira": 83
+            "Quindío": 100,
+            "Bolívar": 79,
+            "Boyacá": 73,
+            "Nariño": 68,
+            "Córdoba": 66
           },
           "news_titles": [
-            "Rottier erkent cruciale factor bij stunt tegen PSV: 'Dat maakte het verschil'",
-            "Na zijn winnende goal kent ADO Den Haag-middenvelder zijn favoriete Nederlandse woord",
-            "Sven Mijnans (PSV) mist topper tegen Feyenoord"
+            "Süper Lig’de Derbi Heyecanı! | Galatasaray mı, Fenerbahçe mi? Maç Öncesi Son Gelişmeler - Aspor",
+            "İstanbul'da akşam trafiği maçlar nedeniyle yüzde 74 yoğunluğa ulaştı",
+            "Fenerbahçeli taraftarlar, Rams Park’a gitmek için toplandı"
           ]
         },
         {
           "rank": 5,
-          "term": "posiciones de athletic club contra getafe cf",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "tasa de cambio",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Cauca": 100,
-            "Bolívar": 68,
-            "Atlántico": 43,
-            "Cundinamarca": 29,
-            "Antioquia": 27
+            "Bogotá": 100,
+            "Valle del Cauca": 66,
+            "Cundinamarca": 64,
+            "Antioquia": 55,
+            "Atlántico": 49
           },
           "news_titles": [
-            "Athletic - Getafe LIVE. LALIGA EA Sports latest updates",
-            "~$!Here's Got the ways to watch GETAFE - ATHLETIC LIVE FREE Football MATCH",
-            "Athletic Club vs. Getafe - Game Highlights"
+            "Así ha variado el dólar en Colombia en los últimos 30 años",
+            "Cómo la tasa de cambio del dólar impacta el valor del peso colombiano y la economía del país",
+            "Tasa de cambio nominal y TRM en Colombia: qué indican sobre el valor del peso frente al dólar y su impacto económico"
           ]
         },
         {
           "rank": 6,
-          "term": "fbi",
+          "term": "alberto ii de mónaco",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "seasonal",
-          "category_label": "Estacional y eventos",
-          "score": 75,
-          "is_opportunity": true,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
           "geo_breakdown": {
-            "Chocó": 100,
-            "Bogotá": 31,
-            "Antioquia": 29,
-            "Tolima": 26,
-            "Valle del Cauca": 25
+            "Risaralda": 100,
+            "Santander": 50,
+            "Valle del Cauca": 38,
+            "Bogotá": 35,
+            "Antioquia": 19
           },
           "news_titles": [
-            "FBI investigating Delaware politician’s secretly recorded job offer to primary foe",
-            "Kash Patel Lays Out Details Behind New Charges Tied to Hunter Biden Laptop",
-            "FBI’s historic week of crackdowns: noncitizen voter fraud busted, ex-federal agents charged, powerful Virginia senator arrested"
+            "Alberto de Mónaco, devastado tras la repentina muerte de su primo menor, Antoine de Massy, a los 29 años: la policía local investiga los hechos",
+            "Muere a los 29 años Antoine de Massy, sobrino del príncipe Alberto de Mónaco",
+            "Alberto y Charlène de Mónaco, de luto por la trágica muerte de su primo Antoine de Massy a los 29 años: \"Nos unimos al dolor de su familia\""
           ]
         },
         {
           "rank": 7,
-          "term": "taylor fritz",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
+          "term": "al-nassr - al wasl",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Nariño": 100,
-            "Risaralda": 72,
-            "Cundinamarca": 57,
-            "Santander": 53,
-            "Bogotá": 53
+            "La Guajira": 100,
+            "Sucre": 92,
+            "Chocó": 85,
+            "Córdoba": 65,
+            "Bolívar": 63
           },
           "news_titles": [
-            "Tennis, ATP – Grand Prix Auvergne-Rhône-Alpes 2026: Musetti lifts the trophy against Fritz",
-            "Lorenzo Musetti and Taylor Fritz ranking points and prize money after Lyon Open final",
-            "LIVE Lyon Open Final | Taylor Fritz’s fleeting ATP Finals hopes intact as Lorenzo Musetti eyes first title in four years"
+            "AFC postpones Al Nassr-Al Wasl Champions League Elite clash in Riyadh",
+            "\"An ambiguous decision with no regulation\": legal expert attacks the Asian Football Confederation and opens the file on the \"injustice\" against Saudi clubs",
+            "Al-Nassr vs Al-Wasl match in Riyadh postponed — The National"
           ]
         },
         {
           "rank": 8,
-          "term": "genoa - venezia",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
-          "score": 40,
+          "term": "cuando entregan el balon de oro 2026",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Valle del Cauca": 100,
-            "Antioquia": 70,
-            "Bogotá": 66
+            "Magdalena": 100,
+            "Bolívar": 76,
+            "Atlántico": 61,
+            "Cesar": 56,
+            "Córdoba": 42
           },
           "news_titles": [
-            "Serie A | Genoa-Venezia, il Grifone torna al Ferraris. In palio punti importanti – LIVE DALLE 15",
-            "~$!【DIRETTA GRATIS】 Genoa Venezia in diretta streaming dove vederla la partita in 25 ottobre 2026",
-            "+!Ecco Come Genoa-Venezia In DIRETTA gratis 25 Ottobre 2026"
+            "Luis Díaz en el Balón de Oro 2026: en qué puesto quedó",
+            "Ceremonia de premiación del Balón de Oro 2026: el colombiano Luis Díaz ocupó la casilla 24 en la entrega del galardón más prestigioso del fútbol",
+            "Última hora de Luis Díaz y el Balón de Oro: noticia fue confirmada por la prensa alemana"
           ]
         },
         {
           "rank": 9,
-          "term": "celta de vigo - real betis",
-          "approx_traffic": "5000+",
-          "traffic_value": 5000,
+          "term": "jubilación",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Celta - Betis en directo | Última hora de LALIGA EA Sports en vivo hoy",
-            "Será cierto que ganar no cansa",
-            "Un coco para el Celta después de un viaje loco"
+            "Edad de retiro forzoso a los 70 años no aplica a trabajadores oficiales de Ecopetrol",
+            "Ada Colau debuta en Madrid como líder del Frente Amplio con la idea de que las 'pensiones no bajen del salario mínimo'",
+            "La edad de jubilación que propone Frente Amplio y que variaría el modelo actual: las diferencias"
           ]
         },
         {
           "rank": 10,
-          "term": "monaco fc",
+          "term": "jackson martínez",
           "approx_traffic": "500+",
           "traffic_value": 500,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Sunday’s Ligue 1 betting tips: Expert predictions from France’s top flight",
-            "AS Monaco vs Lille LIVE: Kickoff Time and How to Watch",
-            "Monaco vs Lille Lineups, Prediction, Betting Picks & Odds"
+            "DIM en problemas y sin certezas sobre debut de Jackson",
+            "Amaranto Perea responde: ¿Cuándo estarán disponibles Jackson Martínez y JuanFer Quintero?",
+            "Carlos Antonio Vélez analizó la remontada de Nacional a Medellín"
           ]
         }
       ],
-      "opportunities": [
-        {
-          "term": "fbi",
-          "category_key": "seasonal",
-          "category_label": "Estacional y eventos",
-          "score": 75,
-          "approx_traffic": "200+",
-          "rationale": "Categoría 'Estacional y eventos' con buena traducción a producto físico y demanda visible (tráfico ~200+).",
-          "product_ideas": [
-            "Decoración temática de temporada",
-            "Disfraces y accesorios",
-            "Sets de regalo",
-            "Luces y adornos LED",
-            "Empaques y detalles personalizados"
-          ],
-          "related_queries": [
-            "fbi disfraz",
-            "serie fbi",
-            "que es fbi",
-            "cia",
-            "disfraz de fbi",
-            "que es el fbi"
-          ],
-          "geo_breakdown": {
-            "Chocó": 100,
-            "Bogotá": 31,
-            "Antioquia": 29,
-            "Tolima": 26,
-            "Valle del Cauca": 25
-          }
-        }
-      ]
+      "opportunities": []
     }
   ]
 }
