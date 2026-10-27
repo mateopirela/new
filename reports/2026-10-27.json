@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-27",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "lazio",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Atlántico": 79,
+            "Bolívar": 74,
+            "La Guajira": 73,
+            "Magdalena": 72
+          },
+          "news_titles": [
+            "++?DIRETTA?]!) Sassuolo - Lazio In Diretta Streaming Gratis tv 27 ottobre 2026",
+            "Torino-Como, dove vederla (Sky o Dazn) in tv e streaming: orario, probabili formazioni, arbitro, precedenti e quote",
+            "Lazio, Frattesi: \"Tornare qui è sempre bello, oggi sembra di giocare in casa\""
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "copa del rey",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Arauca": 100,
+            "Córdoba": 88,
+            "Bolívar": 77,
+            "Magdalena": 77,
+            "Atlántico": 64
+          },
+          "news_titles": [
+            "‘Apagón analógico’ para 52 equipos de la Copa",
+            "Partidos de hoy de fútbol: horario y dónde ver por TV",
+            "El torneo del 'KO' da entrada a los primeras"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "vallenato",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Chocó": 100,
+            "Guainía": 86,
+            "Cesar": 78,
+            "La Guajira": 69,
+            "Córdoba": 65
+          },
+          "news_titles": [
+            "Nuevos detalles del accidente de Kbeto Zuleta: hijo del cantante Poncho Zuleta ingresó a la clínica con una sola pierna, según la secretaria de Salud del Cesar",
+            "Kaleth Morales, Patricia Teherán y otras tragedias de músicos en Colombia: accidentes que enlutan al vallenato",
+            "‘Kbeto’ Zuleta está en UCI y tiene varios traumas, asegura hermana del cantante vallenato"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "sassuolo - lazio",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Córdoba": 62,
+            "Norte de Santander": 55,
+            "Tolima": 54,
+            "Huila": 46
+          },
+          "news_titles": [
+            "Lazio Fans to Take Over at Mapei at 10,000 Flock to Sassuolo",
+            "Serie A Matchweek 9 Odds In Canada: Best Bets For All 10 Games",
+            "October 27, 2026: Roma vs Cagliari: First Half Winner Soccer Prediction Market"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "emiliana arango",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Meta": 100,
+            "Bogotá": 56,
+            "Cundinamarca": 35,
+            "Antioquia": 13
+          },
+          "news_titles": [
+            "Carole Monnet vs Leolia Jeanjean - Match WTA - Queretaro Open 1970 - Third round"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "hugo ospina",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Nariño": 100,
+            "Santander": 98,
+            "Bogotá": 50,
+            "Antioquia": 24
+          },
+          "news_titles": [
+            "Hugo Ospina, líder de los taxistas en Colombia, fue retirado por la fuerza por la Policía durante protesta en aeropuerto Palonegro de Bucaramanga",
+            "La reacción de Hugo Ospina, líder de los taxistas, en Bucaramanga: la Policía le impuso un comparendo",
+            "Sacaron arrastrado a Hugo Ospina de aeropuerto: protestó y la Policía se lo llevó"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "sonnenhof großaspach - augsburgo",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Nariño": 100,
+            "Bolívar": 65,
+            "Valle del Cauca": 27,
+            "Antioquia": 26,
+            "Bogotá": 22
+          },
+          "news_titles": [
+            "Confirmed DFB-Pokal lineups: SG Sonnenhof Großaspach vs. FC Augsburg",
+            "Baum: \"We'll give it everything we’ve got\"",
+            "Sonnenhof Großaspach vs Augsburg prediction: teams form analysis, possible lineups on October 27, 2026"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "boeing",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Antioquia": 88,
+            "Cundinamarca": 82,
+            "Valle del Cauca": 67,
+            "Quindío": 59
+          },
+          "news_titles": [
+            "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
+            "Boeing Shares’ Decline Widens to 10% in Tuesday Trading",
+            "Boeing Stock Forecast: BA Holds $183.84 Support as Q3 Results Test Its Cash Flow Promise"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "puente internacional francisco de paula santander",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Una explosión cerca del puente internacional Francisco de Paula Santander, en la frontera entre Colombia y Venezuela, deja hasta el momento siete heridos",
+            "Atentado con explosivo en Cúcuta cerca del puente internacional Francisco de Paula Santander dejó seis heridos | El Colombiano",
+            "Cápsula informativa: explosión en Cúcuta dejó cuatro policías heridos"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "hamburg - frankfurt",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "HSV freut sich über frühes Kohle-Plus – Fast eine Million Euro",
+            "Brassier fehlt kurzfristig im DFB-Pokal",
+            "Hamburger SV vs. Eintracht Frankfurt: Die offiziellen Aufstellungen sind da!"
+          ]
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}

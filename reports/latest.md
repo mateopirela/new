@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-10-26
+# 📊 Informe de tendencias y dropshipping — 2026-10-27
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,29 +10,29 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | bill gates | 100+ | Otros | 🔴 30 |
-| 2 | santa clara - benfica | 1000+ | Otros | 🔴 30 |
-| 3 | el niño | 200+ | Otros | 🔴 30 |
-| 4 | galatasaray - fenerbahçe | 1000+ | Otros | 🔴 30 |
-| 5 | tasa de cambio | 200+ | Noticias / actualidad | 🔴 10 |
-| 6 | alberto ii de mónaco | 200+ | Noticias / actualidad | 🔴 10 |
-| 7 | al-nassr - al wasl | 5000+ | Deporte / evento | 🔴 40 |
-| 8 | cuando entregan el balon de oro 2026 | 200+ | Deporte / evento | 🔴 35 |
-| 9 | jubilación | 2000+ | Otros | 🔴 30 |
-| 10 | jackson martínez | 500+ | Otros | 🔴 30 |
+| 1 | lazio | 100+ | Deporte / evento | 🔴 40 |
+| 2 | copa del rey | 100+ | Deporte / evento | 🔴 40 |
+| 3 | vallenato | 2000+ | Entretenimiento / farándula | 🔴 40 |
+| 4 | sassuolo - lazio | 500+ | Entretenimiento / farándula | 🔴 45 |
+| 5 | emiliana arango | 200+ | Deporte / evento | 🔴 40 |
+| 6 | hugo ospina | 500+ | Otros | 🔴 30 |
+| 7 | sonnenhof großaspach - augsburgo | 200+ | Deporte / evento | 🔴 40 |
+| 8 | boeing | 100+ | Otros | 🔴 30 |
+| 9 | puente internacional francisco de paula santander | 100+ | Otros | 🔴 30 |
+| 10 | hamburg - frankfurt | 500+ | Deporte / evento | 🔴 40 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **bill gates** → Magdalena (100), Bogotá (75), Valle del Cauca (70), Atlántico (70), Antioquia (70)
-- **santa clara - benfica** → La Guajira (100), Córdoba (70), Bolívar (69), Cauca (51), Magdalena (48)
-- **el niño** → Vaupés (100), Huila (87), Sucre (84), Norte de Santander (81), Guainía (81)
-- **galatasaray - fenerbahçe** → Quindío (100), Bolívar (79), Boyacá (73), Nariño (68), Córdoba (66)
-- **tasa de cambio** → Bogotá (100), Valle del Cauca (66), Cundinamarca (64), Antioquia (55), Atlántico (49)
-- **alberto ii de mónaco** → Risaralda (100), Santander (50), Valle del Cauca (38), Bogotá (35), Antioquia (19)
-- **al-nassr - al wasl** → La Guajira (100), Sucre (92), Chocó (85), Córdoba (65), Bolívar (63)
-- **cuando entregan el balon de oro 2026** → Magdalena (100), Bolívar (76), Atlántico (61), Cesar (56), Córdoba (42)
+- **lazio** → Sucre (100), Atlántico (79), Bolívar (74), La Guajira (73), Magdalena (72)
+- **copa del rey** → Arauca (100), Córdoba (88), Bolívar (77), Magdalena (77), Atlántico (64)
+- **vallenato** → Chocó (100), Guainía (86), Cesar (78), La Guajira (69), Córdoba (65)
+- **sassuolo - lazio** → La Guajira (100), Córdoba (62), Norte de Santander (55), Tolima (54), Huila (46)
+- **emiliana arango** → Meta (100), Bogotá (56), Cundinamarca (35), Antioquia (13)
+- **hugo ospina** → Nariño (100), Santander (98), Bogotá (50), Antioquia (24)
+- **sonnenhof großaspach - augsburgo** → Nariño (100), Bolívar (65), Valle del Cauca (27), Antioquia (26), Bogotá (22)
+- **boeing** → Bogotá (100), Antioquia (88), Cundinamarca (82), Valle del Cauca (67), Quindío (59)
 
 ### 🛒 Oportunidades de dropshipping
 

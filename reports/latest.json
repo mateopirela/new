@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "regions": [
     {
       "code": "CO",
@@ -8,7 +8,157 @@
       "trends": [
         {
           "rank": 1,
-          "term": "bill gates",
+          "term": "lazio",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Atlántico": 79,
+            "Bolívar": 74,
+            "La Guajira": 73,
+            "Magdalena": 72
+          },
+          "news_titles": [
+            "++?DIRETTA?]!) Sassuolo - Lazio In Diretta Streaming Gratis tv 27 ottobre 2026",
+            "Torino-Como, dove vederla (Sky o Dazn) in tv e streaming: orario, probabili formazioni, arbitro, precedenti e quote",
+            "Lazio, Frattesi: \"Tornare qui è sempre bello, oggi sembra di giocare in casa\""
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "copa del rey",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Arauca": 100,
+            "Córdoba": 88,
+            "Bolívar": 77,
+            "Magdalena": 77,
+            "Atlántico": 64
+          },
+          "news_titles": [
+            "‘Apagón analógico’ para 52 equipos de la Copa",
+            "Partidos de hoy de fútbol: horario y dónde ver por TV",
+            "El torneo del 'KO' da entrada a los primeras"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "vallenato",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Chocó": 100,
+            "Guainía": 86,
+            "Cesar": 78,
+            "La Guajira": 69,
+            "Córdoba": 65
+          },
+          "news_titles": [
+            "Nuevos detalles del accidente de Kbeto Zuleta: hijo del cantante Poncho Zuleta ingresó a la clínica con una sola pierna, según la secretaria de Salud del Cesar",
+            "Kaleth Morales, Patricia Teherán y otras tragedias de músicos en Colombia: accidentes que enlutan al vallenato",
+            "‘Kbeto’ Zuleta está en UCI y tiene varios traumas, asegura hermana del cantante vallenato"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "sassuolo - lazio",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Córdoba": 62,
+            "Norte de Santander": 55,
+            "Tolima": 54,
+            "Huila": 46
+          },
+          "news_titles": [
+            "Lazio Fans to Take Over at Mapei at 10,000 Flock to Sassuolo",
+            "Serie A Matchweek 9 Odds In Canada: Best Bets For All 10 Games",
+            "October 27, 2026: Roma vs Cagliari: First Half Winner Soccer Prediction Market"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "emiliana arango",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Meta": 100,
+            "Bogotá": 56,
+            "Cundinamarca": 35,
+            "Antioquia": 13
+          },
+          "news_titles": [
+            "Carole Monnet vs Leolia Jeanjean - Match WTA - Queretaro Open 1970 - Third round"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "hugo ospina",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Nariño": 100,
+            "Santander": 98,
+            "Bogotá": 50,
+            "Antioquia": 24
+          },
+          "news_titles": [
+            "Hugo Ospina, líder de los taxistas en Colombia, fue retirado por la fuerza por la Policía durante protesta en aeropuerto Palonegro de Bucaramanga",
+            "La reacción de Hugo Ospina, líder de los taxistas, en Bucaramanga: la Policía le impuso un comparendo",
+            "Sacaron arrastrado a Hugo Ospina de aeropuerto: protestó y la Policía se lo llevó"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "sonnenhof großaspach - augsburgo",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Nariño": 100,
+            "Bolívar": 65,
+            "Valle del Cauca": 27,
+            "Antioquia": 26,
+            "Bogotá": 22
+          },
+          "news_titles": [
+            "Confirmed DFB-Pokal lineups: SG Sonnenhof Großaspach vs. FC Augsburg",
+            "Baum: \"We'll give it everything we’ve got\"",
+            "Sonnenhof Großaspach vs Augsburg prediction: teams form analysis, possible lineups on October 27, 2026"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "boeing",
           "approx_traffic": "100+",
           "traffic_value": 100,
           "category_key": "other",
@@ -16,202 +166,48 @@
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Magdalena": 100,
-            "Bogotá": 75,
-            "Valle del Cauca": 70,
-            "Atlántico": 70,
-            "Antioquia": 70
-          },
-          "news_titles": [
-            "Bill Gates predicts 20 years of turmoil before AI creates 'true abundance'",
-            "‘Hire the Robot, Fire the Human And Don't Look Back’: Bill Gates’s Chilling Warning of a Jobs Crisis Gove",
-            "Gates: AI to Surpass Humans in Math and Biology Within 20 Years, Ushering in 'Tumultuous' Transition"
-          ]
-        },
-        {
-          "rank": 2,
-          "term": "santa clara - benfica",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "La Guajira": 100,
-            "Córdoba": 70,
-            "Bolívar": 69,
-            "Cauca": 51,
-            "Magdalena": 48
-          },
-          "news_titles": [
-            "Atenção, Benfica: após chuva de manhã... tudo «limpo» para o jogo",
-            "Benfica obrigado a vencer para se manter no encalce do FC Porto",
-            "As imagens da chegada do autocarro do Benfica ao estádio em Ponta Delgada"
-          ]
-        },
-        {
-          "rank": 3,
-          "term": "el niño",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Vaupés": 100,
-            "Huila": 87,
-            "Sucre": 84,
-            "Norte de Santander": 81,
-            "Guainía": 81
-          },
-          "news_titles": [
-            "Inti Bonomo, experto en Ciencias Ambientales, sobre el avance del fenómeno del Súper Niño: “Va a seguir creciendo y el pico va a ser en diciembre”",
-            "No hay infraestructura que pueda afrontar a El Niño",
-            "Llega un «El Niño» histórico y el plan nacional para enfrentarlo no tiene fondos propios"
-          ]
-        },
-        {
-          "rank": 4,
-          "term": "galatasaray - fenerbahçe",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Quindío": 100,
-            "Bolívar": 79,
-            "Boyacá": 73,
-            "Nariño": 68,
-            "Córdoba": 66
-          },
-          "news_titles": [
-            "Süper Lig’de Derbi Heyecanı! | Galatasaray mı, Fenerbahçe mi? Maç Öncesi Son Gelişmeler - Aspor",
-            "İstanbul'da akşam trafiği maçlar nedeniyle yüzde 74 yoğunluğa ulaştı",
-            "Fenerbahçeli taraftarlar, Rams Park’a gitmek için toplandı"
-          ]
-        },
-        {
-          "rank": 5,
-          "term": "tasa de cambio",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
-          "is_opportunity": false,
-          "geo_breakdown": {
             "Bogotá": 100,
-            "Valle del Cauca": 66,
-            "Cundinamarca": 64,
-            "Antioquia": 55,
-            "Atlántico": 49
+            "Antioquia": 88,
+            "Cundinamarca": 82,
+            "Valle del Cauca": 67,
+            "Quindío": 59
           },
           "news_titles": [
-            "Así ha variado el dólar en Colombia en los últimos 30 años",
-            "Cómo la tasa de cambio del dólar impacta el valor del peso colombiano y la economía del país",
-            "Tasa de cambio nominal y TRM en Colombia: qué indican sobre el valor del peso frente al dólar y su impacto económico"
-          ]
-        },
-        {
-          "rank": 6,
-          "term": "alberto ii de mónaco",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Risaralda": 100,
-            "Santander": 50,
-            "Valle del Cauca": 38,
-            "Bogotá": 35,
-            "Antioquia": 19
-          },
-          "news_titles": [
-            "Alberto de Mónaco, devastado tras la repentina muerte de su primo menor, Antoine de Massy, a los 29 años: la policía local investiga los hechos",
-            "Muere a los 29 años Antoine de Massy, sobrino del príncipe Alberto de Mónaco",
-            "Alberto y Charlène de Mónaco, de luto por la trágica muerte de su primo Antoine de Massy a los 29 años: \"Nos unimos al dolor de su familia\""
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "al-nassr - al wasl",
-          "approx_traffic": "5000+",
-          "traffic_value": 5000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "La Guajira": 100,
-            "Sucre": 92,
-            "Chocó": 85,
-            "Córdoba": 65,
-            "Bolívar": 63
-          },
-          "news_titles": [
-            "AFC postpones Al Nassr-Al Wasl Champions League Elite clash in Riyadh",
-            "\"An ambiguous decision with no regulation\": legal expert attacks the Asian Football Confederation and opens the file on the \"injustice\" against Saudi clubs",
-            "Al-Nassr vs Al-Wasl match in Riyadh postponed — The National"
-          ]
-        },
-        {
-          "rank": 8,
-          "term": "cuando entregan el balon de oro 2026",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Magdalena": 100,
-            "Bolívar": 76,
-            "Atlántico": 61,
-            "Cesar": 56,
-            "Córdoba": 42
-          },
-          "news_titles": [
-            "Luis Díaz en el Balón de Oro 2026: en qué puesto quedó",
-            "Ceremonia de premiación del Balón de Oro 2026: el colombiano Luis Díaz ocupó la casilla 24 en la entrega del galardón más prestigioso del fútbol",
-            "Última hora de Luis Díaz y el Balón de Oro: noticia fue confirmada por la prensa alemana"
+            "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
+            "Boeing Shares’ Decline Widens to 10% in Tuesday Trading",
+            "Boeing Stock Forecast: BA Holds $183.84 Support as Q3 Results Test Its Cash Flow Promise"
           ]
         },
         {
           "rank": 9,
-          "term": "jubilación",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
+          "term": "puente internacional francisco de paula santander",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Edad de retiro forzoso a los 70 años no aplica a trabajadores oficiales de Ecopetrol",
-            "Ada Colau debuta en Madrid como líder del Frente Amplio con la idea de que las 'pensiones no bajen del salario mínimo'",
-            "La edad de jubilación que propone Frente Amplio y que variaría el modelo actual: las diferencias"
+            "Una explosión cerca del puente internacional Francisco de Paula Santander, en la frontera entre Colombia y Venezuela, deja hasta el momento siete heridos",
+            "Atentado con explosivo en Cúcuta cerca del puente internacional Francisco de Paula Santander dejó seis heridos | El Colombiano",
+            "Cápsula informativa: explosión en Cúcuta dejó cuatro policías heridos"
           ]
         },
         {
           "rank": 10,
-          "term": "jackson martínez",
+          "term": "hamburg - frankfurt",
           "approx_traffic": "500+",
           "traffic_value": 500,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "DIM en problemas y sin certezas sobre debut de Jackson",
-            "Amaranto Perea responde: ¿Cuándo estarán disponibles Jackson Martínez y JuanFer Quintero?",
-            "Carlos Antonio Vélez analizó la remontada de Nacional a Medellín"
+            "HSV freut sich über frühes Kohle-Plus – Fast eine Million Euro",
+            "Brassier fehlt kurzfristig im DFB-Pokal",
+            "Hamburger SV vs. Eintracht Frankfurt: Die offiziellen Aufstellungen sind da!"
           ]
         }
       ],
