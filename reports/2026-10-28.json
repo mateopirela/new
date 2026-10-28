@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-28",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "parque lleras",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Antioquia": 100,
+            "Putumayo": 72,
+            "Caldas": 45,
+            "Risaralda": 33,
+            "Quindío": 28
+          },
+          "news_titles": [
+            "Crisis del turismo: momento de reflexión",
+            "Operativos en el Parque Lleras se mantendrían hasta desarticular redes de explotación y delincuencia",
+            "¿Qué propone el POT revisado para recuperar al parque Lleras?"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "cundinamarca",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Cundinamarca": 100,
+            "San Andrés y Providencia": 26,
+            "Bogotá": 24,
+            "Tolima": 20,
+            "Sucre": 17
+          },
+          "news_titles": [
+            "El colorido rincón de Cundinamarca cuyo nombre significa ‘tierra ardiente’, perfecto para el ecoturismo",
+            "El rincón de Cundinamarca apodado ‘cuna de la palma de cera’, perfecto para el avistamiento de aves y el ecoturismo",
+            "Lotería de Cundinamarca del lunes 26 de octubre de 2026: resultado, número ganador y premios del sorteo de hoy"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "infobae",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Quindío": 100,
+            "Risaralda": 82,
+            "Bogotá": 74,
+            "Caldas": 70,
+            "Valle del Cauca": 69
+          },
+          "news_titles": [
+            "Flávio Bolsonaro llega a EE.UU. tras la derrota en las elecciones de Brasil",
+            "Flávio Bolsonaro aterriza en Miami tras huir de Brasil vía Argentina",
+            "(Fotos) Así es el Gulfstream G400, el jet privado en el que Flávio Bolsonaro huyó de Brasil y llegó a Estados Unidos vía Argentina: su recorrido"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "dfb pokal",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Chocó": 100,
+            "Atlántico": 36,
+            "Cundinamarca": 32,
+            "Valle del Cauca": 30,
+            "Bolívar": 29
+          },
+          "news_titles": [
+            "Fußball heute: Ergebnisse & Spiele am 28.10.2026 im Überblick",
+            "Die höchsten Siege des 1. FC Magdeburg",
+            "Das Magdeburger Märchen: Bayerns legendäre Pokal-Blamage | Drama im Elfmeterschießen | Video"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "parma - udinese",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Santander": 77,
+            "Valle del Cauca": 65,
+            "Antioquia": 60,
+            "Bogotá": 56
+          },
+          "news_titles": []
+        },
+        {
+          "rank": 6,
+          "term": "venezia - inter",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Córdoba": 86,
+            "Sucre": 84,
+            "La Guajira": 77,
+            "Atlántico": 69
+          },
+          "news_titles": [
+            "!$+[DIRETTA-TV] Venezia Inter In Ｄｉｒｅｔｔａ Ｓｔｒｅａｍｉｎｇ Ｇｒａｔｉｓ 28 ottobre 2026 Free Streams & TV Channels online",
+            "Chivu: \"Thuram dal 1' col Venezia? Chi sta bene gioca! Vi spiego perché Stankovic parte titolare\"",
+            "Venezia-Inter, in campo dal 1' i fratelli Stankovic: in tribuna anche papà Dejan"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "fondo emprender",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Vichada": 100,
+            "Córdoba": 49,
+            "Caquetá": 21,
+            "La Guajira": 16,
+            "Huila": 15
+          },
+          "news_titles": [
+            "SENA garantiza los recursos del Fondo Emprender y acelera los trámites para sus emprendedores",
+            "Sena anuncia $20.000 millones para apoyar emprendimientos en Córdoba: ¿cómo postularse?",
+            "Emprendedores de Córdoba tienen hasta el 6 de noviembre para postularse al Fondo Emprender del SENA"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "milan - bolonia",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Putumayo": 100,
+            "Córdoba": 82,
+            "La Guajira": 62,
+            "Bolívar": 60,
+            "Sucre": 56
+          },
+          "news_titles": [
+            "Gallery: ‘Ramos plus Cisse’, ‘The derby on their mind’ – Today’s front pages in Italy",
+            "AC Milan vs Bologna – Prediction, Where to Watch, Kick-off Time and Lineups 28-10",
+            "Amorim: ‘Not thinking about Inter, I want Cisse joy and talent’"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "tribunal de justicia",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Coronel acusado de cobrar $120.000 a soldados, queda libre por vencimiento de términos",
+            "Tribunal Militar ordenó la libertad de coronel acusado de cobrar dinero a sus subalternos: cuál fue la razón",
+            "Tribunal revoca tutela que imponía límites a bombardeos por presencia de menores de edad"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "juan fernando quintero",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Comunicado oficial: El DIM rechaza versiones sin fundamento sobre Juan Fernando Quintero",
+            "¿Juan Fernando Quintero no está lesionado? La versión que se hizo viral y la respuesta del DIM | El Colombiano",
+            "Juanfer Quintero amenaza con demandar a periodista que afirmó que no está lesionado"
+          ]
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}

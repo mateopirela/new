@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "regions": [
     {
       "code": "CO",
@@ -8,206 +8,206 @@
       "trends": [
         {
           "rank": 1,
-          "term": "lazio",
+          "term": "parque lleras",
           "approx_traffic": "100+",
           "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Sucre": 100,
-            "Atlántico": 79,
-            "Bolívar": 74,
-            "La Guajira": 73,
-            "Magdalena": 72
+            "Antioquia": 100,
+            "Putumayo": 72,
+            "Caldas": 45,
+            "Risaralda": 33,
+            "Quindío": 28
           },
           "news_titles": [
-            "++?DIRETTA?]!) Sassuolo - Lazio In Diretta Streaming Gratis tv 27 ottobre 2026",
-            "Torino-Como, dove vederla (Sky o Dazn) in tv e streaming: orario, probabili formazioni, arbitro, precedenti e quote",
-            "Lazio, Frattesi: \"Tornare qui è sempre bello, oggi sembra di giocare in casa\""
+            "Crisis del turismo: momento de reflexión",
+            "Operativos en el Parque Lleras se mantendrían hasta desarticular redes de explotación y delincuencia",
+            "¿Qué propone el POT revisado para recuperar al parque Lleras?"
           ]
         },
         {
           "rank": 2,
-          "term": "copa del rey",
+          "term": "cundinamarca",
           "approx_traffic": "100+",
           "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Arauca": 100,
-            "Córdoba": 88,
-            "Bolívar": 77,
-            "Magdalena": 77,
-            "Atlántico": 64
+            "Cundinamarca": 100,
+            "San Andrés y Providencia": 26,
+            "Bogotá": 24,
+            "Tolima": 20,
+            "Sucre": 17
           },
           "news_titles": [
-            "‘Apagón analógico’ para 52 equipos de la Copa",
-            "Partidos de hoy de fútbol: horario y dónde ver por TV",
-            "El torneo del 'KO' da entrada a los primeras"
+            "El colorido rincón de Cundinamarca cuyo nombre significa ‘tierra ardiente’, perfecto para el ecoturismo",
+            "El rincón de Cundinamarca apodado ‘cuna de la palma de cera’, perfecto para el avistamiento de aves y el ecoturismo",
+            "Lotería de Cundinamarca del lunes 26 de octubre de 2026: resultado, número ganador y premios del sorteo de hoy"
           ]
         },
         {
           "rank": 3,
-          "term": "vallenato",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
-          "score": 40,
+          "term": "infobae",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Chocó": 100,
-            "Guainía": 86,
-            "Cesar": 78,
-            "La Guajira": 69,
-            "Córdoba": 65
+            "Quindío": 100,
+            "Risaralda": 82,
+            "Bogotá": 74,
+            "Caldas": 70,
+            "Valle del Cauca": 69
           },
           "news_titles": [
-            "Nuevos detalles del accidente de Kbeto Zuleta: hijo del cantante Poncho Zuleta ingresó a la clínica con una sola pierna, según la secretaria de Salud del Cesar",
-            "Kaleth Morales, Patricia Teherán y otras tragedias de músicos en Colombia: accidentes que enlutan al vallenato",
-            "‘Kbeto’ Zuleta está en UCI y tiene varios traumas, asegura hermana del cantante vallenato"
+            "Flávio Bolsonaro llega a EE.UU. tras la derrota en las elecciones de Brasil",
+            "Flávio Bolsonaro aterriza en Miami tras huir de Brasil vía Argentina",
+            "(Fotos) Así es el Gulfstream G400, el jet privado en el que Flávio Bolsonaro huyó de Brasil y llegó a Estados Unidos vía Argentina: su recorrido"
           ]
         },
         {
           "rank": 4,
-          "term": "sassuolo - lazio",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
-          "score": 45,
+          "term": "dfb pokal",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "La Guajira": 100,
-            "Córdoba": 62,
-            "Norte de Santander": 55,
-            "Tolima": 54,
-            "Huila": 46
+            "Chocó": 100,
+            "Atlántico": 36,
+            "Cundinamarca": 32,
+            "Valle del Cauca": 30,
+            "Bolívar": 29
           },
           "news_titles": [
-            "Lazio Fans to Take Over at Mapei at 10,000 Flock to Sassuolo",
-            "Serie A Matchweek 9 Odds In Canada: Best Bets For All 10 Games",
-            "October 27, 2026: Roma vs Cagliari: First Half Winner Soccer Prediction Market"
+            "Fußball heute: Ergebnisse & Spiele am 28.10.2026 im Überblick",
+            "Die höchsten Siege des 1. FC Magdeburg",
+            "Das Magdeburger Märchen: Bayerns legendäre Pokal-Blamage | Drama im Elfmeterschießen | Video"
           ]
         },
         {
           "rank": 5,
-          "term": "emiliana arango",
+          "term": "parma - udinese",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Meta": 100,
-            "Bogotá": 56,
-            "Cundinamarca": 35,
-            "Antioquia": 13
-          },
-          "news_titles": [
-            "Carole Monnet vs Leolia Jeanjean - Match WTA - Queretaro Open 1970 - Third round"
-          ]
-        },
-        {
-          "rank": 6,
-          "term": "hugo ospina",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Nariño": 100,
-            "Santander": 98,
-            "Bogotá": 50,
-            "Antioquia": 24
+            "Atlántico": 100,
+            "Santander": 77,
+            "Valle del Cauca": 65,
+            "Antioquia": 60,
+            "Bogotá": 56
+          },
+          "news_titles": []
+        },
+        {
+          "rank": 6,
+          "term": "venezia - inter",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Córdoba": 86,
+            "Sucre": 84,
+            "La Guajira": 77,
+            "Atlántico": 69
           },
           "news_titles": [
-            "Hugo Ospina, líder de los taxistas en Colombia, fue retirado por la fuerza por la Policía durante protesta en aeropuerto Palonegro de Bucaramanga",
-            "La reacción de Hugo Ospina, líder de los taxistas, en Bucaramanga: la Policía le impuso un comparendo",
-            "Sacaron arrastrado a Hugo Ospina de aeropuerto: protestó y la Policía se lo llevó"
+            "!$+[DIRETTA-TV] Venezia Inter In Ｄｉｒｅｔｔａ Ｓｔｒｅａｍｉｎｇ Ｇｒａｔｉｓ 28 ottobre 2026 Free Streams & TV Channels online",
+            "Chivu: \"Thuram dal 1' col Venezia? Chi sta bene gioca! Vi spiego perché Stankovic parte titolare\"",
+            "Venezia-Inter, in campo dal 1' i fratelli Stankovic: in tribuna anche papà Dejan"
           ]
         },
         {
           "rank": 7,
-          "term": "sonnenhof großaspach - augsburgo",
+          "term": "fondo emprender",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Nariño": 100,
-            "Bolívar": 65,
-            "Valle del Cauca": 27,
-            "Antioquia": 26,
-            "Bogotá": 22
+            "Vichada": 100,
+            "Córdoba": 49,
+            "Caquetá": 21,
+            "La Guajira": 16,
+            "Huila": 15
           },
           "news_titles": [
-            "Confirmed DFB-Pokal lineups: SG Sonnenhof Großaspach vs. FC Augsburg",
-            "Baum: \"We'll give it everything we’ve got\"",
-            "Sonnenhof Großaspach vs Augsburg prediction: teams form analysis, possible lineups on October 27, 2026"
+            "SENA garantiza los recursos del Fondo Emprender y acelera los trámites para sus emprendedores",
+            "Sena anuncia $20.000 millones para apoyar emprendimientos en Córdoba: ¿cómo postularse?",
+            "Emprendedores de Córdoba tienen hasta el 6 de noviembre para postularse al Fondo Emprender del SENA"
           ]
         },
         {
           "rank": 8,
-          "term": "boeing",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bogotá": 100,
-            "Antioquia": 88,
-            "Cundinamarca": 82,
-            "Valle del Cauca": 67,
-            "Quindío": 59
-          },
-          "news_titles": [
-            "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
-            "Boeing Shares’ Decline Widens to 10% in Tuesday Trading",
-            "Boeing Stock Forecast: BA Holds $183.84 Support as Q3 Results Test Its Cash Flow Promise"
-          ]
-        },
-        {
-          "rank": 9,
-          "term": "puente internacional francisco de paula santander",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Una explosión cerca del puente internacional Francisco de Paula Santander, en la frontera entre Colombia y Venezuela, deja hasta el momento siete heridos",
-            "Atentado con explosivo en Cúcuta cerca del puente internacional Francisco de Paula Santander dejó seis heridos | El Colombiano",
-            "Cápsula informativa: explosión en Cúcuta dejó cuatro policías heridos"
-          ]
-        },
-        {
-          "rank": 10,
-          "term": "hamburg - frankfurt",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
+          "term": "milan - bolonia",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
+          "geo_breakdown": {
+            "Putumayo": 100,
+            "Córdoba": 82,
+            "La Guajira": 62,
+            "Bolívar": 60,
+            "Sucre": 56
+          },
+          "news_titles": [
+            "Gallery: ‘Ramos plus Cisse’, ‘The derby on their mind’ – Today’s front pages in Italy",
+            "AC Milan vs Bologna – Prediction, Where to Watch, Kick-off Time and Lineups 28-10",
+            "Amorim: ‘Not thinking about Inter, I want Cisse joy and talent’"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "tribunal de justicia",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "HSV freut sich über frühes Kohle-Plus – Fast eine Million Euro",
-            "Brassier fehlt kurzfristig im DFB-Pokal",
-            "Hamburger SV vs. Eintracht Frankfurt: Die offiziellen Aufstellungen sind da!"
+            "Coronel acusado de cobrar $120.000 a soldados, queda libre por vencimiento de términos",
+            "Tribunal Militar ordenó la libertad de coronel acusado de cobrar dinero a sus subalternos: cuál fue la razón",
+            "Tribunal revoca tutela que imponía límites a bombardeos por presencia de menores de edad"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "juan fernando quintero",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Comunicado oficial: El DIM rechaza versiones sin fundamento sobre Juan Fernando Quintero",
+            "¿Juan Fernando Quintero no está lesionado? La versión que se hizo viral y la respuesta del DIM | El Colombiano",
+            "Juanfer Quintero amenaza con demandar a periodista que afirmó que no está lesionado"
           ]
         }
       ],
