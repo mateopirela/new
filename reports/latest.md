@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-10-28
+# 📊 Informe de tendencias y dropshipping — 2026-10-29
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,33 +10,53 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | parque lleras | 100+ | Otros | 🔴 30 |
-| 2 | cundinamarca | 100+ | Entretenimiento / farándula | 🔴 40 |
-| 3 | infobae | 1000+ | Noticias / actualidad | 🔴 10 |
-| 4 | dfb pokal | 100+ | Otros | 🔴 30 |
-| 5 | parma - udinese | 200+ | Otros | 🔴 30 |
-| 6 | venezia - inter | 2000+ | Otros | 🔴 30 |
-| 7 | fondo emprender | 200+ | Otros | 🔴 30 |
-| 8 | milan - bolonia | 2000+ | Deporte / evento | 🔴 40 |
-| 9 | tribunal de justicia | 500+ | Otros | 🔴 30 |
-| 10 | juan fernando quintero | 2000+ | Otros | 🔴 30 |
+| 1 | soacha | 100+ | Otros | 🔴 30 |
+| 2 | frosinone | 100+ | Entretenimiento / farándula | 🔴 45 |
+| 3 | al-nassr - al-kholood club | 5000+ | Deporte / evento | 🔴 40 |
+| 4 | frosinone - lecce | 200+ | Otros | 🔴 30 |
+| 5 | militarización | 200+ | Otros | 🔴 30 |
+| 6 | jonas vingegaard | 200+ | Entretenimiento / farándula | 🔴 40 |
+| 7 | carlos alcaraz | 1000+ | Deporte / evento | 🔴 40 |
+| 8 | arresto | 2000+ | Otros | 🔴 30 |
+| 9 | halloween | 500+ | Estacional y eventos | 🟢 75 |
+| 10 | restriccion motos bogota | 200+ | Estacional y eventos | 🟢 75 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **parque lleras** → Antioquia (100), Putumayo (72), Caldas (45), Risaralda (33), Quindío (28)
-- **cundinamarca** → Cundinamarca (100), San Andrés y Providencia (26), Bogotá (24), Tolima (20), Sucre (17)
-- **infobae** → Quindío (100), Risaralda (82), Bogotá (74), Caldas (70), Valle del Cauca (69)
-- **dfb pokal** → Chocó (100), Atlántico (36), Cundinamarca (32), Valle del Cauca (30), Bolívar (29)
-- **parma - udinese** → Atlántico (100), Santander (77), Valle del Cauca (65), Antioquia (60), Bogotá (56)
-- **venezia - inter** → Bolívar (100), Córdoba (86), Sucre (84), La Guajira (77), Atlántico (69)
-- **fondo emprender** → Vichada (100), Córdoba (49), Caquetá (21), La Guajira (16), Huila (15)
-- **milan - bolonia** → Putumayo (100), Córdoba (82), La Guajira (62), Bolívar (60), Sucre (56)
+- **soacha** → Cundinamarca (100), Bogotá (26), Tolima (5), Boyacá (4), Caquetá (2)
+- **frosinone** → Guainía (100), Córdoba (12), Casanare (12), Cesar (10), Bolívar (10)
+- **al-nassr - al-kholood club** → San Andrés y Providencia (100), Sucre (45), La Guajira (45), Chocó (38), Bolívar (34)
+- **frosinone - lecce** → Norte de Santander (100), Nariño (89), Tolima (73), Atlántico (60), Bolívar (57)
+- **militarización** → Bogotá (100), Cundinamarca (74)
+- **jonas vingegaard** → Santander (100), Cundinamarca (82), Bogotá (74), Valle del Cauca (56), Antioquia (51)
+- **carlos alcaraz** → Caquetá (100), Risaralda (91), Bogotá (84), Valle del Cauca (78), Boyacá (74)
+- **arresto** → Magdalena (100), Boyacá (96), Sucre (88), Bogotá (88), Caldas (80)
 
 ### 🛒 Oportunidades de dropshipping
 
-_Hoy las tendencias son mayormente noticias/eventos con baja intención de compra directa. Poco encaje para producto físico._
+#### 🟢 halloween  ·  _Estacional y eventos_  ·  potencial 75/100
+
+Categoría 'Estacional y eventos' con buena traducción a producto físico y demanda visible (tráfico ~500+).
+
+**Productos sugeridos:**
+- Decoración temática de temporada
+- Disfraces y accesorios
+- Sets de regalo
+- Luces y adornos LED
+- Empaques y detalles personalizados
+
+#### 🟢 restriccion motos bogota  ·  _Estacional y eventos_  ·  potencial 75/100
+
+Categoría 'Estacional y eventos' con buena traducción a producto físico y demanda visible (tráfico ~200+).
+
+**Productos sugeridos:**
+- Decoración temática de temporada
+- Disfraces y accesorios
+- Sets de regalo
+- Luces y adornos LED
+- Empaques y detalles personalizados
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "regions": [
     {
       "code": "CO",
@@ -8,7 +8,7 @@
       "trends": [
         {
           "rank": 1,
-          "term": "parque lleras",
+          "term": "soacha",
           "approx_traffic": "100+",
           "traffic_value": 100,
           "category_key": "other",
@@ -16,202 +16,238 @@
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Antioquia": 100,
-            "Putumayo": 72,
-            "Caldas": 45,
-            "Risaralda": 33,
-            "Quindío": 28
+            "Cundinamarca": 100,
+            "Bogotá": 26,
+            "Tolima": 5,
+            "Boyacá": 4,
+            "Caquetá": 2
           },
           "news_titles": [
-            "Crisis del turismo: momento de reflexión",
-            "Operativos en el Parque Lleras se mantendrían hasta desarticular redes de explotación y delincuencia",
-            "¿Qué propone el POT revisado para recuperar al parque Lleras?"
+            "Fuertes lluvias causan inundaciones en Soacha y afectan la movilidad en la Autopista Sur",
+            "Gobernación de Cundinamarca anuncia atención de emergencias por lluvias Mosquera, Cucunubá y Soacha",
+            "Noticias de Fuertes Lluvias Vuelven A Golpear Cundinamarca"
           ]
         },
         {
           "rank": 2,
-          "term": "cundinamarca",
+          "term": "frosinone",
           "approx_traffic": "100+",
           "traffic_value": 100,
           "category_key": "entertainment",
           "category_label": "Entretenimiento / farándula",
-          "score": 40,
+          "score": 45,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Cundinamarca": 100,
-            "San Andrés y Providencia": 26,
-            "Bogotá": 24,
-            "Tolima": 20,
-            "Sucre": 17
+            "Guainía": 100,
+            "Córdoba": 12,
+            "Casanare": 12,
+            "Cesar": 10,
+            "Bolívar": 10
           },
           "news_titles": [
-            "El colorido rincón de Cundinamarca cuyo nombre significa ‘tierra ardiente’, perfecto para el ecoturismo",
-            "El rincón de Cundinamarca apodado ‘cuna de la palma de cera’, perfecto para el avistamiento de aves y el ecoturismo",
-            "Lotería de Cundinamarca del lunes 26 de octubre de 2026: resultado, número ganador y premios del sorteo de hoy"
+            "Frosinone vs Lecce: Italian Serie A stats & head-to-head",
+            "✅ Frosinone-Lecce line-ups: decisions on Calò, Tiago Gabriel and Geubbels",
+            "October 29, 2026: Frosinone vs Lecce: First Half Winner Soccer Prediction Market"
           ]
         },
         {
           "rank": 3,
-          "term": "infobae",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Quindío": 100,
-            "Risaralda": 82,
-            "Bogotá": 74,
-            "Caldas": 70,
-            "Valle del Cauca": 69
-          },
-          "news_titles": [
-            "Flávio Bolsonaro llega a EE.UU. tras la derrota en las elecciones de Brasil",
-            "Flávio Bolsonaro aterriza en Miami tras huir de Brasil vía Argentina",
-            "(Fotos) Así es el Gulfstream G400, el jet privado en el que Flávio Bolsonaro huyó de Brasil y llegó a Estados Unidos vía Argentina: su recorrido"
-          ]
-        },
-        {
-          "rank": 4,
-          "term": "dfb pokal",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Chocó": 100,
-            "Atlántico": 36,
-            "Cundinamarca": 32,
-            "Valle del Cauca": 30,
-            "Bolívar": 29
-          },
-          "news_titles": [
-            "Fußball heute: Ergebnisse & Spiele am 28.10.2026 im Überblick",
-            "Die höchsten Siege des 1. FC Magdeburg",
-            "Das Magdeburger Märchen: Bayerns legendäre Pokal-Blamage | Drama im Elfmeterschießen | Video"
-          ]
-        },
-        {
-          "rank": 5,
-          "term": "parma - udinese",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Atlántico": 100,
-            "Santander": 77,
-            "Valle del Cauca": 65,
-            "Antioquia": 60,
-            "Bogotá": 56
-          },
-          "news_titles": []
-        },
-        {
-          "rank": 6,
-          "term": "venezia - inter",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bolívar": 100,
-            "Córdoba": 86,
-            "Sucre": 84,
-            "La Guajira": 77,
-            "Atlántico": 69
-          },
-          "news_titles": [
-            "!$+[DIRETTA-TV] Venezia Inter In Ｄｉｒｅｔｔａ Ｓｔｒｅａｍｉｎｇ Ｇｒａｔｉｓ 28 ottobre 2026 Free Streams & TV Channels online",
-            "Chivu: \"Thuram dal 1' col Venezia? Chi sta bene gioca! Vi spiego perché Stankovic parte titolare\"",
-            "Venezia-Inter, in campo dal 1' i fratelli Stankovic: in tribuna anche papà Dejan"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "fondo emprender",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Vichada": 100,
-            "Córdoba": 49,
-            "Caquetá": 21,
-            "La Guajira": 16,
-            "Huila": 15
-          },
-          "news_titles": [
-            "SENA garantiza los recursos del Fondo Emprender y acelera los trámites para sus emprendedores",
-            "Sena anuncia $20.000 millones para apoyar emprendimientos en Córdoba: ¿cómo postularse?",
-            "Emprendedores de Córdoba tienen hasta el 6 de noviembre para postularse al Fondo Emprender del SENA"
-          ]
-        },
-        {
-          "rank": 8,
-          "term": "milan - bolonia",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
+          "term": "al-nassr - al-kholood club",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Putumayo": 100,
-            "Córdoba": 82,
-            "La Guajira": 62,
-            "Bolívar": 60,
-            "Sucre": 56
+            "San Andrés y Providencia": 100,
+            "Sucre": 45,
+            "La Guajira": 45,
+            "Chocó": 38,
+            "Bolívar": 34
           },
           "news_titles": [
-            "Gallery: ‘Ramos plus Cisse’, ‘The derby on their mind’ – Today’s front pages in Italy",
-            "AC Milan vs Bologna – Prediction, Where to Watch, Kick-off Time and Lineups 28-10",
-            "Amorim: ‘Not thinking about Inter, I want Cisse joy and talent’"
+            "Is Cristiano Ronaldo Playing Tonight? Al Nassr vs Al Kholood Live Streaming Info",
+            "Will Cristiano Ronaldo play tonight in Al Nassr vs Al Kholood Saudi Pro League 2026-27 clash?",
+            "Ronaldo and Mane lead Al-Nassr against Al-Khaleej: changes to Postecoglou's line-up!"
           ]
         },
         {
-          "rank": 9,
-          "term": "tribunal de justicia",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
+          "rank": 4,
+          "term": "frosinone - lecce",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Norte de Santander": 100,
+            "Nariño": 89,
+            "Tolima": 73,
+            "Atlántico": 60,
+            "Bolívar": 57
+          },
           "news_titles": [
-            "Coronel acusado de cobrar $120.000 a soldados, queda libre por vencimiento de términos",
-            "Tribunal Militar ordenó la libertad de coronel acusado de cobrar dinero a sus subalternos: cuál fue la razón",
-            "Tribunal revoca tutela que imponía límites a bombardeos por presencia de menores de edad"
+            "[ＤＩＲＥＴＴＡ@TV!!] Frosinone-Lecce in tv 29 ottobre 2026",
+            "Si fa male Geubbels nel riscaldamento: gioca Esteban",
+            "Dove vedere Fiorentina-Atalanta e Frosinone-Lecce: tutto lo sport in tv del 29 ottobre"
           ]
         },
         {
-          "rank": 10,
-          "term": "juan fernando quintero",
+          "rank": 5,
+          "term": "militarización",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Cundinamarca": 74
+          },
+          "news_titles": [
+            "Militarización se activa si la Policía es superada en sus capacidades: sec. de Seguridad de Bogotá",
+            "Así fue la operación 'Kratos', uno de los golpes contra el crimen más grandes en Bogotá: 172 capturas y 10 bandas desarticuladas",
+            "De La Espriella dio instrucción precisa al director del Inpec sobre los criminales que encaró en operativos de captura"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "jonas vingegaard",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Santander": 100,
+            "Cundinamarca": 82,
+            "Bogotá": 74,
+            "Valle del Cauca": 56,
+            "Antioquia": 51
+          },
+          "news_titles": [
+            "Arremeten contra Jonas Vingegaard y sentencian sus opciones de volver a ganar el Tour de Francia",
+            "'What I’m not keen on is paying his salary' – Uno-X Mobility manager Hushovd admits interest in signing Jonas Vingegaard",
+            "Bombshell: Danish cyclist Jonas Vingegaard could leave Team Visma-Lease a Bike"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "carlos alcaraz",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Caquetá": 100,
+            "Risaralda": 91,
+            "Bogotá": 84,
+            "Valle del Cauca": 78,
+            "Boyacá": 74
+          },
+          "news_titles": [
+            "“Le he permitido meterse, pero he jugado muy bien hasta la última bola”",
+            "Alcaraz eliminó con suspenso a la revelación de la gira y se metió entre los ocho mejores del ATP 500 de Viena",
+            "Nikoloz Basilashvili - Carlos Alcaraz, en directo | Octavos del ATP 500 de Viena, en vivo"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "arresto",
           "approx_traffic": "2000+",
           "traffic_value": 2000,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
+          "geo_breakdown": {
+            "Magdalena": 100,
+            "Boyacá": 96,
+            "Sucre": 88,
+            "Bogotá": 88,
+            "Caldas": 80
+          },
+          "news_titles": [
+            "LA POLIZIA DI STATO TRAE IN ARRESTO UN UOMO PER MINACCE AL SINDACO DI ZAPPONETA.",
+            "Zapponeta, minacce al sindaco Vincenzo Riontino: arrestato 48enne",
+            "Minacce al sindaco di Zapponeta per soldi e lavoro: ai domiciliari un 48enne"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "halloween",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "seasonal",
+          "category_label": "Estacional y eventos",
+          "score": 75,
+          "is_opportunity": true,
           "geo_breakdown": {},
           "news_titles": [
-            "Comunicado oficial: El DIM rechaza versiones sin fundamento sobre Juan Fernando Quintero",
-            "¿Juan Fernando Quintero no está lesionado? La versión que se hizo viral y la respuesta del DIM | El Colombiano",
-            "Juanfer Quintero amenaza con demandar a periodista que afirmó que no está lesionado"
+            "Paris Hilton defends herself from criticism over kids’ Beauty and the Beast Halloween costumes",
+            "Paris Hilton Responds to Online Backlash Regarding Her Family’s Beauty and the Beast Halloween Costumes",
+            "Paris Hilton Faces Backlash Over Family Halloween Costume"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "restriccion motos bogota",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "seasonal",
+          "category_label": "Estacional y eventos",
+          "score": 75,
+          "is_opportunity": true,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Desde este jueves 29 hasta el martes 3 aplican restricciones a circulación de motocicletas ¡Horarios y medidas aquí!",
+            "Bogotá: restricciones para motos por Halloween hasta el 3 de noviembre; conozca las medidas",
+            "Restricción de parrillero en Bogotá: ¿De cuántos SMLV es la multa por incumplirla? Hora de inicio"
           ]
         }
       ],
-      "opportunities": []
+      "opportunities": [
+        {
+          "term": "halloween",
+          "category_key": "seasonal",
+          "category_label": "Estacional y eventos",
+          "score": 75,
+          "approx_traffic": "500+",
+          "rationale": "Categoría 'Estacional y eventos' con buena traducción a producto físico y demanda visible (tráfico ~500+).",
+          "product_ideas": [
+            "Decoración temática de temporada",
+            "Disfraces y accesorios",
+            "Sets de regalo",
+            "Luces y adornos LED",
+            "Empaques y detalles personalizados"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {}
+        },
+        {
+          "term": "restriccion motos bogota",
+          "category_key": "seasonal",
+          "category_label": "Estacional y eventos",
+          "score": 75,
+          "approx_traffic": "200+",
+          "rationale": "Categoría 'Estacional y eventos' con buena traducción a producto físico y demanda visible (tráfico ~200+).",
+          "product_ideas": [
+            "Decoración temática de temporada",
+            "Disfraces y accesorios",
+            "Sets de regalo",
+            "Luces y adornos LED",
+            "Empaques y detalles personalizados"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {}
+        }
+      ]
     }
   ]
 }
