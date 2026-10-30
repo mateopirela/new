@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-30",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "fernando alonso",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Santander": 100,
+            "Bogotá": 89,
+            "Cundinamarca": 73,
+            "Antioquia": 55,
+            "Atlántico": 32
+          },
+          "news_titles": [
+            "‘There’s no pay drivers now’: Alonso’s rivals reject his criticism of ‘one-third’ of the grid",
+            "Alonso doubles down on poor F1 driving standards – and says those targeted know who they are",
+            "Sainz blasts Lindblad but disagrees with Alonso’s ‘very low’ quality driver criticism"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "le havre - psg",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Chocó": 78,
+            "Bolívar": 78,
+            "Cesar": 68,
+            "Córdoba": 66
+          },
+          "news_titles": [
+            "DIRECT. Nice-Rennes: suivez le match de la 9e journée de Ligue 1 en live",
+            "Pronostic Le Havre - Paris Saint-Germain : Les visiteurs poursuivront-ils leur série de victoires ?",
+            "OFFICIEL : la composition du PSG avec le turnover attendu, mais deux ou trois grosses surprises !"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "conmebol",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Magdalena": 50,
+            "Amazonas": 43,
+            "Sucre": 37,
+            "Valle del Cauca": 37
+          },
+          "news_titles": [
+            "Inicia la venta de entradas para la Final de la CONMEBOL Sudamericana 2026 en Barranquilla",
+            "LA FCF ALERTA SOBRE LA VENTA NO AUTORIZADA DE ENTRADAS PARA LAS FINALES DE LA CONMEBOL 2026",
+            "¿Cuánto cuesta viajar a Barranquilla para presenciar la final de la Copa Sudamericana 2026?"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "konyaspor - galatasaray",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Magdalena": 100,
+            "La Guajira": 75,
+            "Bolívar": 62,
+            "Córdoba": 59,
+            "Sucre": 58
+          },
+          "news_titles": [
+            "Galatasaray Spor Kulübü’nün T. Konyaspor Karşısındaki İlk 11’i ve Yedekleri",
+            "$√@→[özgür>+] gs konya maçı TRT1 canli izle 30 Ekim 2026 TB*877 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅ",
+            "Osimhen Konyaspor maçında var mı, oynayacak mı? Galatasaraylı Victor Osimhen Konya'ya neden gitmedi, neden yok?"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "christa pike",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Caldas": 100,
+            "Antioquia": 47,
+            "Bogotá": 41,
+            "Valle del Cauca": 38,
+            "Cundinamarca": 36
+          },
+          "news_titles": [
+            "Tennessee governor says he suspects Christa Pike’s sentence to stay the same after failed execution",
+            "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+            "Christa Pike makes first public comments since botched execution: ‘Healing is not the same as being okay’"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "carlos alcaraz",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Risaralda": 100,
+            "Bogotá": 87,
+            "Quindío": 85,
+            "Boyacá": 79,
+            "Antioquia": 77
+          },
+          "news_titles": [
+            "Alcaraz gana a un combativo Tommy Paul en cuartos de Viena y sigue intratable en los ATP 500",
+            "Alcaraz eliminó con suspenso a la revelación de la gira y se metió entre los ocho mejores del ATP 500 de Viena",
+            "Resumen del Alcaraz vs. Basilashvili en el ATP 500 Viena"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "aeronave",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Antioquia": 100,
+            "Bolívar": 90,
+            "Atlántico": 90,
+            "Norte de Santander": 59,
+            "Meta": 49
+          },
+          "news_titles": [
+            "Fórmula 1 movimenta R$ 2,3 bilhões e impulsiona turismo em São Paulo",
+            "Boeing 777 traz primeiros equipamentos da F1 ao Brasil",
+            "Conheça o avião cargueiro da Fórmula 1 capaz de cruzar oceanos com mais de 800 toneladas de carga"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "epm",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Antioquia": 100,
+            "Chocó": 7,
+            "Córdoba": 5,
+            "Caldas": 5,
+            "Cesar": 3
+          },
+          "news_titles": [
+            "No se relaje: tras suspender el racionamiento, el ahorro de agua en Medellín cayó | El Colombiano",
+            "Cortes de agua en Medellín y Bello este sábado 31 de octubre del 2026: Barrios afectados y horarios",
+            "EPM alerta por bajo ahorro de agua en Medellín: consumo sigue lejos de meta tras racionamiento"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "pensión",
+          "approx_traffic": "10000+",
+          "traffic_value": 10000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Plantean subsidio, a un mínimo, en la contrarreforma pensional",
+            "'La contrarreforma es la única forma de garantizar las pensiones a las nuevas generaciones': senadoras Claudia Margarita Zuleta y Zandra Bernal",
+            "Atentos: así es la contrarreforma pensional del Centro Democrático"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "tolemaida",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Así fue el despliegue de EEUU en Colombia: llegaron con helicópteros Black Hawk a Tolemaida",
+            "Antioquia busca liderar entrenamientos militares con EE. UU. tras la llegada de más de 300 uniformados | El Colombiano",
+            "Militares de Estados Unidos llegaron a la base aérea de Tolemaida, Cundinamarca, para los ejercicios combinados con Colombia"
+          ]
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}
