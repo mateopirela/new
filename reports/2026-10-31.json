@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-31",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "posiciones de schalke 04 contra rb leipzig",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Antioquia": 100,
+            "Bogotá": 76
+          },
+          "news_titles": [
+            "Confirmed lineups: FC Schalke 04 vs. RB Leipzig",
+            "FC Schalke 04 - RB Leipzig LIVE. Bundesliga latest updates",
+            "Demichelis Sends Clear Message To Leipzig Ahead Of Schalke Clash"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "bayern - dortmund",
+          "approx_traffic": "10000+",
+          "traffic_value": 10000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Córdoba": 85,
+            "La Guajira": 80,
+            "Bolívar": 79,
+            "Atlántico": 74
+          },
+          "news_titles": [
+            "Manuel Neuer und Aleksandar Pavlovic fehlen in Freiburg - Bayern muss erneut umstellen",
+            "Fußball-Bundesliga: Nach Trauerfall: Kimmich zurück in Bayern-Startelf",
+            "FC Bayern vs. BVB: Warum Neuer, Diaz sowie Musiala im FCB-Kader fehlen"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "tottenham - crystal palace",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Córdoba": 59,
+            "Huila": 48,
+            "Nariño": 45,
+            "Tolima": 43
+          },
+          "news_titles": [
+            "Alan Shearer and Tim Sherwood agree on Tottenham vs Crystal Palace score prediction",
+            "Confirmed line-ups: Spurs vs Crystal Palace",
+            "SlipsTips’ Tips: Kudus key in Tottenham vs Crystal Palace Bet Builder"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "bayern vs dortmund",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Vaupés": 100,
+            "Córdoba": 1,
+            "Antioquia": 1,
+            "Bogotá": 1,
+            "Atlántico": 1
+          },
+          "news_titles": [
+            "Borussia Dortmund vs FC Bayern: 10 (unbekannte) Duelle zwischen Bayern und Dortmund",
+            "Sechs Tore in sieben Spielen: Kane freut sich auf das BVB-Duell!",
+            "Bundesliga: Aufstellungen da, Kimmich zurück! FC Bayern – BVB im Live-Ticker"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "posiciones de bologna fc contra ac monza",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Meta": 100,
+            "Valle del Cauca": 26,
+            "Antioquia": 16,
+            "Bogotá": 11
+          },
+          "news_titles": [
+            "Bologna - Monza LIVE. Serie A latest updates",
+            "![DIRETTA-TV!]! Bologna FC 1909 vs Monza In Diretta live",
+            "Monza, another defeat: they advance, allow a comeback, and then fail to equalize on a penalty. Bologna celebrates."
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "city",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Magdalena": 100,
+            "Chocó": 81,
+            "Bolívar": 78,
+            "Sucre": 72,
+            "San Andrés y Providencia": 69
+          },
+          "news_titles": [
+            "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+            "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
+            "Hundreds evacuate Ukrainian city of Oleshky under Melania Trump-brokered ceasefire"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "werder bremen - hoffenheim",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Valle del Cauca": 100,
+            "Atlántico": 91,
+            "Bogotá": 77,
+            "Antioquia": 66
+          },
+          "news_titles": [
+            "Schiri zeigt 4 (!) Gelbe in einer Szene",
+            "Karten-Hagel! Leverkusen und Stuttgart gehen sich an die Gurgel",
+            "Hoeneß will mit Dreierkette „mutig auftreten“"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "borussia mönchengladbach",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Cauca": 100,
+            "Huila": 93,
+            "Atlántico": 71,
+            "Bolívar": 70,
+            "Valle del Cauca": 68
+          },
+          "news_titles": [
+            "$√#→[IM TV**] Borussia Mönchengladbach gegen SC Paderborn Bundesliga heute im live",
+            "Nullnummer gegen Paderborn: Gladbach wartet weiter auf den ersten Heimdreier",
+            "Paderborner Fans kommen zu spät in Mönchengladbach an"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "nave espacial",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "La NASA pierde 48 horas la comunicación con la Voyager 1: «Es la primera vez que vemos a la nave espacial hacer algo así»",
+            "Contemporánea Condeduque expone una maqueta a tamaño real de la sonda Voyager 1",
+            "Voyager 1: la nave del tamaño de un automóvil que sigue haciendo historia en los límites del sistema solar"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "udinese - roma",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Udinese-Roma, le formazioni ufficiali: Runjaic con Zaniolo, Gasperini punta su Mora",
+            "Kamara: \"La Roma è ancora imbattuta. Partita difficile contro una squadra completa\"",
+            "Udinese-Roma diretta: Gasperini punta su Malen, Soulé e Mora LIVE"
+          ]
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}

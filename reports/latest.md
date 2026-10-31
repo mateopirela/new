@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-10-30
+# 📊 Informe de tendencias y dropshipping — 2026-10-31
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,29 +10,29 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | fernando alonso | 100+ | Deporte / evento | 🔴 35 |
-| 2 | le havre - psg | 5000+ | Entretenimiento / farándula | 🔴 40 |
-| 3 | conmebol | 500+ | Deporte / evento | 🔴 35 |
-| 4 | konyaspor - galatasaray | 2000+ | Otros | 🔴 30 |
-| 5 | christa pike | 500+ | Otros | 🔴 30 |
-| 6 | carlos alcaraz | 1000+ | Deporte / evento | 🔴 40 |
-| 7 | aeronave | 1000+ | Deporte / evento | 🔴 35 |
-| 8 | epm | 500+ | Otros | 🔴 30 |
-| 9 | pensión | 10000+ | Otros | 🔴 30 |
-| 10 | tolemaida | 2000+ | Otros | 🔴 30 |
+| 1 | posiciones de schalke 04 contra rb leipzig | 200+ | Deporte / evento | 🔴 40 |
+| 2 | bayern - dortmund | 10000+ | Deporte / evento | 🔴 40 |
+| 3 | tottenham - crystal palace | 500+ | Deporte / evento | 🔴 40 |
+| 4 | bayern vs dortmund | 200+ | Deporte / evento | 🔴 40 |
+| 5 | posiciones de bologna fc contra ac monza | 200+ | Entretenimiento / farándula | 🔴 45 |
+| 6 | city | 500+ | Deporte / evento | 🔴 40 |
+| 7 | werder bremen - hoffenheim | 1000+ | Otros | 🔴 30 |
+| 8 | borussia mönchengladbach | 100+ | Deporte / evento | 🔴 40 |
+| 9 | nave espacial | 100+ | Otros | 🔴 30 |
+| 10 | udinese - roma | 1000+ | Otros | 🔴 30 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **fernando alonso** → Santander (100), Bogotá (89), Cundinamarca (73), Antioquia (55), Atlántico (32)
-- **le havre - psg** → La Guajira (100), Chocó (78), Bolívar (78), Cesar (68), Córdoba (66)
-- **conmebol** → Atlántico (100), Magdalena (50), Amazonas (43), Sucre (37), Valle del Cauca (37)
-- **konyaspor - galatasaray** → Magdalena (100), La Guajira (75), Bolívar (62), Córdoba (59), Sucre (58)
-- **christa pike** → Caldas (100), Antioquia (47), Bogotá (41), Valle del Cauca (38), Cundinamarca (36)
-- **carlos alcaraz** → Risaralda (100), Bogotá (87), Quindío (85), Boyacá (79), Antioquia (77)
-- **aeronave** → Antioquia (100), Bolívar (90), Atlántico (90), Norte de Santander (59), Meta (49)
-- **epm** → Antioquia (100), Chocó (7), Córdoba (5), Caldas (5), Cesar (3)
+- **posiciones de schalke 04 contra rb leipzig** → Antioquia (100), Bogotá (76)
+- **bayern - dortmund** → Sucre (100), Córdoba (85), La Guajira (80), Bolívar (79), Atlántico (74)
+- **tottenham - crystal palace** → Sucre (100), Córdoba (59), Huila (48), Nariño (45), Tolima (43)
+- **bayern vs dortmund** → Vaupés (100), Córdoba (1), Antioquia (1), Bogotá (1), Atlántico (1)
+- **posiciones de bologna fc contra ac monza** → Meta (100), Valle del Cauca (26), Antioquia (16), Bogotá (11)
+- **city** → Magdalena (100), Chocó (81), Bolívar (78), Sucre (72), San Andrés y Providencia (69)
+- **werder bremen - hoffenheim** → Valle del Cauca (100), Atlántico (91), Bogotá (77), Antioquia (66)
+- **borussia mönchengladbach** → Cauca (100), Huila (93), Atlántico (71), Bolívar (70), Valle del Cauca (68)
 
 ### 🛒 Oportunidades de dropshipping
 
