@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-01",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "juan atkins",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Antioquia": 100,
+            "Bogotá": 49
+          },
+          "news_titles": [
+            "Juan Atkins, Co-Founder of Techno Music, Dies at 64",
+            "Photos: Juan Atkins, Detroit techno music trailblazer, dies at 64",
+            "Juan Atkins, Detroit techno music trailblazer, dies at 64"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "trey nyoni",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100
+          },
+          "news_titles": [
+            "Liverpool vs. Arsenal: Andoni Iraola explains Trey Nyoni start against Premier League champions",
+            "Liverpool's Carabao Cup win over Chelsea confirmed one big change has happened within Andoni Iraola's squad",
+            "Liverpool star may never recover from Andoni Iraola call, reckons Jamie Carragher"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "kylian mbappé",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Chocó": 96,
+            "Bolívar": 91,
+            "Sucre": 90,
+            "Córdoba": 80
+          },
+          "news_titles": [
+            "VIDEO: ¡Con polémica! Mbappé marcó de penal el 1-0 de Real Madrid ante Racing",
+            "¿Por qué escaló tanto la alusión de Kylian Mbappé a Mao Zedong en China, al punto de causar vetos de la televisión estatal y marcas? Análisis",
+            "Mbappé dictador"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "lecce - genoa",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Risaralda": 100,
+            "Atlántico": 41,
+            "Cundinamarca": 21,
+            "Valle del Cauca": 20,
+            "Bogotá": 20
+          },
+          "news_titles": [
+            "US Lecce - Genoa LIVE. Serie A latest updates",
+            "(DIRETTA TV) Genoa CFC VS Lecce in diretta streaming",
+            "Lecce-Genoa 0-2 LIVE: Messias doubles the lead, goal-line technology confirms the goal"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "yan diomande",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Magdalena": 87,
+            "Bolívar": 78,
+            "Atlántico": 72,
+            "Cesar": 56
+          },
+          "news_titles": [
+            "Vinicius Junior isn't the only player suffering from Yan Diomande's success",
+            "Real Madrid summer signing makes emotional admission: 'I dreamed of this since I was a child'",
+            "Video: Diomande performs \"devilish tricks\" with Real Madrid"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "arsenal vs",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Antioquia": 97,
+            "Córdoba": 90,
+            "Bolívar": 88,
+            "Putumayo": 87
+          },
+          "news_titles": [
+            "Why Is Bukayo Saka Not Playing Today for Arsenal vs. Liverpool?",
+            "Bukayo Saka is the biggest victim of Arsenal's transfer failures",
+            "Bukayo Saka played more games than Lionel Messi by 22, and Arsenal are paying for it"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "river",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Valle del Cauca": 80,
+            "Magdalena": 77,
+            "Sucre": 69,
+            "Córdoba": 68
+          },
+          "news_titles": [
+            "The landscape that has a river that disappears for decades, which returns without warning and hippos that fight lions",
+            "Massive cross-country storm targets Southwest before unleashing dangerous weather across 35 states",
+            "El Niño to pellet down 'hailstones the size of golf balls' in horror warning"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "elche c. f. - valencia c. f.",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Putumayo": 100,
+            "Risaralda": 29,
+            "Magdalena": 22,
+            "Cesar": 21,
+            "Bolívar": 17
+          },
+          "news_titles": [
+            "Anselmi: \"Aguirre sabe manejar estos momentos y liderarlos\"",
+            "Dónde ver el Elche-Valencia en directo hoy: ¿quién retransmite el partido por televisión y en streaming?",
+            "EN VIVO | Elche de Lucas Cepeda vs. Valencia por La Liga"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "frankfurt - hamburg",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "„Komplett verpfiffen“: HSV-Fans wüten über Eintrachts Schiri-Glück",
+            "Liveticker | Eintracht Frankfurt - Hamburger SV : | 8. Spieltag | Bundesliga 2026/27",
+            "!$√[TV/Übertragung!]@! HSV spiel Heute IM Internet 1. November 2026 Bundesliga"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "festivos de noviembre 2026",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Conoce medidas y plan retorno a Bogotá por la autopista Sur y vía la Mesa: este domingo 1 y lunes 2 de noviembre",
+            "¿Cómo funcionan las restricciones de movilidad en Bogotá este festivo? Pico y placa regional y horarios para ingresar a la ciudad este 2 de noviembre",
+            "Estas son las restricción para vehículos de carga en la vía Bucaramanga-Cúcuta durante el festivo"
+          ]
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}
