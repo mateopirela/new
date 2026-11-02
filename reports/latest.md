@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-11-01
+# 📊 Informe de tendencias y dropshipping — 2026-11-02
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,33 +10,61 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | juan atkins | 100+ | Otros | 🔴 30 |
-| 2 | trey nyoni | 100+ | Deporte / evento | 🔴 40 |
-| 3 | kylian mbappé | 1000+ | Otros | 🔴 30 |
-| 4 | lecce - genoa | 200+ | Entretenimiento / farándula | 🔴 45 |
-| 5 | yan diomande | 100+ | Otros | 🔴 30 |
-| 6 | arsenal vs | 500+ | Deporte / evento | 🔴 40 |
-| 7 | river | 200+ | Deporte / evento | 🔴 40 |
-| 8 | elche c. f. - valencia c. f. | 1000+ | Deporte / evento | 🔴 40 |
-| 9 | frankfurt - hamburg | 500+ | Otros | 🔴 30 |
-| 10 | festivos de noviembre 2026 | 200+ | Otros | 🔴 30 |
+| 1 | posiciones de al ittihad contra al ain | 1000+ | Deporte / evento | 🔴 35 |
+| 2 | sam altman | 200+ | Tecnología y gadgets | 🟢 85 |
+| 3 | osasuna vs | 100+ | Deporte / evento | 🔴 40 |
+| 4 | tormenta | 500+ | Moda y accesorios | 🟢 78 |
+| 5 | victoria federica de marichalar y borbón | 200+ | Otros | 🔴 30 |
+| 6 | ciberataque supermercados | 100+ | Otros | 🔴 30 |
+| 7 | r.c.d. mallorca - cádiz | 100+ | Deporte / evento | 🔴 35 |
+| 8 | deportivo la coruña | 100+ | Deporte / evento | 🔴 40 |
+| 9 | jesus de miguel | 100+ | Deporte / evento | 🔴 35 |
+| 10 | águilas doradas - fortaleza | 10000+ | Deporte / evento | 🔴 40 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **juan atkins** → Antioquia (100), Bogotá (49)
-- **trey nyoni** → Bogotá (100)
-- **kylian mbappé** → La Guajira (100), Chocó (96), Bolívar (91), Sucre (90), Córdoba (80)
-- **lecce - genoa** → Risaralda (100), Atlántico (41), Cundinamarca (21), Valle del Cauca (20), Bogotá (20)
-- **yan diomande** → Sucre (100), Magdalena (87), Bolívar (78), Atlántico (72), Cesar (56)
-- **arsenal vs** → Atlántico (100), Antioquia (97), Córdoba (90), Bolívar (88), Putumayo (87)
-- **river** → Atlántico (100), Valle del Cauca (80), Magdalena (77), Sucre (69), Córdoba (68)
-- **elche c. f. - valencia c. f.** → Putumayo (100), Risaralda (29), Magdalena (22), Cesar (21), Bolívar (17)
+- **posiciones de al ittihad contra al ain** → Valle del Cauca (100), Antioquia (98), Bogotá (55)
+- **sam altman** → Risaralda (100), Bogotá (85), Antioquia (77), Cundinamarca (73), Atlántico (70)
+- **victoria federica de marichalar y borbón** → Valle del Cauca (100), Atlántico (86), Bogotá (84), Antioquia (66)
 
 ### 🛒 Oportunidades de dropshipping
 
-_Hoy las tendencias son mayormente noticias/eventos con baja intención de compra directa. Poco encaje para producto físico._
+#### 🟢 sam altman  ·  _Tecnología y gadgets_  ·  potencial 85/100
+
+Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~200+).
+
+**Productos sugeridos:**
+- Audífonos inalámbricos / TWS
+- Smartwatch económico
+- Cargadores y power banks
+- Soportes y accesorios para celular
+- Mini proyectores y parlantes bluetooth
+
+_Búsquedas relacionadas:_ sam altman ram, inteligencia artificial, openai, anthropic
+
+#### 🟢 tormenta  ·  _Moda y accesorios_  ·  potencial 78/100
+
+Categoría 'Moda y accesorios' con buena traducción a producto físico y demanda visible (tráfico ~500+).
+
+**Productos sugeridos:**
+- Gafas de sol de moda
+- Bisutería y accesorios
+- Bolsos y riñoneras de tendencia
+- Relojes de moda económicos
+- Prendas virales de temporada
+
+<details><summary>⚠️ Avisos técnicos no fatales</summary>
+
+- geo/related 'osasuna vs': The request failed: Google returned a response with code 429
+- geo/related 'tormenta': The request failed: Google returned a response with code 429
+- geo/related 'victoria federica de marichalar y borbón': The request failed: Google returned a response with code 429
+- geo/related 'ciberataque supermercados': The request failed: Google returned a response with code 429
+- geo/related 'r.c.d. mallorca - cádiz': The request failed: Google returned a response with code 429
+- geo/related 'deportivo la coruña': The request failed: Google returned a response with code 429
+
+</details>
 
 ---
 

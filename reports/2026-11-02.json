@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-02",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "posiciones de al ittihad contra al ain",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Valle del Cauca": 100,
+            "Antioquia": 98,
+            "Bogotá": 55
+          },
+          "news_titles": [
+            "Rahimi against En-Nesyri: Moroccan magic tops the line-up of Al-Ittihad and Al-Ain",
+            "Al Ain thrash Al Ittihad 4-1 to stay top of AFC Champions League Elite",
+            "Today's matches (Monday) and broadcast channels: A fiery encounter between Al Ain and Al Ittihad Saudi"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "sam altman",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "tech",
+          "category_label": "Tecnología y gadgets",
+          "score": 85,
+          "is_opportunity": true,
+          "geo_breakdown": {
+            "Risaralda": 100,
+            "Bogotá": 85,
+            "Antioquia": 77,
+            "Cundinamarca": 73,
+            "Atlántico": 70
+          },
+          "news_titles": [
+            "Sam Altman wants all the world's RAM to himself, and the memes are hilarious",
+            "OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization",
+            "Sam Altman Suggests Running AI Locally Is a Waste of Memory"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "osasuna vs",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "How to get Osasuna vs Malaga tickets: LaLiga prices, fixture information, last-minute sales & more",
+            "How to get Osasuna vs Athletic Bilbao tickets: LaLiga prices, fixture information, last-minute sales & more",
+            "Osasuna vs Athletic Bilbao Prediction and Tips - 8 November 2026"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "tormenta",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "fashion",
+          "category_label": "Moda y accesorios",
+          "score": 78,
+          "is_opportunity": true,
+          "geo_breakdown": {},
+          "news_titles": [
+            "“Ese canal no abastece”: la noche en que familias de Las Orquídeas perdieron muebles, ropa y negocios por las lluvias",
+            "Guayaquil: habilitan albergues para familias afectadas por las inundaciones tras fuertes lluvias",
+            "Un rayo casi cuatro veces más intenso de lo habitual cae cerca de Las Orquídeas"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "victoria federica de marichalar y borbón",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Valle del Cauca": 100,
+            "Atlántico": 86,
+            "Bogotá": 84,
+            "Antioquia": 66
+          },
+          "news_titles": [
+            "El viaje de Victoria Federica a Perú que está dando mucho que hablar: arropa a Roca Rey tras su ruptura con Tana Rivera",
+            "La complicidad de Roca Rey y una reportera (beso incluido) que da que hablar en su paso por Perú",
+            "Tana Rivera no, Vickyfede sí: Roca Rey se lleva a su amiga a Perú"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "ciberataque supermercados",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Nuevo ciberataque a neveras en Europa: supermercados afectados en Bélgica y Suecia",
+            "Así fue el ciberataque que permitió a piratas informáticos controlar los sistemas de frío de supermercados europeos",
+            "Ciberataque a supermercados en Europa: se eleva a seis el número de países afectados"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "r.c.d. mallorca - cádiz",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Fuentes y García Pascual, reto contra la estadística",
+            "El Mallorca - Cádiz, en directo: ¡gol anulado a Borja!",
+            "40 años de sequía (Previa)"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "deportivo la coruña",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "How to get Deportivo Alaves vs Deportivo de A Coruna tickets: LaLiga prices, fixture information, last-minute sales & more"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "jesus de miguel",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Preocupación en España por delantero que sufrió paro cardíaco",
+            "Conmoción en España: jugador de Tenerife sufrió paro cardiaco tras fuerte entrada; ya hay primer parte",
+            "Jugador del Tenerife sufrió un paro cardiorrespiratorio tras fuerte choque en pleno partido en España"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "águilas doradas - fortaleza",
+          "approx_traffic": "10000+",
+          "traffic_value": 10000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Águilas - Fortaleza en vivo online: Liga BetPlay, en directo",
+            "Local se juega partido clave: Águilas Doradas vs Fortaleza 0-0 EN VIVO",
+            "Sigue en directo hoy el Águilas Doradas vs. Fortaleza FC: ¿Quién retransmite el partido por televisión y en streaming?"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "term": "sam altman",
+          "category_key": "tech",
+          "category_label": "Tecnología y gadgets",
+          "score": 85,
+          "approx_traffic": "200+",
+          "rationale": "Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~200+).",
+          "product_ideas": [
+            "Audífonos inalámbricos / TWS",
+            "Smartwatch económico",
+            "Cargadores y power banks",
+            "Soportes y accesorios para celular",
+            "Mini proyectores y parlantes bluetooth"
+          ],
+          "related_queries": [
+            "sam altman ram",
+            "inteligencia artificial",
+            "openai",
+            "anthropic"
+          ],
+          "geo_breakdown": {
+            "Risaralda": 100,
+            "Bogotá": 85,
+            "Antioquia": 77,
+            "Cundinamarca": 73,
+            "Atlántico": 70
+          }
+        },
+        {
+          "term": "tormenta",
+          "category_key": "fashion",
+          "category_label": "Moda y accesorios",
+          "score": 78,
+          "approx_traffic": "500+",
+          "rationale": "Categoría 'Moda y accesorios' con buena traducción a producto físico y demanda visible (tráfico ~500+).",
+          "product_ideas": [
+            "Gafas de sol de moda",
+            "Bisutería y accesorios",
+            "Bolsos y riñoneras de tendencia",
+            "Relojes de moda económicos",
+            "Prendas virales de temporada"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {}
+        }
+      ]
+    }
+  ]
+}
