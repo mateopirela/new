@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-03",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "kfc cierra",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Antioquia": 56
+          },
+          "news_titles": [
+            "KFC cierra todos sus restaurantes en este país y deja en incertidumbre a sus clientes: ¿qué pasó?",
+            "KFC y Taco Bell cierran todos sus restaurantes en esta isla del Caribe: esta es la razón del adiós",
+            "KFC anuncia el cierre de sus restaurantes en Puerto Rico: qué pasará con sus establecimientos y cuándo podrían reabrir"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "ben shelton",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Putumayo": 100,
+            "Caldas": 34,
+            "Atlántico": 30,
+            "Risaralda": 28,
+            "Bogotá": 28
+          },
+          "news_titles": [
+            "Juan Carlos Ferrero: Ben Shelton appoints Carlos Alcaraz's former coach - will it work?",
+            "'Which one in the holster can we use to go after the guy who fired me': Method behind madness as Roddick lauds Juan Carlos Ferrero - Ben Shelton link-up",
+            "Watch: Shelton previews Ferrero partnership"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "sporting vs",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Arauca": 100,
+            "Sucre": 98,
+            "Córdoba": 93,
+            "Nariño": 79,
+            "Magdalena": 78
+          },
+          "news_titles": [
+            "Alibaba Group Holding vs. Dick's Sporting Goods: Revenue Trends Between Online and Brick-and-Mortar Giants",
+            "Alibaba Group Holding vs. Dick's Sporting Goods: Revenue Trends Between Online and Brick-and-Mortar Giants"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "donald trump",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Meta": 100,
+            "Tolima": 87,
+            "Risaralda": 87,
+            "Córdoba": 86,
+            "Casanare": 85
+          },
+          "news_titles": [
+            "Trump says US will stop providing aid to Israel after year-end",
+            "Trump claims US will end military aid to Israel by end of this year",
+            "Trump says US is cutting off aid to Israel at year’s end because ‘they don’t need it’"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "galatasaray vs. stuttgart",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Meta": 100,
+            "Atlántico": 68,
+            "Santander": 54,
+            "Cundinamarca": 53,
+            "Antioquia": 42
+          },
+          "news_titles": [
+            "Ex-Premier League duo at centre of huge brawl in Galatasaray vs Stuttgart Champions League clash",
+            "A fight between Barış Alper Yılmaz and Deniz Undav",
+            "Licensable picture: Ukraine President Volodymyr Zelenskyy Visits German Chancellor Friedrich Merz"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "sporting lisboa",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Guainía": 100,
+            "Sucre": 99,
+            "Magdalena": 98,
+            "Bolívar": 93,
+            "La Guajira": 91
+          },
+          "news_titles": [
+            "A nova equipa técnica do Sporting: definidos todos os adjuntos que Paulo Fonseca leva para Alvalade",
+            "Marco Silva sobre Rui: «É muito inteligente»",
+            "Paulo Fonseca: Lyon é o quarto adeus complicado da carreira"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "shakhtar",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Bolívar": 94,
+            "Sucre": 91,
+            "Magdalena": 82,
+            "Córdoba": 82
+          },
+          "news_titles": [
+            "Source: Sporting agree buyout with Lyon for Fonseca to replace Borges",
+            "Why does Thiago Motta seem unlikely to succeed Paulo Fonseca as Lyon manager?",
+            "Lyon manager Paulo Fonseca informs squad of impending departure; Jorge Maciel to take up interim duties"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "al hilal - shabab al-ahli",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Santander": 52,
+            "Valle del Cauca": 48,
+            "Antioquia": 39,
+            "Cundinamarca": 37
+          },
+          "news_titles": [
+            "Inzaghi defies everyone: Al-Hilal repeat the Al-Shamal tragedy against Shabab Al-Ahli",
+            "The Asian Football Confederation threatens sanctions against Shabab Al-Ahli due to their match against Al-Hilal of Saudi Arabia",
+            "Al Hilal vs Shabab Al Ahli Dubai: match statistics and data"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "hugo rodallega",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Programación de las Semifinales Ida de la Copa BetPlay DIMAYOR 2026",
+            "Hugo Rodallega asume la responsabilidad tras la eliminación de Santa Fe en la Copa BetPlay: 'Es una vergüenza'",
+            "Once Caldas ya tiene fechas para los partidos con Atlético Nacional por la Copa, cuatro juegos en 20 días"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "galatasaray vs",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Cuándo juegan Galatasaray vs. Stuttgart por la UEFA Champions League 2026/27: equipo, fecha, hora y TV en vivo",
+            "🔴EN VIVO Galatasaray vs. Stuttgart: siga el minuto a minuto del partido por Champions League",
+            "Vea la asistencia de Dávinson Sánchez con Galatasaray vs. Stuttgart por la Champions League"
+          ]
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}

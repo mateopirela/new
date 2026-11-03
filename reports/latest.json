@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "regions": [
     {
       "code": "CO",
@@ -8,225 +8,210 @@
       "trends": [
         {
           "rank": 1,
-          "term": "posiciones de al ittihad contra al ain",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
+          "term": "kfc cierra",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Valle del Cauca": 100,
-            "Antioquia": 98,
-            "Bogotá": 55
+            "Bogotá": 100,
+            "Antioquia": 56
           },
           "news_titles": [
-            "Rahimi against En-Nesyri: Moroccan magic tops the line-up of Al-Ittihad and Al-Ain",
-            "Al Ain thrash Al Ittihad 4-1 to stay top of AFC Champions League Elite",
-            "Today's matches (Monday) and broadcast channels: A fiery encounter between Al Ain and Al Ittihad Saudi"
+            "KFC cierra todos sus restaurantes en este país y deja en incertidumbre a sus clientes: ¿qué pasó?",
+            "KFC y Taco Bell cierran todos sus restaurantes en esta isla del Caribe: esta es la razón del adiós",
+            "KFC anuncia el cierre de sus restaurantes en Puerto Rico: qué pasará con sus establecimientos y cuándo podrían reabrir"
           ]
         },
         {
           "rank": 2,
-          "term": "sam altman",
+          "term": "ben shelton",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "tech",
-          "category_label": "Tecnología y gadgets",
-          "score": 85,
-          "is_opportunity": true,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
           "geo_breakdown": {
-            "Risaralda": 100,
-            "Bogotá": 85,
-            "Antioquia": 77,
-            "Cundinamarca": 73,
-            "Atlántico": 70
+            "Putumayo": 100,
+            "Caldas": 34,
+            "Atlántico": 30,
+            "Risaralda": 28,
+            "Bogotá": 28
           },
           "news_titles": [
-            "Sam Altman wants all the world's RAM to himself, and the memes are hilarious",
-            "OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization",
-            "Sam Altman Suggests Running AI Locally Is a Waste of Memory"
+            "Juan Carlos Ferrero: Ben Shelton appoints Carlos Alcaraz's former coach - will it work?",
+            "'Which one in the holster can we use to go after the guy who fired me': Method behind madness as Roddick lauds Juan Carlos Ferrero - Ben Shelton link-up",
+            "Watch: Shelton previews Ferrero partnership"
           ]
         },
         {
           "rank": 3,
-          "term": "osasuna vs",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
+          "term": "sporting vs",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Arauca": 100,
+            "Sucre": 98,
+            "Córdoba": 93,
+            "Nariño": 79,
+            "Magdalena": 78
+          },
           "news_titles": [
-            "How to get Osasuna vs Malaga tickets: LaLiga prices, fixture information, last-minute sales & more",
-            "How to get Osasuna vs Athletic Bilbao tickets: LaLiga prices, fixture information, last-minute sales & more",
-            "Osasuna vs Athletic Bilbao Prediction and Tips - 8 November 2026"
+            "Alibaba Group Holding vs. Dick's Sporting Goods: Revenue Trends Between Online and Brick-and-Mortar Giants",
+            "Alibaba Group Holding vs. Dick's Sporting Goods: Revenue Trends Between Online and Brick-and-Mortar Giants"
           ]
         },
         {
           "rank": 4,
-          "term": "tormenta",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "fashion",
-          "category_label": "Moda y accesorios",
-          "score": 78,
-          "is_opportunity": true,
-          "geo_breakdown": {},
+          "term": "donald trump",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Meta": 100,
+            "Tolima": 87,
+            "Risaralda": 87,
+            "Córdoba": 86,
+            "Casanare": 85
+          },
           "news_titles": [
-            "“Ese canal no abastece”: la noche en que familias de Las Orquídeas perdieron muebles, ropa y negocios por las lluvias",
-            "Guayaquil: habilitan albergues para familias afectadas por las inundaciones tras fuertes lluvias",
-            "Un rayo casi cuatro veces más intenso de lo habitual cae cerca de Las Orquídeas"
+            "Trump says US will stop providing aid to Israel after year-end",
+            "Trump claims US will end military aid to Israel by end of this year",
+            "Trump says US is cutting off aid to Israel at year’s end because ‘they don’t need it’"
           ]
         },
         {
           "rank": 5,
-          "term": "victoria federica de marichalar y borbón",
+          "term": "galatasaray vs. stuttgart",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Valle del Cauca": 100,
-            "Atlántico": 86,
-            "Bogotá": 84,
-            "Antioquia": 66
+            "Meta": 100,
+            "Atlántico": 68,
+            "Santander": 54,
+            "Cundinamarca": 53,
+            "Antioquia": 42
           },
           "news_titles": [
-            "El viaje de Victoria Federica a Perú que está dando mucho que hablar: arropa a Roca Rey tras su ruptura con Tana Rivera",
-            "La complicidad de Roca Rey y una reportera (beso incluido) que da que hablar en su paso por Perú",
-            "Tana Rivera no, Vickyfede sí: Roca Rey se lleva a su amiga a Perú"
+            "Ex-Premier League duo at centre of huge brawl in Galatasaray vs Stuttgart Champions League clash",
+            "A fight between Barış Alper Yılmaz and Deniz Undav",
+            "Licensable picture: Ukraine President Volodymyr Zelenskyy Visits German Chancellor Friedrich Merz"
           ]
         },
         {
           "rank": 6,
-          "term": "ciberataque supermercados",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "sporting lisboa",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Guainía": 100,
+            "Sucre": 99,
+            "Magdalena": 98,
+            "Bolívar": 93,
+            "La Guajira": 91
+          },
           "news_titles": [
-            "Nuevo ciberataque a neveras en Europa: supermercados afectados en Bélgica y Suecia",
-            "Así fue el ciberataque que permitió a piratas informáticos controlar los sistemas de frío de supermercados europeos",
-            "Ciberataque a supermercados en Europa: se eleva a seis el número de países afectados"
+            "A nova equipa técnica do Sporting: definidos todos os adjuntos que Paulo Fonseca leva para Alvalade",
+            "Marco Silva sobre Rui: «É muito inteligente»",
+            "Paulo Fonseca: Lyon é o quarto adeus complicado da carreira"
           ]
         },
         {
           "rank": 7,
-          "term": "r.c.d. mallorca - cádiz",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
+          "term": "shakhtar",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 35,
+          "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Bolívar": 94,
+            "Sucre": 91,
+            "Magdalena": 82,
+            "Córdoba": 82
+          },
           "news_titles": [
-            "Fuentes y García Pascual, reto contra la estadística",
-            "El Mallorca - Cádiz, en directo: ¡gol anulado a Borja!",
-            "40 años de sequía (Previa)"
+            "Source: Sporting agree buyout with Lyon for Fonseca to replace Borges",
+            "Why does Thiago Motta seem unlikely to succeed Paulo Fonseca as Lyon manager?",
+            "Lyon manager Paulo Fonseca informs squad of impending departure; Jorge Maciel to take up interim duties"
           ]
         },
         {
           "rank": 8,
-          "term": "deportivo la coruña",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
+          "term": "al hilal - shabab al-ahli",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Santander": 52,
+            "Valle del Cauca": 48,
+            "Antioquia": 39,
+            "Cundinamarca": 37
+          },
           "news_titles": [
-            "How to get Deportivo Alaves vs Deportivo de A Coruna tickets: LaLiga prices, fixture information, last-minute sales & more"
+            "Inzaghi defies everyone: Al-Hilal repeat the Al-Shamal tragedy against Shabab Al-Ahli",
+            "The Asian Football Confederation threatens sanctions against Shabab Al-Ahli due to their match against Al-Hilal of Saudi Arabia",
+            "Al Hilal vs Shabab Al Ahli Dubai: match statistics and data"
           ]
         },
         {
           "rank": 9,
-          "term": "jesus de miguel",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
+          "term": "hugo rodallega",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 35,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Preocupación en España por delantero que sufrió paro cardíaco",
-            "Conmoción en España: jugador de Tenerife sufrió paro cardiaco tras fuerte entrada; ya hay primer parte",
-            "Jugador del Tenerife sufrió un paro cardiorrespiratorio tras fuerte choque en pleno partido en España"
+            "Programación de las Semifinales Ida de la Copa BetPlay DIMAYOR 2026",
+            "Hugo Rodallega asume la responsabilidad tras la eliminación de Santa Fe en la Copa BetPlay: 'Es una vergüenza'",
+            "Once Caldas ya tiene fechas para los partidos con Atlético Nacional por la Copa, cuatro juegos en 20 días"
           ]
         },
         {
           "rank": 10,
-          "term": "águilas doradas - fortaleza",
-          "approx_traffic": "10000+",
-          "traffic_value": 10000,
+          "term": "galatasaray vs",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Águilas - Fortaleza en vivo online: Liga BetPlay, en directo",
-            "Local se juega partido clave: Águilas Doradas vs Fortaleza 0-0 EN VIVO",
-            "Sigue en directo hoy el Águilas Doradas vs. Fortaleza FC: ¿Quién retransmite el partido por televisión y en streaming?"
+            "Cuándo juegan Galatasaray vs. Stuttgart por la UEFA Champions League 2026/27: equipo, fecha, hora y TV en vivo",
+            "🔴EN VIVO Galatasaray vs. Stuttgart: siga el minuto a minuto del partido por Champions League",
+            "Vea la asistencia de Dávinson Sánchez con Galatasaray vs. Stuttgart por la Champions League"
           ]
         }
       ],
-      "opportunities": [
-        {
-          "term": "sam altman",
-          "category_key": "tech",
-          "category_label": "Tecnología y gadgets",
-          "score": 85,
-          "approx_traffic": "200+",
-          "rationale": "Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~200+).",
-          "product_ideas": [
-            "Audífonos inalámbricos / TWS",
-            "Smartwatch económico",
-            "Cargadores y power banks",
-            "Soportes y accesorios para celular",
-            "Mini proyectores y parlantes bluetooth"
-          ],
-          "related_queries": [
-            "sam altman ram",
-            "inteligencia artificial",
-            "openai",
-            "anthropic"
-          ],
-          "geo_breakdown": {
-            "Risaralda": 100,
-            "Bogotá": 85,
-            "Antioquia": 77,
-            "Cundinamarca": 73,
-            "Atlántico": 70
-          }
-        },
-        {
-          "term": "tormenta",
-          "category_key": "fashion",
-          "category_label": "Moda y accesorios",
-          "score": 78,
-          "approx_traffic": "500+",
-          "rationale": "Categoría 'Moda y accesorios' con buena traducción a producto físico y demanda visible (tráfico ~500+).",
-          "product_ideas": [
-            "Gafas de sol de moda",
-            "Bisutería y accesorios",
-            "Bolsos y riñoneras de tendencia",
-            "Relojes de moda económicos",
-            "Prendas virales de temporada"
-          ],
-          "related_queries": [],
-          "geo_breakdown": {}
-        }
-      ]
+      "opportunities": []
     }
   ]
 }

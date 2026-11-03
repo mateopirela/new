@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-11-02
+# 📊 Informe de tendencias y dropshipping — 2026-11-03
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,61 +10,33 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | posiciones de al ittihad contra al ain | 1000+ | Deporte / evento | 🔴 35 |
-| 2 | sam altman | 200+ | Tecnología y gadgets | 🟢 85 |
-| 3 | osasuna vs | 100+ | Deporte / evento | 🔴 40 |
-| 4 | tormenta | 500+ | Moda y accesorios | 🟢 78 |
-| 5 | victoria federica de marichalar y borbón | 200+ | Otros | 🔴 30 |
-| 6 | ciberataque supermercados | 100+ | Otros | 🔴 30 |
-| 7 | r.c.d. mallorca - cádiz | 100+ | Deporte / evento | 🔴 35 |
-| 8 | deportivo la coruña | 100+ | Deporte / evento | 🔴 40 |
-| 9 | jesus de miguel | 100+ | Deporte / evento | 🔴 35 |
-| 10 | águilas doradas - fortaleza | 10000+ | Deporte / evento | 🔴 40 |
+| 1 | kfc cierra | 200+ | Otros | 🔴 30 |
+| 2 | ben shelton | 200+ | Deporte / evento | 🔴 40 |
+| 3 | sporting vs | 200+ | Deporte / evento | 🔴 40 |
+| 4 | donald trump | 100+ | Noticias / actualidad | 🔴 10 |
+| 5 | galatasaray vs. stuttgart | 200+ | Deporte / evento | 🔴 40 |
+| 6 | sporting lisboa | 1000+ | Deporte / evento | 🔴 40 |
+| 7 | shakhtar | 200+ | Deporte / evento | 🔴 40 |
+| 8 | al hilal - shabab al-ahli | 1000+ | Deporte / evento | 🔴 40 |
+| 9 | hugo rodallega | 2000+ | Deporte / evento | 🔴 35 |
+| 10 | galatasaray vs | 1000+ | Deporte / evento | 🔴 40 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **posiciones de al ittihad contra al ain** → Valle del Cauca (100), Antioquia (98), Bogotá (55)
-- **sam altman** → Risaralda (100), Bogotá (85), Antioquia (77), Cundinamarca (73), Atlántico (70)
-- **victoria federica de marichalar y borbón** → Valle del Cauca (100), Atlántico (86), Bogotá (84), Antioquia (66)
+- **kfc cierra** → Bogotá (100), Antioquia (56)
+- **ben shelton** → Putumayo (100), Caldas (34), Atlántico (30), Risaralda (28), Bogotá (28)
+- **sporting vs** → Arauca (100), Sucre (98), Córdoba (93), Nariño (79), Magdalena (78)
+- **donald trump** → Meta (100), Tolima (87), Risaralda (87), Córdoba (86), Casanare (85)
+- **galatasaray vs. stuttgart** → Meta (100), Atlántico (68), Santander (54), Cundinamarca (53), Antioquia (42)
+- **sporting lisboa** → Guainía (100), Sucre (99), Magdalena (98), Bolívar (93), La Guajira (91)
+- **shakhtar** → La Guajira (100), Bolívar (94), Sucre (91), Magdalena (82), Córdoba (82)
+- **al hilal - shabab al-ahli** → Bolívar (100), Santander (52), Valle del Cauca (48), Antioquia (39), Cundinamarca (37)
 
 ### 🛒 Oportunidades de dropshipping
 
-#### 🟢 sam altman  ·  _Tecnología y gadgets_  ·  potencial 85/100
-
-Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~200+).
-
-**Productos sugeridos:**
-- Audífonos inalámbricos / TWS
-- Smartwatch económico
-- Cargadores y power banks
-- Soportes y accesorios para celular
-- Mini proyectores y parlantes bluetooth
-
-_Búsquedas relacionadas:_ sam altman ram, inteligencia artificial, openai, anthropic
-
-#### 🟢 tormenta  ·  _Moda y accesorios_  ·  potencial 78/100
-
-Categoría 'Moda y accesorios' con buena traducción a producto físico y demanda visible (tráfico ~500+).
-
-**Productos sugeridos:**
-- Gafas de sol de moda
-- Bisutería y accesorios
-- Bolsos y riñoneras de tendencia
-- Relojes de moda económicos
-- Prendas virales de temporada
-
-<details><summary>⚠️ Avisos técnicos no fatales</summary>
-
-- geo/related 'osasuna vs': The request failed: Google returned a response with code 429
-- geo/related 'tormenta': The request failed: Google returned a response with code 429
-- geo/related 'victoria federica de marichalar y borbón': The request failed: Google returned a response with code 429
-- geo/related 'ciberataque supermercados': The request failed: Google returned a response with code 429
-- geo/related 'r.c.d. mallorca - cádiz': The request failed: Google returned a response with code 429
-- geo/related 'deportivo la coruña': The request failed: Google returned a response with code 429
-
-</details>
+_Hoy las tendencias son mayormente noticias/eventos con baja intención de compra directa. Poco encaje para producto físico._
 
 ---
 
