@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "regions": [
     {
       "code": "CO",
@@ -8,210 +8,184 @@
       "trends": [
         {
           "rank": 1,
-          "term": "kfc cierra",
+          "term": "lens - como",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Lens vs Como: UEFA Champions League stats & head-to-head",
+            "How to watch Como vs. Lens Champions League soccer today: Start time, streaming, match preview",
+            "Black gold, blood and gold: the Lens side facing Como are not a team like any other"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "rb leipzig - manchester city",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Cuándo juegan RB Leipzig vs. Manchester City por Champions: equipo, fecha, hora y TV en vivo",
+            "Demichelis y Su partido de champions contra el Manchester ci",
+            "RB Leipzig vs. Manchester City: Duelo de Champions League con realidades opuestas"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "dortmund - real betis",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Preview: Borussia Dortmund vs Real Betis - prediction, team news, lineups",
+            "Kobel: “We’re feeling good and are ready to perform.”",
+            "☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ Real Betis v Dortmund Free Today"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "slavia praga - arsenal",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Cuándo juegan Slavia Praga vs. Arsenal por la Champions League: equipo, fecha, hora y TV en vivo",
+            "Así va el arsenal en la Champions hasta el momento",
+            "Pronóstico Slavia Prague vs Arsenal: Más de 2.5 goles en Champions League"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "flashscore",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Hockey’s Russia crisis deepens as major sponsors threaten to pull out of 2027 men’s World Championship",
+            "Opinion: Canada And Other Nations Deserve Credit For Drawing A Line On Russian IIHF Participation",
+            "Sweden, Norway, more join in hockey worlds boycott pledge over Russia"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "liverpool hoy",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "¡EN VIVO! Liverpool visita a Fenerbahçe en busca de mantener su puntaje perfecto en la Champions League",
+            "¿Por dónde ver el fenerbache vs Liverpool?",
+            "Fenerbahçe vs Liverpool: Choque inédito en Champions League por la Fecha 4"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "carlos antonio vélez",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Junior habría descartado a Gustavo Costas: tendría listo a su nuevo DT",
+            "Arturo Reyes en el sonajero del Junior: ¿funcionaría una nueva etapa?",
+            "El importante club del continente que quiere a Gustavo Costas"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "carlos alcaraz",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "fashion",
+          "category_label": "Moda y accesorios",
+          "score": 83,
+          "is_opportunity": true,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Michelsen vs Alcaraz hoy, en directo: Masters 1000 de París, tenis en vivo",
+            "Alcaraz - Michelsen en directo | Última hora de Paris Masters 1000 en vivo hoy",
+            "ATP Masters 1000 de París: orden de juego, partidos de hoy, horarios y dónde ver en vivo"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "zulma guzman",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Bogotá": 100,
-            "Antioquia": 56
-          },
-          "news_titles": [
-            "KFC cierra todos sus restaurantes en este país y deja en incertidumbre a sus clientes: ¿qué pasó?",
-            "KFC y Taco Bell cierran todos sus restaurantes en esta isla del Caribe: esta es la razón del adiós",
-            "KFC anuncia el cierre de sus restaurantes en Puerto Rico: qué pasará con sus establecimientos y cuándo podrían reabrir"
-          ]
-        },
-        {
-          "rank": 2,
-          "term": "ben shelton",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Putumayo": 100,
-            "Caldas": 34,
-            "Atlántico": 30,
-            "Risaralda": 28,
-            "Bogotá": 28
-          },
-          "news_titles": [
-            "Juan Carlos Ferrero: Ben Shelton appoints Carlos Alcaraz's former coach - will it work?",
-            "'Which one in the holster can we use to go after the guy who fired me': Method behind madness as Roddick lauds Juan Carlos Ferrero - Ben Shelton link-up",
-            "Watch: Shelton previews Ferrero partnership"
-          ]
-        },
-        {
-          "rank": 3,
-          "term": "sporting vs",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Arauca": 100,
-            "Sucre": 98,
-            "Córdoba": 93,
-            "Nariño": 79,
-            "Magdalena": 78
-          },
-          "news_titles": [
-            "Alibaba Group Holding vs. Dick's Sporting Goods: Revenue Trends Between Online and Brick-and-Mortar Giants",
-            "Alibaba Group Holding vs. Dick's Sporting Goods: Revenue Trends Between Online and Brick-and-Mortar Giants"
-          ]
-        },
-        {
-          "rank": 4,
-          "term": "donald trump",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Meta": 100,
-            "Tolima": 87,
-            "Risaralda": 87,
-            "Córdoba": 86,
-            "Casanare": 85
-          },
-          "news_titles": [
-            "Trump says US will stop providing aid to Israel after year-end",
-            "Trump claims US will end military aid to Israel by end of this year",
-            "Trump says US is cutting off aid to Israel at year’s end because ‘they don’t need it’"
-          ]
-        },
-        {
-          "rank": 5,
-          "term": "galatasaray vs. stuttgart",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Meta": 100,
-            "Atlántico": 68,
-            "Santander": 54,
-            "Cundinamarca": 53,
-            "Antioquia": 42
-          },
-          "news_titles": [
-            "Ex-Premier League duo at centre of huge brawl in Galatasaray vs Stuttgart Champions League clash",
-            "A fight between Barış Alper Yılmaz and Deniz Undav",
-            "Licensable picture: Ukraine President Volodymyr Zelenskyy Visits German Chancellor Friedrich Merz"
-          ]
-        },
-        {
-          "rank": 6,
-          "term": "sporting lisboa",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Guainía": 100,
-            "Sucre": 99,
-            "Magdalena": 98,
-            "Bolívar": 93,
-            "La Guajira": 91
-          },
-          "news_titles": [
-            "A nova equipa técnica do Sporting: definidos todos os adjuntos que Paulo Fonseca leva para Alvalade",
-            "Marco Silva sobre Rui: «É muito inteligente»",
-            "Paulo Fonseca: Lyon é o quarto adeus complicado da carreira"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "shakhtar",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "La Guajira": 100,
-            "Bolívar": 94,
-            "Sucre": 91,
-            "Magdalena": 82,
-            "Córdoba": 82
-          },
-          "news_titles": [
-            "Source: Sporting agree buyout with Lyon for Fonseca to replace Borges",
-            "Why does Thiago Motta seem unlikely to succeed Paulo Fonseca as Lyon manager?",
-            "Lyon manager Paulo Fonseca informs squad of impending departure; Jorge Maciel to take up interim duties"
-          ]
-        },
-        {
-          "rank": 8,
-          "term": "al hilal - shabab al-ahli",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bolívar": 100,
-            "Santander": 52,
-            "Valle del Cauca": 48,
-            "Antioquia": 39,
-            "Cundinamarca": 37
-          },
-          "news_titles": [
-            "Inzaghi defies everyone: Al-Hilal repeat the Al-Shamal tragedy against Shabab Al-Ahli",
-            "The Asian Football Confederation threatens sanctions against Shabab Al-Ahli due to their match against Al-Hilal of Saudi Arabia",
-            "Al Hilal vs Shabab Al Ahli Dubai: match statistics and data"
-          ]
-        },
-        {
-          "rank": 9,
-          "term": "hugo rodallega",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
-          "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Programación de las Semifinales Ida de la Copa BetPlay DIMAYOR 2026",
-            "Hugo Rodallega asume la responsabilidad tras la eliminación de Santa Fe en la Copa BetPlay: 'Es una vergüenza'",
-            "Once Caldas ya tiene fechas para los partidos con Atlético Nacional por la Copa, cuatro juegos en 20 días"
+            "Nuevos detalles del caso de Zulma Guzmán: habría envenenado a seis personas con talio",
+            "Suspenden audiencia de extradición de Zulma Guzmán desde Reino Unido hasta marzo de 2027",
+            "Zulma Guzmán habría envenenado con talio a seis personas y planeado nuevos ataques, según la Fiscalía | El Colombiano"
           ]
         },
         {
           "rank": 10,
-          "term": "galatasaray vs",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
+          "term": "real madrid",
+          "approx_traffic": "50000+",
+          "traffic_value": 50000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 40,
+          "score": 45,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Cuándo juegan Galatasaray vs. Stuttgart por la UEFA Champions League 2026/27: equipo, fecha, hora y TV en vivo",
-            "🔴EN VIVO Galatasaray vs. Stuttgart: siga el minuto a minuto del partido por Champions League",
-            "Vea la asistencia de Dávinson Sánchez con Galatasaray vs. Stuttgart por la Champions League"
+            "AEK Atenas - Real Madrid hoy, en directo: partido de fase liga de Champions League, última hora",
+            "Cuándo juegan AEK vs. Real Madrid por la UEFA Champions League: equipo, fecha, hora y TV en vivo",
+            "Alineaciones probables del AEK - Real Madrid"
           ]
         }
       ],
-      "opportunities": []
+      "opportunities": [
+        {
+          "term": "carlos alcaraz",
+          "category_key": "fashion",
+          "category_label": "Moda y accesorios",
+          "score": 83,
+          "approx_traffic": "1000+",
+          "rationale": "Categoría 'Moda y accesorios' con buena traducción a producto físico y demanda visible (tráfico ~1000+).",
+          "product_ideas": [
+            "Gafas de sol de moda",
+            "Bisutería y accesorios",
+            "Bolsos y riñoneras de tendencia",
+            "Relojes de moda económicos",
+            "Prendas virales de temporada"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {}
+        }
+      ]
     }
   ]
 }
