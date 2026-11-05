@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "regions": [
     {
       "code": "CO",
@@ -8,87 +8,179 @@
       "trends": [
         {
           "rank": 1,
-          "term": "lens - como",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "az - juventus",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Casanare": 100,
+            "Córdoba": 58,
+            "Atlántico": 54,
+            "Bolívar": 48,
+            "Magdalena": 41
+          },
           "news_titles": [
-            "Lens vs Como: UEFA Champions League stats & head-to-head",
-            "How to watch Como vs. Lens Champions League soccer today: Start time, streaming, match preview",
-            "Black gold, blood and gold: the Lens side facing Como are not a team like any other"
+            "LIVE Alle 21 Az Alkmaar-Juve, le ufficiali: Spalletti rilancia Cambiaso e Sarr, confermato Alajbegovic",
+            "AZ-Juve, ufficiali: Alajbegovic confermato, Muani e Woltemade insieme",
+            "Az Alkmaar-Juve, pranzo Uefa in corso: le news"
           ]
         },
         {
           "rank": 2,
-          "term": "rb leipzig - manchester city",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "aída victoria merlano",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Antioquia": 72,
+            "Valle del Cauca": 62
+          },
           "news_titles": [
-            "Cuándo juegan RB Leipzig vs. Manchester City por Champions: equipo, fecha, hora y TV en vivo",
-            "Demichelis y Su partido de champions contra el Manchester ci",
-            "RB Leipzig vs. Manchester City: Duelo de Champions League con realidades opuestas"
+            "Aida Victoria Merlano confesó que atraviesa una crisis por pleito legal con 'El Agropecuario'",
+            "Aída Victoria preocupó al publicar fotos con su hijo y dejar un mensaje inquietante: “Nunca olviden que hemos sido felices”",
+            "“Mi salud mental lo exigía”: Aída Victoria Merlano reapareció y reveló el difícil momento que atraviesa"
           ]
         },
         {
           "rank": 3,
-          "term": "dortmund - real betis",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "juan camilo merlano poveda",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Valle del Cauca": 86,
+            "Cundinamarca": 86,
+            "Santander": 52,
+            "Atlántico": 46
+          },
           "news_titles": [
-            "Preview: Borussia Dortmund vs Real Betis - prediction, team news, lineups",
-            "Kobel: “We’re feeling good and are ready to perform.”",
-            "☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ Real Betis v Dortmund Free Today"
+            "¿Quién es María Camila Roa, la nueva corresponsal de Noticias Caracol en Washington?",
+            "Periodista de Noticias Caracol deja de ser corresponsal y presentó su reemplazo",
+            "Reconocido periodista anunció que dejará de ser el corresponsal de ‘Noticias Caracol’ en Estados Unidos: “Fui inmensamente feliz”"
           ]
         },
         {
           "rank": 4,
-          "term": "slavia praga - arsenal",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
+          "term": "arthur fils",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Cundinamarca": 97,
+            "Valle del Cauca": 87,
+            "Antioquia": 43
+          },
           "news_titles": [
-            "Cuándo juegan Slavia Praga vs. Arsenal por la Champions League: equipo, fecha, hora y TV en vivo",
-            "Así va el arsenal en la Champions hasta el momento",
-            "Pronóstico Slavia Prague vs Arsenal: Más de 2.5 goles en Champions League"
+            "Arthur Fils sur sa qualification au Masters de Turin et son entrée en lice réussie au Rolex Paris Masters : « Une journée que je ne vais pas oublier »",
+            "PRONOS PARIS RMC Le pari tennis d’Éric Salliot du 5 novembre - Paris",
+            "Yannick Noah en premier supporter d'Arthur Fils lors de sa victoire au Masters 1000 de Paris"
           ]
         },
         {
           "rank": 5,
-          "term": "flashscore",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "aldosivi vs river",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Cundinamarca": 82,
+            "Bogotá": 76,
+            "Antioquia": 46
+          },
           "news_titles": [
-            "Hockey’s Russia crisis deepens as major sponsors threaten to pull out of 2027 men’s World Championship",
-            "Opinion: Canada And Other Nations Deserve Credit For Drawing A Line On Russian IIHF Participation",
-            "Sweden, Norway, more join in hockey worlds boycott pledge over Russia"
+            "El once de River para visitar a Aldosivi en Mar del Plata",
+            "Aldosivi vs River Plate: Duelo clave en Argentina Primera División",
+            "Los posibles rivales de River en los octavos de final del Torneo Clausura"
           ]
         },
         {
           "rank": 6,
-          "term": "liverpool hoy",
+          "term": "europa league",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Nariño": 100,
+            "Sucre": 98,
+            "Chocó": 95,
+            "Córdoba": 94,
+            "Bolívar": 93
+          },
+          "news_titles": [
+            "Cuándo juegan Real Sociedad vs. Lyon por la Europa League: equipo, fecha, hora y TV en vivo",
+            "Sparta Prague vs Bournemouth Lineups | UEFA Europa League · 5 Nov 2026",
+            "Czech Republic Europa League Soccer"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "fenómeno",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Córdoba": 85,
+            "Caldas": 67,
+            "Caquetá": 60,
+            "Cesar": 58
+          },
+          "news_titles": [
+            "El Ideam anunció que el pico del fenómeno de El Niño se acerca: esta es la fecha en que comenzarán a disminuir de las lluvias en el país",
+            "¿Hasta cuándo lloverá en Colombia? Max Henríquez explica qué pasará con el clima durante noviembre: 'Va a cambiar poco a poco'",
+            "Lluvias disminuyen en noviembre y se acerca el pico de ‘El Niño’"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "milan vs",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Sucre": 96,
+            "Bolívar": 91,
+            "Córdoba": 85,
+            "Cesar": 84
+          },
+          "news_titles": [
+            "¡EN VIVO! Milan recibe a Ferencváros en busca de volver al triunfo en la UEFA Europa League",
+            "Moretto: Deal done, compensation paid – Krösche will be Milan’s new Head of Football",
+            "From Germany: Krösche wants to bring Hardung with him to AC Milan"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "bournemouth",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "sports_event",
@@ -97,95 +189,29 @@
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "¡EN VIVO! Liverpool visita a Fenerbahçe en busca de mantener su puntaje perfecto en la Champions League",
-            "¿Por dónde ver el fenerbache vs Liverpool?",
-            "Fenerbahçe vs Liverpool: Choque inédito en Champions League por la Fecha 4"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "carlos antonio vélez",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Junior habría descartado a Gustavo Costas: tendría listo a su nuevo DT",
-            "Arturo Reyes en el sonajero del Junior: ¿funcionaría una nueva etapa?",
-            "El importante club del continente que quiere a Gustavo Costas"
-          ]
-        },
-        {
-          "rank": 8,
-          "term": "carlos alcaraz",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "fashion",
-          "category_label": "Moda y accesorios",
-          "score": 83,
-          "is_opportunity": true,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Michelsen vs Alcaraz hoy, en directo: Masters 1000 de París, tenis en vivo",
-            "Alcaraz - Michelsen en directo | Última hora de Paris Masters 1000 en vivo hoy",
-            "ATP Masters 1000 de París: orden de juego, partidos de hoy, horarios y dónde ver en vivo"
-          ]
-        },
-        {
-          "rank": 9,
-          "term": "zulma guzman",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Nuevos detalles del caso de Zulma Guzmán: habría envenenado a seis personas con talio",
-            "Suspenden audiencia de extradición de Zulma Guzmán desde Reino Unido hasta marzo de 2027",
-            "Zulma Guzmán habría envenenado con talio a seis personas y planeado nuevos ataques, según la Fiscalía | El Colombiano"
+            "Sparta Prague vs Bournemouth Lineups | UEFA Europa League · 5 Nov 2026",
+            "Czech Republic Europa League Soccer",
+            "Sparta Prague v Bournemouth Goalscorer Betting Markets: Evanilson, Rayan, Justin Kluivert"
           ]
         },
         {
           "rank": 10,
-          "term": "real madrid",
-          "approx_traffic": "50000+",
-          "traffic_value": 50000,
+          "term": "conference league",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 45,
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "AEK Atenas - Real Madrid hoy, en directo: partido de fase liga de Champions League, última hora",
-            "Cuándo juegan AEK vs. Real Madrid por la UEFA Champions League: equipo, fecha, hora y TV en vivo",
-            "Alineaciones probables del AEK - Real Madrid"
+            "Preview: Trabzonspor vs Freiburg - prediction, team news, lineups",
+            "Conference League: Mohamed Salah aims to extend his scoring streak",
+            "Licensable picture: Ahead of Trabzonspor v Freiburg - UEFA Conference League"
           ]
         }
       ],
-      "opportunities": [
-        {
-          "term": "carlos alcaraz",
-          "category_key": "fashion",
-          "category_label": "Moda y accesorios",
-          "score": 83,
-          "approx_traffic": "1000+",
-          "rationale": "Categoría 'Moda y accesorios' con buena traducción a producto físico y demanda visible (tráfico ~1000+).",
-          "product_ideas": [
-            "Gafas de sol de moda",
-            "Bisutería y accesorios",
-            "Bolsos y riñoneras de tendencia",
-            "Relojes de moda económicos",
-            "Prendas virales de temporada"
-          ],
-          "related_queries": [],
-          "geo_breakdown": {}
-        }
-      ]
+      "opportunities": []
     }
   ]
 }

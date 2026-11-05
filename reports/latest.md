@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-11-04
+# 📊 Informe de tendencias y dropshipping — 2026-11-05
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,42 +10,33 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | lens - como | 200+ | Deporte / evento | 🔴 40 |
-| 2 | rb leipzig - manchester city | 2000+ | Deporte / evento | 🔴 40 |
-| 3 | dortmund - real betis | 2000+ | Deporte / evento | 🔴 40 |
-| 4 | slavia praga - arsenal | 2000+ | Deporte / evento | 🔴 40 |
-| 5 | flashscore | 500+ | Otros | 🔴 30 |
-| 6 | liverpool hoy | 200+ | Deporte / evento | 🔴 40 |
-| 7 | carlos antonio vélez | 100+ | Otros | 🔴 30 |
-| 8 | carlos alcaraz | 1000+ | Moda y accesorios | 🟢 83 |
-| 9 | zulma guzman | 200+ | Otros | 🔴 30 |
-| 10 | real madrid | 50000+ | Deporte / evento | 🔴 45 |
+| 1 | az - juventus | 1000+ | Otros | 🔴 30 |
+| 2 | aída victoria merlano | 1000+ | Otros | 🔴 30 |
+| 3 | juan camilo merlano poveda | 200+ | Otros | 🔴 30 |
+| 4 | arthur fils | 100+ | Deporte / evento | 🔴 40 |
+| 5 | aldosivi vs river | 100+ | Deporte / evento | 🔴 40 |
+| 6 | europa league | 5000+ | Deporte / evento | 🔴 40 |
+| 7 | fenómeno | 1000+ | Noticias / actualidad | 🔴 10 |
+| 8 | milan vs | 1000+ | Deporte / evento | 🔴 40 |
+| 9 | bournemouth | 200+ | Deporte / evento | 🔴 40 |
+| 10 | conference league | 1000+ | Deporte / evento | 🔴 40 |
+
+### 🗺️ Distribución geográfica interna
+
+Dónde se busca más cada término (interés relativo 0–100 por región):
+
+- **az - juventus** → Casanare (100), Córdoba (58), Atlántico (54), Bolívar (48), Magdalena (41)
+- **aída victoria merlano** → Bogotá (100), Antioquia (72), Valle del Cauca (62)
+- **juan camilo merlano poveda** → Bogotá (100), Valle del Cauca (86), Cundinamarca (86), Santander (52), Atlántico (46)
+- **arthur fils** → Bogotá (100), Cundinamarca (97), Valle del Cauca (87), Antioquia (43)
+- **aldosivi vs river** → Atlántico (100), Cundinamarca (82), Bogotá (76), Antioquia (46)
+- **europa league** → Nariño (100), Sucre (98), Chocó (95), Córdoba (94), Bolívar (93)
+- **fenómeno** → La Guajira (100), Córdoba (85), Caldas (67), Caquetá (60), Cesar (58)
+- **milan vs** → Atlántico (100), Sucre (96), Bolívar (91), Córdoba (85), Cesar (84)
 
 ### 🛒 Oportunidades de dropshipping
 
-#### 🟢 carlos alcaraz  ·  _Moda y accesorios_  ·  potencial 83/100
-
-Categoría 'Moda y accesorios' con buena traducción a producto físico y demanda visible (tráfico ~1000+).
-
-**Productos sugeridos:**
-- Gafas de sol de moda
-- Bisutería y accesorios
-- Bolsos y riñoneras de tendencia
-- Relojes de moda económicos
-- Prendas virales de temporada
-
-<details><summary>⚠️ Avisos técnicos no fatales</summary>
-
-- geo/related 'lens - como': The request failed: Google returned a response with code 429
-- geo/related 'rb leipzig - manchester city': The request failed: Google returned a response with code 429
-- geo/related 'dortmund - real betis': The request failed: Google returned a response with code 429
-- geo/related 'slavia praga - arsenal': The request failed: Google returned a response with code 429
-- geo/related 'flashscore': The request failed: Google returned a response with code 429
-- geo/related 'liverpool hoy': The request failed: Google returned a response with code 429
-- geo/related 'carlos antonio vélez': The request failed: Google returned a response with code 429
-- geo/related 'carlos alcaraz': The request failed: Google returned a response with code 429
-
-</details>
+_Hoy las tendencias son mayormente noticias/eventos con baja intención de compra directa. Poco encaje para producto físico._
 
 ---
 
