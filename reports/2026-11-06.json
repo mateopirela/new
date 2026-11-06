@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-06",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "último sorteo lotería de bogotá",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Córdoba": 91,
+            "Santander": 81,
+            "Tolima": 68,
+            "Caldas": 67
+          },
+          "news_titles": [
+            "Lotería de Bogotá del jueves 5 de noviembre de 2026: resultado, número ganador y premios del sorteo de hoy",
+            "Resultados de loterías y chances del 5 de noviembre: números ganadores en Colombia",
+            "¿Jugaste la Lotería de Bogotá? Revisa aquí los resultados del sorteo del jueves 5 de noviembre de 2026"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "racing",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Chocó": 100,
+            "La Guajira": 84,
+            "Sucre": 77,
+            "Bolívar": 77,
+            "Córdoba": 75
+          },
+          "news_titles": [
+            "Homegrown racing at Battle on the Bench",
+            "Steve McQueen’s ‘Le Mans’ racing suit could fetch nearly $1 million",
+            "Steve McQueen’s ‘Le Mans’ racing suit could fetch nearly $1 million"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "meghan markle",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Bogotá": 40,
+            "Antioquia": 26,
+            "Cundinamarca": 18
+          },
+          "news_titles": [
+            "Meghan's father Thomas Markle arrested - follow live",
+            "Meghan Markle's estranged dad Thomas is charged after Daily Mail reported him to the FBI and new storage unit containing 'photos of him abusing girls' is found in LA",
+            "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "stranger things",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Cundinamarca": 94,
+            "Santander": 90,
+            "Bolívar": 88,
+            "Meta": 81
+          },
+          "news_titles": [
+            "Other Worlds: A Stranger Things Adventure Is Coming",
+            "‘Stranger Things’ Prequel Spinoff ‘Other Worlds’ Ordered to Series at Netflix",
+            "'Other Worlds: A Stranger Things Adventure' Trailer Reveals Setting"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "factura electrónica",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "San Andrés y Providencia": 100,
+            "Putumayo": 91,
+            "Quindío": 69,
+            "Boyacá": 68,
+            "Tolima": 61
+          },
+          "news_titles": [
+            "DIAN explicó qué hacer ante facturas electrónicas con errores o compras no reconocidas",
+            "¿Qué debe hacer para que le devuelvan a su cuenta el IVA que paga en el mercado? Esto propone la ley de rescate económico",
+            "Devolución del IVA sin factura electrónica: así funcionaría EfectIVA y quiénes recibirían el beneficio | El Colombiano"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "bayern de múnich - werder bremen",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Putumayo": 100,
+            "Santander": 10,
+            "Valle del Cauca": 5,
+            "Bogotá": 4
+          },
+          "news_titles": [
+            "Preview: FC Bayern Women vs. SV Werder Bremen",
+            "Licensable picture: GER, FC Bayern Muenchen Frauen vs. SV Werder Bremen, Fussball, Google Pixel Frauen-Bundesliga, 9. Spieltag, Saison 2026/2027, 06.11.2026",
+            "Bayern Munich vs. Werder Bremen: Gamethread"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "barracas central - racing",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Quindío": 78,
+            "Atlántico": 66,
+            "Magdalena": 59,
+            "Córdoba": 59
+          },
+          "news_titles": [
+            "Racing visita a Barracas Central con dos bajas y una duda en el ataque",
+            "Barracas Central vs. Racing Club: Previa de un duelo con realidades opuestas en la Argentina Primera División",
+            "Racing visitará a Barracas Central por la última fecha del Torneo Clausura: hora, TV y formaciones"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "william mebarak chadid",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Córdoba": 86,
+            "Bogotá": 60,
+            "Valle del Cauca": 58,
+            "Antioquia": 49
+          },
+          "news_titles": [
+            "Shakira fue vista en Barranquilla acompañando a su padre por quebrantos de salud",
+            "Shakira fue vista junto a su padre en Barranquilla: William Mebarak estaría padeciendo quebrantos de salud",
+            "Shakira en Barranquilla: la artista volvió y se le vio dando un paseo junto a su padre"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "rj mitte",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "RJ Mitte: Neue Details zum Tod des \"Breaking Bad\"-Stars bekannt",
+            "Der Vater der Tigerente ist tot: Autor und Illustrator Janosch ist im Alter von 95 Jahren verstorben",
+            "Amtlicher Bericht aus Texas bestätigt Suizid von RJ Mitte"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "toma del palacio de justicia",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "El aniversario de la Gran Decepción",
+            "Palacio de Justicia: José Gaona, hermano del magistrado Manuel Gaona, rechaza que llamen héroe a Plazas Vega",
+            "‘Palacio' llega a Netflix: el elenco revela los secretos y desafíos detrás de la serie sobre el Palacio de Justicia"
+          ]
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}
