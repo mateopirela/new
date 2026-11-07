@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-07",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "stuttgart - werder bremen",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Antioquia": 55,
+            "Bogotá": 35,
+            "Valle del Cauca": 35
+          },
+          "news_titles": [
+            "Confirmed \"Topspiel\" lineups: VfB Stuttgart vs. Werder Bremen",
+            "Stuttgart vs Bremen Lineups | Bundesliga · 7 Nov 2026",
+            "Stuttgart vs Werder Bremen Preview: Team News & Prediction"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "stuttgart vs",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "is_opportunity": true,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Atlántico": 90,
+            "La Guajira": 79,
+            "Córdoba": 78,
+            "Cauca": 76
+          },
+          "news_titles": [
+            "Wer überträgt VfB Stuttgart gegen Werder Bremen heute live im TV & Stream?",
+            "Aufstellung: VfB spielt in besonderem Trikot",
+            "VfB gegen Werder - Freiburg und Hoffenheim am Sonntag"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "carlos alcaraz",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Risaralda": 100,
+            "Bogotá": 88,
+            "Boyacá": 81,
+            "Quindío": 77,
+            "Antioquia": 77
+          },
+          "news_titles": [
+            "Carlos Alcaraz remonta ante Taylor Fritz y clasifica a Rafael Jódar a las Finales ATP",
+            "Fritz - Alcaraz, en directo: última hora del Masters 1.000 de París, hoy en vivo",
+            "Alcaraz salvó dos match points, remontó un partidazo ante Fritz y rompió su maldición en el Masters 1000 de París"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "casper ruud",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Cundinamarca": 100,
+            "Bogotá": 93,
+            "Magdalena": 87,
+            "Antioquia": 84,
+            "Valle del Cauca": 79
+          },
+          "news_titles": [
+            "Shelton tuvo que batallar para vencer a la revelación de París: se metió en la final y buscará su tercer Masters 1000",
+            "Pronósticos Shelton vs. Rinderknech: análisis, predicción y mejores apuestas del ATP París 2026",
+            "A la espera de la incorporación de Ferrero, Shelton ganó un partidazo y se metió en semis del Masters 1000 de París"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "osasuna - athletic",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Córdoba": 100,
+            "Bolívar": 69,
+            "Atlántico": 40,
+            "Santander": 30,
+            "Valle del Cauca": 29
+          },
+          "news_titles": [
+            "Osasuna - Athletic en directo | Última hora de LALIGA EA Sports en vivo hoy",
+            "¿Por dónde ver el Osasuna vs athletic club de Bilbao?",
+            "Osasuna vs Athletic Club: Pronósticos de Apuestas, Cuotas y Alineaciones 07/11/2026"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "posiciones de mainz 05 contra bayern",
+          "approx_traffic": "10000+",
+          "traffic_value": 10000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Córdoba": 100,
+            "La Guajira": 95,
+            "Bolívar": 94,
+            "Magdalena": 90,
+            "Sucre": 88
+          },
+          "news_titles": [
+            "Mainz 05 1-2 Bayern Munich: Harry Kane provides two assists as Bundesliga champions stay top",
+            "Bayern, Dortmund win to stay tight at the top of Bundesliga",
+            "Match Awards from Bayern Munich’s important 2-1 win over Mainz 05"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "nottingham forest - manchester city",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "is_opportunity": true,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Córdoba": 80,
+            "Bolívar": 80,
+            "Chocó": 78,
+            "La Guajira": 69
+          },
+          "news_titles": [
+            "Nottingham Forest vs Man City LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
+            "Elliot Anderson returns home with Glasner on the brink",
+            "Maresca makes three changes for Forest trip"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "posiciones de rb leipzig contra fc augsburg",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Cundinamarca": 41,
+            "Valle del Cauca": 34,
+            "Bogotá": 18,
+            "Antioquia": 17
+          },
+          "news_titles": [
+            "RB Leipzig vs Augsburg: German Bundesliga stats & head-to-head",
+            "🚂 No stopping the RBL-Express: Leipzig put Augsburg away",
+            "Five-star RBL make it another home win against Augsburg"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "learjet",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Haunting final call nanny, 24, killed in Learjet crash made to sister from plane mins before terrifying 35,000ft plummet",
+            "Florida Learjet crash investigators dig up engine piece after pilots warned of rough weather ahead",
+            "Viral Florida plane crash video claims second cousin of Politico’s Daniel Lippman"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "arsenal vs. hull city",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Arsenal 1-0 Hull City, Fulham v Newcastle United, FA Cup and more: football – live",
+            "Arsenal 1-0 Hull City: Martin Odegaard scores winner for Gunners",
+            "Arsenal 1-0 Hull highlights"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "term": "nottingham forest - manchester city",
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "approx_traffic": "5000+",
+          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~5000+).",
+          "product_ideas": [
+            "Periféricos gamer (mouse/teclado)",
+            "Sillas y soportes para setup",
+            "Luces RGB",
+            "Controles y accesorios de consola",
+            "Merchandising de juegos populares"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Córdoba": 80,
+            "Bolívar": 80,
+            "Chocó": 78,
+            "La Guajira": 69
+          }
+        },
+        {
+          "term": "stuttgart vs",
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "approx_traffic": "100+",
+          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~100+).",
+          "product_ideas": [
+            "Periféricos gamer (mouse/teclado)",
+            "Sillas y soportes para setup",
+            "Luces RGB",
+            "Controles y accesorios de consola",
+            "Merchandising de juegos populares"
+          ],
+          "related_queries": [
+            "stuttgart vs galatasaray",
+            "galatasaray stuttgart",
+            "vfb stuttgart vs",
+            "stuttgart vs hoy",
+            "sporting cp"
+          ],
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Atlántico": 90,
+            "La Guajira": 79,
+            "Córdoba": 78,
+            "Cauca": 76
+          }
+        }
+      ]
+    }
+  ]
+}

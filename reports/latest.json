@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "regions": [
     {
       "code": "CO",
@@ -8,212 +8,266 @@
       "trends": [
         {
           "rank": 1,
-          "term": "último sorteo lotería de bogotá",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
+          "term": "stuttgart - werder bremen",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Sucre": 100,
-            "Córdoba": 91,
-            "Santander": 81,
-            "Tolima": 68,
-            "Caldas": 67
+            "Atlántico": 100,
+            "Antioquia": 55,
+            "Bogotá": 35,
+            "Valle del Cauca": 35
           },
           "news_titles": [
-            "Lotería de Bogotá del jueves 5 de noviembre de 2026: resultado, número ganador y premios del sorteo de hoy",
-            "Resultados de loterías y chances del 5 de noviembre: números ganadores en Colombia",
-            "¿Jugaste la Lotería de Bogotá? Revisa aquí los resultados del sorteo del jueves 5 de noviembre de 2026"
+            "Confirmed \"Topspiel\" lineups: VfB Stuttgart vs. Werder Bremen",
+            "Stuttgart vs Bremen Lineups | Bundesliga · 7 Nov 2026",
+            "Stuttgart vs Werder Bremen Preview: Team News & Prediction"
           ]
         },
         {
           "rank": 2,
-          "term": "racing",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
+          "term": "stuttgart vs",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "is_opportunity": true,
           "geo_breakdown": {
-            "Chocó": 100,
-            "La Guajira": 84,
-            "Sucre": 77,
-            "Bolívar": 77,
-            "Córdoba": 75
+            "Bolívar": 100,
+            "Atlántico": 90,
+            "La Guajira": 79,
+            "Córdoba": 78,
+            "Cauca": 76
           },
           "news_titles": [
-            "Homegrown racing at Battle on the Bench",
-            "Steve McQueen’s ‘Le Mans’ racing suit could fetch nearly $1 million",
-            "Steve McQueen’s ‘Le Mans’ racing suit could fetch nearly $1 million"
+            "Wer überträgt VfB Stuttgart gegen Werder Bremen heute live im TV & Stream?",
+            "Aufstellung: VfB spielt in besonderem Trikot",
+            "VfB gegen Werder - Freiburg und Hoffenheim am Sonntag"
           ]
         },
         {
           "rank": 3,
-          "term": "meghan markle",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "carlos alcaraz",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Atlántico": 100,
-            "Bogotá": 40,
-            "Antioquia": 26,
-            "Cundinamarca": 18
+            "Risaralda": 100,
+            "Bogotá": 88,
+            "Boyacá": 81,
+            "Quindío": 77,
+            "Antioquia": 77
           },
           "news_titles": [
-            "Meghan's father Thomas Markle arrested - follow live",
-            "Meghan Markle's estranged dad Thomas is charged after Daily Mail reported him to the FBI and new storage unit containing 'photos of him abusing girls' is found in LA",
-            "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry"
+            "Carlos Alcaraz remonta ante Taylor Fritz y clasifica a Rafael Jódar a las Finales ATP",
+            "Fritz - Alcaraz, en directo: última hora del Masters 1.000 de París, hoy en vivo",
+            "Alcaraz salvó dos match points, remontó un partidazo ante Fritz y rompió su maldición en el Masters 1000 de París"
           ]
         },
         {
           "rank": 4,
-          "term": "stranger things",
+          "term": "casper ruud",
           "approx_traffic": "100+",
           "traffic_value": 100,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bogotá": 100,
-            "Cundinamarca": 94,
-            "Santander": 90,
-            "Bolívar": 88,
-            "Meta": 81
+            "Cundinamarca": 100,
+            "Bogotá": 93,
+            "Magdalena": 87,
+            "Antioquia": 84,
+            "Valle del Cauca": 79
           },
           "news_titles": [
-            "Other Worlds: A Stranger Things Adventure Is Coming",
-            "‘Stranger Things’ Prequel Spinoff ‘Other Worlds’ Ordered to Series at Netflix",
-            "'Other Worlds: A Stranger Things Adventure' Trailer Reveals Setting"
+            "Shelton tuvo que batallar para vencer a la revelación de París: se metió en la final y buscará su tercer Masters 1000",
+            "Pronósticos Shelton vs. Rinderknech: análisis, predicción y mejores apuestas del ATP París 2026",
+            "A la espera de la incorporación de Ferrero, Shelton ganó un partidazo y se metió en semis del Masters 1000 de París"
           ]
         },
         {
           "rank": 5,
-          "term": "factura electrónica",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "osasuna - athletic",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "San Andrés y Providencia": 100,
-            "Putumayo": 91,
-            "Quindío": 69,
-            "Boyacá": 68,
-            "Tolima": 61
+            "Córdoba": 100,
+            "Bolívar": 69,
+            "Atlántico": 40,
+            "Santander": 30,
+            "Valle del Cauca": 29
           },
           "news_titles": [
-            "DIAN explicó qué hacer ante facturas electrónicas con errores o compras no reconocidas",
-            "¿Qué debe hacer para que le devuelvan a su cuenta el IVA que paga en el mercado? Esto propone la ley de rescate económico",
-            "Devolución del IVA sin factura electrónica: así funcionaría EfectIVA y quiénes recibirían el beneficio | El Colombiano"
+            "Osasuna - Athletic en directo | Última hora de LALIGA EA Sports en vivo hoy",
+            "¿Por dónde ver el Osasuna vs athletic club de Bilbao?",
+            "Osasuna vs Athletic Club: Pronósticos de Apuestas, Cuotas y Alineaciones 07/11/2026"
           ]
         },
         {
           "rank": 6,
-          "term": "bayern de múnich - werder bremen",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
+          "term": "posiciones de mainz 05 contra bayern",
+          "approx_traffic": "10000+",
+          "traffic_value": 10000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 40,
+          "score": 35,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Putumayo": 100,
-            "Santander": 10,
-            "Valle del Cauca": 5,
-            "Bogotá": 4
+            "Córdoba": 100,
+            "La Guajira": 95,
+            "Bolívar": 94,
+            "Magdalena": 90,
+            "Sucre": 88
           },
           "news_titles": [
-            "Preview: FC Bayern Women vs. SV Werder Bremen",
-            "Licensable picture: GER, FC Bayern Muenchen Frauen vs. SV Werder Bremen, Fussball, Google Pixel Frauen-Bundesliga, 9. Spieltag, Saison 2026/2027, 06.11.2026",
-            "Bayern Munich vs. Werder Bremen: Gamethread"
+            "Mainz 05 1-2 Bayern Munich: Harry Kane provides two assists as Bundesliga champions stay top",
+            "Bayern, Dortmund win to stay tight at the top of Bundesliga",
+            "Match Awards from Bayern Munich’s important 2-1 win over Mainz 05"
           ]
         },
         {
           "rank": 7,
-          "term": "barracas central - racing",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
+          "term": "nottingham forest - manchester city",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "is_opportunity": true,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Córdoba": 80,
+            "Bolívar": 80,
+            "Chocó": 78,
+            "La Guajira": 69
+          },
+          "news_titles": [
+            "Nottingham Forest vs Man City LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
+            "Elliot Anderson returns home with Glasner on the brink",
+            "Maresca makes three changes for Forest trip"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "posiciones de rb leipzig contra fc augsburg",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Sucre": 100,
-            "Quindío": 78,
-            "Atlántico": 66,
-            "Magdalena": 59,
-            "Córdoba": 59
-          },
-          "news_titles": [
-            "Racing visita a Barracas Central con dos bajas y una duda en el ataque",
-            "Barracas Central vs. Racing Club: Previa de un duelo con realidades opuestas en la Argentina Primera División",
-            "Racing visitará a Barracas Central por la última fecha del Torneo Clausura: hora, TV y formaciones"
-          ]
-        },
-        {
-          "rank": 8,
-          "term": "william mebarak chadid",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
             "Atlántico": 100,
-            "Córdoba": 86,
-            "Bogotá": 60,
-            "Valle del Cauca": 58,
-            "Antioquia": 49
+            "Cundinamarca": 41,
+            "Valle del Cauca": 34,
+            "Bogotá": 18,
+            "Antioquia": 17
           },
           "news_titles": [
-            "Shakira fue vista en Barranquilla acompañando a su padre por quebrantos de salud",
-            "Shakira fue vista junto a su padre en Barranquilla: William Mebarak estaría padeciendo quebrantos de salud",
-            "Shakira en Barranquilla: la artista volvió y se le vio dando un paseo junto a su padre"
+            "RB Leipzig vs Augsburg: German Bundesliga stats & head-to-head",
+            "🚂 No stopping the RBL-Express: Leipzig put Augsburg away",
+            "Five-star RBL make it another home win against Augsburg"
           ]
         },
         {
           "rank": 9,
-          "term": "rj mitte",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
+          "term": "learjet",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "RJ Mitte: Neue Details zum Tod des \"Breaking Bad\"-Stars bekannt",
-            "Der Vater der Tigerente ist tot: Autor und Illustrator Janosch ist im Alter von 95 Jahren verstorben",
-            "Amtlicher Bericht aus Texas bestätigt Suizid von RJ Mitte"
+            "Haunting final call nanny, 24, killed in Learjet crash made to sister from plane mins before terrifying 35,000ft plummet",
+            "Florida Learjet crash investigators dig up engine piece after pilots warned of rough weather ahead",
+            "Viral Florida plane crash video claims second cousin of Politico’s Daniel Lippman"
           ]
         },
         {
           "rank": 10,
-          "term": "toma del palacio de justicia",
+          "term": "arsenal vs. hull city",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "El aniversario de la Gran Decepción",
-            "Palacio de Justicia: José Gaona, hermano del magistrado Manuel Gaona, rechaza que llamen héroe a Plazas Vega",
-            "‘Palacio' llega a Netflix: el elenco revela los secretos y desafíos detrás de la serie sobre el Palacio de Justicia"
+            "Arsenal 1-0 Hull City, Fulham v Newcastle United, FA Cup and more: football – live",
+            "Arsenal 1-0 Hull City: Martin Odegaard scores winner for Gunners",
+            "Arsenal 1-0 Hull highlights"
           ]
         }
       ],
-      "opportunities": []
+      "opportunities": [
+        {
+          "term": "nottingham forest - manchester city",
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "approx_traffic": "5000+",
+          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~5000+).",
+          "product_ideas": [
+            "Periféricos gamer (mouse/teclado)",
+            "Sillas y soportes para setup",
+            "Luces RGB",
+            "Controles y accesorios de consola",
+            "Merchandising de juegos populares"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Córdoba": 80,
+            "Bolívar": 80,
+            "Chocó": 78,
+            "La Guajira": 69
+          }
+        },
+        {
+          "term": "stuttgart vs",
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "approx_traffic": "100+",
+          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~100+).",
+          "product_ideas": [
+            "Periféricos gamer (mouse/teclado)",
+            "Sillas y soportes para setup",
+            "Luces RGB",
+            "Controles y accesorios de consola",
+            "Merchandising de juegos populares"
+          ],
+          "related_queries": [
+            "stuttgart vs galatasaray",
+            "galatasaray stuttgart",
+            "vfb stuttgart vs",
+            "stuttgart vs hoy",
+            "sporting cp"
+          ],
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Atlántico": 90,
+            "La Guajira": 79,
+            "Córdoba": 78,
+            "Cauca": 76
+          }
+        }
+      ]
     }
   ]
 }

@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-11-06
+# 📊 Informe de tendencias y dropshipping — 2026-11-07
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,42 +10,55 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | último sorteo lotería de bogotá | 2000+ | Entretenimiento / farándula | 🔴 40 |
-| 2 | racing | 200+ | Otros | 🔴 30 |
-| 3 | meghan markle | 100+ | Otros | 🔴 30 |
-| 4 | stranger things | 100+ | Entretenimiento / farándula | 🔴 40 |
-| 5 | factura electrónica | 1000+ | Otros | 🔴 30 |
-| 6 | bayern de múnich - werder bremen | 200+ | Deporte / evento | 🔴 40 |
-| 7 | barracas central - racing | 1000+ | Deporte / evento | 🔴 40 |
-| 8 | william mebarak chadid | 200+ | Otros | 🔴 30 |
-| 9 | rj mitte | 200+ | Otros | 🔴 30 |
-| 10 | toma del palacio de justicia | 200+ | Entretenimiento / farándula | 🔴 40 |
+| 1 | stuttgart - werder bremen | 200+ | Deporte / evento | 🔴 40 |
+| 2 | stuttgart vs | 100+ | Gaming | 🟢 77 |
+| 3 | carlos alcaraz | 5000+ | Deporte / evento | 🔴 40 |
+| 4 | casper ruud | 100+ | Deporte / evento | 🔴 40 |
+| 5 | osasuna - athletic | 500+ | Deporte / evento | 🔴 40 |
+| 6 | posiciones de mainz 05 contra bayern | 10000+ | Deporte / evento | 🔴 35 |
+| 7 | nottingham forest - manchester city | 5000+ | Gaming | 🟢 77 |
+| 8 | posiciones de rb leipzig contra fc augsburg | 500+ | Deporte / evento | 🔴 40 |
+| 9 | learjet | 100+ | Otros | 🔴 30 |
+| 10 | arsenal vs. hull city | 200+ | Deporte / evento | 🔴 40 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **último sorteo lotería de bogotá** → Sucre (100), Córdoba (91), Santander (81), Tolima (68), Caldas (67)
-- **racing** → Chocó (100), La Guajira (84), Sucre (77), Bolívar (77), Córdoba (75)
-- **meghan markle** → Atlántico (100), Bogotá (40), Antioquia (26), Cundinamarca (18)
-- **stranger things** → Bogotá (100), Cundinamarca (94), Santander (90), Bolívar (88), Meta (81)
-- **factura electrónica** → San Andrés y Providencia (100), Putumayo (91), Quindío (69), Boyacá (68), Tolima (61)
-- **bayern de múnich - werder bremen** → Putumayo (100), Santander (10), Valle del Cauca (5), Bogotá (4)
-- **barracas central - racing** → Sucre (100), Quindío (78), Atlántico (66), Magdalena (59), Córdoba (59)
-- **william mebarak chadid** → Atlántico (100), Córdoba (86), Bogotá (60), Valle del Cauca (58), Antioquia (49)
+- **stuttgart - werder bremen** → Atlántico (100), Antioquia (55), Bogotá (35), Valle del Cauca (35)
+- **stuttgart vs** → Bolívar (100), Atlántico (90), La Guajira (79), Córdoba (78), Cauca (76)
+- **carlos alcaraz** → Risaralda (100), Bogotá (88), Boyacá (81), Quindío (77), Antioquia (77)
+- **casper ruud** → Cundinamarca (100), Bogotá (93), Magdalena (87), Antioquia (84), Valle del Cauca (79)
+- **osasuna - athletic** → Córdoba (100), Bolívar (69), Atlántico (40), Santander (30), Valle del Cauca (29)
+- **posiciones de mainz 05 contra bayern** → Córdoba (100), La Guajira (95), Bolívar (94), Magdalena (90), Sucre (88)
+- **nottingham forest - manchester city** → Sucre (100), Córdoba (80), Bolívar (80), Chocó (78), La Guajira (69)
+- **posiciones de rb leipzig contra fc augsburg** → Atlántico (100), Cundinamarca (41), Valle del Cauca (34), Bogotá (18), Antioquia (17)
 
 ### 🛒 Oportunidades de dropshipping
 
-_Hoy las tendencias son mayormente noticias/eventos con baja intención de compra directa. Poco encaje para producto físico._
+#### 🟢 nottingham forest - manchester city  ·  _Gaming_  ·  potencial 77/100
 
-<details><summary>⚠️ Avisos técnicos no fatales</summary>
+Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~5000+).
 
-- geo/related 'último sorteo lotería de bogotá': The request failed: Google returned a response with code 429
-- geo/related 'racing': The request failed: Google returned a response with code 429
-- geo/related 'meghan markle': The request failed: Google returned a response with code 429
-- geo/related 'stranger things': The request failed: Google returned a response with code 429
+**Productos sugeridos:**
+- Periféricos gamer (mouse/teclado)
+- Sillas y soportes para setup
+- Luces RGB
+- Controles y accesorios de consola
+- Merchandising de juegos populares
 
-</details>
+#### 🟢 stuttgart vs  ·  _Gaming_  ·  potencial 77/100
+
+Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~100+).
+
+**Productos sugeridos:**
+- Periféricos gamer (mouse/teclado)
+- Sillas y soportes para setup
+- Luces RGB
+- Controles y accesorios de consola
+- Merchandising de juegos populares
+
+_Búsquedas relacionadas:_ stuttgart vs galatasaray, galatasaray stuttgart, vfb stuttgart vs, stuttgart vs hoy, sporting cp
 
 ---
 
