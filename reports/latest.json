@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "regions": [
     {
       "code": "CO",
@@ -8,242 +8,237 @@
       "trends": [
         {
           "rank": 1,
-          "term": "posiciones de real sociedad contra rayo vallecano",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "astro sol",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Tolima": 100,
-            "Santander": 61,
-            "Atlántico": 61,
-            "Cundinamarca": 47,
-            "Antioquia": 36
+            "Cesar": 100,
+            "La Guajira": 94,
+            "Tolima": 89,
+            "San Andrés y Providencia": 85,
+            "Norte de Santander": 77
           },
           "news_titles": [
-            "Real Sociedad vs Rayo Vallecano: Spanish La Liga stats & head-to-head",
-            "Real Sociedad - Rayo LIVE. LALIGA EA Sports latest updates",
-            "Real Sociedad 1-0 Rayo Vallecano: Remiro delivers in tight LaLiga win"
+            "Super Astro Sol, resultado del último sorteo de hoy lunes 9 de noviembre de 2026",
+            "Número y signo ganador de Super Astro Luna de este domingo 8 de noviembre",
+            "Astro Luna de hoy, domingo 8 de noviembre: ¿cuál es el número y signo zodiacal ganador?"
           ]
         },
         {
           "rank": 2,
-          "term": "inter vs",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
+          "term": "ebenezer",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
           "category_key": "entertainment",
           "category_label": "Entretenimiento / farándula",
-          "score": 45,
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Sucre": 100,
-            "Bolívar": 98,
-            "Chocó": 92,
-            "Magdalena": 85,
-            "Nariño": 84
+            "Magdalena": 100,
+            "Bolívar": 95,
+            "Cesar": 55,
+            "Norte de Santander": 52,
+            "Córdoba": 44
           },
           "news_titles": [
-            "Inter Como preview: why a derby setback makes this a tricky Serie A test",
-            "Inter test will reveal Como's true level, says Fabregas",
-            "Match Preview | Inter v. Como 1907"
+            "‘I’m not the man I was’: Johnny Depp is back with his biggest role since his highly publicized legal battles",
+            "Johnny Depp’s 2023 Producer Thinks The Actor Is Poised For A Hollywood Comeback With Ebenezer",
+            "Johnny Depp Says His Ebenezer Scrooge Is ‘Trying to Make Himself Invisible’ (Exclusive)"
           ]
         },
         {
           "rank": 3,
-          "term": "united fc",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
+          "term": "dorado tarde",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "La Guajira": 100,
-            "Bolívar": 98,
-            "Córdoba": 91,
-            "Cauca": 78,
-            "Sucre": 77
+            "Tolima": 100,
+            "Norte de Santander": 76,
+            "San Andrés y Providencia": 72,
+            "Cundinamarca": 48,
+            "Bogotá": 46
           },
           "news_titles": [
-            "Motherwell fan views on 1-1 draw at Dundee United",
-            "'Still unbeaten - but we need to be killing games off'",
-            "All White Jesse Randall’s cheeky backheel denies former Auckland FC mates"
+            "Dorado Tarde, resultado del último sorteo de hoy lunes 9 de noviembre de 2026: número ganador",
+            "El Dorado, El Paisita y La Caribeña ya tienen resultados: estos fueron los números del 9 de noviembre",
+            "Resultados del Dorado Mañana de hoy, 4 de noviembre: número ganador y quinta balota"
           ]
         },
         {
           "rank": 4,
-          "term": "posiciones de fc köln contra bayer leverkusen",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
+          "term": "néstor lorenzo",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 40,
+          "score": 35,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bogotá": 100
+            "Antioquia": 100,
+            "Santander": 100,
+            "Valle del Cauca": 95,
+            "Meta": 86,
+            "Bogotá": 82
           },
           "news_titles": [
-            "Köln vs Bayer 04 Leverkusen: German Bundesliga stats & head-to-head",
-            "Garcia, Schick take Leverkusen to derby win at Cologne",
-            "Bayer Leverkusen vs Koln Prediction (Nov 8): Bayer Leverkusen 47% — Odds & Live Score"
+            "Néstor Lorenzo: “Me parece que Lucas González es injusto”",
+            "Nacional pierde jugadores para la recta definitiva y Lucas lanzó un reclamo a Lorenzo | El Colombiano",
+            "La selección Colombia se pronunció sobre los convocados de Nacional que reclamó Lucas González"
           ]
         },
         {
           "rank": 5,
-          "term": "villarreal - getafe",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bolívar": 100,
-            "Córdoba": 92,
-            "Atlántico": 84,
-            "Tolima": 78,
-            "Meta": 77
-          },
-          "news_titles": [
-            "Villarreal v Getafe LIVE 08/11/2026 | Football",
-            "Villarreal Vs Getafe: Villarreal must steady themselves after PSG collapse as Getafe arrive with no away goals",
-            "Villareal vs. Getafe prediction, odds, La Liga picks [11/8/2026]"
-          ]
-        },
-        {
-          "rank": 6,
-          "term": "united vs",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "San Andrés y Providencia": 100,
-            "Caquetá": 70,
-            "Sucre": 61,
-            "Córdoba": 60,
-            "Atlántico": 60
-          },
-          "news_titles": [
-            "Why isn’t Lisandro Martinez playing for Manchester United vs. Aston Villa?",
-            "How Lisandro Martinez butchered his Man Utd career as Old Trafford ends love affair with Argentinian cult heroes",
-            "Is there 'nothing Martinez can do'?"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "ferrocarril de antioquia",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "fashion",
-          "category_label": "Moda y accesorios",
-          "score": 78,
-          "is_opportunity": true,
-          "geo_breakdown": {
-            "Antioquia": 100,
-            "Santander": 24,
-            "Bogotá": 5
-          },
-          "news_titles": [
-            "¿Negocio con el lote de la FLA ayudaría a financiar el nuevo ferrocarril de Antioquia? | El Colombiano",
-            "El tren de $1,69 billones en el Valle de Aburrá casi no movería carga, según estudio de 2019",
-            "Aseguran recursos para el tren que conectará a Bello con Puerto Berrío"
-          ]
-        },
-        {
-          "rank": 8,
-          "term": "pan am",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
+          "term": "medidas correctivas",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Chocó": 100,
-            "Córdoba": 21,
-            "Bogotá": 10,
-            "Valle del Cauca": 8,
-            "Antioquia": 7
+            "Guaviare": 100,
+            "Vaupés": 97,
+            "Chocó": 40,
+            "Putumayo": 39,
+            "Guainía": 39
           },
-          "news_titles": []
+          "news_titles": [
+            "Al menos 1.024 deportaciones y expulsiones en tres meses: lo que hay detrás de 'ofensiva' migratoria de De La Espriella y su impacto en la seguridad",
+            "Anuncian la expulsión de 33 extranjeros por alterar el orden en Barranquilla y Cartagena",
+            "Colombia supera las 1.000 deportaciones de extranjeros en tres meses tras operativos en la costa Caribe y principales ciudades"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "aryna sabalenka",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "fitness",
+          "category_label": "Fitness y bienestar",
+          "score": 85,
+          "is_opportunity": true,
+          "geo_breakdown": {
+            "Quindío": 100,
+            "Cundinamarca": 82,
+            "Bogotá": 82,
+            "Santander": 67,
+            "Risaralda": 65
+          },
+          "news_titles": [
+            "FAGE WTA Finals Day 2 preview: Can Sabalenka even series with Muchova?",
+            "Aryna Sabalenka provides fitness update after concerning Wuhan Open scenes",
+            "WTA Finals Best Bets & Predictions for Monday, November 9"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "independiente valle del cauca - unión magdalena",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Magdalena": 100,
+            "Bolívar": 21,
+            "Atlántico": 14,
+            "Cesar": 12,
+            "La Guajira": 11
+          },
+          "news_titles": [
+            "🔴EN VIVO: Ind. Valle del Cauca vs. Unión Magdalena - minuto a minuto y goles (Grupo A)",
+            "Así quedó el Grupo A del Torneo de Ascenso: Boca Juniors de Cali ganó y se acerca a la final",
+            "Unión: a ‘dejar la vida’ en el Valle del Cauca"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "fable 5.2",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Valle del Cauca": 100,
+            "Antioquia": 95,
+            "Bogotá": 94
+          },
+          "news_titles": [
+            "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+            "Anthropic's New AI Can Design Hardware, Find Cybersecurity Flaws And Solve Physics Problems",
+            "Introducing Claude Fable 5.2 on AWS"
+          ]
         },
         {
           "rank": 9,
-          "term": "inter - como",
-          "approx_traffic": "5000+",
-          "traffic_value": 5000,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
-          "score": 45,
+          "term": "juan carlos ferrero",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Emocionante minuto de silencio en Inter – Como en homenaje a Jesús de Miguel",
-            "Inter - Como, en directo | Última hora de Serie A en vivo hoy",
-            "Inter Milán vs Como: Pronósticos de Apuestas, Cuotas y Alineaciones 08/11/2026"
+            "Ferrero analizó su primer partido contra Alcaraz, reveló qué le faltó a Shelton y contó el sueño que tienen juntos",
+            "Juan Carlos Ferrero: \"Fue extraño después de ocho años pensar en contrarrestar el juego de Carlos\"",
+            "Ferrero habla por primera vez de Shelton y Alcaraz: \"Ayudé a Ben en París y fue algo extraño\""
           ]
         },
         {
           "rank": 10,
-          "term": "le mans football club - mónaco",
+          "term": "metro de medellín",
           "approx_traffic": "500+",
           "traffic_value": 500,
-          "category_key": "tech",
-          "category_label": "Tecnología y gadgets",
-          "score": 90,
-          "is_opportunity": true,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Le Mans vs Monaco: French Ligue 1 stats & head-to-head",
-            "Le Mans",
-            "Camara back as Monaco name XI for Le Mans trip"
+            "Pilas que desde el lunes no habrá taquillas en estas estaciones del metro de Medellín: ¿qué pasará? | El Colombiano",
+            "Adiós a las taquillas tradicionales en seis estaciones del Metro de Medellín; ¿cómo recargar la Cívica desde ahora?",
+            "Metro de Medellín cierra puntos de venta en seis estaciones y anuncia nuevos horarios y formas de pago"
           ]
         }
       ],
       "opportunities": [
         {
-          "term": "le mans football club - mónaco",
-          "category_key": "tech",
-          "category_label": "Tecnología y gadgets",
-          "score": 90,
-          "approx_traffic": "500+",
-          "rationale": "Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~500+).",
+          "term": "aryna sabalenka",
+          "category_key": "fitness",
+          "category_label": "Fitness y bienestar",
+          "score": 85,
+          "approx_traffic": "1000+",
+          "rationale": "Categoría 'Fitness y bienestar' con buena traducción a producto físico y demanda visible (tráfico ~1000+).",
           "product_ideas": [
-            "Audífonos inalámbricos / TWS",
-            "Smartwatch económico",
-            "Cargadores y power banks",
-            "Soportes y accesorios para celular",
-            "Mini proyectores y parlantes bluetooth"
-          ],
-          "related_queries": [],
-          "geo_breakdown": {}
-        },
-        {
-          "term": "ferrocarril de antioquia",
-          "category_key": "fashion",
-          "category_label": "Moda y accesorios",
-          "score": 78,
-          "approx_traffic": "100+",
-          "rationale": "Categoría 'Moda y accesorios' con buena traducción a producto físico y demanda visible (tráfico ~100+).",
-          "product_ideas": [
-            "Gafas de sol de moda",
-            "Bisutería y accesorios",
-            "Bolsos y riñoneras de tendencia",
-            "Relojes de moda económicos",
-            "Prendas virales de temporada"
+            "Bandas y mini equipos de resistencia",
+            "Botellas y shakers",
+            "Ropa deportiva / leggings",
+            "Smart bands para actividad",
+            "Esterillas de yoga"
           ],
           "related_queries": [
-            "reloj ferrocarril de antioquia"
+            "aryna sabalenka hoy",
+            "elena rybakina",
+            "coco gauff"
           ],
           "geo_breakdown": {
-            "Antioquia": 100,
-            "Santander": 24,
-            "Bogotá": 5
+            "Quindío": 100,
+            "Cundinamarca": 82,
+            "Bogotá": 82,
+            "Santander": 67,
+            "Risaralda": 65
           }
         }
       ]
