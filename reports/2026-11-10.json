@@ -1,0 +1,239 @@
+{
+  "date": "2026-11-10",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "fecha 19",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Caldas": 100,
+            "Tolima": 93,
+            "Antioquia": 61,
+            "Chocó": 60,
+            "Valle del Cauca": 55
+          },
+          "news_titles": [
+            "Programación de la Fecha 19 de la Liga BetPlay DIMAYOR II-2026",
+            "Seis clubes por tres cupos: cuentas para clasificar a cuadrangulares",
+            "Así se jugará la fecha definitiva para conocer los últimos clasificados en la Liga"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "chontico dia",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Valle del Cauca": 100,
+            "Cauca": 65,
+            "San Andrés y Providencia": 19,
+            "Quindío": 13,
+            "Chocó": 12
+          },
+          "news_titles": [
+            "Chontico Día, consulte el resultado del último sorteo de hoy martes 10 de noviembre de 2026",
+            "¿Le trajo suerte el sábado? Revise los ganadores del Chontico Noche hoy, 7 de noviembre",
+            "Chontico Día y Noche: resultados del sorteo del martes 10 de noviembre de 2026"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "luz stella murgas",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Vichada": 100,
+            "Cesar": 4,
+            "Bogotá": 4,
+            "Cundinamarca": 1,
+            "Atlántico": 1
+          },
+          "news_titles": [
+            "Luz Stella Murgas es elegida como nueva presidenta de la Andi: la primera mujer en liderar el gremio | El Colombiano",
+            "Pulso por la presidencia de la Andi llega a su fin este martes: estos son los candidatos que se disputan el cargo",
+            "MinComercio felicitó a Luz Stella Murgas por su llegada a Andi: dispuesto a trabajar articuladamente"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "cadáver",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Boyacá": 100,
+            "Quindío": 90,
+            "Cundinamarca": 78,
+            "La Guajira": 75,
+            "Cauca": 67
+          },
+          "news_titles": [
+            "Salieron a trotar y se encontraron con un cadáver en El Malecón de Cúcuta",
+            "Gobierno de Abelardo de la Espriella le pone freno al proyecto de hidrolisis alcalina en el Congreso de la República",
+            "Hidrolisis alcalina en Colombia: MinAmbiente presenta reparos al proyecto de ley funerario"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "linda caicedo",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Córdoba": 100,
+            "Cauca": 89,
+            "Valle del Cauca": 81,
+            "Bogotá": 74,
+            "Cundinamarca": 64
+          },
+          "news_titles": [
+            "El misterio de Linda Caicedo y su lesión, a horas del partido de Real Madrid en Champions League",
+            "¿Linda Caicedo sufrió una lesión con el Real Madrid? Esto es lo que se sabe, previo a su partido de la Champions League Femenina",
+            "Resuelto el misterio: Linda Caicedo, en la lista para la Champions"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "nations league",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Córdoba": 78,
+            "Bolívar": 56,
+            "Nariño": 47,
+            "Bogotá": 47
+          },
+          "news_titles": [
+            "France calls up Eli Junior Kroupi for the first time.. Talent with Ivorian roots enters Zidane's calculations",
+            "Marcus Thuram Injury Update: Inter Attacker Sidelined with Muscle Injury",
+            "The blows keep coming for Zidane: another French star to miss the matches against Italy and Turkey"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "real madrid femenino",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Guaviare": 100,
+            "Chocó": 95,
+            "Bolívar": 62,
+            "La Guajira": 49,
+            "Córdoba": 43
+          },
+          "news_titles": [
+            "Real Madrid - Paris FC, en directo: fase de liga de la Champions femenina hoy en vivo",
+            "Real Madrid - Paris FC en directo | Última hora de Champions League Femenina en vivo hoy",
+            "Cuándo juegan Real Madrid vs Paris FC por fecha 4 de fase liga Women's Champions League: equipo, fecha, hora y TV en vivo"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "resultado baloto revancha",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Arauca": 87,
+            "Tolima": 67,
+            "Atlántico": 66,
+            "Cesar": 61
+          },
+          "news_titles": [
+            "Resultados Baloto y Revancha del lunes 9 de noviembre de 2026: números ganadores del sorteo 2.733",
+            "Baloto y Revancha elevan su acumulado a $25.400 millones tras sorteo sin ganadores en su premio mayor",
+            "Baloto y Baloto Revancha: conozca aquí los resultados del último sorteo del sábado 7 de noviembre"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "madre",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "baby_pets",
+          "category_label": "Bebés y mascotas",
+          "score": 83,
+          "is_opportunity": true,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Mamá de Arleth Carolina contó que volvió a perderle el rastro a su hija tras encontrarla en Bogotá: 'Nosotros necesitamos una ayuda'",
+            "La madre de la profesora Arleth Carolina, hallada en Bogotá tras dos años desaparecida, contó detalles inéditos del caso y dijo que volvió a perderle el rastro",
+            "Habló la familia de Arlet Álvarez, docente desaparecida en Barranquilla y encontrada en Bogotá: “Le canté su canción de bebé”"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "nairo quintana",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Nairo Quintana, Egan Bernal y Rigoberto Urán prenden las alarmas en Colombia: “Se les dijo”",
+            "La dura advertencia de Nairo Quintana, Egan Bernal y Rigoberto Urán: \"Tuvimos una época\"",
+            "Ciclismo colombiano : historia y legado de sus mejores corredores"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "term": "madre",
+          "category_key": "baby_pets",
+          "category_label": "Bebés y mascotas",
+          "score": 83,
+          "approx_traffic": "1000+",
+          "rationale": "Categoría 'Bebés y mascotas' con buena traducción a producto físico y demanda visible (tráfico ~1000+).",
+          "product_ideas": [
+            "Juguetes y accesorios para mascotas",
+            "Comederos automáticos",
+            "Productos de aseo para mascotas",
+            "Accesorios para bebé",
+            "Organizadores infantiles"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {}
+        }
+      ]
+    }
+  ]
+}

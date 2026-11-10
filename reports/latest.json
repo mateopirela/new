@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "regions": [
     {
       "code": "CO",
@@ -8,7 +8,51 @@
       "trends": [
         {
           "rank": 1,
-          "term": "astro sol",
+          "term": "fecha 19",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Caldas": 100,
+            "Tolima": 93,
+            "Antioquia": 61,
+            "Chocó": 60,
+            "Valle del Cauca": 55
+          },
+          "news_titles": [
+            "Programación de la Fecha 19 de la Liga BetPlay DIMAYOR II-2026",
+            "Seis clubes por tres cupos: cuentas para clasificar a cuadrangulares",
+            "Así se jugará la fecha definitiva para conocer los últimos clasificados en la Liga"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "chontico dia",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Valle del Cauca": 100,
+            "Cauca": 65,
+            "San Andrés y Providencia": 19,
+            "Quindío": 13,
+            "Chocó": 12
+          },
+          "news_titles": [
+            "Chontico Día, consulte el resultado del último sorteo de hoy martes 10 de noviembre de 2026",
+            "¿Le trajo suerte el sábado? Revise los ganadores del Chontico Noche hoy, 7 de noviembre",
+            "Chontico Día y Noche: resultados del sorteo del martes 10 de noviembre de 2026"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "luz stella murgas",
           "approx_traffic": "500+",
           "traffic_value": 500,
           "category_key": "other",
@@ -16,21 +60,21 @@
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Cesar": 100,
-            "La Guajira": 94,
-            "Tolima": 89,
-            "San Andrés y Providencia": 85,
-            "Norte de Santander": 77
+            "Vichada": 100,
+            "Cesar": 4,
+            "Bogotá": 4,
+            "Cundinamarca": 1,
+            "Atlántico": 1
           },
           "news_titles": [
-            "Super Astro Sol, resultado del último sorteo de hoy lunes 9 de noviembre de 2026",
-            "Número y signo ganador de Super Astro Luna de este domingo 8 de noviembre",
-            "Astro Luna de hoy, domingo 8 de noviembre: ¿cuál es el número y signo zodiacal ganador?"
+            "Luz Stella Murgas es elegida como nueva presidenta de la Andi: la primera mujer en liderar el gremio | El Colombiano",
+            "Pulso por la presidencia de la Andi llega a su fin este martes: estos son los candidatos que se disputan el cargo",
+            "MinComercio felicitó a Luz Stella Murgas por su llegada a Andi: dispuesto a trabajar articuladamente"
           ]
         },
         {
-          "rank": 2,
-          "term": "ebenezer",
+          "rank": 4,
+          "term": "cadáver",
           "approx_traffic": "100+",
           "traffic_value": 100,
           "category_key": "entertainment",
@@ -38,208 +82,156 @@
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Magdalena": 100,
-            "Bolívar": 95,
-            "Cesar": 55,
-            "Norte de Santander": 52,
-            "Córdoba": 44
+            "Boyacá": 100,
+            "Quindío": 90,
+            "Cundinamarca": 78,
+            "La Guajira": 75,
+            "Cauca": 67
           },
           "news_titles": [
-            "‘I’m not the man I was’: Johnny Depp is back with his biggest role since his highly publicized legal battles",
-            "Johnny Depp’s 2023 Producer Thinks The Actor Is Poised For A Hollywood Comeback With Ebenezer",
-            "Johnny Depp Says His Ebenezer Scrooge Is ‘Trying to Make Himself Invisible’ (Exclusive)"
-          ]
-        },
-        {
-          "rank": 3,
-          "term": "dorado tarde",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Tolima": 100,
-            "Norte de Santander": 76,
-            "San Andrés y Providencia": 72,
-            "Cundinamarca": 48,
-            "Bogotá": 46
-          },
-          "news_titles": [
-            "Dorado Tarde, resultado del último sorteo de hoy lunes 9 de noviembre de 2026: número ganador",
-            "El Dorado, El Paisita y La Caribeña ya tienen resultados: estos fueron los números del 9 de noviembre",
-            "Resultados del Dorado Mañana de hoy, 4 de noviembre: número ganador y quinta balota"
-          ]
-        },
-        {
-          "rank": 4,
-          "term": "néstor lorenzo",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Antioquia": 100,
-            "Santander": 100,
-            "Valle del Cauca": 95,
-            "Meta": 86,
-            "Bogotá": 82
-          },
-          "news_titles": [
-            "Néstor Lorenzo: “Me parece que Lucas González es injusto”",
-            "Nacional pierde jugadores para la recta definitiva y Lucas lanzó un reclamo a Lorenzo | El Colombiano",
-            "La selección Colombia se pronunció sobre los convocados de Nacional que reclamó Lucas González"
+            "Salieron a trotar y se encontraron con un cadáver en El Malecón de Cúcuta",
+            "Gobierno de Abelardo de la Espriella le pone freno al proyecto de hidrolisis alcalina en el Congreso de la República",
+            "Hidrolisis alcalina en Colombia: MinAmbiente presenta reparos al proyecto de ley funerario"
           ]
         },
         {
           "rank": 5,
-          "term": "medidas correctivas",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "linda caicedo",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Guaviare": 100,
-            "Vaupés": 97,
-            "Chocó": 40,
-            "Putumayo": 39,
-            "Guainía": 39
+            "Córdoba": 100,
+            "Cauca": 89,
+            "Valle del Cauca": 81,
+            "Bogotá": 74,
+            "Cundinamarca": 64
           },
           "news_titles": [
-            "Al menos 1.024 deportaciones y expulsiones en tres meses: lo que hay detrás de 'ofensiva' migratoria de De La Espriella y su impacto en la seguridad",
-            "Anuncian la expulsión de 33 extranjeros por alterar el orden en Barranquilla y Cartagena",
-            "Colombia supera las 1.000 deportaciones de extranjeros en tres meses tras operativos en la costa Caribe y principales ciudades"
+            "El misterio de Linda Caicedo y su lesión, a horas del partido de Real Madrid en Champions League",
+            "¿Linda Caicedo sufrió una lesión con el Real Madrid? Esto es lo que se sabe, previo a su partido de la Champions League Femenina",
+            "Resuelto el misterio: Linda Caicedo, en la lista para la Champions"
           ]
         },
         {
           "rank": 6,
-          "term": "aryna sabalenka",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "fitness",
-          "category_label": "Fitness y bienestar",
-          "score": 85,
-          "is_opportunity": true,
-          "geo_breakdown": {
-            "Quindío": 100,
-            "Cundinamarca": 82,
-            "Bogotá": 82,
-            "Santander": 67,
-            "Risaralda": 65
-          },
-          "news_titles": [
-            "FAGE WTA Finals Day 2 preview: Can Sabalenka even series with Muchova?",
-            "Aryna Sabalenka provides fitness update after concerning Wuhan Open scenes",
-            "WTA Finals Best Bets & Predictions for Monday, November 9"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "independiente valle del cauca - unión magdalena",
-          "approx_traffic": "5000+",
-          "traffic_value": 5000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Magdalena": 100,
-            "Bolívar": 21,
-            "Atlántico": 14,
-            "Cesar": 12,
-            "La Guajira": 11
-          },
-          "news_titles": [
-            "🔴EN VIVO: Ind. Valle del Cauca vs. Unión Magdalena - minuto a minuto y goles (Grupo A)",
-            "Así quedó el Grupo A del Torneo de Ascenso: Boca Juniors de Cali ganó y se acerca a la final",
-            "Unión: a ‘dejar la vida’ en el Valle del Cauca"
-          ]
-        },
-        {
-          "rank": 8,
-          "term": "fable 5.2",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Valle del Cauca": 100,
-            "Antioquia": 95,
-            "Bogotá": 94
-          },
-          "news_titles": [
-            "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
-            "Anthropic's New AI Can Design Hardware, Find Cybersecurity Flaws And Solve Physics Problems",
-            "Introducing Claude Fable 5.2 on AWS"
-          ]
-        },
-        {
-          "rank": 9,
-          "term": "juan carlos ferrero",
+          "term": "nations league",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 35,
           "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Córdoba": 78,
+            "Bolívar": 56,
+            "Nariño": 47,
+            "Bogotá": 47
+          },
+          "news_titles": [
+            "France calls up Eli Junior Kroupi for the first time.. Talent with Ivorian roots enters Zidane's calculations",
+            "Marcus Thuram Injury Update: Inter Attacker Sidelined with Muscle Injury",
+            "The blows keep coming for Zidane: another French star to miss the matches against Italy and Turkey"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "real madrid femenino",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Guaviare": 100,
+            "Chocó": 95,
+            "Bolívar": 62,
+            "La Guajira": 49,
+            "Córdoba": 43
+          },
+          "news_titles": [
+            "Real Madrid - Paris FC, en directo: fase de liga de la Champions femenina hoy en vivo",
+            "Real Madrid - Paris FC en directo | Última hora de Champions League Femenina en vivo hoy",
+            "Cuándo juegan Real Madrid vs Paris FC por fecha 4 de fase liga Women's Champions League: equipo, fecha, hora y TV en vivo"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "resultado baloto revancha",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Arauca": 87,
+            "Tolima": 67,
+            "Atlántico": 66,
+            "Cesar": 61
+          },
+          "news_titles": [
+            "Resultados Baloto y Revancha del lunes 9 de noviembre de 2026: números ganadores del sorteo 2.733",
+            "Baloto y Revancha elevan su acumulado a $25.400 millones tras sorteo sin ganadores en su premio mayor",
+            "Baloto y Baloto Revancha: conozca aquí los resultados del último sorteo del sábado 7 de noviembre"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "madre",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "baby_pets",
+          "category_label": "Bebés y mascotas",
+          "score": 83,
+          "is_opportunity": true,
           "geo_breakdown": {},
           "news_titles": [
-            "Ferrero analizó su primer partido contra Alcaraz, reveló qué le faltó a Shelton y contó el sueño que tienen juntos",
-            "Juan Carlos Ferrero: \"Fue extraño después de ocho años pensar en contrarrestar el juego de Carlos\"",
-            "Ferrero habla por primera vez de Shelton y Alcaraz: \"Ayudé a Ben en París y fue algo extraño\""
+            "Mamá de Arleth Carolina contó que volvió a perderle el rastro a su hija tras encontrarla en Bogotá: 'Nosotros necesitamos una ayuda'",
+            "La madre de la profesora Arleth Carolina, hallada en Bogotá tras dos años desaparecida, contó detalles inéditos del caso y dijo que volvió a perderle el rastro",
+            "Habló la familia de Arlet Álvarez, docente desaparecida en Barranquilla y encontrada en Bogotá: “Le canté su canción de bebé”"
           ]
         },
         {
           "rank": 10,
-          "term": "metro de medellín",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
+          "term": "nairo quintana",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Pilas que desde el lunes no habrá taquillas en estas estaciones del metro de Medellín: ¿qué pasará? | El Colombiano",
-            "Adiós a las taquillas tradicionales en seis estaciones del Metro de Medellín; ¿cómo recargar la Cívica desde ahora?",
-            "Metro de Medellín cierra puntos de venta en seis estaciones y anuncia nuevos horarios y formas de pago"
+            "Nairo Quintana, Egan Bernal y Rigoberto Urán prenden las alarmas en Colombia: “Se les dijo”",
+            "La dura advertencia de Nairo Quintana, Egan Bernal y Rigoberto Urán: \"Tuvimos una época\"",
+            "Ciclismo colombiano : historia y legado de sus mejores corredores"
           ]
         }
       ],
       "opportunities": [
         {
-          "term": "aryna sabalenka",
-          "category_key": "fitness",
-          "category_label": "Fitness y bienestar",
-          "score": 85,
+          "term": "madre",
+          "category_key": "baby_pets",
+          "category_label": "Bebés y mascotas",
+          "score": 83,
           "approx_traffic": "1000+",
-          "rationale": "Categoría 'Fitness y bienestar' con buena traducción a producto físico y demanda visible (tráfico ~1000+).",
+          "rationale": "Categoría 'Bebés y mascotas' con buena traducción a producto físico y demanda visible (tráfico ~1000+).",
           "product_ideas": [
-            "Bandas y mini equipos de resistencia",
-            "Botellas y shakers",
-            "Ropa deportiva / leggings",
-            "Smart bands para actividad",
-            "Esterillas de yoga"
+            "Juguetes y accesorios para mascotas",
+            "Comederos automáticos",
+            "Productos de aseo para mascotas",
+            "Accesorios para bebé",
+            "Organizadores infantiles"
           ],
-          "related_queries": [
-            "aryna sabalenka hoy",
-            "elena rybakina",
-            "coco gauff"
-          ],
-          "geo_breakdown": {
-            "Quindío": 100,
-            "Cundinamarca": 82,
-            "Bogotá": 82,
-            "Santander": 67,
-            "Risaralda": 65
-          }
+          "related_queries": [],
+          "geo_breakdown": {}
         }
       ]
     }
