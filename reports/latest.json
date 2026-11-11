@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "regions": [
     {
       "code": "CO",
@@ -8,199 +8,196 @@
       "trends": [
         {
           "rank": 1,
-          "term": "fecha 19",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
+          "term": "nvidia jensen huang",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Caldas": 100,
-            "Tolima": 93,
-            "Antioquia": 61,
-            "Chocó": 60,
-            "Valle del Cauca": 55
+            "Caquetá": 100,
+            "Atlántico": 85,
+            "Bogotá": 80,
+            "Antioquia": 71,
+            "Valle del Cauca": 68
           },
           "news_titles": [
-            "Programación de la Fecha 19 de la Liga BetPlay DIMAYOR II-2026",
-            "Seis clubes por tres cupos: cuentas para clasificar a cuadrangulares",
-            "Así se jugará la fecha definitiva para conocer los últimos clasificados en la Liga"
+            "Alice Huang’s tangled web of connections",
+            "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang",
+            "A Message to Our Company"
           ]
         },
         {
           "rank": 2,
-          "term": "chontico dia",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "usman nurmagomedov",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Valle del Cauca": 100,
-            "Cauca": 65,
-            "San Andrés y Providencia": 19,
-            "Quindío": 13,
-            "Chocó": 12
+            "Bogotá": 100,
+            "Antioquia": 77
           },
           "news_titles": [
-            "Chontico Día, consulte el resultado del último sorteo de hoy martes 10 de noviembre de 2026",
-            "¿Le trajo suerte el sábado? Revise los ganadores del Chontico Noche hoy, 7 de noviembre",
-            "Chontico Día y Noche: resultados del sorteo del martes 10 de noviembre de 2026"
+            "Video shows Merab Dvalishvili attacked by Usman Nurmagomedov and others at RAF event in Abu Dhabi",
+            "Merab Dvalishvili left bloodied after attack by Usman Nurmagomedov during hotel interview in Abu Dhabi",
+            "“You’re a little bit**h” — Russian UFC fighter Nurmagomedov attacked former Georgian champion Dvalishvili from behind"
           ]
         },
         {
           "rank": 3,
-          "term": "luz stella murgas",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "pasaporte colombiano",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 15,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Vichada": 100,
-            "Cesar": 4,
-            "Bogotá": 4,
-            "Cundinamarca": 1,
-            "Atlántico": 1
+            "Guaviare": 100,
+            "Cundinamarca": 30,
+            "Bogotá": 29,
+            "Norte de Santander": 23,
+            "Atlántico": 22
           },
           "news_titles": [
-            "Luz Stella Murgas es elegida como nueva presidenta de la Andi: la primera mujer en liderar el gremio | El Colombiano",
-            "Pulso por la presidencia de la Andi llega a su fin este martes: estos son los candidatos que se disputan el cargo",
-            "MinComercio felicitó a Luz Stella Murgas por su llegada a Andi: dispuesto a trabajar articuladamente"
+            "Convenio de pasaportes con Portugal: la cláusula que llevaría un pleito a un arbitraje internacional en París",
+            "Expedición de pasaporte colombiano: Gobierno explica medida tras suspensión de nuevos contratos",
+            "Pasaportes: tres años de excepción sin tregua"
           ]
         },
         {
           "rank": 4,
-          "term": "cadáver",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "entertainment",
-          "category_label": "Entretenimiento / farándula",
+          "term": "colombia vs chile",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Boyacá": 100,
-            "Quindío": 90,
-            "Cundinamarca": 78,
-            "La Guajira": 75,
-            "Cauca": 67
+            "Valle del Cauca": 100,
+            "Cauca": 51,
+            "Putumayo": 36,
+            "Risaralda": 26,
+            "Nariño": 24
           },
           "news_titles": [
-            "Salieron a trotar y se encontraron con un cadáver en El Malecón de Cúcuta",
-            "Gobierno de Abelardo de la Espriella le pone freno al proyecto de hidrolisis alcalina en el Congreso de la República",
-            "Hidrolisis alcalina en Colombia: MinAmbiente presenta reparos al proyecto de ley funerario"
+            "Colombia ya entrena con el grupo completo en la ‘Sucursal del Cielo’ de cara al duelo contra Chile",
+            "La selección Colombia está casi lista en Cali: faltan solo dos jugadores por llegar a concentración | El Colombiano",
+            "Cuándo juegan Colombia vs Chile por fecha FIFA: equipo, fecha, hora y TV en vivo"
           ]
         },
         {
           "rank": 5,
-          "term": "linda caicedo",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
+          "term": "pozo",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Córdoba": 100,
-            "Cauca": 89,
-            "Valle del Cauca": 81,
-            "Bogotá": 74,
-            "Cundinamarca": 64
+            "Casanare": 100,
+            "Meta": 68,
+            "Boyacá": 51,
+            "Putumayo": 48,
+            "Santander": 42
           },
           "news_titles": [
-            "El misterio de Linda Caicedo y su lesión, a horas del partido de Real Madrid en Champions League",
-            "¿Linda Caicedo sufrió una lesión con el Real Madrid? Esto es lo que se sabe, previo a su partido de la Champions League Femenina",
-            "Resuelto el misterio: Linda Caicedo, en la lista para la Champions"
+            "Niño de cuatro años murió ahogado tras caer accidentalmente a un pozo en construcción en una finca de Amalfi, Antioquia",
+            "Un niño murió ahogado en un pozo de Amalfi, Antioquia",
+            "Niño de cuatro años murió al caerse al pozo en una finca del Nordeste antioqueño | El Colombiano"
           ]
         },
         {
           "rank": 6,
-          "term": "nations league",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Sucre": 100,
-            "Córdoba": 78,
-            "Bolívar": 56,
-            "Nariño": 47,
-            "Bogotá": 47
-          },
-          "news_titles": [
-            "France calls up Eli Junior Kroupi for the first time.. Talent with Ivorian roots enters Zidane's calculations",
-            "Marcus Thuram Injury Update: Inter Attacker Sidelined with Muscle Injury",
-            "The blows keep coming for Zidane: another French star to miss the matches against Italy and Turkey"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "real madrid femenino",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
+          "term": "casper ruud",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Guaviare": 100,
-            "Chocó": 95,
-            "Bolívar": 62,
-            "La Guajira": 49,
-            "Córdoba": 43
+            "Cundinamarca": 100,
+            "Antioquia": 98,
+            "Norte de Santander": 95,
+            "Bogotá": 92,
+            "Valle del Cauca": 91
           },
           "news_titles": [
-            "Real Madrid - Paris FC, en directo: fase de liga de la Champions femenina hoy en vivo",
-            "Real Madrid - Paris FC en directo | Última hora de Champions League Femenina en vivo hoy",
-            "Cuándo juegan Real Madrid vs Paris FC por fecha 4 de fase liga Women's Champions League: equipo, fecha, hora y TV en vivo"
+            "Casper Ruud hires former world No. 3 David Ferrer for 207",
+            "Carlos Alcaraz To Hire New Coach After Sinner and Shelton? Brad Gilbert Makes Bold Prediction",
+            "Former world number three Ferrer to join Ruud's coaching set-up"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "taylor fritz",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Santander": 100,
+            "Antioquia": 91,
+            "Bogotá": 89,
+            "Cundinamarca": 85,
+            "Caldas": 81
+          },
+          "news_titles": [
+            "Fritz beats Norrie in Stockholm for fourth quarter-final in four weeks",
+            "Cameron Norrie dumped out of Stockholm Open by world No.10",
+            "PREDICTION, PREVIEW, H2H: Fritz, Rune, Ruud and Tabilo to play on Center Court on Wednesday – BNP Paribas Nordic Open"
           ]
         },
         {
           "rank": 8,
-          "term": "resultado baloto revancha",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
+          "term": "santiago abascal",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "La Guajira": 100,
-            "Arauca": 87,
-            "Tolima": 67,
-            "Atlántico": 66,
-            "Cesar": 61
+            "Antioquia": 100,
+            "Bogotá": 93,
+            "Tolima": 74,
+            "Santander": 69,
+            "Huila": 66
           },
           "news_titles": [
-            "Resultados Baloto y Revancha del lunes 9 de noviembre de 2026: números ganadores del sorteo 2.733",
-            "Baloto y Revancha elevan su acumulado a $25.400 millones tras sorteo sin ganadores en su premio mayor",
-            "Baloto y Baloto Revancha: conozca aquí los resultados del último sorteo del sábado 7 de noviembre"
+            "Abascal rechaza a última hora su cita con Jordi Wild por la \"censura\" de Broncano y RTVE a 40 minutos de su entrevista",
+            "Jordi Wild responde a Abascal por la \"jugarreta\" de cancelar su entrevista a última hora: \"Venir aquí era un riesgo\"",
+            "Vox denuncia a TVE por «suprimir y retener» 40 minutos de la entrevista de Broncano a Abascal"
           ]
         },
         {
           "rank": 9,
-          "term": "madre",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "baby_pets",
-          "category_label": "Bebés y mascotas",
-          "score": 83,
+          "term": "rockstar games gta vi",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 72,
           "is_opportunity": true,
           "geo_breakdown": {},
           "news_titles": [
-            "Mamá de Arleth Carolina contó que volvió a perderle el rastro a su hija tras encontrarla en Bogotá: 'Nosotros necesitamos una ayuda'",
-            "La madre de la profesora Arleth Carolina, hallada en Bogotá tras dos años desaparecida, contó detalles inéditos del caso y dijo que volvió a perderle el rastro",
-            "Habló la familia de Arlet Álvarez, docente desaparecida en Barranquilla y encontrada en Bogotá: “Le canté su canción de bebé”"
+            "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
+            "Grand Theft Auto VI: Pre-Load Now",
+            "GTA 6 Preloading Is Causing Major Download Traffic Spikes in Europe"
           ]
         },
         {
           "rank": 10,
-          "term": "nairo quintana",
+          "term": "ticketmaster",
           "approx_traffic": "1000+",
           "traffic_value": 1000,
           "category_key": "other",
@@ -209,26 +206,26 @@
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Nairo Quintana, Egan Bernal y Rigoberto Urán prenden las alarmas en Colombia: “Se les dijo”",
-            "La dura advertencia de Nairo Quintana, Egan Bernal y Rigoberto Urán: \"Tuvimos una época\"",
-            "Ciclismo colombiano : historia y legado de sus mejores corredores"
+            "Ticketmaster, Spotify, and the Fine Print: What Fans Are Actually Owed",
+            "EU Takes Aim at Influencer Marketing, Deceptive Online Tactics With Revamped Rules",
+            "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules"
           ]
         }
       ],
       "opportunities": [
         {
-          "term": "madre",
-          "category_key": "baby_pets",
-          "category_label": "Bebés y mascotas",
-          "score": 83,
-          "approx_traffic": "1000+",
-          "rationale": "Categoría 'Bebés y mascotas' con buena traducción a producto físico y demanda visible (tráfico ~1000+).",
+          "term": "rockstar games gta vi",
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 72,
+          "approx_traffic": "200+",
+          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~200+).",
           "product_ideas": [
-            "Juguetes y accesorios para mascotas",
-            "Comederos automáticos",
-            "Productos de aseo para mascotas",
-            "Accesorios para bebé",
-            "Organizadores infantiles"
+            "Periféricos gamer (mouse/teclado)",
+            "Sillas y soportes para setup",
+            "Luces RGB",
+            "Controles y accesorios de consola",
+            "Merchandising de juegos populares"
           ],
           "related_queries": [],
           "geo_breakdown": {}

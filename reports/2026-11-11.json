@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-11",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "nvidia jensen huang",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Caquetá": 100,
+            "Atlántico": 85,
+            "Bogotá": 80,
+            "Antioquia": 71,
+            "Valle del Cauca": 68
+          },
+          "news_titles": [
+            "Alice Huang’s tangled web of connections",
+            "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang",
+            "A Message to Our Company"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "usman nurmagomedov",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Antioquia": 77
+          },
+          "news_titles": [
+            "Video shows Merab Dvalishvili attacked by Usman Nurmagomedov and others at RAF event in Abu Dhabi",
+            "Merab Dvalishvili left bloodied after attack by Usman Nurmagomedov during hotel interview in Abu Dhabi",
+            "“You’re a little bit**h” — Russian UFC fighter Nurmagomedov attacked former Georgian champion Dvalishvili from behind"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "pasaporte colombiano",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 15,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Guaviare": 100,
+            "Cundinamarca": 30,
+            "Bogotá": 29,
+            "Norte de Santander": 23,
+            "Atlántico": 22
+          },
+          "news_titles": [
+            "Convenio de pasaportes con Portugal: la cláusula que llevaría un pleito a un arbitraje internacional en París",
+            "Expedición de pasaporte colombiano: Gobierno explica medida tras suspensión de nuevos contratos",
+            "Pasaportes: tres años de excepción sin tregua"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "colombia vs chile",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Valle del Cauca": 100,
+            "Cauca": 51,
+            "Putumayo": 36,
+            "Risaralda": 26,
+            "Nariño": 24
+          },
+          "news_titles": [
+            "Colombia ya entrena con el grupo completo en la ‘Sucursal del Cielo’ de cara al duelo contra Chile",
+            "La selección Colombia está casi lista en Cali: faltan solo dos jugadores por llegar a concentración | El Colombiano",
+            "Cuándo juegan Colombia vs Chile por fecha FIFA: equipo, fecha, hora y TV en vivo"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "pozo",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Casanare": 100,
+            "Meta": 68,
+            "Boyacá": 51,
+            "Putumayo": 48,
+            "Santander": 42
+          },
+          "news_titles": [
+            "Niño de cuatro años murió ahogado tras caer accidentalmente a un pozo en construcción en una finca de Amalfi, Antioquia",
+            "Un niño murió ahogado en un pozo de Amalfi, Antioquia",
+            "Niño de cuatro años murió al caerse al pozo en una finca del Nordeste antioqueño | El Colombiano"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "casper ruud",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Cundinamarca": 100,
+            "Antioquia": 98,
+            "Norte de Santander": 95,
+            "Bogotá": 92,
+            "Valle del Cauca": 91
+          },
+          "news_titles": [
+            "Casper Ruud hires former world No. 3 David Ferrer for 207",
+            "Carlos Alcaraz To Hire New Coach After Sinner and Shelton? Brad Gilbert Makes Bold Prediction",
+            "Former world number three Ferrer to join Ruud's coaching set-up"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "taylor fritz",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Santander": 100,
+            "Antioquia": 91,
+            "Bogotá": 89,
+            "Cundinamarca": 85,
+            "Caldas": 81
+          },
+          "news_titles": [
+            "Fritz beats Norrie in Stockholm for fourth quarter-final in four weeks",
+            "Cameron Norrie dumped out of Stockholm Open by world No.10",
+            "PREDICTION, PREVIEW, H2H: Fritz, Rune, Ruud and Tabilo to play on Center Court on Wednesday – BNP Paribas Nordic Open"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "santiago abascal",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Antioquia": 100,
+            "Bogotá": 93,
+            "Tolima": 74,
+            "Santander": 69,
+            "Huila": 66
+          },
+          "news_titles": [
+            "Abascal rechaza a última hora su cita con Jordi Wild por la \"censura\" de Broncano y RTVE a 40 minutos de su entrevista",
+            "Jordi Wild responde a Abascal por la \"jugarreta\" de cancelar su entrevista a última hora: \"Venir aquí era un riesgo\"",
+            "Vox denuncia a TVE por «suprimir y retener» 40 minutos de la entrevista de Broncano a Abascal"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "rockstar games gta vi",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 72,
+          "is_opportunity": true,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
+            "Grand Theft Auto VI: Pre-Load Now",
+            "GTA 6 Preloading Is Causing Major Download Traffic Spikes in Europe"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "ticketmaster",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Ticketmaster, Spotify, and the Fine Print: What Fans Are Actually Owed",
+            "EU Takes Aim at Influencer Marketing, Deceptive Online Tactics With Revamped Rules",
+            "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "term": "rockstar games gta vi",
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 72,
+          "approx_traffic": "200+",
+          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~200+).",
+          "product_ideas": [
+            "Periféricos gamer (mouse/teclado)",
+            "Sillas y soportes para setup",
+            "Luces RGB",
+            "Controles y accesorios de consola",
+            "Merchandising de juegos populares"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {}
+        }
+      ]
+    }
+  ]
+}
