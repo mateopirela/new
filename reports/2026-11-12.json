@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-12",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "megan fox",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Magdalena": 100,
+            "Bolívar": 92,
+            "Huila": 86,
+            "Risaralda": 80,
+            "Valle del Cauca": 79
+          },
+          "news_titles": [
+            "Megan Fox Admits Every Cosmetic Surgery She’s Had Because She ‘Can’t Win’",
+            "Megan Fox Reveals Why She Confirmed Her Breast Surgeries Amid Rumors Of BBL, 'I'm Not Going To Win'",
+            "World’s sexiest woman denies having OnlyFans page – despite charging fans for X-rated pics"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "juicio",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Putumayo": 100,
+            "La Guajira": 97,
+            "Cauca": 86,
+            "Boyacá": 82,
+            "Nariño": 81
+          },
+          "news_titles": [
+            "Una testigo apuntó contra Nicolás Soria en el juicio por la desaparición de Loan: quiénes declararán este jueves",
+            "Van 148 días de proceso por el niño de 9 de Julio",
+            "La defensa de Maciel: \"La teoría del accidente es lo más firme\""
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "posiciones de rd congo contra selección de fútbol de sierra leona",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100
+          },
+          "news_titles": [
+            "Congo DR vs Sierra Leone: Africa Cup of Nations Qualification stats & head-to-head",
+            "AFCON 2027:Leopards Shine in Win Over Sierra Leone",
+            "TotalEnergies CAF AFCON 2027 Qualifiers: DR Congo extend perfect run as Guinea-Bissau and Zimbabwe held to draws"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "posiciones de selección de fútbol de turquía contra selección de fútbol de bélgica",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Córdoba": 100,
+            "Bolívar": 76,
+            "Nariño": 73,
+            "Atlántico": 65,
+            "Norte de Santander": 64
+          },
+          "news_titles": [
+            "Turkey vs Belgium: UEFA Nations League stats & head-to-head",
+            "On video: from the halfway line, a miraculous goal by Guler against Belgium!",
+            "Enes Ünal relishes ‘second chance’ with Turkey ahead of starting berth against Belgium"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "inglaterra - croacia",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Arauca": 95,
+            "Caquetá": 91,
+            "Córdoba": 89,
+            "Sucre": 84
+          },
+          "news_titles": [
+            "Inglaterra vs Croacia: Pronósticos de Apuestas, Cuotas y Alineaciones 12/11/2026",
+            "Inglaterra vs. Croacia: hora y canal confirmados para ver el choque en Nations League",
+            "Tuchel palpitó el nuevo enfrentamiento de Inglaterra ante Croacia: \"Esperamos una reacción de ellos\""
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "italy vs france",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Cundinamarca": 56,
+            "Antioquia": 55
+          },
+          "news_titles": [
+            "Licensable picture: UEFA Nations League - Group A1 - Italy v France",
+            "Italy vs France: Lineups, Prediction, Odds & Bet Builder Tip",
+            "Frey: “Italy and France are cousins and rivals, but there’s no hatred. Donnarumma is better than Maignan”"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "teams",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Cundinamarca": 76,
+            "Santander": 75,
+            "Atlántico": 70,
+            "Antioquia": 66
+          },
+          "news_titles": [
+            "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
+            "Dan Mullen Pitches 'Mini-Playoff' Idea For 24-Team Expansion",
+            "Paterno: It Is Time to Act Before College Football’s Hubris Becomes Its Undoing"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "czechia vs spain",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Guaviare": 100,
+            "Cundinamarca": 2,
+            "Antioquia": 2,
+            "Bogotá": 2
+          },
+          "news_titles": [
+            "Preview: Czech Republic vs Spain - prediction, team news, lineups",
+            "La Spagna arriva a Praga mentre si avvicina la fine di un anno indimenticabile",
+            "A new 🔟 tonight in Prague: Spain's shirt numbers for today"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "italia - francia",
+          "approx_traffic": "10000+",
+          "traffic_value": 10000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Por qué el Italia vs. Francia de Nations League puede marcar el futuro de la Azzurra",
+            "Italia vs. Francia en Nations League: Conoce el horario del partidazo",
+            "La selección de Italia recibe a Francia sin Mbappé por la Liga de Naciones este jueves; ¿a qué hora y dónde ver el partido? | El Colombiano"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "chequia - españa",
+          "approx_traffic": "10000+",
+          "traffic_value": 10000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "España: Alineaciones vs Chequia en UEFA Nations League y qué debes saber",
+            "República Checa - España en directo | Última hora de UEFA Nations League en vivo hoy",
+            "De la Fuente: \"Queremos seguir marcando hitos, lo más importante es la autoexigencia\""
+          ]
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}

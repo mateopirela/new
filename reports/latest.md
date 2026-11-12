@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-11-11
+# 📊 Informe de tendencias y dropshipping — 2026-11-12
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,42 +10,33 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | nvidia jensen huang | 500+ | Otros | 🔴 30 |
-| 2 | usman nurmagomedov | 100+ | Deporte / evento | 🔴 40 |
-| 3 | pasaporte colombiano | 100+ | Noticias / actualidad | 🔴 15 |
-| 4 | colombia vs chile | 200+ | Deporte / evento | 🔴 40 |
-| 5 | pozo | 200+ | Noticias / actualidad | 🔴 10 |
-| 6 | casper ruud | 100+ | Deporte / evento | 🔴 40 |
-| 7 | taylor fritz | 500+ | Otros | 🔴 35 |
-| 8 | santiago abascal | 1000+ | Otros | 🔴 30 |
-| 9 | rockstar games gta vi | 200+ | Gaming | 🟡 72 |
-| 10 | ticketmaster | 1000+ | Otros | 🔴 30 |
+| 1 | megan fox | 200+ | Otros | 🔴 30 |
+| 2 | juicio | 200+ | Noticias / actualidad | 🔴 10 |
+| 3 | posiciones de rd congo contra selección de fútbol de sierra leona | 200+ | Deporte / evento | 🔴 40 |
+| 4 | posiciones de selección de fútbol de turquía contra selección de fútbol de bélgica | 1000+ | Deporte / evento | 🔴 40 |
+| 5 | inglaterra - croacia | 5000+ | Deporte / evento | 🔴 40 |
+| 6 | italy vs france | 500+ | Deporte / evento | 🔴 40 |
+| 7 | teams | 1000+ | Otros | 🔴 30 |
+| 8 | czechia vs spain | 200+ | Deporte / evento | 🔴 40 |
+| 9 | italia - francia | 10000+ | Deporte / evento | 🔴 40 |
+| 10 | chequia - españa | 10000+ | Deporte / evento | 🔴 40 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **nvidia jensen huang** → Caquetá (100), Atlántico (85), Bogotá (80), Antioquia (71), Valle del Cauca (68)
-- **usman nurmagomedov** → Bogotá (100), Antioquia (77)
-- **pasaporte colombiano** → Guaviare (100), Cundinamarca (30), Bogotá (29), Norte de Santander (23), Atlántico (22)
-- **colombia vs chile** → Valle del Cauca (100), Cauca (51), Putumayo (36), Risaralda (26), Nariño (24)
-- **pozo** → Casanare (100), Meta (68), Boyacá (51), Putumayo (48), Santander (42)
-- **casper ruud** → Cundinamarca (100), Antioquia (98), Norte de Santander (95), Bogotá (92), Valle del Cauca (91)
-- **taylor fritz** → Santander (100), Antioquia (91), Bogotá (89), Cundinamarca (85), Caldas (81)
-- **santiago abascal** → Antioquia (100), Bogotá (93), Tolima (74), Santander (69), Huila (66)
+- **megan fox** → Magdalena (100), Bolívar (92), Huila (86), Risaralda (80), Valle del Cauca (79)
+- **juicio** → Putumayo (100), La Guajira (97), Cauca (86), Boyacá (82), Nariño (81)
+- **posiciones de rd congo contra selección de fútbol de sierra leona** → Bogotá (100)
+- **posiciones de selección de fútbol de turquía contra selección de fútbol de bélgica** → Córdoba (100), Bolívar (76), Nariño (73), Atlántico (65), Norte de Santander (64)
+- **inglaterra - croacia** → Bolívar (100), Arauca (95), Caquetá (91), Córdoba (89), Sucre (84)
+- **italy vs france** → Bogotá (100), Cundinamarca (56), Antioquia (55)
+- **teams** → Bogotá (100), Cundinamarca (76), Santander (75), Atlántico (70), Antioquia (66)
+- **czechia vs spain** → Guaviare (100), Cundinamarca (2), Antioquia (2), Bogotá (2)
 
 ### 🛒 Oportunidades de dropshipping
 
-#### 🟡 rockstar games gta vi  ·  _Gaming_  ·  potencial 72/100
-
-Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~200+).
-
-**Productos sugeridos:**
-- Periféricos gamer (mouse/teclado)
-- Sillas y soportes para setup
-- Luces RGB
-- Controles y accesorios de consola
-- Merchandising de juegos populares
+_Hoy las tendencias son mayormente noticias/eventos con baja intención de compra directa. Poco encaje para producto físico._
 
 ---
 
