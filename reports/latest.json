@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "regions": [
     {
       "code": "CO",
@@ -8,203 +8,162 @@
       "trends": [
         {
           "rank": 1,
-          "term": "megan fox",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
+          "term": "casa",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Magdalena": 100,
-            "Bolívar": 92,
-            "Huila": 86,
-            "Risaralda": 80,
-            "Valle del Cauca": 79
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "Megan Fox Admits Every Cosmetic Surgery She’s Had Because She ‘Can’t Win’",
-            "Megan Fox Reveals Why She Confirmed Her Breast Surgeries Amid Rumors Of BBL, 'I'm Not Going To Win'",
-            "World’s sexiest woman denies having OnlyFans page – despite charging fans for X-rated pics"
+            "CASA employee and his wife arrested after home search revealed horrid conditions",
+            "CASA employee and his wife arrested after home search revealed horrid conditions",
+            "Former nonprofit employee who helped foster children arrested on child endangerment charges"
           ]
         },
         {
           "rank": 2,
-          "term": "juicio",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
+          "term": "pobreza",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Putumayo": 100,
-            "La Guajira": 97,
-            "Cauca": 86,
-            "Boyacá": 82,
-            "Nariño": 81
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "Una testigo apuntó contra Nicolás Soria en el juicio por la desaparición de Loan: quiénes declararán este jueves",
-            "Van 148 días de proceso por el niño de 9 de Julio",
-            "La defensa de Maciel: \"La teoría del accidente es lo más firme\""
+            "\"Seguí a 5 familias durante 14 años para retratar cómo se vive la pobreza extrema en Colombia y por qué solo algunos logramos salir de ella\"",
+            "\"¡Qué alegría volver a Chiclayo!\": así fue la masiva misa de León XIV en la ciudad de Perú que lanzó su carrera hacia el papado",
+            "El papa León XIV se reencuentra con su pueblo de Chiclayo"
           ]
         },
         {
           "rank": 3,
-          "term": "posiciones de rd congo contra selección de fútbol de sierra leona",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bogotá": 100
-          },
-          "news_titles": [
-            "Congo DR vs Sierra Leone: Africa Cup of Nations Qualification stats & head-to-head",
-            "AFCON 2027:Leopards Shine in Win Over Sierra Leone",
-            "TotalEnergies CAF AFCON 2027 Qualifiers: DR Congo extend perfect run as Guinea-Bissau and Zimbabwe held to draws"
-          ]
-        },
-        {
-          "rank": 4,
-          "term": "posiciones de selección de fútbol de turquía contra selección de fútbol de bélgica",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Córdoba": 100,
-            "Bolívar": 76,
-            "Nariño": 73,
-            "Atlántico": 65,
-            "Norte de Santander": 64
-          },
-          "news_titles": [
-            "Turkey vs Belgium: UEFA Nations League stats & head-to-head",
-            "On video: from the halfway line, a miraculous goal by Guler against Belgium!",
-            "Enes Ünal relishes ‘second chance’ with Turkey ahead of starting berth against Belgium"
-          ]
-        },
-        {
-          "rank": 5,
-          "term": "inglaterra - croacia",
-          "approx_traffic": "5000+",
-          "traffic_value": 5000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bolívar": 100,
-            "Arauca": 95,
-            "Caquetá": 91,
-            "Córdoba": 89,
-            "Sucre": 84
-          },
-          "news_titles": [
-            "Inglaterra vs Croacia: Pronósticos de Apuestas, Cuotas y Alineaciones 12/11/2026",
-            "Inglaterra vs. Croacia: hora y canal confirmados para ver el choque en Nations League",
-            "Tuchel palpitó el nuevo enfrentamiento de Inglaterra ante Croacia: \"Esperamos una reacción de ellos\""
-          ]
-        },
-        {
-          "rank": 6,
-          "term": "italy vs france",
+          "term": "eslovenia - suiza",
           "approx_traffic": "500+",
           "traffic_value": 500,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Bogotá": 100,
-            "Cundinamarca": 56,
-            "Antioquia": 55
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "Licensable picture: UEFA Nations League - Group A1 - Italy v France",
-            "Italy vs France: Lineups, Prediction, Odds & Bet Builder Tip",
-            "Frey: “Italy and France are cousins and rivals, but there’s no hatred. Donnarumma is better than Maignan”"
+            "Eslovenia vs Suiza: Pronósticos de Apuestas, Cuotas y Alineaciones 13/11/2026",
+            "Eslovenia vs. Suiza hoy en directo: ¿quién televisa el partido y dónde verlo en streaming?",
+            "Bulgaria vs Islandia: fecha, hora, canal, TV y dónde ver online hoy la Nations League 2026/27 en España"
           ]
         },
         {
-          "rank": 7,
-          "term": "teams",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
+          "rank": 4,
+          "term": "serbia - alemania",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Serbia vs Alemania: Pronósticos de Apuestas, Cuotas y Alineaciones 13/11/2026",
+            "Serbia contra Alemania hoy en directo: ¿quién televisa el partido y dónde verlo en streaming?",
+            "«Podremos comunicarnos»: Philipp Treu espera con ganas el inquietante duelo contra Serbia en un estadio vacío, mientras Alemania pone la mira en el partido decisivo de Berlín"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "reforma",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Bogotá": 100,
-            "Cundinamarca": 76,
-            "Santander": 75,
-            "Atlántico": 70,
-            "Antioquia": 66
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era",
-            "Dan Mullen Pitches 'Mini-Playoff' Idea For 24-Team Expansion",
-            "Paterno: It Is Time to Act Before College Football’s Hubris Becomes Its Undoing"
+            "La reforma a la regla fiscal que propone la tributaria puede agravar lo que busca corregir",
+            "La tributaria y los adultos en la sala",
+            "¿Quién paga las cuentas con la Ley de Rescate Fiscal y el aumento tributario?"
           ]
         },
         {
-          "rank": 8,
-          "term": "czechia vs spain",
+          "rank": 6,
+          "term": "egipto - malaui",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Guaviare": 100,
-            "Cundinamarca": 2,
-            "Antioquia": 2,
-            "Bogotá": 2
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "Preview: Czech Republic vs Spain - prediction, team news, lineups",
-            "La Spagna arriva a Praga mentre si avvicina la fine di un anno indimenticabile",
-            "A new 🔟 tonight in Prague: Spain's shirt numbers for today"
+            "Egipto vs Malawi EN VIVO: resultado y minuto a minuto",
+            "Egipto vs Malaui EN VIVO, minuto a minuto en Eliminatoria Copa Africana de Naciones (2-0)",
+            "Egypt vs Malawi: estadísticas y datos del partido"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "posiciones de selección de fútbol de túnez contra selección de fútbol de libia",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Tunisia vs Libya: Africa Cup of Nations Qualification stats & head-to-head",
+            "AFCON 2027 qualifiers: Libya win 2-0, Kenya hold Bafana",
+            "Is the Eagles' dream over? Clean brace leads Libya to historic win over Tunisia"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "paises bajos vs",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Holanda vs Grecia: Pronósticos de Apuestas, Cuotas y Alineaciones 13/11/2026",
+            "Alineación de la selección de Países Bajos: Xavi elige al sustituto del ausente Virgil van Dijk",
+            "Xavi y Países Bajos buscan el liderato en solitario"
           ]
         },
         {
           "rank": 9,
-          "term": "italia - francia",
-          "approx_traffic": "10000+",
-          "traffic_value": 10000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
+          "term": "la lotería de bogotá último sorteo",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Por qué el Italia vs. Francia de Nations League puede marcar el futuro de la Azzurra",
-            "Italia vs. Francia en Nations League: Conoce el horario del partidazo",
-            "La selección de Italia recibe a Francia sin Mbappé por la Liga de Naciones este jueves; ¿a qué hora y dónde ver el partido? | El Colombiano"
+            "Lotería de Bogotá del jueves 12 de noviembre de 2026: resultado, número ganador y premios del sorteo de hoy",
+            "Lotería del Quindío último sorteo de hoy, jueves 12 de noviembre: número ganador del premio mayor",
+            "Resultado Lotería de Bogotá, Quindío y ColorLoto HOY 12 de noviembre 2026: ganadores y premios"
           ]
         },
         {
           "rank": 10,
-          "term": "chequia - españa",
-          "approx_traffic": "10000+",
-          "traffic_value": 10000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "maría camila pantoja",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "España: Alineaciones vs Chequia en UEFA Nations League y qué debes saber",
-            "República Checa - España en directo | Última hora de UEFA Nations League en vivo hoy",
-            "De la Fuente: \"Queremos seguir marcando hitos, lo más importante es la autoexigencia\""
+            "Eln entregó pruebas de supervivencia de la subteniente María Camila Pantoja: habría seguido sus movimientos durante ocho meses",
+            "Secuestrados llevados por el Eln a Venezuela: la difícil búsqueda de una oficial en Arauca",
+            "Colombia pide a EE. UU. mediar ante Venezuela para buscar a militar secuestrada por el ELN"
           ]
         }
       ],

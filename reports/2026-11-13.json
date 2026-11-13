@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-13",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "casa",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "CASA employee and his wife arrested after home search revealed horrid conditions",
+            "CASA employee and his wife arrested after home search revealed horrid conditions",
+            "Former nonprofit employee who helped foster children arrested on child endangerment charges"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "pobreza",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "\"Seguí a 5 familias durante 14 años para retratar cómo se vive la pobreza extrema en Colombia y por qué solo algunos logramos salir de ella\"",
+            "\"¡Qué alegría volver a Chiclayo!\": así fue la masiva misa de León XIV en la ciudad de Perú que lanzó su carrera hacia el papado",
+            "El papa León XIV se reencuentra con su pueblo de Chiclayo"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "eslovenia - suiza",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Eslovenia vs Suiza: Pronósticos de Apuestas, Cuotas y Alineaciones 13/11/2026",
+            "Eslovenia vs. Suiza hoy en directo: ¿quién televisa el partido y dónde verlo en streaming?",
+            "Bulgaria vs Islandia: fecha, hora, canal, TV y dónde ver online hoy la Nations League 2026/27 en España"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "serbia - alemania",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Serbia vs Alemania: Pronósticos de Apuestas, Cuotas y Alineaciones 13/11/2026",
+            "Serbia contra Alemania hoy en directo: ¿quién televisa el partido y dónde verlo en streaming?",
+            "«Podremos comunicarnos»: Philipp Treu espera con ganas el inquietante duelo contra Serbia en un estadio vacío, mientras Alemania pone la mira en el partido decisivo de Berlín"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "reforma",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "La reforma a la regla fiscal que propone la tributaria puede agravar lo que busca corregir",
+            "La tributaria y los adultos en la sala",
+            "¿Quién paga las cuentas con la Ley de Rescate Fiscal y el aumento tributario?"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "egipto - malaui",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Egipto vs Malawi EN VIVO: resultado y minuto a minuto",
+            "Egipto vs Malaui EN VIVO, minuto a minuto en Eliminatoria Copa Africana de Naciones (2-0)",
+            "Egypt vs Malawi: estadísticas y datos del partido"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "posiciones de selección de fútbol de túnez contra selección de fútbol de libia",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Tunisia vs Libya: Africa Cup of Nations Qualification stats & head-to-head",
+            "AFCON 2027 qualifiers: Libya win 2-0, Kenya hold Bafana",
+            "Is the Eagles' dream over? Clean brace leads Libya to historic win over Tunisia"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "paises bajos vs",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Holanda vs Grecia: Pronósticos de Apuestas, Cuotas y Alineaciones 13/11/2026",
+            "Alineación de la selección de Países Bajos: Xavi elige al sustituto del ausente Virgil van Dijk",
+            "Xavi y Países Bajos buscan el liderato en solitario"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "la lotería de bogotá último sorteo",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Lotería de Bogotá del jueves 12 de noviembre de 2026: resultado, número ganador y premios del sorteo de hoy",
+            "Lotería del Quindío último sorteo de hoy, jueves 12 de noviembre: número ganador del premio mayor",
+            "Resultado Lotería de Bogotá, Quindío y ColorLoto HOY 12 de noviembre 2026: ganadores y premios"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "maría camila pantoja",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Eln entregó pruebas de supervivencia de la subteniente María Camila Pantoja: habría seguido sus movimientos durante ocho meses",
+            "Secuestrados llevados por el Eln a Venezuela: la difícil búsqueda de una oficial en Arauca",
+            "Colombia pide a EE. UU. mediar ante Venezuela para buscar a militar secuestrada por el ELN"
+          ]
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}
