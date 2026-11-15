@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-11-14
+# 📊 Informe de tendencias y dropshipping — 2026-11-15
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,35 +10,35 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | a que hora es stream fighters 5 | 500+ | Gaming | 🟢 77 |
-| 2 | portugal | 100+ | Deporte / evento | 🔴 40 |
-| 3 | vfl wolfsburgo - bayern de múnich | 200+ | Otros | 🔴 30 |
-| 4 | volodímir zelenski | 100+ | Noticias / actualidad | 🔴 10 |
-| 5 | norway vs wales | 200+ | Deporte / evento | 🔴 40 |
-| 6 | primo gay | 500+ | Otros | 🔴 30 |
-| 7 | noruega - gales | 10000+ | Deporte / evento | 🔴 40 |
-| 8 | cáncer de próstata | 200+ | Otros | 🔴 30 |
-| 9 | bill gates | 200+ | Otros | 🔴 30 |
-| 10 | israel vs | 100+ | Deporte / evento | 🔴 40 |
+| 1 | renuncia | 200+ | Noticias / actualidad | 🔴 10 |
+| 2 | 76ers - pacers | 200+ | Deporte / evento | 🔴 35 |
+| 3 | finlandia vs | 100+ | Deporte / evento | 🔴 40 |
+| 4 | ravenna vs forli | 200+ | Deporte / evento | 🔴 40 |
+| 5 | san marino vs | 200+ | Deporte / evento | 🔴 40 |
+| 6 | españa | 500+ | Deporte / evento | 🔴 40 |
+| 7 | ravenna | 200+ | Deporte / evento | 🔴 40 |
+| 8 | deportivo - barcelona | 2000+ | Deporte / evento | 🔴 35 |
+| 9 | finlandia - san marino | 1000+ | Deporte / evento | 🔴 40 |
+| 10 | albania vs | 200+ | Gaming | 🟢 77 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **a que hora es stream fighters 5** → Caquetá (100), Casanare (70), Risaralda (29), Magdalena (26), Bolívar (21)
-- **portugal** → Chocó (100), La Guajira (97), Bolívar (84), Córdoba (80), Magdalena (79)
-- **vfl wolfsburgo - bayern de múnich** → Atlántico (100), Bogotá (26)
-- **volodímir zelenski** → Valle del Cauca (100), Bogotá (73), Antioquia (72)
-- **norway vs wales** → Cundinamarca (100), Antioquia (77), Bogotá (72), Valle del Cauca (63)
-- **primo gay** → Antioquia (100), Córdoba (39), Meta (29), Huila (27), Bogotá (26)
-- **noruega - gales** → Chocó (100), Sucre (97), La Guajira (95), Bolívar (94), Córdoba (90)
-- **cáncer de próstata** → Tolima (100), Nariño (96), Risaralda (90), Huila (89), Valle del Cauca (83)
+- **renuncia** → Cundinamarca (100), Bogotá (99), Caldas (93), Magdalena (91), Meta (90)
+- **76ers - pacers** → Antioquia (100), Santander (98), Atlántico (98), Cundinamarca (64), Valle del Cauca (62)
+- **finlandia vs** → Casanare (100), Bolívar (64), Atlántico (49), Magdalena (49), Norte de Santander (48)
+- **ravenna vs forli** → Magdalena (100), Tolima (59), Santander (49), Atlántico (39), Antioquia (38)
+- **san marino vs** → Bolívar (100), Atlántico (76), Magdalena (71), Córdoba (64), Cundinamarca (53)
+- **españa** → Bolívar (100), Risaralda (97), Valle del Cauca (95), Quindío (90), La Guajira (88)
+- **ravenna** → Bolívar (100), Córdoba (100), Atlántico (88), Norte de Santander (83), Nariño (82)
+- **deportivo - barcelona** → Chocó (100), Bolívar (94), La Guajira (89), Sucre (88), Nariño (76)
 
 ### 🛒 Oportunidades de dropshipping
 
-#### 🟢 a que hora es stream fighters 5  ·  _Gaming_  ·  potencial 77/100
+#### 🟢 albania vs  ·  _Gaming_  ·  potencial 77/100
 
-Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~500+).
+Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~200+).
 
 **Productos sugeridos:**
 - Periféricos gamer (mouse/teclado)

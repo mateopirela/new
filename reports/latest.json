@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "regions": [
     {
       "code": "CO",
@@ -8,211 +8,219 @@
       "trends": [
         {
           "rank": 1,
-          "term": "a que hora es stream fighters 5",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "gaming",
-          "category_label": "Gaming",
-          "score": 77,
-          "is_opportunity": true,
-          "geo_breakdown": {
-            "Caquetá": 100,
-            "Casanare": 70,
-            "Risaralda": 29,
-            "Magdalena": 26,
-            "Bolívar": 21
-          },
-          "news_titles": [
-            "Stream Fighters 5: horarios, cartelera y dónde ver en vivo el evento de Westcol",
-            "“Ya me he pegado con hombres”: Andrea Valdiri habló en SEMANA sobre su pelea contra La Divaza en Stream Fighters 5",
-            "Stream Fighters 5: hora, peleas, dónde ver EN VIVO y boletas"
-          ]
-        },
-        {
-          "rank": 2,
-          "term": "portugal",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Chocó": 100,
-            "La Guajira": 97,
-            "Bolívar": 84,
-            "Córdoba": 80,
-            "Magdalena": 79
-          },
-          "news_titles": [
-            "ESEV inicia obras de ampliação e modernização",
-            "Viseu: Ampliação da Escola Superior de Educação vai arrancar",
-            "Portugal trabalha na expansão das escolas em Viseu"
-          ]
-        },
-        {
-          "rank": 3,
-          "term": "vfl wolfsburgo - bayern de múnich",
+          "term": "renuncia",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Atlántico": 100,
-            "Bogotá": 26
-          },
-          "news_titles": [
-            "Licensable picture: Mensch ärgere Dich nicht\" World Championship",
-            "Licensable picture: Hamburg Elevated Railway",
-            "Licensable picture: Serbia - Germany"
-          ]
-        },
-        {
-          "rank": 4,
-          "term": "volodímir zelenski",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
           "category_key": "news",
           "category_label": "Noticias / actualidad",
           "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Valle del Cauca": 100,
-            "Bogotá": 73,
-            "Antioquia": 72
+            "Cundinamarca": 100,
+            "Bogotá": 99,
+            "Caldas": 93,
+            "Magdalena": 91,
+            "Meta": 90
           },
           "news_titles": [
-            "EE. UU. propuso que Ucrania ceda territorio a Rusia a cambio de su adhesión a la Otán, según Zelenski",
-            "Presidente Zelenski aseguró que EE.UU. planteó admitir a Ucrania en la OTAN si se retira de Donbás",
-            "Zelenski revela que EE. UU. propuso ceder territorio a Rusia a cambio de entrar a la OTAN"
+            "Presidente Abelardo De La Espriella anuncia la salida de Jaime Vives de la dirección de Coljuegos por posible inconsistencia en los títulos",
+            "COMUNICADO A LA OPINIÓN PÚBLICA Y A LA COMUNIDAD UNIVERSITARIA",
+            "Tras revelación de La Silla, Abelardo saca al presidente de Coljuegos"
           ]
         },
         {
-          "rank": 5,
-          "term": "norway vs wales",
+          "rank": 2,
+          "term": "76ers - pacers",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Cundinamarca": 100,
-            "Antioquia": 77,
-            "Bogotá": 72,
-            "Valle del Cauca": 63
-          },
-          "news_titles": [
-            "Norway v Wales confirmed lineups and team news",
-            "Wales boss Bellamy warns of Haaland danger",
-            "Odegaard confident Norway will get Wales back"
-          ]
-        },
-        {
-          "rank": 6,
-          "term": "primo gay",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "score": 35,
           "is_opportunity": false,
           "geo_breakdown": {
             "Antioquia": 100,
-            "Córdoba": 39,
-            "Meta": 29,
-            "Huila": 27,
-            "Bogotá": 26
+            "Santander": 98,
+            "Atlántico": 98,
+            "Cundinamarca": 64,
+            "Valle del Cauca": 62
           },
           "news_titles": [
-            "Atención: cayó alias ‘Primo Gay’, uno de los cabecillas más buscados de Antioquia",
-            "‘Primo Gay’, el temido excabecilla señalado por el ataque que dejó 13 policías muertos en Amalfi | El Colombiano",
-            "Abelardo De La Espriella revela detalles de la caída de Primo Gay, uno de los hombres más buscados de Antioquia"
+            "NBA injury report: Embiid, Reaves out on Sunday, November 15",
+            "Pacers-Nets back-to-back could push Sixers’ frontcourt depth to its breaking point",
+            "Joel Embiid Injured, Latest Updates on 76ers Star's Status and Timeline for Return"
           ]
         },
         {
-          "rank": 7,
-          "term": "noruega - gales",
-          "approx_traffic": "10000+",
-          "traffic_value": 10000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Chocó": 100,
-            "Sucre": 97,
-            "La Guajira": 95,
-            "Bolívar": 94,
-            "Córdoba": 90
-          },
-          "news_titles": [
-            "Noruega - Gales, en directo: Nations League, hoy en vivo",
-            "Noruega vs Gales: Pronósticos de Apuestas, Cuotas y Alineaciones 14/11/2026",
-            "Noruega-Gales EN DIRECTO, las alineaciones oficiales: Haaland está, Sorloth queda fuera y Dasilva sale de inicio"
-          ]
-        },
-        {
-          "rank": 8,
-          "term": "cáncer de próstata",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Tolima": 100,
-            "Nariño": 96,
-            "Risaralda": 90,
-            "Huila": 89,
-            "Valle del Cauca": 83
-          },
-          "news_titles": [
-            "Cambian las pautas de pruebas para detectar cáncer de próstata en hombres de 50 a 69 años: esto es lo nuevo",
-            "Se difunden nuevas directrices para la detección del cáncer de próstata",
-            "Cambian las guías para cáncer de próstata: prueba de PSA más frecuente y adaptada al riesgo"
-          ]
-        },
-        {
-          "rank": 9,
-          "term": "bill gates",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Full transcript: Bill Gates on Meet the Press",
-            "The Garbage Man: Bill Gates has earned billions investing in climate-polluting landfills",
-            "Bill Gates has received $2.6 billion in dividends from landfill operator Republic Services"
-          ]
-        },
-        {
-          "rank": 10,
-          "term": "israel vs",
+          "rank": 3,
+          "term": "finlandia vs",
           "approx_traffic": "100+",
           "traffic_value": 100,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
+          "geo_breakdown": {
+            "Casanare": 100,
+            "Bolívar": 64,
+            "Atlántico": 49,
+            "Magdalena": 49,
+            "Norte de Santander": 48
+          },
+          "news_titles": [
+            "Pronósticos Albania vs. Finlandia: el líder defiende su posición ante un rival que amenaza con alcanzarlo"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "ravenna vs forli",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Magdalena": 100,
+            "Tolima": 59,
+            "Santander": 49,
+            "Atlántico": 39,
+            "Antioquia": 38
+          },
+          "news_titles": [
+            "¡EN VIVO! Ronaldinho, en busca del gol 300, regresó al fútbol profesional en Italia",
+            "Ronaldinho volvió a jugar: primera imagen de su regreso al profesionalismo, a 10 años del retiro",
+            "Ronaldinho regresó del retiro y jugó partido oficial a sus 46 años: detalles del momento histórico"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "san marino vs",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Atlántico": 76,
+            "Magdalena": 71,
+            "Córdoba": 64,
+            "Cundinamarca": 53
+          },
+          "news_titles": [
+            "Air Force vs. Pacific (Nov 15, 2026) Live Score",
+            "Finland vs. San Marino (Nov 15, 2026) Team Stats",
+            "UMBC vs. Towson (Nov 15, 2026) Live Score"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "españa",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Risaralda": 97,
+            "Valle del Cauca": 95,
+            "Quindío": 90,
+            "La Guajira": 88
+          },
+          "news_titles": [
+            "El PP pide en Valencia el voto a la comunidad hispana: «España sin vosotros no es nada»",
+            "Lamine Yamal se pone el 10",
+            "Lamine Yamal será el '10' de España contra Inglaterra en el Metropolitano"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "ravenna",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Córdoba": 100,
+            "Atlántico": 88,
+            "Norte de Santander": 83,
+            "Nariño": 82
+          },
+          "news_titles": [
+            "Ronaldinho, dà spettacolo per un tempo contro il Forlì: ispira il gol di Donati, poi esce facendo l'inchino",
+            "Ravenna-Forlì, Ronaldinho day: live streaming e risultato in diretta",
+            "La leggenda è tornata"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "deportivo - barcelona",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Chocó": 100,
+            "Bolívar": 94,
+            "La Guajira": 89,
+            "Sucre": 88,
+            "Nariño": 76
+          },
+          "news_titles": [
+            "Deportivo - Barça, en directo hoy | Liga F Moeve de fútbol femenino, en vivo",
+            "Deportivo - Barcelona, en directo hoy: partido de la Liga F, en vivo",
+            "El Barça busca prolongar su reinado en Riazor"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "finlandia - san marino",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
           "geo_breakdown": {},
-          "news_titles": []
+          "news_titles": [
+            "Finland vs San Marino: UEFA Nations League stats & head-to-head",
+            "+!+^[Here's Way To Watch] San Marino v Finland LIVE Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November ２０２６",
+            "Finland v San Marino Odds"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "albania vs",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "is_opportunity": true,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Belarus vs Albania: UEFA Nations League stats & head-to-head",
+            "Watch Belarus vs. Albania live today: Who is broadcasting the match on TV and via live stream?",
+            "Sot Shqipëria luan kundër Bjellorusisë, mungon Ernest Muçi"
+          ]
         }
       ],
       "opportunities": [
         {
-          "term": "a que hora es stream fighters 5",
+          "term": "albania vs",
           "category_key": "gaming",
           "category_label": "Gaming",
           "score": 77,
-          "approx_traffic": "500+",
-          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~500+).",
+          "approx_traffic": "200+",
+          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~200+).",
           "product_ideas": [
             "Periféricos gamer (mouse/teclado)",
             "Sillas y soportes para setup",
@@ -221,13 +229,7 @@
             "Merchandising de juegos populares"
           ],
           "related_queries": [],
-          "geo_breakdown": {
-            "Caquetá": 100,
-            "Casanare": 70,
-            "Risaralda": 29,
-            "Magdalena": 26,
-            "Bolívar": 21
-          }
+          "geo_breakdown": {}
         }
       ]
     }
