@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-11-15
+# 📊 Informe de tendencias y dropshipping — 2026-11-16
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,42 +10,44 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | renuncia | 200+ | Noticias / actualidad | 🔴 10 |
-| 2 | 76ers - pacers | 200+ | Deporte / evento | 🔴 35 |
-| 3 | finlandia vs | 100+ | Deporte / evento | 🔴 40 |
-| 4 | ravenna vs forli | 200+ | Deporte / evento | 🔴 40 |
-| 5 | san marino vs | 200+ | Deporte / evento | 🔴 40 |
-| 6 | españa | 500+ | Deporte / evento | 🔴 40 |
-| 7 | ravenna | 200+ | Deporte / evento | 🔴 40 |
-| 8 | deportivo - barcelona | 2000+ | Deporte / evento | 🔴 35 |
-| 9 | finlandia - san marino | 1000+ | Deporte / evento | 🔴 40 |
-| 10 | albania vs | 200+ | Gaming | 🟢 77 |
+| 1 | bancos estados unidos | 200+ | Otros | 🔴 30 |
+| 2 | chile | 100+ | Deporte / evento | 🔴 40 |
+| 3 | marc-andré ter stegen | 100+ | Otros | 🔴 30 |
+| 4 | rockstar games | 100+ | Tecnología y gadgets | 🟢 85 |
+| 5 | cuba | 100+ | Deporte / evento | 🔴 40 |
+| 6 | chontico día | 1000+ | Otros | 🔴 30 |
+| 7 | quinten timber | 100+ | Otros | 🔴 30 |
+| 8 | supuesto apagón mundial | 500+ | Deporte / evento | 🔴 35 |
+| 9 | emoción | 100+ | Otros | 🔴 30 |
+| 10 | brajan gruda | 500+ | Otros | 🔴 30 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **renuncia** → Cundinamarca (100), Bogotá (99), Caldas (93), Magdalena (91), Meta (90)
-- **76ers - pacers** → Antioquia (100), Santander (98), Atlántico (98), Cundinamarca (64), Valle del Cauca (62)
-- **finlandia vs** → Casanare (100), Bolívar (64), Atlántico (49), Magdalena (49), Norte de Santander (48)
-- **ravenna vs forli** → Magdalena (100), Tolima (59), Santander (49), Atlántico (39), Antioquia (38)
-- **san marino vs** → Bolívar (100), Atlántico (76), Magdalena (71), Córdoba (64), Cundinamarca (53)
-- **españa** → Bolívar (100), Risaralda (97), Valle del Cauca (95), Quindío (90), La Guajira (88)
-- **ravenna** → Bolívar (100), Córdoba (100), Atlántico (88), Norte de Santander (83), Nariño (82)
-- **deportivo - barcelona** → Chocó (100), Bolívar (94), La Guajira (89), Sucre (88), Nariño (76)
+- **bancos estados unidos** → Bogotá (100), Santander (85), Cundinamarca (62), Valle del Cauca (47), Antioquia (46)
+- **chile** → Valle del Cauca (100), Vichada (98), Vaupés (83), Bolívar (80), La Guajira (79)
+- **marc-andré ter stegen** → Bogotá (100), Valle del Cauca (57)
+- **rockstar games** → La Guajira (100), Cundinamarca (78), Bogotá (75), Antioquia (72), Quindío (67)
+- **cuba** → Risaralda (100), San Andrés y Providencia (18), Quindío (9), Valle del Cauca (8), Atlántico (8)
+- **chontico día** → Valle del Cauca (100), Cauca (81), Quindío (17), Chocó (15), Caldas (13)
+- **quinten timber** → Valle del Cauca (100), Antioquia (77), Bogotá (42)
+- **supuesto apagón mundial** → Guaviare (100), Valle del Cauca (2), Bogotá (1), Cundinamarca (1), Antioquia (1)
 
 ### 🛒 Oportunidades de dropshipping
 
-#### 🟢 albania vs  ·  _Gaming_  ·  potencial 77/100
+#### 🟢 rockstar games  ·  _Tecnología y gadgets_  ·  potencial 85/100
 
-Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~200+).
+Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~100+).
 
 **Productos sugeridos:**
-- Periféricos gamer (mouse/teclado)
-- Sillas y soportes para setup
-- Luces RGB
-- Controles y accesorios de consola
-- Merchandising de juegos populares
+- Audífonos inalámbricos / TWS
+- Smartwatch económico
+- Cargadores y power banks
+- Soportes y accesorios para celular
+- Mini proyectores y parlantes bluetooth
+
+_Búsquedas relacionadas:_ rockstar games gta vi, gta vi, gta 6, rockstar games gta 6, rockstar games launcher
 
 ---
 

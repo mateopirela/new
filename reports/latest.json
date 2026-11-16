@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "regions": [
     {
       "code": "CO",
@@ -8,51 +8,29 @@
       "trends": [
         {
           "rank": 1,
-          "term": "renuncia",
+          "term": "bancos estados unidos",
           "approx_traffic": "200+",
           "traffic_value": 200,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Cundinamarca": 100,
-            "Bogotá": 99,
-            "Caldas": 93,
-            "Magdalena": 91,
-            "Meta": 90
+            "Bogotá": 100,
+            "Santander": 85,
+            "Cundinamarca": 62,
+            "Valle del Cauca": 47,
+            "Antioquia": 46
           },
           "news_titles": [
-            "Presidente Abelardo De La Espriella anuncia la salida de Jaime Vives de la dirección de Coljuegos por posible inconsistencia en los títulos",
-            "COMUNICADO A LA OPINIÓN PÚBLICA Y A LA COMUNIDAD UNIVERSITARIA",
-            "Tras revelación de La Silla, Abelardo saca al presidente de Coljuegos"
+            "Caída de servicios bancarios en Estados Unidos: Chase, Bank of America y Wells Fargo presentan fallas en sus plataformas digitales",
+            "Miles de clientes de grandes bancos en Estados Unidos no pueden acceder a sus cuentas en línea",
+            "Caos bancario en EE. UU.: usuarios reportan problemas para acceder a sus cuentas"
           ]
         },
         {
           "rank": 2,
-          "term": "76ers - pacers",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Antioquia": 100,
-            "Santander": 98,
-            "Atlántico": 98,
-            "Cundinamarca": 64,
-            "Valle del Cauca": 62
-          },
-          "news_titles": [
-            "NBA injury report: Embiid, Reaves out on Sunday, November 15",
-            "Pacers-Nets back-to-back could push Sixers’ frontcourt depth to its breaking point",
-            "Joel Embiid Injured, Latest Updates on 76ers Star's Status and Timeline for Return"
-          ]
-        },
-        {
-          "rank": 3,
-          "term": "finlandia vs",
+          "term": "chile",
           "approx_traffic": "100+",
           "traffic_value": 100,
           "category_key": "sports_event",
@@ -60,176 +38,206 @@
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Casanare": 100,
-            "Bolívar": 64,
-            "Atlántico": 49,
-            "Magdalena": 49,
-            "Norte de Santander": 48
+            "Valle del Cauca": 100,
+            "Vichada": 98,
+            "Vaupés": 83,
+            "Bolívar": 80,
+            "La Guajira": 79
           },
           "news_titles": [
-            "Pronósticos Albania vs. Finlandia: el líder defiende su posición ante un rival que amenaza con alcanzarlo"
+            "Chile - Colombia: TV, horario y cómo ver online el amistoso de la Fecha FIFA",
+            "Cambio de estadio: Colombia vs. Chile, amistoso fecha FIFA de noviembre 2026",
+            "Comunicado de prensa"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "marc-andré ter stegen",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Valle del Cauca": 57
+          },
+          "news_titles": [
+            "The Cancelo and Al-Hilal scenario on the table: four options to end the Ter Stegen and Barcelona \"maze\"",
+            "Ter Stegen: I'm in contact with Barcelona's players, unlike Flick",
+            "Four Options for Barcelona to Decide Ter Stegen’s Future » Iraqi News Agency"
           ]
         },
         {
           "rank": 4,
-          "term": "ravenna vs forli",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
+          "term": "rockstar games",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "tech",
+          "category_label": "Tecnología y gadgets",
+          "score": 85,
+          "is_opportunity": true,
           "geo_breakdown": {
-            "Magdalena": 100,
-            "Tolima": 59,
-            "Santander": 49,
-            "Atlántico": 39,
-            "Antioquia": 38
+            "La Guajira": 100,
+            "Cundinamarca": 78,
+            "Bogotá": 75,
+            "Antioquia": 72,
+            "Quindío": 67
           },
           "news_titles": [
-            "¡EN VIVO! Ronaldinho, en busca del gol 300, regresó al fútbol profesional en Italia",
-            "Ronaldinho volvió a jugar: primera imagen de su regreso al profesionalismo, a 10 años del retiro",
-            "Ronaldinho regresó del retiro y jugó partido oficial a sus 46 años: detalles del momento histórico"
+            "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+            "GTA 6 Release Times: All The Key Details Xbox Players Need To Know",
+            "Licensable picture: Grand Theft Auto VI covers the Mercuriales towers near Paris"
           ]
         },
         {
           "rank": 5,
-          "term": "san marino vs",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
+          "term": "cuba",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bolívar": 100,
-            "Atlántico": 76,
-            "Magdalena": 71,
-            "Córdoba": 64,
-            "Cundinamarca": 53
+            "Risaralda": 100,
+            "San Andrés y Providencia": 18,
+            "Quindío": 9,
+            "Valle del Cauca": 8,
+            "Atlántico": 8
           },
           "news_titles": [
-            "Air Force vs. Pacific (Nov 15, 2026) Live Score",
-            "Finland vs. San Marino (Nov 15, 2026) Team Stats",
-            "UMBC vs. Towson (Nov 15, 2026) Live Score"
+            "Cuba: El bazar de la rapiña"
           ]
         },
         {
           "rank": 6,
-          "term": "españa",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "chontico día",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bolívar": 100,
-            "Risaralda": 97,
-            "Valle del Cauca": 95,
-            "Quindío": 90,
-            "La Guajira": 88
+            "Valle del Cauca": 100,
+            "Cauca": 81,
+            "Quindío": 17,
+            "Chocó": 15,
+            "Caldas": 13
           },
           "news_titles": [
-            "El PP pide en Valencia el voto a la comunidad hispana: «España sin vosotros no es nada»",
-            "Lamine Yamal se pone el 10",
-            "Lamine Yamal será el '10' de España contra Inglaterra en el Metropolitano"
+            "Chontico Día y Noche: resultados del sorteo de este domingo, 15 de noviembre del 2026",
+            "Chontico Día: resultado del último sorteo hoy domingo 15 de noviembre de 2026",
+            "¿Qué número cayó en el Chontico Noche de hoy, viernes 13 de noviembre?"
           ]
         },
         {
           "rank": 7,
-          "term": "ravenna",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "quinten timber",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bolívar": 100,
-            "Córdoba": 100,
-            "Atlántico": 88,
-            "Norte de Santander": 83,
-            "Nariño": 82
+            "Valle del Cauca": 100,
+            "Antioquia": 77,
+            "Bogotá": 42
           },
           "news_titles": [
-            "Ronaldinho, dà spettacolo per un tempo contro il Forlì: ispira il gol di Donati, poi esce facendo l'inchino",
-            "Ravenna-Forlì, Ronaldinho day: live streaming e risultato in diretta",
-            "La leggenda è tornata"
+            "Frenkie de Jong kan na wegvallen bij Oranje zondag gewoon meedoen bij Barça",
+            "Xavi keert tegen Duitsland terug op 'emotionele' plek: 'Beste moment uit carrière'",
+            "LIVE. Quinten Timber vervangt geblesseerde Frenkie de Jong bij Nederland - Jürgen Klopp rekent op Wirtz en Havertz"
           ]
         },
         {
           "rank": 8,
-          "term": "deportivo - barcelona",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
+          "term": "supuesto apagón mundial",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 35,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Chocó": 100,
-            "Bolívar": 94,
-            "La Guajira": 89,
-            "Sucre": 88,
-            "Nariño": 76
+            "Guaviare": 100,
+            "Valle del Cauca": 2,
+            "Bogotá": 1,
+            "Cundinamarca": 1,
+            "Antioquia": 1
           },
           "news_titles": [
-            "Deportivo - Barça, en directo hoy | Liga F Moeve de fútbol femenino, en vivo",
-            "Deportivo - Barcelona, en directo hoy: partido de la Liga F, en vivo",
-            "El Barça busca prolongar su reinado en Riazor"
+            "¿Habrá un apagón mundial el 17 de noviembre? Esto se sabe:",
+            "FEMA activará la alerta de emergencia en Estados Unidos: esto es todo lo que debes saber",
+            "Cuidado con las alertas de un apagón mundial el 17 de noviembre de 2026: no hay pruebas de que se vaya a producir"
           ]
         },
         {
           "rank": 9,
-          "term": "finlandia - san marino",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "term": "emoción",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Finland vs San Marino: UEFA Nations League stats & head-to-head",
-            "+!+^[Here's Way To Watch] San Marino v Finland LIVE Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November ２０２６",
-            "Finland v San Marino Odds"
+            "Música, emoción y decisiones difíciles: los cinco momentos de la Batalla de Ganadores de La Voz",
+            "'La Voz 2026', programa 10: Pablo López, Mika, Lola Índigo y Melendi, ante las Batallas cruzadas",
+            "Destacados de programación del viernes, 13 de noviembre"
           ]
         },
         {
           "rank": 10,
-          "term": "albania vs",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "gaming",
-          "category_label": "Gaming",
-          "score": 77,
-          "is_opportunity": true,
+          "term": "brajan gruda",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Belarus vs Albania: UEFA Nations League stats & head-to-head",
-            "Watch Belarus vs. Albania live today: Who is broadcasting the match on TV and via live stream?",
-            "Sot Shqipëria luan kundër Bjellorusisë, mungon Ernest Muçi"
+            "Klares Votum: Gruda einer für die Bayern",
+            "Bei Klopp hat er die Nase vor Karl: Dieses DFB-Juwel hat der FC Bayern schon länger im Blick",
+            "Plant der FC Bayern überraschenden Transfer-Coup von deutschem Nationalspieler?"
           ]
         }
       ],
       "opportunities": [
         {
-          "term": "albania vs",
-          "category_key": "gaming",
-          "category_label": "Gaming",
-          "score": 77,
-          "approx_traffic": "200+",
-          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~200+).",
+          "term": "rockstar games",
+          "category_key": "tech",
+          "category_label": "Tecnología y gadgets",
+          "score": 85,
+          "approx_traffic": "100+",
+          "rationale": "Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~100+).",
           "product_ideas": [
-            "Periféricos gamer (mouse/teclado)",
-            "Sillas y soportes para setup",
-            "Luces RGB",
-            "Controles y accesorios de consola",
-            "Merchandising de juegos populares"
+            "Audífonos inalámbricos / TWS",
+            "Smartwatch económico",
+            "Cargadores y power banks",
+            "Soportes y accesorios para celular",
+            "Mini proyectores y parlantes bluetooth"
           ],
-          "related_queries": [],
-          "geo_breakdown": {}
+          "related_queries": [
+            "rockstar games gta vi",
+            "gta vi",
+            "gta 6",
+            "rockstar games gta 6",
+            "rockstar games launcher",
+            "rockstar games juegos"
+          ],
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Cundinamarca": 78,
+            "Bogotá": 75,
+            "Antioquia": 72,
+            "Quindío": 67
+          }
         }
       ]
     }
