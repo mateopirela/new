@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "regions": [
     {
       "code": "CO",
@@ -8,7 +8,159 @@
       "trends": [
         {
           "rank": 1,
-          "term": "bancos estados unidos",
+          "term": "portugal",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Vichada": 98,
+            "Guainía": 98,
+            "Bolívar": 96,
+            "Chocó": 93
+          },
+          "news_titles": [
+            "(Gratuito) Assistir Portugal x País de Gales Ao Vivo agora: veja onde assistir jogo 17 de novembro de 2026",
+            "Liga Nações: Jesus lança Cancelo, António Silva, João Neves e Trincão no ‘onze’",
+            "Mateus Fernandes à SPORT TV"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "súper astro luna",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Caldas": 100,
+            "Santander": 65,
+            "Atlántico": 46,
+            "Bogotá": 37,
+            "Antioquia": 35
+          },
+          "news_titles": [
+            "Astro Luna de hoy, lunes 16 de noviembre: consulte el número ganador y el signo zodiacal",
+            "Super Astro Luna del lunes 16 de noviembre de 2026: resultados, números ganadores y signo",
+            "Super Astro Sol, consulte el resultado del último sorteo de hoy martes 10 de noviembre de 2026"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "zverev",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Cundinamarca": 99,
+            "Boyacá": 97,
+            "Santander": 93,
+            "Valle del Cauca": 81
+          },
+          "news_titles": [
+            "Fils off the mark in Turin! Frenchman outlasts Jodar for first win",
+            "Licensable picture: Tennis 2026: Nitto ATP Finals: FILS 4-6, 6-2, 6-2 JODAR",
+            "Arthur Fils comments ahead of facing Alexander Zverev at the ATP Finals: ‘I am not afraid’"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "venezuela vs rusia amistoso",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Boyacá": 100,
+            "Antioquia": 19,
+            "Bogotá": 12
+          },
+          "news_titles": [
+            "Venezuela volvió a quedarse sin gol y cerró su gira con una derrota ante Rusia",
+            "Vinotinto se mide a Rusia en el frío de Krasnodar en busca de un triunfo",
+            "Dónde ver Venezuela vs Rusia HOY: canal tv online del duelo amistoso por fecha FIFA 2026"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "precios don omar colombia",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Cundinamarca": 82,
+            "Santander": 30,
+            "Valle del Cauca": 30,
+            "Antioquia": 21
+          },
+          "news_titles": [
+            "Boletas de don Omar en Colombia 2027: revelan precios de boletas y fecha de preventa",
+            "Se confirmaron los escenarios de los conciertos de Don Omar en Colombia para 2027: ¿Cuáles son?",
+            "¡Se acabó el misterio! Don Omar confirmó dónde será su concierto en Medellín: este es el escenario"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "alexander zverev",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Cundinamarca": 100,
+            "Boyacá": 99,
+            "Cauca": 97,
+            "Santander": 92,
+            "Bogotá": 85
+          },
+          "news_titles": [
+            "Alexander Zverev v Ben Shelton: ATP Finals tennis group stage – live",
+            "Fils vs Jodar and Zverev vs Shelton – Nitto ATP Finals Predictions",
+            "Zverev and Shelton can qualify today: all the qualification scenarios at the ATP Finals"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "denmark vs norway",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Risaralda": 100,
+            "Atlántico": 33,
+            "Valle del Cauca": 31,
+            "Bogotá": 31,
+            "Antioquia": 24
+          },
+          "news_titles": [
+            "Denmark vs Norway: UEFA Nations League stats & head-to-head",
+            "European BTTS Tips: Scandinavian showdown to serve up goals in 3/1 Treble",
+            "'We have our own goal machine' - Brian Riemer warns Erling Haaland and Norway as Denmark prepare for Nations League showdown"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "lluvias",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "other",
@@ -17,229 +169,51 @@
           "is_opportunity": false,
           "geo_breakdown": {
             "Bogotá": 100,
-            "Santander": 85,
+            "Chocó": 72,
             "Cundinamarca": 62,
-            "Valle del Cauca": 47,
-            "Antioquia": 46
+            "La Guajira": 54,
+            "Córdoba": 48
           },
           "news_titles": [
-            "Caída de servicios bancarios en Estados Unidos: Chase, Bank of America y Wells Fargo presentan fallas en sus plataformas digitales",
-            "Miles de clientes de grandes bancos en Estados Unidos no pueden acceder a sus cuentas en línea",
-            "Caos bancario en EE. UU.: usuarios reportan problemas para acceder a sus cuentas"
+            "Max Henríquez advierte sobre posible aumento en las temperaturas en Colombia y disminución de las lluvias desde esta semana de noviembre",
+            "“¡A prepararse!”: Max Henríquez alerta por cambios en las temperaturas y las lluvias en Colombia",
+            "Alerta por sequía en Colombia: temperaturas más altas y menos lluvias"
           ]
         },
         {
-          "rank": 2,
-          "term": "chile",
+          "rank": 9,
+          "term": "bosnia vs",
           "approx_traffic": "100+",
           "traffic_value": 100,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Valle del Cauca": 100,
-            "Vichada": 98,
-            "Vaupés": 83,
-            "Bolívar": 80,
-            "La Guajira": 79
-          },
+          "geo_breakdown": {},
           "news_titles": [
-            "Chile - Colombia: TV, horario y cómo ver online el amistoso de la Fecha FIFA",
-            "Cambio de estadio: Colombia vs. Chile, amistoso fecha FIFA de noviembre 2026",
-            "Comunicado de prensa"
+            "Rams 34-6 Cardinals (Nov 15, 2026) Final Score",
+            "Israel vs. Austria (Nov 17, 2026) Team Stats",
+            "Purdue Fort Wayne Mastodons vs. Western Illinois Leathernecks: Game Highlights"
           ]
         },
         {
-          "rank": 3,
-          "term": "marc-andré ter stegen",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bogotá": 100,
-            "Valle del Cauca": 57
-          },
-          "news_titles": [
-            "The Cancelo and Al-Hilal scenario on the table: four options to end the Ter Stegen and Barcelona \"maze\"",
-            "Ter Stegen: I'm in contact with Barcelona's players, unlike Flick",
-            "Four Options for Barcelona to Decide Ter Stegen’s Future » Iraqi News Agency"
-          ]
-        },
-        {
-          "rank": 4,
-          "term": "rockstar games",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "tech",
-          "category_label": "Tecnología y gadgets",
-          "score": 85,
-          "is_opportunity": true,
-          "geo_breakdown": {
-            "La Guajira": 100,
-            "Cundinamarca": 78,
-            "Bogotá": 75,
-            "Antioquia": 72,
-            "Quindío": 67
-          },
-          "news_titles": [
-            "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
-            "GTA 6 Release Times: All The Key Details Xbox Players Need To Know",
-            "Licensable picture: Grand Theft Auto VI covers the Mercuriales towers near Paris"
-          ]
-        },
-        {
-          "rank": 5,
-          "term": "cuba",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Risaralda": 100,
-            "San Andrés y Providencia": 18,
-            "Quindío": 9,
-            "Valle del Cauca": 8,
-            "Atlántico": 8
-          },
-          "news_titles": [
-            "Cuba: El bazar de la rapiña"
-          ]
-        },
-        {
-          "rank": 6,
-          "term": "chontico día",
+          "rank": 10,
+          "term": "ticketmaster",
           "approx_traffic": "1000+",
           "traffic_value": 1000,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {
-            "Valle del Cauca": 100,
-            "Cauca": 81,
-            "Quindío": 17,
-            "Chocó": 15,
-            "Caldas": 13
-          },
-          "news_titles": [
-            "Chontico Día y Noche: resultados del sorteo de este domingo, 15 de noviembre del 2026",
-            "Chontico Día: resultado del último sorteo hoy domingo 15 de noviembre de 2026",
-            "¿Qué número cayó en el Chontico Noche de hoy, viernes 13 de noviembre?"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "quinten timber",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Valle del Cauca": 100,
-            "Antioquia": 77,
-            "Bogotá": 42
-          },
-          "news_titles": [
-            "Frenkie de Jong kan na wegvallen bij Oranje zondag gewoon meedoen bij Barça",
-            "Xavi keert tegen Duitsland terug op 'emotionele' plek: 'Beste moment uit carrière'",
-            "LIVE. Quinten Timber vervangt geblesseerde Frenkie de Jong bij Nederland - Jürgen Klopp rekent op Wirtz en Havertz"
-          ]
-        },
-        {
-          "rank": 8,
-          "term": "supuesto apagón mundial",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Guaviare": 100,
-            "Valle del Cauca": 2,
-            "Bogotá": 1,
-            "Cundinamarca": 1,
-            "Antioquia": 1
-          },
-          "news_titles": [
-            "¿Habrá un apagón mundial el 17 de noviembre? Esto se sabe:",
-            "FEMA activará la alerta de emergencia en Estados Unidos: esto es todo lo que debes saber",
-            "Cuidado con las alertas de un apagón mundial el 17 de noviembre de 2026: no hay pruebas de que se vaya a producir"
-          ]
-        },
-        {
-          "rank": 9,
-          "term": "emoción",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Música, emoción y decisiones difíciles: los cinco momentos de la Batalla de Ganadores de La Voz",
-            "'La Voz 2026', programa 10: Pablo López, Mika, Lola Índigo y Melendi, ante las Batallas cruzadas",
-            "Destacados de programación del viernes, 13 de noviembre"
-          ]
-        },
-        {
-          "rank": 10,
-          "term": "brajan gruda",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Klares Votum: Gruda einer für die Bayern",
-            "Bei Klopp hat er die Nase vor Karl: Dieses DFB-Juwel hat der FC Bayern schon länger im Blick",
-            "Plant der FC Bayern überraschenden Transfer-Coup von deutschem Nationalspieler?"
+            "NHL, Ticketmaster lobbying on Alberta ticket reselling bill",
+            "NHL, Ticketmaster, SeatGeek Lobby Alberta as Ticket Resale Rules Take Shape",
+            "Stevie Wonder’s ‘Songs in the Key of Life’ 50th anniversary performances at Fox Theatre canceled"
           ]
         }
       ],
-      "opportunities": [
-        {
-          "term": "rockstar games",
-          "category_key": "tech",
-          "category_label": "Tecnología y gadgets",
-          "score": 85,
-          "approx_traffic": "100+",
-          "rationale": "Categoría 'Tecnología y gadgets' con buena traducción a producto físico y demanda visible (tráfico ~100+).",
-          "product_ideas": [
-            "Audífonos inalámbricos / TWS",
-            "Smartwatch económico",
-            "Cargadores y power banks",
-            "Soportes y accesorios para celular",
-            "Mini proyectores y parlantes bluetooth"
-          ],
-          "related_queries": [
-            "rockstar games gta vi",
-            "gta vi",
-            "gta 6",
-            "rockstar games gta 6",
-            "rockstar games launcher",
-            "rockstar games juegos"
-          ],
-          "geo_breakdown": {
-            "La Guajira": 100,
-            "Cundinamarca": 78,
-            "Bogotá": 75,
-            "Antioquia": 72,
-            "Quindío": 67
-          }
-        }
-      ]
+      "opportunities": []
     }
   ]
 }
