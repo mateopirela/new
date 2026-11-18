@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-18",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "chelsea - paris saint-germain football club",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100
+          },
+          "news_titles": [
+            "Chelsea vs. PSG, Women’s Champions League: Confirmed lineups; how to watch",
+            "Cuthbert taking confidence from team-mates’ quality for ‘proper Champions League night’ | News | Official Site",
+            "Baltimore Ready for PSG reunion in UWCL Clash"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "antioquia",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Antioquia": 100,
+            "Vaupés": 18,
+            "Chocó": 17,
+            "Caldas": 13,
+            "Córdoba": 13
+          },
+          "news_titles": [
+            "Arrancó el control de hipopótamos en Antioquia: aplicarán eutanasia a 10 ejemplares en cuatro meses | El Colombiano",
+            "Arrancó el plan para controlar la población de hipopótamos en Colombia: aplicarán eutanasia a 10 ejemplares en Antioquia",
+            "Cornare inicia plan para controlar los hipopótamos en Colombia: incluye eutanasia de 10 ejemplares, esterilización, traslocación y confinamiento"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "hostigamiento",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "baby_pets",
+          "category_label": "Bebés y mascotas",
+          "score": 88,
+          "is_opportunity": true,
+          "geo_breakdown": {
+            "Huila": 100,
+            "Bogotá": 89,
+            "Cundinamarca": 61,
+            "Valle del Cauca": 47,
+            "Antioquia": 36
+          },
+          "news_titles": [
+            "Nación Mapuche. Nuevamente allanamiento a Lof Temucuicui; el hostigamiento a esta Comunidad no cesa en cualquier momento y a cualquier hora",
+            "Hostigamiento, persecución y amenazas de muerte por deudas de ‘gota a gota’: Concejal David Saavedra alerta sobre la extorsión en Bogotá.",
+            "Hombre dio dirección falsa a ‘gota a gota’ y atacan vivienda donde viven 10 mujeres y una bebé"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "cotización",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 15,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Putumayo": 100,
+            "Casanare": 77,
+            "Magdalena": 75,
+            "Valle del Cauca": 74,
+            "Nariño": 73
+          },
+          "news_titles": [
+            "Dólar hoy en Colombia: este es el precio de la moneda para el 18 de noviembre",
+            "El dólar cerró en $3.326,88, con un alza de $17,33 frente a la TRM del día, que se ubicó en $3.309,5",
+            "Dólar más barato; la moneda inicia la semana con tendencia a la baja"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "lucas gonzález vélez",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Antioquia": 100,
+            "Caldas": 53,
+            "Cauca": 40,
+            "Valle del Cauca": 38,
+            "Atlántico": 37
+          },
+          "news_titles": [
+            "Carlos Antonio Vélez reaccionó al batacazo de Once Caldas ante Nacional: analizó a Lucas González",
+            "Carlos A. Vélez lanzó dura crítica a Nacional y señaló a James, Cardona y más por derrota en Copa",
+            "Carlos Antonio Vélez analizó la eliminación de Nacional ante Once Caldas"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "megaland 2026",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Cundinamarca": 57,
+            "Tolima": 11,
+            "Boyacá": 10,
+            "Meta": 7
+          },
+          "news_titles": [
+            "Megaland 2026: horarios, recomendaciones y elementos permitidos y prohibidos para ingresar al festival",
+            "Resultado Pijao de Oro de hoy: último sorteo del viernes 13 de noviembre de 2026",
+            "Samán de la Suerte: resultado del miércoles 18 de noviembre de 2026"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "biblioteca nacional",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Boyacá": 60,
+            "Cundinamarca": 55,
+            "Córdoba": 54,
+            "Antioquia": 53
+          },
+          "news_titles": [
+            "Tribunal suspende a Julia Daza, directora de la Biblioteca Nacional",
+            "Un tribunal suspende el nombramiento de la directora de la Biblioteca Nacional por su falta de experiencia",
+            "Julia Daza es suspendida provisionalmente como directora de la Biblioteca Nacional"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "final sudamericana 2026",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Magdalena": 50,
+            "Bolívar": 40,
+            "Sucre": 31,
+            "La Guajira": 31
+          },
+          "news_titles": [
+            "El vínculo histórico con Colombia hará que Boca sea definitivamente local en la final de Barranquilla",
+            "Barranquilla, una ciudad que da señales de la espera por la invasión xeneize",
+            "Cae la primera crítica al nuevo Metropolitano, a días de la final de Sudamericana: con esto salieron"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "los juegos del hambre amanecer en la cosecha",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Jennifer Lawrence y Josh Hutcherson se reencontraron 10 años después de 'Los juegos del hambre': así fue su regreso como 'Katniss' y 'Peeta'",
+            "Los Juegos del Hambre: Amanecer en la Cosecha: 6 razones para volver a Panem",
+            "Joseph Zada, sobre cómo se preparó para interpretar al joven Haymitch en 'Amanecer en la cosecha': \"Pasé un mes viendo todo lo que Woody Harrelson ha hecho\""
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "luis quiñones",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Jugador de América reveló razón de la trifulca con Inter de Bogotá al final del partido: “Soy gamín”",
+            "Duro mensaje de Luis Quiñones y la bronca con jugadores de Internacional de Bogotá; \"yo soy gamín\""
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "term": "hostigamiento",
+          "category_key": "baby_pets",
+          "category_label": "Bebés y mascotas",
+          "score": 88,
+          "approx_traffic": "500+",
+          "rationale": "Categoría 'Bebés y mascotas' con buena traducción a producto físico y demanda visible (tráfico ~500+).",
+          "product_ideas": [
+            "Juguetes y accesorios para mascotas",
+            "Comederos automáticos",
+            "Productos de aseo para mascotas",
+            "Accesorios para bebé",
+            "Organizadores infantiles"
+          ],
+          "related_queries": [
+            "delito de hostigamiento"
+          ],
+          "geo_breakdown": {
+            "Huila": 100,
+            "Bogotá": 89,
+            "Cundinamarca": 61,
+            "Valle del Cauca": 47,
+            "Antioquia": 36
+          }
+        }
+      ]
+    }
+  ]
+}
