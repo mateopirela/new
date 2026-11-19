@@ -1,0 +1,220 @@
+{
+  "date": "2026-11-19",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "servicio geológico colombiano",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Quindío": 100,
+            "Tolima": 92,
+            "Risaralda": 62,
+            "Vaupés": 54,
+            "Valle del Cauca": 43
+          },
+          "news_titles": [
+            "Colombia registró al menos nueve sismos durante este miércoles 18 de noviembre",
+            "Temblor movió a Colombia hoy 19 de noviembre: estos fueron los municipios cercanos al epicentro",
+            "Temblor hoy en Colombia: reportan sismo en la madrugada de este sábado 14 de noviembre: epicentro, magnitud y profundidad"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "alexander zverev",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "San Andrés y Providencia": 100,
+            "Risaralda": 29,
+            "Boyacá": 27,
+            "Cundinamarca": 26,
+            "Bogotá": 26
+          },
+          "news_titles": [
+            "Shelton defeats Jodar, now awaits Nitto ATP Finals SF fate",
+            "Shelton beats Jodar and now needs help from Zverev to advance at the ATP Finals",
+            "A Turin tag! Shelton & Jodar embrace in show of sportsmanship"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "peñarol - cerro largo",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Cundinamarca": 54,
+            "Valle del Cauca": 43,
+            "Antioquia": 30,
+            "Bogotá": 25
+          },
+          "news_titles": [
+            "Cuándo juegan Peñarol vs. Cerro Largo por el Torneo Clausura: equipo, fecha, hora y TV en vivo",
+            "Peñarol vs. Cerro Largo hoy, por la Liga AUF Uruguaya: horario, formaciones y cómo ver en vivo",
+            "Ferreira sale del once de Peñarol, por decisión de Aguirre, para enfrentar a Cerro Largo en la lucha por la Anual"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "alberto gamero",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Valle del Cauca": 72,
+            "Cundinamarca": 64,
+            "Antioquia": 40
+          },
+          "news_titles": [
+            "Renunció en plena rueda de prensa y ahora vuelve a Palmaseca: Gamero abre los cuadrangulares ante el Cali que",
+            "Alberto Gamero y su partido de cuadrangulares contra el Cali",
+            "Deportivo Cali vs Millonarios: dónde ver EN VIVO el Clásico Añejo"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "esmad",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Boyacá": 100,
+            "Cauca": 68,
+            "Atlántico": 54,
+            "Quindío": 54,
+            "Bogotá": 36
+          },
+          "news_titles": [
+            "ESMAD intervino marchas en Barranquilla",
+            "Policía levanta bloqueo en Barranquilla: Esmad tuvo que intervenir",
+            "Ciudadanos denunciaron agresiones del ESMAD durante las marchas en Barranquilla"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "resultados baloto revancha último sorteo",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Cundinamarca": 100,
+            "Córdoba": 85,
+            "Bogotá": 81,
+            "Atlántico": 63,
+            "Valle del Cauca": 57
+          },
+          "news_titles": [
+            "Baloto y Baloto Revancha: conozca aquí los resultados del último sorteo del miércoles 18 de noviembre de 2026",
+            "Resultados de loterías y Baloto del miércoles 18 de noviembre: números ganadores",
+            "Premio De 5.600 Millones De Pesos"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "jurisdicción especial para la paz",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Guaviare": 100,
+            "Quindío": 24,
+            "Tolima": 16,
+            "Chocó": 16,
+            "Antioquia": 15
+          },
+          "news_titles": [
+            "'Hubo contribuciones al patrón macrocriminal desde el alto mando militar': magistrado Parra tras imputación a generales por 2 mil 'falsos positivos'",
+            "Mario Montoya y otros dos generales en retiro no aceptaron responsabilidad por falsos positivos",
+            "'Falsos positivos': JEP identifica a 10 generales como máximos responsables en el gobierno Uirbe"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "talio",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Chocó": 100,
+            "Bogotá": 95,
+            "Cundinamarca": 70,
+            "Tolima": 68,
+            "Santander": 64
+          },
+          "news_titles": [
+            "Chats de Juan de Bedout y médico de Alicia Graham tras primeros síntomas de intoxicación con talio en Bogotá: 'El problema es saber dónde lo ingirió'",
+            "“Alicia sabía que la estaban envenenando”: abogado revela pistas del talio y habla de Juan De Bedout",
+            "Fiscalía avanza en investigación por muerte de Alicia Graham y presunto envenenamiento con"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "city tv",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Purdue and Evonik launch strategic partnership in pharmaceutical manufacturing",
+            "Purdue, Evonik partner on pharmaceutical manufacturing research",
+            "Purdue and Evonik form strategic partnership"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "austria wien - bayern de múnich",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Austria Wien vs Bayern Munich: UEFA Women's Champions League stats & head-to-head",
+            "Austria Wien vs. Bayern Munich: Gamethread (Women’s Champions League)",
+            "Preview: Austria Vienna vs. FC Bayern Women, Champions League Matchday 5"
+          ]
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}

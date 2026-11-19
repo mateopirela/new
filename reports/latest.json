@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "regions": [
     {
       "code": "CO",
@@ -8,7 +8,51 @@
       "trends": [
         {
           "rank": 1,
-          "term": "chelsea - paris saint-germain football club",
+          "term": "servicio geológico colombiano",
+          "approx_traffic": "5000+",
+          "traffic_value": 5000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Quindío": 100,
+            "Tolima": 92,
+            "Risaralda": 62,
+            "Vaupés": 54,
+            "Valle del Cauca": 43
+          },
+          "news_titles": [
+            "Colombia registró al menos nueve sismos durante este miércoles 18 de noviembre",
+            "Temblor movió a Colombia hoy 19 de noviembre: estos fueron los municipios cercanos al epicentro",
+            "Temblor hoy en Colombia: reportan sismo en la madrugada de este sábado 14 de noviembre: epicentro, magnitud y profundidad"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "alexander zverev",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "San Andrés y Providencia": 100,
+            "Risaralda": 29,
+            "Boyacá": 27,
+            "Cundinamarca": 26,
+            "Bogotá": 26
+          },
+          "news_titles": [
+            "Shelton defeats Jodar, now awaits Nitto ATP Finals SF fate",
+            "Shelton beats Jodar and now needs help from Zverev to advance at the ATP Finals",
+            "A Turin tag! Shelton & Jodar embrace in show of sportsmanship"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "peñarol - cerro largo",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "sports_event",
@@ -16,105 +60,64 @@
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bogotá": 100
+            "Bolívar": 100,
+            "Cundinamarca": 54,
+            "Valle del Cauca": 43,
+            "Antioquia": 30,
+            "Bogotá": 25
           },
           "news_titles": [
-            "Chelsea vs. PSG, Women’s Champions League: Confirmed lineups; how to watch",
-            "Cuthbert taking confidence from team-mates’ quality for ‘proper Champions League night’ | News | Official Site",
-            "Baltimore Ready for PSG reunion in UWCL Clash"
-          ]
-        },
-        {
-          "rank": 2,
-          "term": "antioquia",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Antioquia": 100,
-            "Vaupés": 18,
-            "Chocó": 17,
-            "Caldas": 13,
-            "Córdoba": 13
-          },
-          "news_titles": [
-            "Arrancó el control de hipopótamos en Antioquia: aplicarán eutanasia a 10 ejemplares en cuatro meses | El Colombiano",
-            "Arrancó el plan para controlar la población de hipopótamos en Colombia: aplicarán eutanasia a 10 ejemplares en Antioquia",
-            "Cornare inicia plan para controlar los hipopótamos en Colombia: incluye eutanasia de 10 ejemplares, esterilización, traslocación y confinamiento"
-          ]
-        },
-        {
-          "rank": 3,
-          "term": "hostigamiento",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "baby_pets",
-          "category_label": "Bebés y mascotas",
-          "score": 88,
-          "is_opportunity": true,
-          "geo_breakdown": {
-            "Huila": 100,
-            "Bogotá": 89,
-            "Cundinamarca": 61,
-            "Valle del Cauca": 47,
-            "Antioquia": 36
-          },
-          "news_titles": [
-            "Nación Mapuche. Nuevamente allanamiento a Lof Temucuicui; el hostigamiento a esta Comunidad no cesa en cualquier momento y a cualquier hora",
-            "Hostigamiento, persecución y amenazas de muerte por deudas de ‘gota a gota’: Concejal David Saavedra alerta sobre la extorsión en Bogotá.",
-            "Hombre dio dirección falsa a ‘gota a gota’ y atacan vivienda donde viven 10 mujeres y una bebé"
+            "Cuándo juegan Peñarol vs. Cerro Largo por el Torneo Clausura: equipo, fecha, hora y TV en vivo",
+            "Peñarol vs. Cerro Largo hoy, por la Liga AUF Uruguaya: horario, formaciones y cómo ver en vivo",
+            "Ferreira sale del once de Peñarol, por decisión de Aguirre, para enfrentar a Cerro Largo en la lucha por la Anual"
           ]
         },
         {
           "rank": 4,
-          "term": "cotización",
-          "approx_traffic": "5000+",
-          "traffic_value": 5000,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 15,
+          "term": "alberto gamero",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Putumayo": 100,
-            "Casanare": 77,
-            "Magdalena": 75,
-            "Valle del Cauca": 74,
-            "Nariño": 73
+            "Bogotá": 100,
+            "Valle del Cauca": 72,
+            "Cundinamarca": 64,
+            "Antioquia": 40
           },
           "news_titles": [
-            "Dólar hoy en Colombia: este es el precio de la moneda para el 18 de noviembre",
-            "El dólar cerró en $3.326,88, con un alza de $17,33 frente a la TRM del día, que se ubicó en $3.309,5",
-            "Dólar más barato; la moneda inicia la semana con tendencia a la baja"
+            "Renunció en plena rueda de prensa y ahora vuelve a Palmaseca: Gamero abre los cuadrangulares ante el Cali que",
+            "Alberto Gamero y su partido de cuadrangulares contra el Cali",
+            "Deportivo Cali vs Millonarios: dónde ver EN VIVO el Clásico Añejo"
           ]
         },
         {
           "rank": 5,
-          "term": "lucas gonzález vélez",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
+          "term": "esmad",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Antioquia": 100,
-            "Caldas": 53,
-            "Cauca": 40,
-            "Valle del Cauca": 38,
-            "Atlántico": 37
+            "Boyacá": 100,
+            "Cauca": 68,
+            "Atlántico": 54,
+            "Quindío": 54,
+            "Bogotá": 36
           },
           "news_titles": [
-            "Carlos Antonio Vélez reaccionó al batacazo de Once Caldas ante Nacional: analizó a Lucas González",
-            "Carlos A. Vélez lanzó dura crítica a Nacional y señaló a James, Cardona y más por derrota en Copa",
-            "Carlos Antonio Vélez analizó la eliminación de Nacional ante Once Caldas"
+            "ESMAD intervino marchas en Barranquilla",
+            "Policía levanta bloqueo en Barranquilla: Esmad tuvo que intervenir",
+            "Ciudadanos denunciaron agresiones del ESMAD durante las marchas en Barranquilla"
           ]
         },
         {
           "rank": 6,
-          "term": "megaland 2026",
+          "term": "resultados baloto revancha último sorteo",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "other",
@@ -122,65 +125,65 @@
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bogotá": 100,
-            "Cundinamarca": 57,
-            "Tolima": 11,
-            "Boyacá": 10,
-            "Meta": 7
+            "Cundinamarca": 100,
+            "Córdoba": 85,
+            "Bogotá": 81,
+            "Atlántico": 63,
+            "Valle del Cauca": 57
           },
           "news_titles": [
-            "Megaland 2026: horarios, recomendaciones y elementos permitidos y prohibidos para ingresar al festival",
-            "Resultado Pijao de Oro de hoy: último sorteo del viernes 13 de noviembre de 2026",
-            "Samán de la Suerte: resultado del miércoles 18 de noviembre de 2026"
+            "Baloto y Baloto Revancha: conozca aquí los resultados del último sorteo del miércoles 18 de noviembre de 2026",
+            "Resultados de loterías y Baloto del miércoles 18 de noviembre: números ganadores",
+            "Premio De 5.600 Millones De Pesos"
           ]
         },
         {
           "rank": 7,
-          "term": "biblioteca nacional",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "jurisdicción especial para la paz",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bogotá": 100,
-            "Boyacá": 60,
-            "Cundinamarca": 55,
-            "Córdoba": 54,
-            "Antioquia": 53
+            "Guaviare": 100,
+            "Quindío": 24,
+            "Tolima": 16,
+            "Chocó": 16,
+            "Antioquia": 15
           },
           "news_titles": [
-            "Tribunal suspende a Julia Daza, directora de la Biblioteca Nacional",
-            "Un tribunal suspende el nombramiento de la directora de la Biblioteca Nacional por su falta de experiencia",
-            "Julia Daza es suspendida provisionalmente como directora de la Biblioteca Nacional"
+            "'Hubo contribuciones al patrón macrocriminal desde el alto mando militar': magistrado Parra tras imputación a generales por 2 mil 'falsos positivos'",
+            "Mario Montoya y otros dos generales en retiro no aceptaron responsabilidad por falsos positivos",
+            "'Falsos positivos': JEP identifica a 10 generales como máximos responsables en el gobierno Uirbe"
           ]
         },
         {
           "rank": 8,
-          "term": "final sudamericana 2026",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
+          "term": "talio",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
           "score": 35,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Atlántico": 100,
-            "Magdalena": 50,
-            "Bolívar": 40,
-            "Sucre": 31,
-            "La Guajira": 31
+            "Chocó": 100,
+            "Bogotá": 95,
+            "Cundinamarca": 70,
+            "Tolima": 68,
+            "Santander": 64
           },
           "news_titles": [
-            "El vínculo histórico con Colombia hará que Boca sea definitivamente local en la final de Barranquilla",
-            "Barranquilla, una ciudad que da señales de la espera por la invasión xeneize",
-            "Cae la primera crítica al nuevo Metropolitano, a días de la final de Sudamericana: con esto salieron"
+            "Chats de Juan de Bedout y médico de Alicia Graham tras primeros síntomas de intoxicación con talio en Bogotá: 'El problema es saber dónde lo ingirió'",
+            "“Alicia sabía que la estaban envenenando”: abogado revela pistas del talio y habla de Juan De Bedout",
+            "Fiscalía avanza en investigación por muerte de Alicia Graham y presunto envenenamiento con"
           ]
         },
         {
           "rank": 9,
-          "term": "los juegos del hambre amanecer en la cosecha",
+          "term": "city tv",
           "approx_traffic": "100+",
           "traffic_value": 100,
           "category_key": "other",
@@ -189,54 +192,29 @@
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Jennifer Lawrence y Josh Hutcherson se reencontraron 10 años después de 'Los juegos del hambre': así fue su regreso como 'Katniss' y 'Peeta'",
-            "Los Juegos del Hambre: Amanecer en la Cosecha: 6 razones para volver a Panem",
-            "Joseph Zada, sobre cómo se preparó para interpretar al joven Haymitch en 'Amanecer en la cosecha': \"Pasé un mes viendo todo lo que Woody Harrelson ha hecho\""
+            "Purdue and Evonik launch strategic partnership in pharmaceutical manufacturing",
+            "Purdue, Evonik partner on pharmaceutical manufacturing research",
+            "Purdue and Evonik form strategic partnership"
           ]
         },
         {
           "rank": 10,
-          "term": "luis quiñones",
+          "term": "austria wien - bayern de múnich",
           "approx_traffic": "500+",
           "traffic_value": 500,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 35,
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Jugador de América reveló razón de la trifulca con Inter de Bogotá al final del partido: “Soy gamín”",
-            "Duro mensaje de Luis Quiñones y la bronca con jugadores de Internacional de Bogotá; \"yo soy gamín\""
+            "Austria Wien vs Bayern Munich: UEFA Women's Champions League stats & head-to-head",
+            "Austria Wien vs. Bayern Munich: Gamethread (Women’s Champions League)",
+            "Preview: Austria Vienna vs. FC Bayern Women, Champions League Matchday 5"
           ]
         }
       ],
-      "opportunities": [
-        {
-          "term": "hostigamiento",
-          "category_key": "baby_pets",
-          "category_label": "Bebés y mascotas",
-          "score": 88,
-          "approx_traffic": "500+",
-          "rationale": "Categoría 'Bebés y mascotas' con buena traducción a producto físico y demanda visible (tráfico ~500+).",
-          "product_ideas": [
-            "Juguetes y accesorios para mascotas",
-            "Comederos automáticos",
-            "Productos de aseo para mascotas",
-            "Accesorios para bebé",
-            "Organizadores infantiles"
-          ],
-          "related_queries": [
-            "delito de hostigamiento"
-          ],
-          "geo_breakdown": {
-            "Huila": 100,
-            "Bogotá": 89,
-            "Cundinamarca": 61,
-            "Valle del Cauca": 47,
-            "Antioquia": 36
-          }
-        }
-      ]
+      "opportunities": []
     }
   ]
 }
