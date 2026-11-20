@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-20",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "athletic - rcd espanyol",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Espanyol y su partido previa con el Bilbao",
+            "Athletic - Espanyol en directo | Última hora de LALIGA EA Sports en vivo hoy",
+            "Motivación extra en rojiblanco"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "bayer vs",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "is_opportunity": true,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Bayer Leverkusen vs Paderborn live today: Who is showing the match on TV and via live stream?",
+            "Martinez insists Leverkusen must be ‘strong at the back’ against Paderborn",
+            "Video - Leverkusen Set For Major Injury Boost As Kofane, Diaby And Tella Near Return"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "influencer melissa medina",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Norte de Santander": 100,
+            "Bogotá": 39,
+            "Antioquia": 23
+          },
+          "news_titles": [
+            "Investigan extraña muerte de influencer dominicana de 22 años: estaba en una reunión 'privada' con una mujer y un hombre de 60 años; esto se sabe",
+            "Murió Melissa Medina, joven influencer de 22 años en extrañas circunstancias en República Dominicana | El Colombiano",
+            "Quién era Melissa Medina, influenciadora cuya muerte investigan tras encontrarla sin vida"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "bayern munich",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Magdalena": 100,
+            "Sucre": 92,
+            "Bolívar": 91,
+            "La Guajira": 86,
+            "Atlántico": 75
+          },
+          "news_titles": [
+            "Preview: Bayern Munich vs FC Koln - prediction, team news, lineups",
+            "Noah Codjo-Evora on the bench! Vincent Kompany springs a surprise against Köln",
+            "Bayern-Köln preview: Bayern lead the table with five injuries"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "bayern - colonia",
+          "approx_traffic": "20000+",
+          "traffic_value": 20000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Cuándo juegan Bayern vs. Colonia por fecha 10 de Bundesliga: equipo, fecha, hora y TV en vivo",
+            "Bayern Munchen y Su previa de partido contra el Koln",
+            "Sin Luis Díaz por lesión: vea Bayern Múnich vs Colonia EN VIVO"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "bayern vs köln",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Bogotá": 86,
+            "Antioquia": 77,
+            "Valle del Cauca": 61,
+            "Santander": 57
+          },
+          "news_titles": [
+            "So startet der FC in München",
+            "\"Kann und wird sich durchsetzen\": Jahmai Simpson-Pusey und der 1. FC Köln treffen auf Weltfußballer Harry Kane",
+            "Bundesliga: Größte Gästekulisse trotz weitester Fahrt"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "hollman morris",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Cundinamarca": 77,
+            "Valle del Cauca": 57,
+            "Antioquia": 55,
+            "Atlántico": 50
+          },
+          "news_titles": [
+            "Hollman Morris denunció que una camioneta de su esquema de seguridad fue desactivada sin previo aviso: “El riesgo extremo se mantiene”",
+            "Hollman Morris denuncia bloqueo de su vehículo blindado y pide explicación a la Unidad Nacional de Protección",
+            "A Hollman Morris se le dañó la camioneta y armó tremendo escándalo"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "selección de fútbol sub-17 de colombia",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Quindío": 100,
+            "Bolívar": 34,
+            "Antioquia": 29,
+            "Cundinamarca": 23,
+            "Bogotá": 21
+          },
+          "news_titles": [
+            "Grupo unido y listo para el debut en la Copa Mundial Masculina Sub-17 de la FIFA Catar 2026",
+            "Alineación posible de Colombia ante Japón en la fase de grupos del Mundial sub17",
+            "Samuel Martínez, entre el Mundial Sub-17 con la Selección Colombia y un agradecimiento a Liverpool"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "antonio de la rúa",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "¿Shakira y Antonio de la Rúa volvieron? Entorno de ambos niega el rumor que ha tomado fuerza en redes",
+            "¿Shakira y Antonio de la Rúa, juntos de nuevo?",
+            "Shakira y Antonio de la Rúa: su entorno desmiente que hayan retomado su historia de amor"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "cali vs millonarios",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Millonarios anunció sus 20 convocados para enfrentar a Deportivo Cali",
+            "Renunció en plena rueda de prensa y ahora vuelve a Palmaseca: Gamero abre los cuadrangulares ante el Cali que",
+            "Millonarios, con menos presión, comienza su paso por los cuadrangulares de la Liga BetPlay con una visita al Cali: hora y TV"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "term": "bayer vs",
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "approx_traffic": "100+",
+          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~100+).",
+          "product_ideas": [
+            "Periféricos gamer (mouse/teclado)",
+            "Sillas y soportes para setup",
+            "Luces RGB",
+            "Controles y accesorios de consola",
+            "Merchandising de juegos populares"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {}
+        }
+      ]
+    }
+  ]
+}
