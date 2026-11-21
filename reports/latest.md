@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-11-20
+# 📊 Informe de tendencias y dropshipping — 2026-11-21
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,30 +10,33 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | athletic - rcd espanyol | 1000+ | Deporte / evento | 🔴 35 |
-| 2 | bayer vs | 100+ | Gaming | 🟢 77 |
-| 3 | influencer melissa medina | 100+ | Noticias / actualidad | 🔴 10 |
-| 4 | bayern munich | 500+ | Deporte / evento | 🔴 40 |
-| 5 | bayern - colonia | 20000+ | Deporte / evento | 🔴 40 |
-| 6 | bayern vs köln | 1000+ | Deporte / evento | 🔴 40 |
-| 7 | hollman morris | 1000+ | Otros | 🔴 30 |
-| 8 | selección de fútbol sub-17 de colombia | 200+ | Deporte / evento | 🔴 35 |
-| 9 | antonio de la rúa | 200+ | Otros | 🔴 30 |
-| 10 | cali vs millonarios | 100+ | Deporte / evento | 🔴 40 |
+| 1 | palmeiras - flamengo | 1000+ | Deporte / evento | 🔴 40 |
+| 2 | salario minimo 2027 | 500+ | Otros | 🔴 30 |
+| 3 | stuttgart vs | 100+ | Gaming | 🟢 77 |
+| 4 | sevilla vs real betis | 100+ | Deporte / evento | 🔴 40 |
+| 5 | defensa y justicia - barracas central | 100+ | Deporte / evento | 🔴 40 |
+| 6 | aeropuerto | 200+ | Otros | 🔴 30 |
+| 7 | musiala | 100+ | Noticias / actualidad | 🔴 10 |
+| 8 | 76ers - bucks | 200+ | Deporte / evento | 🔴 40 |
+| 9 | feyenoord - excelsior | 200+ | Otros | 🔴 30 |
+| 10 | grupo éxito | 100+ | Otros | 🔴 30 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **influencer melissa medina** → Norte de Santander (100), Bogotá (39), Antioquia (23)
-- **bayern munich** → Magdalena (100), Sucre (92), Bolívar (91), La Guajira (86), Atlántico (75)
-- **bayern vs köln** → Atlántico (100), Bogotá (86), Antioquia (77), Valle del Cauca (61), Santander (57)
-- **hollman morris** → Bogotá (100), Cundinamarca (77), Valle del Cauca (57), Antioquia (55), Atlántico (50)
-- **selección de fútbol sub-17 de colombia** → Quindío (100), Bolívar (34), Antioquia (29), Cundinamarca (23), Bogotá (21)
+- **palmeiras - flamengo** → Bolívar (100), Sucre (87), Atlántico (74), Córdoba (72), Magdalena (60)
+- **salario minimo 2027** → Casanare (100), Meta (94), Tolima (86), Cundinamarca (85), Bogotá (71)
+- **stuttgart vs** → Meta (100), Atlántico (51), Antioquia (33), Valle del Cauca (26), Bogotá (21)
+- **sevilla vs real betis** → Córdoba (100), Atlántico (32), Cundinamarca (21), Bogotá (18), Antioquia (17)
+- **defensa y justicia - barracas central** → Atlántico (100), Cundinamarca (57), Antioquia (50), Bogotá (28)
+- **aeropuerto** → San Andrés y Providencia (100), Bogotá (37), Antioquia (33), Quindío (30), Risaralda (29)
+- **musiala** → La Guajira (100), Chocó (96), Bolívar (88), Córdoba (86), Sucre (81)
+- **76ers - bucks** → Bolívar (100), Valle del Cauca (55), Antioquia (45), Atlántico (44), Bogotá (43)
 
 ### 🛒 Oportunidades de dropshipping
 
-#### 🟢 bayer vs  ·  _Gaming_  ·  potencial 77/100
+#### 🟢 stuttgart vs  ·  _Gaming_  ·  potencial 77/100
 
 Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~100+).
 
@@ -44,18 +47,7 @@ Categoría 'Gaming' con buena traducción a producto físico y demanda visible (
 - Controles y accesorios de consola
 - Merchandising de juegos populares
 
-<details><summary>⚠️ Avisos técnicos no fatales</summary>
-
-- geo/related 'athletic - rcd espanyol': The request failed: Google returned a response with code 429
-- geo/related 'bayer vs': The request failed: Google returned a response with code 429
-- geo/related 'influencer melissa medina': The request failed: Google returned a response with code 429
-- geo/related 'bayern munich': The request failed: Google returned a response with code 429
-- geo/related 'bayern - colonia': The request failed: Google returned a response with code 429
-- geo/related 'bayern vs köln': The request failed: Google returned a response with code 429
-- geo/related 'hollman morris': The request failed: Google returned a response with code 429
-- geo/related 'selección de fútbol sub-17 de colombia': The request failed: Google returned a response with code 429
-
-</details>
+_Búsquedas relacionadas:_ schalke vs stuttgart, schalke 04 vs stuttgart, arsenal vs, arsenal, stuttgart vs hoy
 
 ---
 

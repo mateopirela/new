@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "regions": [
     {
       "code": "CO",
@@ -8,39 +8,138 @@
       "trends": [
         {
           "rank": 1,
-          "term": "athletic - rcd espanyol",
+          "term": "palmeiras - flamengo",
           "approx_traffic": "1000+",
           "traffic_value": 1000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 35,
+          "score": 40,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Sucre": 87,
+            "Atlántico": 74,
+            "Córdoba": 72,
+            "Magdalena": 60
+          },
           "news_titles": [
-            "Espanyol y su partido previa con el Bilbao",
-            "Athletic - Espanyol en directo | Última hora de LALIGA EA Sports en vivo hoy",
-            "Motivación extra en rojiblanco"
+            "Palmeiras terá operação especial de segurança para enfrentar o Flamengo",
+            "Sem Léo Pereira e Pulgar, Danilo e Paquetá devem ser titulares",
+            "Palmeiras x Flamengo: onde assistir ao vivo e escalações do jogo do Brasileirão"
           ]
         },
         {
           "rank": 2,
-          "term": "bayer vs",
+          "term": "salario minimo 2027",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Casanare": 100,
+            "Meta": 94,
+            "Tolima": 86,
+            "Cundinamarca": 85,
+            "Bogotá": 71
+          },
+          "news_titles": [
+            "Aumento del salario mínimo: la alerta de un experto sobre lo que podría pasar con el empleo formal en Colombia",
+            "Mínimo se discutirá con proyecciones de inflación encima de 7% a fin de año",
+            "El mínimo podría subir más que lo que indica la fórmula legal"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "stuttgart vs",
           "approx_traffic": "100+",
           "traffic_value": 100,
           "category_key": "gaming",
           "category_label": "Gaming",
           "score": 77,
           "is_opportunity": true,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Meta": 100,
+            "Atlántico": 51,
+            "Antioquia": 33,
+            "Valle del Cauca": 26,
+            "Bogotá": 21
+          },
           "news_titles": [
-            "Bayer Leverkusen vs Paderborn live today: Who is showing the match on TV and via live stream?",
-            "Martinez insists Leverkusen must be ‘strong at the back’ against Paderborn",
-            "Video - Leverkusen Set For Major Injury Boost As Kofane, Diaby And Tella Near Return"
+            "Schalke unter Druck: Gelingt gegen Stuttgart die Wende?",
+            "Schalke - VfB Stuttgart live: Bundesliga heute im TV und LIVE-STREAM",
+            "Aufstellung: Deniz Undav startet auf Schalke"
           ]
         },
         {
-          "rank": 3,
-          "term": "influencer melissa medina",
+          "rank": 4,
+          "term": "sevilla vs real betis",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Córdoba": 100,
+            "Atlántico": 32,
+            "Cundinamarca": 21,
+            "Bogotá": 18,
+            "Antioquia": 17
+          },
+          "news_titles": [
+            "Watch: Milan loanee Fofana enjoying life at Sevilla as fans show their appreciation",
+            "Seville’s Passionate ‘Gran Derbi’ Divides A City Looking To The Future",
+            "Polymarket Promo Code GOAL20: Get $50 for Sevilla vs Betis 11-21"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "defensa y justicia - barracas central",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Cundinamarca": 57,
+            "Antioquia": 50,
+            "Bogotá": 28
+          },
+          "news_titles": [
+            "Defensa y Justicia vs Barracas Central: Duelo clave por el Torneo Clausura 2026",
+            "Dos boletos a cuartos en juego: la agenda de los playoffs para este sábado",
+            "Dibu titular en Chelsea vs. Leeds, hoy EN VIVO: ¡empezó el partido!"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "aeropuerto",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "San Andrés y Providencia": 100,
+            "Bogotá": 37,
+            "Antioquia": 33,
+            "Quindío": 30,
+            "Risaralda": 29
+          },
+          "news_titles": [
+            "Aeropuerto Matecaña retoma parte de sus operaciones aéreas",
+            "Aeropuerto Internacional Matecaña de Pereira habilitó su segundo piso tras los daños causados por el terremoto",
+            "Aeropuerto Matecaña de Pereira recupera el segundo piso y amplía sus áreas de atención"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "musiala",
           "approx_traffic": "100+",
           "traffic_value": 100,
           "category_key": "news",
@@ -48,123 +147,43 @@
           "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Norte de Santander": 100,
-            "Bogotá": 39,
-            "Antioquia": 23
+            "La Guajira": 100,
+            "Chocó": 96,
+            "Bolívar": 88,
+            "Córdoba": 86,
+            "Sucre": 81
           },
           "news_titles": [
-            "Investigan extraña muerte de influencer dominicana de 22 años: estaba en una reunión 'privada' con una mujer y un hombre de 60 años; esto se sabe",
-            "Murió Melissa Medina, joven influencer de 22 años en extrañas circunstancias en República Dominicana | El Colombiano",
-            "Quién era Melissa Medina, influenciadora cuya muerte investigan tras encontrarla sin vida"
-          ]
-        },
-        {
-          "rank": 4,
-          "term": "bayern munich",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Magdalena": 100,
-            "Sucre": 92,
-            "Bolívar": 91,
-            "La Guajira": 86,
-            "Atlántico": 75
-          },
-          "news_titles": [
-            "Preview: Bayern Munich vs FC Koln - prediction, team news, lineups",
-            "Noah Codjo-Evora on the bench! Vincent Kompany springs a surprise against Köln",
-            "Bayern-Köln preview: Bayern lead the table with five injuries"
-          ]
-        },
-        {
-          "rank": 5,
-          "term": "bayern - colonia",
-          "approx_traffic": "20000+",
-          "traffic_value": 20000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Cuándo juegan Bayern vs. Colonia por fecha 10 de Bundesliga: equipo, fecha, hora y TV en vivo",
-            "Bayern Munchen y Su previa de partido contra el Koln",
-            "Sin Luis Díaz por lesión: vea Bayern Múnich vs Colonia EN VIVO"
-          ]
-        },
-        {
-          "rank": 6,
-          "term": "bayern vs köln",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Atlántico": 100,
-            "Bogotá": 86,
-            "Antioquia": 77,
-            "Valle del Cauca": 61,
-            "Santander": 57
-          },
-          "news_titles": [
-            "So startet der FC in München",
-            "\"Kann und wird sich durchsetzen\": Jahmai Simpson-Pusey und der 1. FC Köln treffen auf Weltfußballer Harry Kane",
-            "Bundesliga: Größte Gästekulisse trotz weitester Fahrt"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "hollman morris",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bogotá": 100,
-            "Cundinamarca": 77,
-            "Valle del Cauca": 57,
-            "Antioquia": 55,
-            "Atlántico": 50
-          },
-          "news_titles": [
-            "Hollman Morris denunció que una camioneta de su esquema de seguridad fue desactivada sin previo aviso: “El riesgo extremo se mantiene”",
-            "Hollman Morris denuncia bloqueo de su vehículo blindado y pide explicación a la Unidad Nacional de Protección",
-            "A Hollman Morris se le dañó la camioneta y armó tremendo escándalo"
+            "FIFPRO reprocha al Bayern por \"presionar\" a Jamal Musiala tras su lesión",
+            "Jamal Musiala, dolor de cabeza de Bayern Múnich: cláusula le cobraría ausencias por enfermedad y lesiones",
+            "Dura confesión de Bayern Múnich sobre Jamal Musiala"
           ]
         },
         {
           "rank": 8,
-          "term": "selección de fútbol sub-17 de colombia",
+          "term": "76ers - bucks",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
-          "score": 35,
+          "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Quindío": 100,
-            "Bolívar": 34,
-            "Antioquia": 29,
-            "Cundinamarca": 23,
-            "Bogotá": 21
+            "Bolívar": 100,
+            "Valle del Cauca": 55,
+            "Antioquia": 45,
+            "Atlántico": 44,
+            "Bogotá": 43
           },
           "news_titles": [
-            "Grupo unido y listo para el debut en la Copa Mundial Masculina Sub-17 de la FIFA Catar 2026",
-            "Alineación posible de Colombia ante Japón en la fase de grupos del Mundial sub17",
-            "Samuel Martínez, entre el Mundial Sub-17 con la Selección Colombia y un agradecimiento a Liverpool"
+            "76ers' Jaylen Brown (hamstring) to miss Wednesday's game vs. Magic",
+            "Tyrese Maxey (foot) returns to lineup Saturday",
+            "Deni Avdija (foot) questionable vs. New York"
           ]
         },
         {
           "rank": 9,
-          "term": "antonio de la rúa",
+          "term": "feyenoord - excelsior",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "other",
@@ -173,31 +192,31 @@
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "¿Shakira y Antonio de la Rúa volvieron? Entorno de ambos niega el rumor que ha tomado fuerza en redes",
-            "¿Shakira y Antonio de la Rúa, juntos de nuevo?",
-            "Shakira y Antonio de la Rúa: su entorno desmiente que hayan retomado su historia de amor"
+            "LIVE eredivisie | Excelsior benut strafschop en leidt in de Kuip, Feyenoord-aanhang scandeert naam bankzitter tegenstander",
+            "Giovanni van Bronckhorst gooit elftal helemaal overhoop tegen Excelsior",
+            "LIVE eredivisie | Spectaculaire openingsfase van derby: Excelsior maakt al snel weer gelijk tegen Feyenoord"
           ]
         },
         {
           "rank": 10,
-          "term": "cali vs millonarios",
+          "term": "grupo éxito",
           "approx_traffic": "100+",
           "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Millonarios anunció sus 20 convocados para enfrentar a Deportivo Cali",
-            "Renunció en plena rueda de prensa y ahora vuelve a Palmaseca: Gamero abre los cuadrangulares ante el Cali que",
-            "Millonarios, con menos presión, comienza su paso por los cuadrangulares de la Liga BetPlay con una visita al Cali: hora y TV"
+            "Grupo Éxito, empresa de Colombia, celebra fuera del país: sus supermercados baten importante logro internacional",
+            "Grupo Éxito abre su primer outlet en Bogotá con una inversión de $900 millones",
+            "Grupo Éxito transforma su historia en Bogotá: innovadora decisión cambia el rumbo del negocio de los supermercados en la capital"
           ]
         }
       ],
       "opportunities": [
         {
-          "term": "bayer vs",
+          "term": "stuttgart vs",
           "category_key": "gaming",
           "category_label": "Gaming",
           "score": 77,
@@ -210,8 +229,20 @@
             "Controles y accesorios de consola",
             "Merchandising de juegos populares"
           ],
-          "related_queries": [],
-          "geo_breakdown": {}
+          "related_queries": [
+            "schalke vs stuttgart",
+            "schalke 04 vs stuttgart",
+            "arsenal vs",
+            "arsenal",
+            "stuttgart vs hoy"
+          ],
+          "geo_breakdown": {
+            "Meta": 100,
+            "Atlántico": 51,
+            "Antioquia": 33,
+            "Valle del Cauca": 26,
+            "Bogotá": 21
+          }
         }
       ]
     }
