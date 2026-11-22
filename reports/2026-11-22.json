@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-22",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "atalanta - inter",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Nariño": 100,
+            "Meta": 95,
+            "Córdoba": 87,
+            "Cesar": 75,
+            "Atlántico": 73
+          },
+          "news_titles": [
+            "Pronostico Atalanta-Inter: opportunità per inseguire il primo posto",
+            "Atalanta-Inter LIVE: risultato, formazioni e diretta testuale della partita",
+            "Atalanta Inter in tv e streaming: dove vedere la partita"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "atalanta vs inter",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "is_opportunity": true,
+          "geo_breakdown": {
+            "Caldas": 100,
+            "Magdalena": 73,
+            "Atlántico": 43,
+            "Valle del Cauca": 28,
+            "Antioquia": 18
+          },
+          "news_titles": [
+            "Atalanta-Inter live: two surprises for Chivu, Zalewski features and Lautaro is on the bench",
+            "Atalanta-Inter: Atalanta arrive with four absentees and 14 points",
+            "Atalanta BC vs Inter Milan Live Stream: How to Watch Italian Serie A in Canada (Nov. 22, 2026)"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "nfl",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "San Andrés y Providencia": 100,
+            "Antioquia": 81,
+            "Bogotá": 69,
+            "Cundinamarca": 66,
+            "La Guajira": 61
+          },
+          "news_titles": [
+            "Bills can match their best record through 10 games, with a win over Dolphins",
+            "[NFL/𝐒treams]!! Thursday Night Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 22 November 2026",
+            "Live updates: Miami Dolphins at Buffalo Bills, 1 p.m. kickoff"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "chiefs - cardinals",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Amazonas": 100,
+            "Antioquia": 1,
+            "Bogotá": 1
+          },
+          "news_titles": [
+            "Is Taylor Swift Going to Travis Kelce’s Chiefs Game Today?",
+            "Chiefs Broadcast Cuts To Disheveled Taylor Swift Sitting At Home",
+            "Taylor Swift’s Status for Attending NWSL Championship Game"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "paranaense - remo",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Tolima": 100,
+            "Atlántico": 98,
+            "Bolívar": 72,
+            "Antioquia": 52,
+            "Bogotá": 39
+          },
+          "news_titles": [
+            "Goleiro do Remo relata tensão e recusa do elenco de viajar após problema no voo",
+            "Athletico-PR recebe o Remo em jogo que pode confirmar matematicamente o rebaixamento do time paraense",
+            "O Clube do Remo. O Avião. A Decolagem. O Susto. O Retorno a Belém"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "criciúma - fortaleza",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Santander": 100,
+            "Antioquia": 39,
+            "Valle del Cauca": 35,
+            "Bogotá": 24
+          },
+          "news_titles": [
+            "João Ricardo valoriza campanha do Fortaleza e projeta confronto com o Tigre",
+            "Ônibus do Criciúma é recepcionado com festa da torcida antes de partida contra o Fortaleza",
+            "Programa especial Som Maior Esportes abre cobertura às 13h para decisão de Criciúma e Fortaleza"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "milan vs frosinone",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Atlántico": 47,
+            "Cundinamarca": 43,
+            "Bogotá": 35,
+            "Valle del Cauca": 32
+          },
+          "news_titles": [
+            "Licensable picture: Serie A - AC Milan v Frosinone",
+            "Florian Wirtz stars as Germany hammer Netherlands to top Nations League group",
+            "Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "kfc",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "San Andrés y Providencia": 91,
+            "Atlántico": 91,
+            "Quindío": 81,
+            "Risaralda": 75
+          },
+          "news_titles": [
+            "Major KFC franchisee files for bankruptcy, puts 84 restaurants up for sale",
+            "Beloved chicken chain operator closing 72 stores in 10 states: Is yours one of them?",
+            "Several KFC restaurants in Memphis area closed or set to close"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "david alonso",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "David Alonso rozó el podio en una gran actuación en el GP de Portugal",
+            "David Alonso: así fue la impresionante remontada del piloto para rozar el podio en el Gran Premio de Portugal de Moto2",
+            "David Alonso y su magistral remontada en el GP de Portugal de Moto2: inició en el puesto 15 y casi consigue el podio"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "nitto atp finals",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Daniil Medvedev defeats Flavio Cobolli in straight sets in the round-robin stage at the Nitto ATP finals 2026 in Turin",
+            "Licensable picture: Tennis 2026: Nitto ATP Finals: AREVALO PAVIC V ARRIBAGE OLIVETTI",
+            "What time is Alexander Zverev v Carlos Alcaraz final on Sunday at ATP Finals and how can you watch in the UK, USA and Australia"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "term": "atalanta vs inter",
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "approx_traffic": "100+",
+          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~100+).",
+          "product_ideas": [
+            "Periféricos gamer (mouse/teclado)",
+            "Sillas y soportes para setup",
+            "Luces RGB",
+            "Controles y accesorios de consola",
+            "Merchandising de juegos populares"
+          ],
+          "related_queries": [
+            "liverpool vs",
+            "liverpool vs manchester united",
+            "milan vs frosinone",
+            "hull city vs brighton"
+          ],
+          "geo_breakdown": {
+            "Caldas": 100,
+            "Magdalena": 73,
+            "Atlántico": 43,
+            "Valle del Cauca": 28,
+            "Antioquia": 18
+          }
+        }
+      ]
+    }
+  ]
+}

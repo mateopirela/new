@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "regions": [
     {
       "code": "CO",
@@ -8,51 +8,29 @@
       "trends": [
         {
           "rank": 1,
-          "term": "palmeiras - flamengo",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
+          "term": "atalanta - inter",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bolívar": 100,
-            "Sucre": 87,
-            "Atlántico": 74,
-            "Córdoba": 72,
-            "Magdalena": 60
+            "Nariño": 100,
+            "Meta": 95,
+            "Córdoba": 87,
+            "Cesar": 75,
+            "Atlántico": 73
           },
           "news_titles": [
-            "Palmeiras terá operação especial de segurança para enfrentar o Flamengo",
-            "Sem Léo Pereira e Pulgar, Danilo e Paquetá devem ser titulares",
-            "Palmeiras x Flamengo: onde assistir ao vivo e escalações do jogo do Brasileirão"
+            "Pronostico Atalanta-Inter: opportunità per inseguire il primo posto",
+            "Atalanta-Inter LIVE: risultato, formazioni e diretta testuale della partita",
+            "Atalanta Inter in tv e streaming: dove vedere la partita"
           ]
         },
         {
           "rank": 2,
-          "term": "salario minimo 2027",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Casanare": 100,
-            "Meta": 94,
-            "Tolima": 86,
-            "Cundinamarca": 85,
-            "Bogotá": 71
-          },
-          "news_titles": [
-            "Aumento del salario mínimo: la alerta de un experto sobre lo que podría pasar con el empleo formal en Colombia",
-            "Mínimo se discutirá con proyecciones de inflación encima de 7% a fin de año",
-            "El mínimo podría subir más que lo que indica la fórmula legal"
-          ]
-        },
-        {
-          "rank": 3,
-          "term": "stuttgart vs",
+          "term": "atalanta vs inter",
           "approx_traffic": "100+",
           "traffic_value": 100,
           "category_key": "gaming",
@@ -60,21 +38,43 @@
           "score": 77,
           "is_opportunity": true,
           "geo_breakdown": {
-            "Meta": 100,
-            "Atlántico": 51,
-            "Antioquia": 33,
-            "Valle del Cauca": 26,
-            "Bogotá": 21
+            "Caldas": 100,
+            "Magdalena": 73,
+            "Atlántico": 43,
+            "Valle del Cauca": 28,
+            "Antioquia": 18
           },
           "news_titles": [
-            "Schalke unter Druck: Gelingt gegen Stuttgart die Wende?",
-            "Schalke - VfB Stuttgart live: Bundesliga heute im TV und LIVE-STREAM",
-            "Aufstellung: Deniz Undav startet auf Schalke"
+            "Atalanta-Inter live: two surprises for Chivu, Zalewski features and Lautaro is on the bench",
+            "Atalanta-Inter: Atalanta arrive with four absentees and 14 points",
+            "Atalanta BC vs Inter Milan Live Stream: How to Watch Italian Serie A in Canada (Nov. 22, 2026)"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "nfl",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "San Andrés y Providencia": 100,
+            "Antioquia": 81,
+            "Bogotá": 69,
+            "Cundinamarca": 66,
+            "La Guajira": 61
+          },
+          "news_titles": [
+            "Bills can match their best record through 10 games, with a win over Dolphins",
+            "[NFL/𝐒treams]!! Thursday Night Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 22 November 2026",
+            "Live updates: Miami Dolphins at Buffalo Bills, 1 p.m. kickoff"
           ]
         },
         {
           "rank": 4,
-          "term": "sevilla vs real betis",
+          "term": "chiefs - cardinals",
           "approx_traffic": "100+",
           "traffic_value": 100,
           "category_key": "sports_event",
@@ -82,42 +82,41 @@
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Córdoba": 100,
-            "Atlántico": 32,
-            "Cundinamarca": 21,
-            "Bogotá": 18,
-            "Antioquia": 17
+            "Amazonas": 100,
+            "Antioquia": 1,
+            "Bogotá": 1
           },
           "news_titles": [
-            "Watch: Milan loanee Fofana enjoying life at Sevilla as fans show their appreciation",
-            "Seville’s Passionate ‘Gran Derbi’ Divides A City Looking To The Future",
-            "Polymarket Promo Code GOAL20: Get $50 for Sevilla vs Betis 11-21"
+            "Is Taylor Swift Going to Travis Kelce’s Chiefs Game Today?",
+            "Chiefs Broadcast Cuts To Disheveled Taylor Swift Sitting At Home",
+            "Taylor Swift’s Status for Attending NWSL Championship Game"
           ]
         },
         {
           "rank": 5,
-          "term": "defensa y justicia - barracas central",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
+          "term": "paranaense - remo",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Atlántico": 100,
-            "Cundinamarca": 57,
-            "Antioquia": 50,
-            "Bogotá": 28
+            "Tolima": 100,
+            "Atlántico": 98,
+            "Bolívar": 72,
+            "Antioquia": 52,
+            "Bogotá": 39
           },
           "news_titles": [
-            "Defensa y Justicia vs Barracas Central: Duelo clave por el Torneo Clausura 2026",
-            "Dos boletos a cuartos en juego: la agenda de los playoffs para este sábado",
-            "Dibu titular en Chelsea vs. Leeds, hoy EN VIVO: ¡empezó el partido!"
+            "Goleiro do Remo relata tensão e recusa do elenco de viajar após problema no voo",
+            "Athletico-PR recebe o Remo em jogo que pode confirmar matematicamente o rebaixamento do time paraense",
+            "O Clube do Remo. O Avião. A Decolagem. O Susto. O Retorno a Belém"
           ]
         },
         {
           "rank": 6,
-          "term": "aeropuerto",
+          "term": "criciúma - fortaleza",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "other",
@@ -125,81 +124,64 @@
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "San Andrés y Providencia": 100,
-            "Bogotá": 37,
-            "Antioquia": 33,
-            "Quindío": 30,
-            "Risaralda": 29
+            "Santander": 100,
+            "Antioquia": 39,
+            "Valle del Cauca": 35,
+            "Bogotá": 24
           },
           "news_titles": [
-            "Aeropuerto Matecaña retoma parte de sus operaciones aéreas",
-            "Aeropuerto Internacional Matecaña de Pereira habilitó su segundo piso tras los daños causados por el terremoto",
-            "Aeropuerto Matecaña de Pereira recupera el segundo piso y amplía sus áreas de atención"
+            "João Ricardo valoriza campanha do Fortaleza e projeta confronto com o Tigre",
+            "Ônibus do Criciúma é recepcionado com festa da torcida antes de partida contra o Fortaleza",
+            "Programa especial Som Maior Esportes abre cobertura às 13h para decisão de Criciúma e Fortaleza"
           ]
         },
         {
           "rank": 7,
-          "term": "musiala",
+          "term": "milan vs frosinone",
           "approx_traffic": "100+",
           "traffic_value": 100,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
           "is_opportunity": false,
           "geo_breakdown": {
-            "La Guajira": 100,
-            "Chocó": 96,
-            "Bolívar": 88,
-            "Córdoba": 86,
-            "Sucre": 81
+            "Bolívar": 100,
+            "Atlántico": 47,
+            "Cundinamarca": 43,
+            "Bogotá": 35,
+            "Valle del Cauca": 32
           },
           "news_titles": [
-            "FIFPRO reprocha al Bayern por \"presionar\" a Jamal Musiala tras su lesión",
-            "Jamal Musiala, dolor de cabeza de Bayern Múnich: cláusula le cobraría ausencias por enfermedad y lesiones",
-            "Dura confesión de Bayern Múnich sobre Jamal Musiala"
+            "Licensable picture: Serie A - AC Milan v Frosinone",
+            "Florian Wirtz stars as Germany hammer Netherlands to top Nations League group",
+            "Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style"
           ]
         },
         {
           "rank": 8,
-          "term": "76ers - bucks",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bolívar": 100,
-            "Valle del Cauca": 55,
-            "Antioquia": 45,
-            "Atlántico": 44,
-            "Bogotá": 43
-          },
-          "news_titles": [
-            "76ers' Jaylen Brown (hamstring) to miss Wednesday's game vs. Magic",
-            "Tyrese Maxey (foot) returns to lineup Saturday",
-            "Deni Avdija (foot) questionable vs. New York"
-          ]
-        },
-        {
-          "rank": 9,
-          "term": "feyenoord - excelsior",
+          "term": "kfc",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
-          "geo_breakdown": {},
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "San Andrés y Providencia": 91,
+            "Atlántico": 91,
+            "Quindío": 81,
+            "Risaralda": 75
+          },
           "news_titles": [
-            "LIVE eredivisie | Excelsior benut strafschop en leidt in de Kuip, Feyenoord-aanhang scandeert naam bankzitter tegenstander",
-            "Giovanni van Bronckhorst gooit elftal helemaal overhoop tegen Excelsior",
-            "LIVE eredivisie | Spectaculaire openingsfase van derby: Excelsior maakt al snel weer gelijk tegen Feyenoord"
+            "Major KFC franchisee files for bankruptcy, puts 84 restaurants up for sale",
+            "Beloved chicken chain operator closing 72 stores in 10 states: Is yours one of them?",
+            "Several KFC restaurants in Memphis area closed or set to close"
           ]
         },
         {
-          "rank": 10,
-          "term": "grupo éxito",
+          "rank": 9,
+          "term": "david alonso",
           "approx_traffic": "100+",
           "traffic_value": 100,
           "category_key": "other",
@@ -208,15 +190,31 @@
           "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "Grupo Éxito, empresa de Colombia, celebra fuera del país: sus supermercados baten importante logro internacional",
-            "Grupo Éxito abre su primer outlet en Bogotá con una inversión de $900 millones",
-            "Grupo Éxito transforma su historia en Bogotá: innovadora decisión cambia el rumbo del negocio de los supermercados en la capital"
+            "David Alonso rozó el podio en una gran actuación en el GP de Portugal",
+            "David Alonso: así fue la impresionante remontada del piloto para rozar el podio en el Gran Premio de Portugal de Moto2",
+            "David Alonso y su magistral remontada en el GP de Portugal de Moto2: inició en el puesto 15 y casi consigue el podio"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "nitto atp finals",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Daniil Medvedev defeats Flavio Cobolli in straight sets in the round-robin stage at the Nitto ATP finals 2026 in Turin",
+            "Licensable picture: Tennis 2026: Nitto ATP Finals: AREVALO PAVIC V ARRIBAGE OLIVETTI",
+            "What time is Alexander Zverev v Carlos Alcaraz final on Sunday at ATP Finals and how can you watch in the UK, USA and Australia"
           ]
         }
       ],
       "opportunities": [
         {
-          "term": "stuttgart vs",
+          "term": "atalanta vs inter",
           "category_key": "gaming",
           "category_label": "Gaming",
           "score": 77,
@@ -230,18 +228,17 @@
             "Merchandising de juegos populares"
           ],
           "related_queries": [
-            "schalke vs stuttgart",
-            "schalke 04 vs stuttgart",
-            "arsenal vs",
-            "arsenal",
-            "stuttgart vs hoy"
+            "liverpool vs",
+            "liverpool vs manchester united",
+            "milan vs frosinone",
+            "hull city vs brighton"
           ],
           "geo_breakdown": {
-            "Meta": 100,
-            "Atlántico": 51,
-            "Antioquia": 33,
-            "Valle del Cauca": 26,
-            "Bogotá": 21
+            "Caldas": 100,
+            "Magdalena": 73,
+            "Atlántico": 43,
+            "Valle del Cauca": 28,
+            "Antioquia": 18
           }
         }
       ]
