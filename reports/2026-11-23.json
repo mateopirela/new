@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-23",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "botafogo vs",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Atlántico": 100,
+            "Cesar": 100,
+            "Huila": 95,
+            "Sucre": 90,
+            "Bolívar": 75
+          },
+          "news_titles": [
+            "Botafogo y São Paulo chocan en el Nilton Santos por la Fecha 36 del Brasileirao",
+            "Botafogo vs São Paulo: Duelo de necesitados en el Brasileirao por la Fecha 36",
+            "São Paulo v Botafogo: Teams confirmed! Pitch keeps Lucas off bench"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "dólar estadounidense",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 15,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Risaralda": 100,
+            "Quindío": 87,
+            "Valle del Cauca": 76,
+            "Antioquia": 68,
+            "Santander": 59
+          },
+          "news_titles": [
+            "Viento de afuera",
+            "Dólar se balancea en el filo de una navaja. Pronóstico del 23.11.2026",
+            "Forex Hoy: La confianza del consumidor de EE.UU. y el IFO de Alemania serán los próximos datos en conocerse"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "selección de fútbol sub-17 de españa",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Cundinamarca": 100,
+            "Valle del Cauca": 95,
+            "Antioquia": 56,
+            "Bogotá": 54
+          },
+          "news_titles": [
+            "España gana 15-0 en su segundo partido en Mundial Sub 17",
+            "España goleó 15-0 a Fiyi en el Mundial Sub-17 de Catar 2026 y quedó cerca del récord histórico",
+            "A dieciseisavos tras una goleada histórica: ¡15-0!"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "aeropuerto internacional el dorado",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bogotá": 100,
+            "Cundinamarca": 45
+          },
+          "news_titles": [
+            "Advierten en vivo el riesgo aéreo que hay en el aeropuerto El Dorado de Bogotá: “Peor que en 2017″",
+            "El riesgo aéreo que, advierten, persiste en el Aeropuerto El Dorado de Bogotá desde el 2017",
+            "Juan Manuel Galán advirtió sobre posibles riesgos en los aeropuertos de Colombia: “Puede ser una catástrofe anunciada”"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "luna llena noviembre 2026",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Putumayo": 100,
+            "Nariño": 86,
+            "Cauca": 58,
+            "Caldas": 45,
+            "Antioquia": 34
+          },
+          "news_titles": [
+            "Luna llena del Castor este 24 de noviembre de 2026: así afectará a cada signo del zodiaco",
+            "Una impresionante superluna iluminará el cielo esta semana: cuándo y cómo verla",
+            "Empieza un trío de superlunas con la 'Luna de Castor': traerá una sorpresa para Nochebuena"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "beatriz de york",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Guaviare": 100,
+            "Quindío": 12,
+            "Valle del Cauca": 2,
+            "Bogotá": 2
+          },
+          "news_titles": [
+            "El Parlamento británico saca los colores al rey Carlos III: de los subarriendos de Andrés a los alquileres ...",
+            "Beatriz y Eugenia conservan los privilegios que su padre perdió: Carlos III les paga las residencias reales",
+            "El marido de la princesa Beatriz, Edoardo Mapelli Mozzi, presenta una residencia \"serena\" donde \"la familia puede reunirse\""
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "internacional",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Valle del Cauca": 100,
+            "Cauca": 84,
+            "Caldas": 79,
+            "Bogotá": 75,
+            "Amazonas": 71
+          },
+          "news_titles": [
+            "Brasileirao: Internacional y Vitória se juegan la vida en un duelo crucial por no descender",
+            "Internacional vs Vitória: Duelo clave en el Brasileirao por la permanencia",
+            "Conoce las convocatorias con financiación que trae la Oferta Internacional de Bogotá"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "miss universe colombia",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "fashion",
+          "category_label": "Moda y accesorios",
+          "score": 83,
+          "is_opportunity": true,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Chocó": 90,
+            "Bolívar": 75,
+            "Atlántico": 70,
+            "La Guajira": 69
+          },
+          "news_titles": [
+            "Así puede votar por María Alejandra López en Miss Universo 2026 desde Colombia: paso a paso",
+            "Miss Colombia deslumbró con su traje de esmeraldas y destellos dorados en la gala de Miss Universo 2026: así fue su presentación",
+            "El vestido de María Alejandra López: miles de cristales y tres semanas de trabajo"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "sinuano dia hoy ultimo sorteo",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Conozca los números ganadores de la Lotería Sinuano Día y Noche de este lunes, 23 de noviembre de 2026",
+            "Sinuano Día hoy, 22 de noviembre: consulte el resultado y la quinta balota del sorteo",
+            "Sinuano Día: resultado del último sorteo hoy domingo 22 de noviembre de 2026"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "botafogo - são paulo",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Sem Huguinho, o Botafogo recebe o São Paulo de olho na tabela",
+            "De volta ao Botafogo, Ferraresi vê jogo contra o São Paulo como o ‘mais importante do ano’ ...",
+            "Emprestado pelo Botafogo, Artur desfalca o São Paulo no Rio"
+          ]
+        }
+      ],
+      "opportunities": [
+        {
+          "term": "miss universe colombia",
+          "category_key": "fashion",
+          "category_label": "Moda y accesorios",
+          "score": 83,
+          "approx_traffic": "100+",
+          "rationale": "Categoría 'Moda y accesorios' con buena traducción a producto físico y demanda visible (tráfico ~100+).",
+          "product_ideas": [
+            "Gafas de sol de moda",
+            "Bisutería y accesorios",
+            "Bolsos y riñoneras de tendencia",
+            "Relojes de moda económicos",
+            "Prendas virales de temporada"
+          ],
+          "related_queries": [
+            "miss colombia 2026",
+            "miss universe colombia 2026",
+            "miss universe 2026",
+            "miss universe hora colombia",
+            "miss universe colombia 2026 donde ver",
+            "miss universe colombia en vivo"
+          ],
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Chocó": 90,
+            "Bolívar": 75,
+            "Atlántico": 70,
+            "La Guajira": 69
+          }
+        }
+      ]
+    }
+  ]
+}
