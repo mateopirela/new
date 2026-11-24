@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-11-23
+# 📊 Informe de tendencias y dropshipping — 2026-11-24
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,44 +10,33 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | botafogo vs | 100+ | Deporte / evento | 🔴 40 |
-| 2 | dólar estadounidense | 200+ | Noticias / actualidad | 🔴 15 |
-| 3 | selección de fútbol sub-17 de españa | 100+ | Deporte / evento | 🔴 35 |
-| 4 | aeropuerto internacional el dorado | 200+ | Otros | 🔴 30 |
-| 5 | luna llena noviembre 2026 | 200+ | Otros | 🔴 30 |
-| 6 | beatriz de york | 200+ | Otros | 🔴 35 |
-| 7 | internacional | 100+ | Deporte / evento | 🔴 40 |
-| 8 | miss universe colombia | 100+ | Moda y accesorios | 🟢 83 |
-| 9 | sinuano dia hoy ultimo sorteo | 200+ | Otros | 🔴 30 |
-| 10 | botafogo - são paulo | 1000+ | Otros | 🔴 30 |
+| 1 | vinícius júnior | 200+ | Otros | 🔴 30 |
+| 2 | manchester city | 5000+ | Deporte / evento | 🔴 40 |
+| 3 | kylian mbappé | 500+ | Deporte / evento | 🔴 35 |
+| 4 | champions league 2026 | 200+ | Deporte / evento | 🔴 40 |
+| 5 | america vs cali | 200+ | Deporte / evento | 🔴 40 |
+| 6 | arda güler | 100+ | Deporte / evento | 🔴 35 |
+| 7 | johan rojas | 100+ | Deporte / evento | 🔴 35 |
+| 8 | asociación nacional de industriales | 100+ | Otros | 🔴 30 |
+| 9 | arsenal fc | 100+ | Deporte / evento | 🔴 35 |
+| 10 | millonarios vs bucaramanga | 1000+ | Deporte / evento | 🔴 40 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **botafogo vs** → Atlántico (100), Cesar (100), Huila (95), Sucre (90), Bolívar (75)
-- **dólar estadounidense** → Risaralda (100), Quindío (87), Valle del Cauca (76), Antioquia (68), Santander (59)
-- **selección de fútbol sub-17 de españa** → Cundinamarca (100), Valle del Cauca (95), Antioquia (56), Bogotá (54)
-- **aeropuerto internacional el dorado** → Bogotá (100), Cundinamarca (45)
-- **luna llena noviembre 2026** → Putumayo (100), Nariño (86), Cauca (58), Caldas (45), Antioquia (34)
-- **beatriz de york** → Guaviare (100), Quindío (12), Valle del Cauca (2), Bogotá (2)
-- **internacional** → Valle del Cauca (100), Cauca (84), Caldas (79), Bogotá (75), Amazonas (71)
-- **miss universe colombia** → Sucre (100), Chocó (90), Bolívar (75), Atlántico (70), La Guajira (69)
+- **vinícius júnior** → Sucre (100), Bolívar (97), Atlántico (75), Córdoba (58), Valle del Cauca (56)
+- **manchester city** → Vichada (100), Chocó (78), Sucre (73), Bolívar (72), La Guajira (69)
+- **kylian mbappé** → Bolívar (100), Norte de Santander (82), La Guajira (74), Córdoba (59), Atlántico (57)
+- **champions league 2026** → Bolívar (100), Nariño (94), Bogotá (94), Valle del Cauca (74), Cundinamarca (74)
+- **america vs cali** → Valle del Cauca (100), Cauca (50), Caldas (25), Amazonas (24), Santander (16)
+- **arda güler** → Bolívar (100), Atlántico (86), Norte de Santander (85), Santander (83), Valle del Cauca (75)
+- **johan rojas** → Atlántico (100), Antioquia (54), Bogotá (49)
+- **asociación nacional de industriales** → Magdalena (100), Cundinamarca (33), Antioquia (27), Valle del Cauca (22), Bogotá (18)
 
 ### 🛒 Oportunidades de dropshipping
 
-#### 🟢 miss universe colombia  ·  _Moda y accesorios_  ·  potencial 83/100
-
-Categoría 'Moda y accesorios' con buena traducción a producto físico y demanda visible (tráfico ~100+).
-
-**Productos sugeridos:**
-- Gafas de sol de moda
-- Bisutería y accesorios
-- Bolsos y riñoneras de tendencia
-- Relojes de moda económicos
-- Prendas virales de temporada
-
-_Búsquedas relacionadas:_ miss colombia 2026, miss universe colombia 2026, miss universe 2026, miss universe hora colombia, miss universe colombia 2026 donde ver
+_Hoy las tendencias son mayormente noticias/eventos con baja intención de compra directa. Poco encaje para producto físico._
 
 ---
 
