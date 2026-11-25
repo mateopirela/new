@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-25",
+  "regions": [
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "insight": null,
+      "trends": [
+        {
+          "rank": 1,
+          "term": "alineaciones de lille osc contra bayern",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Cundinamarca": 100,
+            "Bogotá": 67,
+            "Antioquia": 64
+          },
+          "news_titles": [
+            "Lille - Bayern Múnich, en vivo: última hora de Luis Díaz en Champions League, hoy en directo",
+            "Vincent Kompany toma medidas con Luis Díaz: se confirmó a minutos del partido en Champions",
+            "Luis Díaz hace revelación sobre su estado de salud: ¿será el salvavidas del Bayern tras la lesión de Kane? | El Colombiano"
+          ]
+        },
+        {
+          "rank": 2,
+          "term": "manchester united",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Bolívar": 97,
+            "Vichada": 96,
+            "Córdoba": 94,
+            "Chocó": 90
+          },
+          "news_titles": [
+            "Champions League LIVE: Sporting vs Man Utd & Club Brugge vs Liverpool score & updates from seven other games",
+            "Man United seek first Pochettino win tonight, Liverpool take on Club Brugge",
+            "Champions League live: scores, updates and team news"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "inter milan",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Atlántico": 73,
+            "Córdoba": 72,
+            "Bolívar": 71,
+            "Magdalena": 65
+          },
+          "news_titles": [
+            "Champions League Liveblog: PSG vs. Roma and Inter vs. VfB Stuttgart",
+            "Licensable picture: Soccer 2026: Inter Vs VfB Stuttgart",
+            "Chivu: Thuram's availability uncertain due to fatigue, Lautaro to play if he is not fit"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "atletico de madrid",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Amazonas": 100,
+            "Arauca": 24,
+            "Chocó": 20,
+            "Risaralda": 19,
+            "Nariño": 19
+          },
+          "news_titles": [
+            "Cuándo juegan Atlético Madrid vs. Viking por la fecha 5 de la UEFA Champions League: equipo, fecha, hora y TV en vivo",
+            "Atlético de Madrid y Viking FK, duelo clave en la Champions League por escalar posiciones",
+            "Atlético de Madrid vs Viking FK: Duelo clave en Champions League, cuándo y dónde verlo"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "carlos suárez",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Quindío": 100,
+            "Bogotá": 37,
+            "Antioquia": 24,
+            "Cundinamarca": 19
+          },
+          "news_titles": [
+            "Tomás Uribe se fue duro contra el estratega y amigo de De la Espriella, Carlos Suárez: “manda más que el mismo presidente” | El Colombiano",
+            "Tomás Uribe lanzó duro ataque contra Carlos Suárez, estratega de Abelardo de la Espriella: “Manda más que el mismo presidente”",
+            "Paloma Valencia anunció demandas contra quienes la vinculan con el atentado que acabó con la vida de Miguel Uribe Turbay: 'Vamos a ir tras ellos'"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "inter",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Guainía": 100,
+            "Chocó": 51,
+            "Arauca": 43,
+            "Bolívar": 43,
+            "Vichada": 41
+          },
+          "news_titles": [
+            "¡EN VIVO! Atlético de Madrid va por el triunfo ante Viking en la Champions League",
+            "¡EN VIVO! El necesitado Inter recibe a Stuttgart en la Champions",
+            "Inter y Stuttgart chocan en San Siro por la Fecha 5 de la UEFA Champions League"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "roma",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Córdoba": 94,
+            "Sucre": 93,
+            "Bolívar": 92,
+            "Magdalena": 81
+          },
+          "news_titles": [
+            "Paris Saint-Germain-Roma: Formazioni ufficiali e Cronaca in diretta",
+            "Luis Enrique: \"Infortunati? Non posso mettermi a piangere\"",
+            "Perché Malen non gioca PSG-Roma: infortunio o scelta tecnica di Gasperini? Al suo posto Castro titolare"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "bayern",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Sucre": 90,
+            "Bolívar": 88,
+            "Córdoba": 86,
+            "Cesar": 81
+          },
+          "news_titles": [
+            "Musiala und Diaz auf der Bank: FC Bayern stürmt mit Karl gegen Lille",
+            "„Upa“ auf den Spuren der Vergangenheit",
+            "OSC Lille vs. FC Bayern LIVE: Champions League im LIVE-TICKER"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "posiciones de slavia praga contra villarreal club de fútbol",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Slavia Prague break Champions League record for winless run with Villarreal defeat",
+            "Slavia Prague v Villarreal",
+            "Slavia-Villarreal preview: Slavia arrive with five injury absences"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "sporting lisboa",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "United vulnerável: Fonseca critica capitães e exige mudança imediata",
+            "À segunda, foi de vez: Suárez redime-se do falhanço e Sporting já vence",
+            "O defesa-central do United pode travar o goleador do Sporting"
+          ]
+        }
+      ],
+      "opportunities": []
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "regions": [
     {
       "code": "CO",
@@ -8,51 +8,7 @@
       "trends": [
         {
           "rank": 1,
-          "term": "vinícius júnior",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Sucre": 100,
-            "Bolívar": 97,
-            "Atlántico": 75,
-            "Córdoba": 58,
-            "Valle del Cauca": 56
-          },
-          "news_titles": [
-            "Real Madrid quer igualar salário de Bellingham ao de Vini Jr.; veja valores",
-            "Inglaterra encerra invencibilidade; Bellingham brilha",
-            "Real Madrid encaminha renovação com Jude Bellingham, diz jornalista"
-          ]
-        },
-        {
-          "rank": 2,
-          "term": "manchester city",
-          "approx_traffic": "5000+",
-          "traffic_value": 5000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Vichada": 100,
-            "Chocó": 78,
-            "Sucre": 73,
-            "Bolívar": 72,
-            "La Guajira": 69
-          },
-          "news_titles": [
-            "Manchester City vs Napoli: UEFA Champions League stats & head-to-head",
-            "City debut special edition kit on-pitch in collaboration with PUMA and C.P. Company",
-            "Manchester City v Napoli, Real Madrid v PSV: Champions League clockwatch – live"
-          ]
-        },
-        {
-          "rank": 3,
-          "term": "kylian mbappé",
+          "term": "alineaciones de lille osc contra bayern",
           "approx_traffic": "500+",
           "traffic_value": 500,
           "category_key": "sports_event",
@@ -60,156 +16,199 @@
           "score": 35,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Bolívar": 100,
-            "Norte de Santander": 82,
-            "La Guajira": 74,
-            "Córdoba": 59,
-            "Atlántico": 57
+            "Cundinamarca": 100,
+            "Bogotá": 67,
+            "Antioquia": 64
           },
           "news_titles": [
-            "Chelsea defender Wesley Fofana hits out at Real Madrid star Kylian Mbappe critics and demands respect for 'killer' former PSG superstar",
-            "'We trivialize too much what he did with PSG': Wesley Fofana on Mbappe",
-            "Wesley Fofana claims Kylian Mbappe’s PSG brilliance was often underrated"
+            "Lille - Bayern Múnich, en vivo: última hora de Luis Díaz en Champions League, hoy en directo",
+            "Vincent Kompany toma medidas con Luis Díaz: se confirmó a minutos del partido en Champions",
+            "Luis Díaz hace revelación sobre su estado de salud: ¿será el salvavidas del Bayern tras la lesión de Kane? | El Colombiano"
           ]
         },
         {
-          "rank": 4,
-          "term": "champions league 2026",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bolívar": 100,
-            "Nariño": 94,
-            "Bogotá": 94,
-            "Valle del Cauca": 74,
-            "Cundinamarca": 74
-          },
-          "news_titles": [
-            "Champions League LIVE: Galatasaray vs Aston Villa before Arsenal vs Borussia Dortmund & Manchester City vs Napoli",
-            "Champions League starting and predicted line-ups: Matchday 5 team news, injuries, suspensions",
-            "UEFA Champions League scores, schedule: League phase begins second half with Matchday 5"
-          ]
-        },
-        {
-          "rank": 5,
-          "term": "america vs cali",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Valle del Cauca": 100,
-            "Cauca": 50,
-            "Caldas": 25,
-            "Amazonas": 24,
-            "Santander": 16
-          },
-          "news_titles": [
-            "El que gane, líder: América y Deportivo Cali se juegan la punta del Grupo B de la Liga BetPlay",
-            "América vs. Deportivo Cali: fecha, horario, canal, TV y cómo seguir online el partido de los cuadrangulares de",
-            "David González, DT de América, confirma la ventaja que tendrá su equipo ante Deportivo Cali"
-          ]
-        },
-        {
-          "rank": 6,
-          "term": "arda güler",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Bolívar": 100,
-            "Atlántico": 86,
-            "Norte de Santander": 85,
-            "Santander": 83,
-            "Valle del Cauca": 75
-          },
-          "news_titles": [
-            "Real Madrid - PSV Eindhoven Maçı Tahmini: Zirveye çıkma fırsatı",
-            "CANLI GOL | Feyenoord 1-1 Porto - Ignacio Ferri Julià (87. dakika)",
-            "Arda Güler mest etti, Real Madrid farka gitti! Bernabeu'da tam 6 gol"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "johan rojas",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Atlántico": 100,
-            "Antioquia": 54,
-            "Bogotá": 49
-          },
-          "news_titles": [
-            "Johan Rojas termina contrato con Vasco da Gama y viaja a Colombia",
-            "Johan Rojas dejaría Vasco da Gama e ilusiona a hinchas del FPC",
-            "¿Alguien en Liga buscando un 10 talentoso? Ganga cierra ciclo en Brasil"
-          ]
-        },
-        {
-          "rank": 8,
-          "term": "asociación nacional de industriales",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Magdalena": 100,
-            "Cundinamarca": 33,
-            "Antioquia": 27,
-            "Valle del Cauca": 22,
-            "Bogotá": 18
-          },
-          "news_titles": [
-            "Empresarios ofrecen COP 48,8 billones al ajuste fiscal y piden reducir más el gasto público",
-            "Andi propuso un aporte empresarial de $48,8 billones para apoyar el ajuste fiscal",
-            "Empresarios de la Andi ofrecen $ 48,8 billones para sanear las finanzas públicas: lanzan propuestas sobre IVA, renta y aportes a salud"
-          ]
-        },
-        {
-          "rank": 9,
-          "term": "arsenal fc",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Arteta issues fitness update on David Raya",
-            "Champions League LIVE: Emery, Maresca & Arteta speaking",
-            "Arteta descarta a Raya ante el Dortmund: \"Es menos grave de lo que se temía\""
-          ]
-        },
-        {
-          "rank": 10,
-          "term": "millonarios vs bucaramanga",
+          "rank": 2,
+          "term": "manchester united",
           "approx_traffic": "1000+",
           "traffic_value": 1000,
           "category_key": "sports_event",
           "category_label": "Deporte / evento",
           "score": 40,
           "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Bolívar": 97,
+            "Vichada": 96,
+            "Córdoba": 94,
+            "Chocó": 90
+          },
+          "news_titles": [
+            "Champions League LIVE: Sporting vs Man Utd & Club Brugge vs Liverpool score & updates from seven other games",
+            "Man United seek first Pochettino win tonight, Liverpool take on Club Brugge",
+            "Champions League live: scores, updates and team news"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "inter milan",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Atlántico": 73,
+            "Córdoba": 72,
+            "Bolívar": 71,
+            "Magdalena": 65
+          },
+          "news_titles": [
+            "Champions League Liveblog: PSG vs. Roma and Inter vs. VfB Stuttgart",
+            "Licensable picture: Soccer 2026: Inter Vs VfB Stuttgart",
+            "Chivu: Thuram's availability uncertain due to fatigue, Lautaro to play if he is not fit"
+          ]
+        },
+        {
+          "rank": 4,
+          "term": "atletico de madrid",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Amazonas": 100,
+            "Arauca": 24,
+            "Chocó": 20,
+            "Risaralda": 19,
+            "Nariño": 19
+          },
+          "news_titles": [
+            "Cuándo juegan Atlético Madrid vs. Viking por la fecha 5 de la UEFA Champions League: equipo, fecha, hora y TV en vivo",
+            "Atlético de Madrid y Viking FK, duelo clave en la Champions League por escalar posiciones",
+            "Atlético de Madrid vs Viking FK: Duelo clave en Champions League, cuándo y dónde verlo"
+          ]
+        },
+        {
+          "rank": 5,
+          "term": "carlos suárez",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Quindío": 100,
+            "Bogotá": 37,
+            "Antioquia": 24,
+            "Cundinamarca": 19
+          },
+          "news_titles": [
+            "Tomás Uribe se fue duro contra el estratega y amigo de De la Espriella, Carlos Suárez: “manda más que el mismo presidente” | El Colombiano",
+            "Tomás Uribe lanzó duro ataque contra Carlos Suárez, estratega de Abelardo de la Espriella: “Manda más que el mismo presidente”",
+            "Paloma Valencia anunció demandas contra quienes la vinculan con el atentado que acabó con la vida de Miguel Uribe Turbay: 'Vamos a ir tras ellos'"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "inter",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Guainía": 100,
+            "Chocó": 51,
+            "Arauca": 43,
+            "Bolívar": 43,
+            "Vichada": 41
+          },
+          "news_titles": [
+            "¡EN VIVO! Atlético de Madrid va por el triunfo ante Viking en la Champions League",
+            "¡EN VIVO! El necesitado Inter recibe a Stuttgart en la Champions",
+            "Inter y Stuttgart chocan en San Siro por la Fecha 5 de la UEFA Champions League"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "roma",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Córdoba": 94,
+            "Sucre": 93,
+            "Bolívar": 92,
+            "Magdalena": 81
+          },
+          "news_titles": [
+            "Paris Saint-Germain-Roma: Formazioni ufficiali e Cronaca in diretta",
+            "Luis Enrique: \"Infortunati? Non posso mettermi a piangere\"",
+            "Perché Malen non gioca PSG-Roma: infortunio o scelta tecnica di Gasperini? Al suo posto Castro titolare"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "bayern",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "La Guajira": 100,
+            "Sucre": 90,
+            "Bolívar": 88,
+            "Córdoba": 86,
+            "Cesar": 81
+          },
+          "news_titles": [
+            "Musiala und Diaz auf der Bank: FC Bayern stürmt mit Karl gegen Lille",
+            "„Upa“ auf den Spuren der Vergangenheit",
+            "OSC Lille vs. FC Bayern LIVE: Champions League im LIVE-TICKER"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "posiciones de slavia praga contra villarreal club de fútbol",
+          "approx_traffic": "2000+",
+          "traffic_value": 2000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
           "geo_breakdown": {},
           "news_titles": [
-            "ACTUALIDAD MÉDICA: MILLONARIOS FC",
-            "Millonarios pierde a tres piezas del mediocampo y anuncia sus 20 convocados ante Bucaramanga",
-            "Millonarios anuncia parte médico de Cuadrado y Mackalister"
+            "Slavia Prague break Champions League record for winless run with Villarreal defeat",
+            "Slavia Prague v Villarreal",
+            "Slavia-Villarreal preview: Slavia arrive with five injury absences"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "sporting lisboa",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "United vulnerável: Fonseca critica capitães e exige mudança imediata",
+            "À segunda, foi de vez: Suárez redime-se do falhanço e Sporting já vence",
+            "O defesa-central do United pode travar o goleador do Sporting"
           ]
         }
       ],
