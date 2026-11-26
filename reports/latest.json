@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "regions": [
     {
       "code": "CO",
@@ -8,71 +8,47 @@
       "trends": [
         {
           "rank": 1,
-          "term": "alineaciones de lille osc contra bayern",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 35,
+          "term": "psi",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Cundinamarca": 100,
-            "Bogotá": 67,
-            "Antioquia": 64
+            "Guaviare": 100,
+            "Amazonas": 99,
+            "Putumayo": 79,
+            "Vaupés": 77,
+            "Guainía": 72
           },
-          "news_titles": [
-            "Lille - Bayern Múnich, en vivo: última hora de Luis Díaz en Champions League, hoy en directo",
-            "Vincent Kompany toma medidas con Luis Díaz: se confirmó a minutos del partido en Champions",
-            "Luis Díaz hace revelación sobre su estado de salud: ¿será el salvavidas del Bayern tras la lesión de Kane? | El Colombiano"
-          ]
+          "news_titles": []
         },
         {
           "rank": 2,
-          "term": "manchester united",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
+          "term": "bono",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "seasonal",
+          "category_label": "Estacional y eventos",
+          "score": 80,
+          "is_opportunity": true,
           "geo_breakdown": {
-            "Sucre": 100,
-            "Bolívar": 97,
-            "Vichada": 96,
-            "Córdoba": 94,
-            "Chocó": 90
+            "Amazonas": 100,
+            "Arauca": 56,
+            "Bogotá": 56,
+            "Atlántico": 55,
+            "Cundinamarca": 51
           },
           "news_titles": [
-            "Champions League LIVE: Sporting vs Man Utd & Club Brugge vs Liverpool score & updates from seven other games",
-            "Man United seek first Pochettino win tonight, Liverpool take on Club Brugge",
-            "Champions League live: scores, updates and team news"
+            "Bono de 1.500 soles: ¿Cómo saber si soy beneficiario, a quienes se les entrega, dónde y cuándo se podrá cobrar?",
+            "Perú.- Produce articula medidas para apoyar a pescadores afectados por fenómeno El Niño",
+            "Fenómeno El Niño: establecen medidas para proteger la cobertura de salud de pescadores"
           ]
         },
         {
           "rank": 3,
-          "term": "inter milan",
-          "approx_traffic": "100+",
-          "traffic_value": 100,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Sucre": 100,
-            "Atlántico": 73,
-            "Córdoba": 72,
-            "Bolívar": 71,
-            "Magdalena": 65
-          },
-          "news_titles": [
-            "Champions League Liveblog: PSG vs. Roma and Inter vs. VfB Stuttgart",
-            "Licensable picture: Soccer 2026: Inter Vs VfB Stuttgart",
-            "Chivu: Thuram's availability uncertain due to fatigue, Lautaro to play if he is not fit"
-          ]
-        },
-        {
-          "rank": 4,
-          "term": "atletico de madrid",
+          "term": "juventus",
           "approx_traffic": "500+",
           "traffic_value": 500,
           "category_key": "sports_event",
@@ -80,64 +56,21 @@
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Amazonas": 100,
-            "Arauca": 24,
-            "Chocó": 20,
-            "Risaralda": 19,
-            "Nariño": 19
+            "Córdoba": 100,
+            "Sucre": 96,
+            "La Guajira": 88,
+            "Bolívar": 77,
+            "Arauca": 75
           },
           "news_titles": [
-            "Cuándo juegan Atlético Madrid vs. Viking por la fecha 5 de la UEFA Champions League: equipo, fecha, hora y TV en vivo",
-            "Atlético de Madrid y Viking FK, duelo clave en la Champions League por escalar posiciones",
-            "Atlético de Madrid vs Viking FK: Duelo clave en Champions League, cuándo y dónde verlo"
+            "Il gol capolavoro di Cambiaso e la reazione scatenata di Vicario in panchina: le immagini dallo Stadium",
+            "UEFA Europa League | Juventus-Omonia | Le formazioni ufficiali",
+            "Juventus-Omonia 2-1 LIVE, il risultato in diretta"
           ]
         },
         {
-          "rank": 5,
-          "term": "carlos suárez",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "news",
-          "category_label": "Noticias / actualidad",
-          "score": 10,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Quindío": 100,
-            "Bogotá": 37,
-            "Antioquia": 24,
-            "Cundinamarca": 19
-          },
-          "news_titles": [
-            "Tomás Uribe se fue duro contra el estratega y amigo de De la Espriella, Carlos Suárez: “manda más que el mismo presidente” | El Colombiano",
-            "Tomás Uribe lanzó duro ataque contra Carlos Suárez, estratega de Abelardo de la Espriella: “Manda más que el mismo presidente”",
-            "Paloma Valencia anunció demandas contra quienes la vinculan con el atentado que acabó con la vida de Miguel Uribe Turbay: 'Vamos a ir tras ellos'"
-          ]
-        },
-        {
-          "rank": 6,
-          "term": "inter",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Guainía": 100,
-            "Chocó": 51,
-            "Arauca": 43,
-            "Bolívar": 43,
-            "Vichada": 41
-          },
-          "news_titles": [
-            "¡EN VIVO! Atlético de Madrid va por el triunfo ante Viking en la Champions League",
-            "¡EN VIVO! El necesitado Inter recibe a Stuttgart en la Champions",
-            "Inter y Stuttgart chocan en San Siro por la Fecha 5 de la UEFA Champions League"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "roma",
+          "rank": 4,
+          "term": "juventus vs",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "sports_event",
@@ -145,74 +78,186 @@
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "La Guajira": 100,
-            "Córdoba": 94,
-            "Sucre": 93,
-            "Bolívar": 92,
-            "Magdalena": 81
+            "Córdoba": 100,
+            "Nariño": 92,
+            "Cesar": 92,
+            "Cauca": 90,
+            "Bolívar": 84
           },
           "news_titles": [
-            "Paris Saint-Germain-Roma: Formazioni ufficiali e Cronaca in diretta",
-            "Luis Enrique: \"Infortunati? Non posso mettermi a piangere\"",
-            "Perché Malen non gioca PSG-Roma: infortunio o scelta tecnica di Gasperini? Al suo posto Castro titolare"
+            "Confirmed: Juventus name 23-man squad for Omonoia including new Next Gen call-up",
+            "Licensable picture: UEFA Europa League - Juventus v Omonia Nicosia",
+            "Spalletti makes eight changes for Juventus against Omonia"
           ]
         },
         {
-          "rank": 8,
-          "term": "bayern",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "La Guajira": 100,
-            "Sucre": 90,
-            "Bolívar": 88,
-            "Córdoba": 86,
-            "Cesar": 81
-          },
-          "news_titles": [
-            "Musiala und Diaz auf der Bank: FC Bayern stürmt mit Karl gegen Lille",
-            "„Upa“ auf den Spuren der Vergangenheit",
-            "OSC Lille vs. FC Bayern LIVE: Champions League im LIVE-TICKER"
-          ]
-        },
-        {
-          "rank": 9,
-          "term": "posiciones de slavia praga contra villarreal club de fútbol",
-          "approx_traffic": "2000+",
-          "traffic_value": 2000,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Slavia Prague break Champions League record for winless run with Villarreal defeat",
-            "Slavia Prague v Villarreal",
-            "Slavia-Villarreal preview: Slavia arrive with five injury absences"
-          ]
-        },
-        {
-          "rank": 10,
-          "term": "sporting lisboa",
+          "rank": 5,
+          "term": "posiciones de heart of midlothian football club contra as mónaco",
           "approx_traffic": "1000+",
           "traffic_value": 1000,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
+          "geo_breakdown": {
+            "Valle del Cauca": 100,
+            "Bogotá": 60,
+            "Antioquia": 57
+          },
+          "news_titles": [
+            "Hearts 2-3 Monaco: What Wouter Vrancken said",
+            "Licensable picture: UEFA Conference League - Heart of Midlothian v AS Monaco",
+            "Football: Folarin Balogun’s dramatic winner continues Monaco’s European winning run"
+          ]
+        },
+        {
+          "rank": 6,
+          "term": "posiciones de brighton & hove albion football club contra u craiova",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Córdoba": 100,
+            "Boyacá": 98,
+            "Bolívar": 71,
+            "Atlántico": 70,
+            "Santander": 56
+          },
+          "news_titles": [
+            "Brighton 4-0 Universitatea Craiova: Post-match analysis",
+            "A Look Into How Albion Can Bounce Back Before Christmas",
+            "Brighton Fixtures Preview: What to Expect From the Next Games"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "petrolero",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Casanare": 100,
+            "Caquetá": 65,
+            "Meta": 45,
+            "Santander": 20,
+            "Cundinamarca": 19
+          },
+          "news_titles": [
+            "Un petrolero con 7.000 toneladas de combustible se hunde cerca de las costas de la isla de Ibiza",
+            "España activa plan emergencia por posible vertido contaminante de barco hundido en Ibiza",
+            "Naufragio frente a Ibiza: España activa medidas para contener un posible vertido de 7.000 toneladas de gasóleo"
+          ]
+        },
+        {
+          "rank": 8,
+          "term": "sunderland afc - jagiellonia białystok",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 30,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Sucre": 100,
+            "Atlántico": 18,
+            "Cundinamarca": 16,
+            "Bogotá": 14,
+            "Valle del Cauca": 13
+          },
+          "news_titles": [
+            "Starting XI: Seven Changes Predicted For Sunderland Tonight",
+            "Licensable picture: UEFA Europa League - Sunderland v Jagiellonia Bialystok",
+            "Sunderland-Jagiellonia: Sunderland arrive with five absences"
+          ]
+        },
+        {
+          "rank": 9,
+          "term": "lyon - lillestrøm",
+          "approx_traffic": "500+",
+          "traffic_value": 500,
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "is_opportunity": true,
           "geo_breakdown": {},
           "news_titles": [
-            "United vulnerável: Fonseca critica capitães e exige mudança imediata",
-            "À segunda, foi de vez: Suárez redime-se do falhanço e Sporting já vence",
-            "O defesa-central do United pode travar o goleador do Sporting"
+            "[ＴＯＤＡＹ＠ＳＴＲＥＡＭ] Lillestrom vs Lyon Matchday News, Television Listings & Team Information (Nov 27, 2026)",
+            "Vicens updates on Openda and Bidstrup ahead of Lillestrøm clash",
+            "Olympique Lyonnais vs Lillestrøm Predictions, Picks & Odds – 26/11/2026"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "crystal palace",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "other",
+          "category_label": "Otros",
+          "score": 35,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Crystal Palace suffer blow as Thomas Frank comments highlight Hull City's impressive start",
+            "STAR FOOTBALL PREVIEW Thurs: Crystal Palace v Real Sociedad",
+            "Europa League Tips: Pino to pop in our Crystal Palace v Sociedad 9/1 Bet Builder"
           ]
         }
       ],
-      "opportunities": []
+      "opportunities": [
+        {
+          "term": "bono",
+          "category_key": "seasonal",
+          "category_label": "Estacional y eventos",
+          "score": 80,
+          "approx_traffic": "100+",
+          "rationale": "Categoría 'Estacional y eventos' con buena traducción a producto físico y demanda visible (tráfico ~100+).",
+          "product_ideas": [
+            "Decoración temática de temporada",
+            "Disfraces y accesorios",
+            "Sets de regalo",
+            "Luces y adornos LED",
+            "Empaques y detalles personalizados"
+          ],
+          "related_queries": [
+            "bono regalo",
+            "bono pensional",
+            "pan de bono",
+            "bono de regalo",
+            "mr bono",
+            "bono de bienvenida"
+          ],
+          "geo_breakdown": {
+            "Amazonas": 100,
+            "Arauca": 56,
+            "Bogotá": 56,
+            "Atlántico": 55,
+            "Cundinamarca": 51
+          }
+        },
+        {
+          "term": "lyon - lillestrøm",
+          "category_key": "gaming",
+          "category_label": "Gaming",
+          "score": 77,
+          "approx_traffic": "500+",
+          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~500+).",
+          "product_ideas": [
+            "Periféricos gamer (mouse/teclado)",
+            "Sillas y soportes para setup",
+            "Luces RGB",
+            "Controles y accesorios de consola",
+            "Merchandising de juegos populares"
+          ],
+          "related_queries": [],
+          "geo_breakdown": {}
+        }
+      ]
     }
   ]
 }
