@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "regions": [
     {
       "code": "CO",
@@ -8,133 +8,115 @@
       "trends": [
         {
           "rank": 1,
-          "term": "psi",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "luis carlos sarmiento gutierrez",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "news",
+          "category_label": "Noticias / actualidad",
+          "score": 10,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Guaviare": 100,
-            "Amazonas": 99,
-            "Putumayo": 79,
-            "Vaupés": 77,
-            "Guainía": 72
+            "Meta": 100,
+            "Bogotá": 36,
+            "Valle del Cauca": 15,
+            "Antioquia": 11
           },
-          "news_titles": []
+          "news_titles": [
+            "Después de ocho años, María Lorena Gutiérrez renuncia a Grupo Aval",
+            "Hernando Osorio asume como presidente encargado de AV Villas tras la llegada de Gerardo Hernández a la cabeza del Grupo Aval",
+            "Estos son los numerosos relevos en la alta gerencia de Grupo Aval en lo corrido del año"
+          ]
         },
         {
           "rank": 2,
-          "term": "bono",
+          "term": "bologna vs",
           "approx_traffic": "100+",
           "traffic_value": 100,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Bolívar": 100,
+            "Magdalena": 48,
+            "Atlántico": 46,
+            "Santander": 44,
+            "Antioquia": 33
+          },
+          "news_titles": [
+            "Venezia vs Bologna: Italian Serie A stats & head-to-head",
+            "Licensable picture: SOCCER - Serie A - Venezia FC vs. Bologna FC",
+            "Nicola backs Adams as Venezia host Bologna in Serie A"
+          ]
+        },
+        {
+          "rank": 3,
+          "term": "steelers - broncos",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
           "category_key": "seasonal",
           "category_label": "Estacional y eventos",
           "score": 80,
           "is_opportunity": true,
           "geo_breakdown": {
-            "Amazonas": 100,
-            "Arauca": 56,
-            "Bogotá": 56,
-            "Atlántico": 55,
-            "Cundinamarca": 51
+            "Bogotá": 100,
+            "Antioquia": 84,
+            "Cundinamarca": 72,
+            "Valle del Cauca": 57
           },
           "news_titles": [
-            "Bono de 1.500 soles: ¿Cómo saber si soy beneficiario, a quienes se les entrega, dónde y cuándo se podrá cobrar?",
-            "Perú.- Produce articula medidas para apoyar a pescadores afectados por fenómeno El Niño",
-            "Fenómeno El Niño: establecen medidas para proteger la cobertura de salud de pescadores"
-          ]
-        },
-        {
-          "rank": 3,
-          "term": "juventus",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
-          "score": 40,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Córdoba": 100,
-            "Sucre": 96,
-            "La Guajira": 88,
-            "Bolívar": 77,
-            "Arauca": 75
-          },
-          "news_titles": [
-            "Il gol capolavoro di Cambiaso e la reazione scatenata di Vicario in panchina: le immagini dallo Stadium",
-            "UEFA Europa League | Juventus-Omonia | Le formazioni ufficiali",
-            "Juventus-Omonia 2-1 LIVE, il risultato in diretta"
+            "Most Popular Bets for Broncos vs. Steelers on Black Friday - Coleman Top Pick to Score",
+            "Licensable picture: NFL: Denver Broncos at Pittsburgh Steelers",
+            "Dabble Promo Code YAHOOBONUS: Claim Up to $200 in Bonuses on Friday's Broncos/Steelers Matchup, Plus College Football, NBA, NHL and College Basketball Action"
           ]
         },
         {
           "rank": 4,
-          "term": "juventus vs",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "sports_event",
-          "category_label": "Deporte / evento",
+          "term": "masterchef celebrity",
+          "approx_traffic": "100+",
+          "traffic_value": 100,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Córdoba": 100,
-            "Nariño": 92,
-            "Cesar": 92,
-            "Cauca": 90,
-            "Bolívar": 84
+            "Cundinamarca": 100,
+            "Santander": 97,
+            "Bogotá": 93,
+            "Quindío": 91,
+            "Cauca": 86
           },
           "news_titles": [
-            "Confirmed: Juventus name 23-man squad for Omonoia including new Next Gen call-up",
-            "Licensable picture: UEFA Europa League - Juventus v Omonia Nicosia",
-            "Spalletti makes eight changes for Juventus against Omonia"
+            "Sebastián Vega fue eliminado de nuevo en ‘MasterChef Celebrity’ y abrió el paso al top 8 en la competencia: así reaccionó el actor",
+            "Se definió el top 8 de MasterChef Celebrity Colombia 2026 tras una tensa noche de eliminación",
+            "«Hoy no gané la pelea, pero sigo en la lucha»: Sebastián Vega se despidió de MasterChef"
           ]
         },
         {
           "rank": 5,
-          "term": "posiciones de heart of midlothian football club contra as mónaco",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 30,
+          "term": "bologna",
+          "approx_traffic": "200+",
+          "traffic_value": 200,
+          "category_key": "entertainment",
+          "category_label": "Entretenimiento / farándula",
+          "score": 45,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Valle del Cauca": 100,
-            "Bogotá": 60,
-            "Antioquia": 57
+            "Córdoba": 100,
+            "Bolívar": 75,
+            "Atlántico": 66,
+            "Norte de Santander": 55,
+            "Santander": 50
           },
           "news_titles": [
-            "Hearts 2-3 Monaco: What Wouter Vrancken said",
-            "Licensable picture: UEFA Conference League - Heart of Midlothian v AS Monaco",
-            "Football: Folarin Balogun’s dramatic winner continues Monaco’s European winning run"
+            "Venezia vs Bologna: l’anteprima – Il Venezia può rallentare le partenze veloci del Bologna?",
+            "Al Penzo la sfida della maturità contro Nicola, che un anno fa aprì l’emergenza Dall’Ara",
+            "Calcio Serie A: Venezia-Bologna. Segui la diretta testuale"
           ]
         },
         {
           "rank": 6,
-          "term": "posiciones de brighton & hove albion football club contra u craiova",
-          "approx_traffic": "1000+",
-          "traffic_value": 1000,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 35,
-          "is_opportunity": false,
-          "geo_breakdown": {
-            "Córdoba": 100,
-            "Boyacá": 98,
-            "Bolívar": 71,
-            "Atlántico": 70,
-            "Santander": 56
-          },
-          "news_titles": [
-            "Brighton 4-0 Universitatea Craiova: Post-match analysis",
-            "A Look Into How Albion Can Bounce Back Before Christmas",
-            "Brighton Fixtures Preview: What to Expect From the Next Games"
-          ]
-        },
-        {
-          "rank": 7,
-          "term": "petrolero",
+          "term": "stade brestois - paris fc",
           "approx_traffic": "200+",
           "traffic_value": 200,
           "category_key": "sports_event",
@@ -142,81 +124,103 @@
           "score": 40,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Casanare": 100,
-            "Caquetá": 65,
-            "Meta": 45,
-            "Santander": 20,
-            "Cundinamarca": 19
+            "Cauca": 100,
+            "Tolima": 57,
+            "Atlántico": 29,
+            "Valle del Cauca": 20,
+            "Cundinamarca": 20
           },
           "news_titles": [
-            "Un petrolero con 7.000 toneladas de combustible se hunde cerca de las costas de la isla de Ibiza",
-            "España activa plan emergencia por posible vertido contaminante de barco hundido en Ibiza",
-            "Naufragio frente a Ibiza: España activa medidas para contener un posible vertido de 7.000 toneladas de gasóleo"
+            "Brest - Paris FC : direct vidéo, streaming, chaîne TV... à quelle heure et comment regarder le match",
+            "DIRECT - Ligue 1 : quatre à la suite ? Vivez le match Stade Brestois - Paris FC en direct avec Ici Breizh Izel",
+            "Stade Brestois. 45 minutes, leadership, défaite contre Toulouse : on a assisté à la reprise de Brendan Chardonnet avec les Espoirs"
+          ]
+        },
+        {
+          "rank": 7,
+          "term": "francia - venezuela",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {
+            "Córdoba": 100,
+            "Cauca": 92,
+            "Magdalena": 79,
+            "Cesar": 73,
+            "Santander": 71
+          },
+          "news_titles": [
+            "Amistoso internacional: Francia 0 vs 1 Venezuela | Las criollas toman ventaja",
+            "Vinotinto femenina inicia una gira de partidos amistosos ante Francia",
+            "Vinotinto Femenina mide fuerzas ante la potencia francesa"
           ]
         },
         {
           "rank": 8,
-          "term": "sunderland afc - jagiellonia białystok",
-          "approx_traffic": "500+",
-          "traffic_value": 500,
+          "term": "robo",
+          "approx_traffic": "1000+",
+          "traffic_value": 1000,
           "category_key": "other",
           "category_label": "Otros",
           "score": 30,
           "is_opportunity": false,
           "geo_breakdown": {
-            "Sucre": 100,
-            "Atlántico": 18,
-            "Cundinamarca": 16,
-            "Bogotá": 14,
-            "Valle del Cauca": 13
+            "Bolívar": 100,
+            "Amazonas": 79,
+            "Bogotá": 70,
+            "Tolima": 63,
+            "Santander": 62
           },
           "news_titles": [
-            "Starting XI: Seven Changes Predicted For Sunderland Tonight",
-            "Licensable picture: UEFA Europa League - Sunderland v Jagiellonia Bialystok",
-            "Sunderland-Jagiellonia: Sunderland arrive with five absences"
+            "Disparos durante presunto intento de hurto generaron pánico en zona universitaria de Barrios Unidos",
+            "Disparos y robo frente a universidad en Bogotá: delincuentes rodearon un carro y se llevaron un maletín",
+            "Delincuentes dispararon contra un conductor para robarle un maletín"
           ]
         },
         {
           "rank": 9,
-          "term": "lyon - lillestrøm",
+          "term": "paris fc",
           "approx_traffic": "500+",
           "traffic_value": 500,
+          "category_key": "sports_event",
+          "category_label": "Deporte / evento",
+          "score": 40,
+          "is_opportunity": false,
+          "geo_breakdown": {},
+          "news_titles": [
+            "Brest Vs Paris Fc: Paris FC could go top by winning by more than three goals",
+            "Ligue 1 fixtures: weekend schedule and kick-off times (27-29 November 2026)",
+            "Ligue 1 Matchweek 12 Odds In Canada: PSG, Lille, Lyon Picks"
+          ]
+        },
+        {
+          "rank": 10,
+          "term": "nottingham forest - chelsea",
+          "approx_traffic": "10000+",
+          "traffic_value": 10000,
           "category_key": "gaming",
           "category_label": "Gaming",
           "score": 77,
           "is_opportunity": true,
           "geo_breakdown": {},
           "news_titles": [
-            "[ＴＯＤＡＹ＠ＳＴＲＥＡＭ] Lillestrom vs Lyon Matchday News, Television Listings & Team Information (Nov 27, 2026)",
-            "Vicens updates on Openda and Bidstrup ahead of Lillestrøm clash",
-            "Olympique Lyonnais vs Lillestrøm Predictions, Picks & Odds – 26/11/2026"
-          ]
-        },
-        {
-          "rank": 10,
-          "term": "crystal palace",
-          "approx_traffic": "200+",
-          "traffic_value": 200,
-          "category_key": "other",
-          "category_label": "Otros",
-          "score": 35,
-          "is_opportunity": false,
-          "geo_breakdown": {},
-          "news_titles": [
-            "Crystal Palace suffer blow as Thomas Frank comments highlight Hull City's impressive start",
-            "STAR FOOTBALL PREVIEW Thurs: Crystal Palace v Real Sociedad",
-            "Europa League Tips: Pino to pop in our Crystal Palace v Sociedad 9/1 Bet Builder"
+            "Nottingham Forest vs Chelsea LIVE: Premier League score, lineups, commentary & updates",
+            "How to watch Nottingham vs Chelsea match in the USA: Live stream and TV for 2026-27 Premier League",
+            "How to watch Nottingham Forest vs Chelsea live: Stream, TV, team news, prediction"
           ]
         }
       ],
       "opportunities": [
         {
-          "term": "bono",
+          "term": "steelers - broncos",
           "category_key": "seasonal",
           "category_label": "Estacional y eventos",
           "score": 80,
-          "approx_traffic": "100+",
-          "rationale": "Categoría 'Estacional y eventos' con buena traducción a producto físico y demanda visible (tráfico ~100+).",
+          "approx_traffic": "200+",
+          "rationale": "Categoría 'Estacional y eventos' con buena traducción a producto físico y demanda visible (tráfico ~200+).",
           "product_ideas": [
             "Decoración temática de temporada",
             "Disfraces y accesorios",
@@ -225,28 +229,22 @@
             "Empaques y detalles personalizados"
           ],
           "related_queries": [
-            "bono regalo",
-            "bono pensional",
-            "pan de bono",
-            "bono de regalo",
-            "mr bono",
-            "bono de bienvenida"
+            "steelers vs broncos"
           ],
           "geo_breakdown": {
-            "Amazonas": 100,
-            "Arauca": 56,
-            "Bogotá": 56,
-            "Atlántico": 55,
-            "Cundinamarca": 51
+            "Bogotá": 100,
+            "Antioquia": 84,
+            "Cundinamarca": 72,
+            "Valle del Cauca": 57
           }
         },
         {
-          "term": "lyon - lillestrøm",
+          "term": "nottingham forest - chelsea",
           "category_key": "gaming",
           "category_label": "Gaming",
           "score": 77,
-          "approx_traffic": "500+",
-          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~500+).",
+          "approx_traffic": "10000+",
+          "rationale": "Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~10000+).",
           "product_ideas": [
             "Periféricos gamer (mouse/teclado)",
             "Sillas y soportes para setup",

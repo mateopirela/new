@@ -1,4 +1,4 @@
-# 📊 Informe de tendencias y dropshipping — 2026-11-26
+# 📊 Informe de tendencias y dropshipping — 2026-11-27
 
 **Regiones:** Colombia  ·  **Fuente:** Google Trends (Trending Now)
 
@@ -10,35 +10,35 @@
 
 | # | Búsqueda | Tráfico aprox. | Categoría | Potencial DS |
 |---|----------|----------------|-----------|:------------:|
-| 1 | psi | 1000+ | Otros | 🔴 30 |
-| 2 | bono | 100+ | Estacional y eventos | 🟢 80 |
-| 3 | juventus | 500+ | Deporte / evento | 🔴 40 |
-| 4 | juventus vs | 200+ | Deporte / evento | 🔴 40 |
-| 5 | posiciones de heart of midlothian football club contra as mónaco | 1000+ | Otros | 🔴 30 |
-| 6 | posiciones de brighton & hove albion football club contra u craiova | 1000+ | Otros | 🔴 35 |
-| 7 | petrolero | 200+ | Deporte / evento | 🔴 40 |
-| 8 | sunderland afc - jagiellonia białystok | 500+ | Otros | 🔴 30 |
-| 9 | lyon - lillestrøm | 500+ | Gaming | 🟢 77 |
-| 10 | crystal palace | 200+ | Otros | 🔴 35 |
+| 1 | luis carlos sarmiento gutierrez | 100+ | Noticias / actualidad | 🔴 10 |
+| 2 | bologna vs | 100+ | Entretenimiento / farándula | 🔴 45 |
+| 3 | steelers - broncos | 200+ | Estacional y eventos | 🟢 80 |
+| 4 | masterchef celebrity | 100+ | Entretenimiento / farándula | 🔴 40 |
+| 5 | bologna | 200+ | Entretenimiento / farándula | 🔴 45 |
+| 6 | stade brestois - paris fc | 200+ | Deporte / evento | 🔴 40 |
+| 7 | francia - venezuela | 1000+ | Deporte / evento | 🔴 40 |
+| 8 | robo | 1000+ | Otros | 🔴 30 |
+| 9 | paris fc | 500+ | Deporte / evento | 🔴 40 |
+| 10 | nottingham forest - chelsea | 10000+ | Gaming | 🟢 77 |
 
 ### 🗺️ Distribución geográfica interna
 
 Dónde se busca más cada término (interés relativo 0–100 por región):
 
-- **psi** → Guaviare (100), Amazonas (99), Putumayo (79), Vaupés (77), Guainía (72)
-- **bono** → Amazonas (100), Arauca (56), Bogotá (56), Atlántico (55), Cundinamarca (51)
-- **juventus** → Córdoba (100), Sucre (96), La Guajira (88), Bolívar (77), Arauca (75)
-- **juventus vs** → Córdoba (100), Nariño (92), Cesar (92), Cauca (90), Bolívar (84)
-- **posiciones de heart of midlothian football club contra as mónaco** → Valle del Cauca (100), Bogotá (60), Antioquia (57)
-- **posiciones de brighton & hove albion football club contra u craiova** → Córdoba (100), Boyacá (98), Bolívar (71), Atlántico (70), Santander (56)
-- **petrolero** → Casanare (100), Caquetá (65), Meta (45), Santander (20), Cundinamarca (19)
-- **sunderland afc - jagiellonia białystok** → Sucre (100), Atlántico (18), Cundinamarca (16), Bogotá (14), Valle del Cauca (13)
+- **luis carlos sarmiento gutierrez** → Meta (100), Bogotá (36), Valle del Cauca (15), Antioquia (11)
+- **bologna vs** → Bolívar (100), Magdalena (48), Atlántico (46), Santander (44), Antioquia (33)
+- **steelers - broncos** → Bogotá (100), Antioquia (84), Cundinamarca (72), Valle del Cauca (57)
+- **masterchef celebrity** → Cundinamarca (100), Santander (97), Bogotá (93), Quindío (91), Cauca (86)
+- **bologna** → Córdoba (100), Bolívar (75), Atlántico (66), Norte de Santander (55), Santander (50)
+- **stade brestois - paris fc** → Cauca (100), Tolima (57), Atlántico (29), Valle del Cauca (20), Cundinamarca (20)
+- **francia - venezuela** → Córdoba (100), Cauca (92), Magdalena (79), Cesar (73), Santander (71)
+- **robo** → Bolívar (100), Amazonas (79), Bogotá (70), Tolima (63), Santander (62)
 
 ### 🛒 Oportunidades de dropshipping
 
-#### 🟢 bono  ·  _Estacional y eventos_  ·  potencial 80/100
+#### 🟢 steelers - broncos  ·  _Estacional y eventos_  ·  potencial 80/100
 
-Categoría 'Estacional y eventos' con buena traducción a producto físico y demanda visible (tráfico ~100+).
+Categoría 'Estacional y eventos' con buena traducción a producto físico y demanda visible (tráfico ~200+).
 
 **Productos sugeridos:**
 - Decoración temática de temporada
@@ -47,11 +47,11 @@ Categoría 'Estacional y eventos' con buena traducción a producto físico y dem
 - Luces y adornos LED
 - Empaques y detalles personalizados
 
-_Búsquedas relacionadas:_ bono regalo, bono pensional, pan de bono, bono de regalo, mr bono
+_Búsquedas relacionadas:_ steelers vs broncos
 
-#### 🟢 lyon - lillestrøm  ·  _Gaming_  ·  potencial 77/100
+#### 🟢 nottingham forest - chelsea  ·  _Gaming_  ·  potencial 77/100
 
-Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~500+).
+Categoría 'Gaming' con buena traducción a producto físico y demanda visible (tráfico ~10000+).
 
 **Productos sugeridos:**
 - Periféricos gamer (mouse/teclado)
